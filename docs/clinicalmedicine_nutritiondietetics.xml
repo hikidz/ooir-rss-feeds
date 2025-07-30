@@ -2,17 +2,75 @@
 <rss version="2.0">
 	<channel>
 		<title>OOIR Trends: Clinical Medicine (Nutrition &amp; Dietetics)</title>
-		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Nutrition &amp; Dietetics) von OOIR (nur neue und kürzlich hinzugefügte Papers)</description>
+		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Nutrition &amp; Dietetics) von OOIR (nur DOIs und Trend-Rankings)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 30 Jul 2025 22:10:32 GMT</pubDate>
-		<lastBuildDate>Wed, 30 Jul 2025 22:10:32 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Jul 2025 22:23:03 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Jul 2025 22:23:03 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Fehler beim Abrufen von Clinical Medicine (Nutrition &amp; Dietetics)</title>
-			<description>Fehler: Keine neuen Artikel oder ungültige API-Antwort.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-error-clinicalmedicine-nutritiondietetics-20250730221032</guid>
-			<pubDate>Wed, 30 Jul 2025 22:10:32 GMT</pubDate>
+			<title>DOI: 10.1016/j.ajcnut.2025.05.003 (Rank: 1)</title>
+			<link>https://doi.org/10.1016/j.ajcnut.2025.05.003</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Nutrition &amp; Dietetics
+Score: 1769
+ISSN: 0002-9165
+Tag der Erhebung: 2025-07-30
+
+(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ajcnut.2025.05.003-2025-07-30-1</guid>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>DOI: 10.1186/s12966-025-01797-6 (Rank: 2)</title>
+			<link>https://doi.org/10.1186/s12966-025-01797-6</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Nutrition &amp; Dietetics
+Score: 160
+ISSN: 1479-5868
+Tag der Erhebung: 2025-07-30
+
+(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12966-025-01797-6-2025-07-30-2</guid>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>DOI: 10.1016/j.ajcnut.2025.04.023 (Rank: 3)</title>
+			<link>https://doi.org/10.1016/j.ajcnut.2025.04.023</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Nutrition &amp; Dietetics
+Score: 136
+ISSN: 0002-9165
+Tag der Erhebung: 2025-07-30
+
+(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ajcnut.2025.04.023-2025-07-30-3</guid>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>DOI: 10.1016/j.tjnut.2025.05.015 (Rank: 4)</title>
+			<link>https://doi.org/10.1016/j.tjnut.2025.05.015</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Nutrition &amp; Dietetics
+Score: 128
+ISSN: 0022-3166
+Tag der Erhebung: 2025-07-30
+
+(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.tjnut.2025.05.015-2025-07-30-4</guid>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>DOI: 10.3390/nu17132205 (Rank: 5)</title>
+			<link>https://doi.org/10.3390/nu17132205</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Nutrition &amp; Dietetics
+Score: 86
+ISSN: 2072-6643
+Tag der Erhebung: 2025-07-30
+
+(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+			<guid isPermaLink="false">ooir-trend-10.3390/nu17132205-2025-07-30-5</guid>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

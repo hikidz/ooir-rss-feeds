@@ -2,17 +2,75 @@
 <rss version="2.0">
 	<channel>
 		<title>OOIR Trends: Clinical Medicine (Rehabilitation)</title>
-		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rehabilitation) von OOIR (nur neue und kürzlich hinzugefügte Papers)</description>
+		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rehabilitation) von OOIR (nur DOIs und Trend-Rankings)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 30 Jul 2025 22:10:33 GMT</pubDate>
-		<lastBuildDate>Wed, 30 Jul 2025 22:10:33 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Jul 2025 22:23:04 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Jul 2025 22:23:04 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Fehler beim Abrufen von Clinical Medicine (Rehabilitation)</title>
-			<description>Fehler: Keine neuen Artikel oder ungültige API-Antwort.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-error-clinicalmedicine-rehabilitation-20250730221033</guid>
-			<pubDate>Wed, 30 Jul 2025 22:10:33 GMT</pubDate>
+			<title>DOI: 10.1080/07434618.2025.2504499 (Rank: 1)</title>
+			<link>https://doi.org/10.1080/07434618.2025.2504499</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 32
+ISSN: 0743-4618
+Tag der Erhebung: 2025-07-30
+
+(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+			<guid isPermaLink="false">ooir-trend-10.1080/07434618.2025.2504499-2025-07-30-1</guid>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>DOI: 10.1016/j.bjpt.2025.101244 (Rank: 2)</title>
+			<link>https://doi.org/10.1016/j.bjpt.2025.101244</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 23
+ISSN: 1413-3555
+Tag der Erhebung: 2025-07-30
+
+(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2025.101244-2025-07-30-2</guid>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>DOI: 10.1186/s13102-025-01221-3 (Rank: 3)</title>
+			<link>https://doi.org/10.1186/s13102-025-01221-3</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 22
+ISSN: 2052-1847
+Tag der Erhebung: 2025-07-30
+
+(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s13102-025-01221-3-2025-07-30-3</guid>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>DOI: 10.1016/j.ptsp.2025.07.007 (Rank: 4)</title>
+			<link>https://doi.org/10.1016/j.ptsp.2025.07.007</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 20
+ISSN: 1466-853X
+Tag der Erhebung: 2025-07-30
+
+(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ptsp.2025.07.007-2025-07-30-4</guid>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>DOI: 10.2519/jospt.2025.13253 (Rank: 5)</title>
+			<link>https://doi.org/10.2519/jospt.2025.13253</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 15
+ISSN: 0190-6011
+Tag der Erhebung: 2025-07-30
+
+(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2025.13253-2025-07-30-5</guid>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -2,17 +2,75 @@
 <rss version="2.0">
 	<channel>
 		<title>OOIR Trends: Clinical Medicine (Endocrinology &amp; Metabolism)</title>
-		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Endocrinology &amp; Metabolism) von OOIR (nur neue und kürzlich hinzugefügte Papers)</description>
+		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Endocrinology &amp; Metabolism) von OOIR (nur DOIs und Trend-Rankings)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 30 Jul 2025 22:10:30 GMT</pubDate>
-		<lastBuildDate>Wed, 30 Jul 2025 22:10:30 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Jul 2025 22:23:00 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Jul 2025 22:23:00 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Fehler beim Abrufen von Clinical Medicine (Endocrinology &amp; Metabolism)</title>
-			<description>Fehler: Keine neuen Artikel oder ungültige API-Antwort.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-error-clinicalmedicine-endocrinologymetabolism-20250730221030</guid>
-			<pubDate>Wed, 30 Jul 2025 22:10:30 GMT</pubDate>
+			<title>DOI: 10.1016/j.freeradbiomed.2025.07.002 (Rank: 1)</title>
+			<link>https://doi.org/10.1016/j.freeradbiomed.2025.07.002</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 1362
+ISSN: 0891-5849
+Tag der Erhebung: 2025-07-30
+
+(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.freeradbiomed.2025.07.002-2025-07-30-1</guid>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>DOI: 10.1038/s42255-025-01314-w (Rank: 2)</title>
+			<link>https://doi.org/10.1038/s42255-025-01314-w</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 522
+ISSN: 2522-5812
+Tag der Erhebung: 2025-07-30
+
+(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s42255-025-01314-w-2025-07-30-2</guid>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>DOI: 10.1210/clinem/dgaf284 (Rank: 3)</title>
+			<link>https://doi.org/10.1210/clinem/dgaf284</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 495
+ISSN: 0021-972X
+Tag der Erhebung: 2025-07-30
+
+(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+			<guid isPermaLink="false">ooir-trend-10.1210/clinem/dgaf284-2025-07-30-3</guid>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>DOI: 10.1038/s42255-025-01321-x (Rank: 4)</title>
+			<link>https://doi.org/10.1038/s42255-025-01321-x</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 495
+ISSN: 2522-5812
+Tag der Erhebung: 2025-07-30
+
+(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s42255-025-01321-x-2025-07-30-4</guid>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>DOI: 10.1038/s41574-025-01143-7 (Rank: 5)</title>
+			<link>https://doi.org/10.1038/s41574-025-01143-7</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 484
+ISSN: 1759-5029
+Tag der Erhebung: 2025-07-30
+
+(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41574-025-01143-7-2025-07-30-5</guid>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

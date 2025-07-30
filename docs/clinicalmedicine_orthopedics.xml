@@ -2,17 +2,75 @@
 <rss version="2.0">
 	<channel>
 		<title>OOIR Trends: Clinical Medicine (Orthopedics)</title>
-		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Orthopedics) von OOIR (nur neue und kürzlich hinzugefügte Papers)</description>
+		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Orthopedics) von OOIR (nur DOIs und Trend-Rankings)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 30 Jul 2025 22:10:32 GMT</pubDate>
-		<lastBuildDate>Wed, 30 Jul 2025 22:10:32 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Jul 2025 22:23:03 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Jul 2025 22:23:03 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Fehler beim Abrufen von Clinical Medicine (Orthopedics)</title>
-			<description>Fehler: Keine neuen Artikel oder ungültige API-Antwort.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-error-clinicalmedicine-orthopedics-20250730221032</guid>
-			<pubDate>Wed, 30 Jul 2025 22:10:32 GMT</pubDate>
+			<title>DOI: 10.1002/jor.70000 (Rank: 1)</title>
+			<link>https://doi.org/10.1002/jor.70000</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 73
+ISSN: 0736-0266
+Tag der Erhebung: 2025-07-30
+
+(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/jor.70000-2025-07-30-1</guid>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>DOI: 10.1016/j.bjpt.2025.101244 (Rank: 2)</title>
+			<link>https://doi.org/10.1016/j.bjpt.2025.101244</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 23
+ISSN: 1413-3555
+Tag der Erhebung: 2025-07-30
+
+(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2025.101244-2025-07-30-2</guid>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>DOI: 10.1007/s00586-025-09164-6 (Rank: 3)</title>
+			<link>https://doi.org/10.1007/s00586-025-09164-6</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 20
+ISSN: 0940-6719
+Tag der Erhebung: 2025-07-30
+
+(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s00586-025-09164-6-2025-07-30-3</guid>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>DOI: 10.1177/23259671251351339 (Rank: 4)</title>
+			<link>https://doi.org/10.1177/23259671251351339</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 18
+ISSN: 2325-9671
+Tag der Erhebung: 2025-07-30
+
+(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+			<guid isPermaLink="false">ooir-trend-10.1177/23259671251351339-2025-07-30-4</guid>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>DOI: 10.1016/j.injury.2025.112595 (Rank: 5)</title>
+			<link>https://doi.org/10.1016/j.injury.2025.112595</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 16
+ISSN: 0020-1383
+Tag der Erhebung: 2025-07-30
+
+(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.injury.2025.112595-2025-07-30-5</guid>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

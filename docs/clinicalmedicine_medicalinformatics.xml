@@ -2,17 +2,75 @@
 <rss version="2.0">
 	<channel>
 		<title>OOIR Trends: Clinical Medicine (Medical Informatics)</title>
-		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (nur neue und kürzlich hinzugefügte Papers)</description>
+		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (nur DOIs und Trend-Rankings)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 30 Jul 2025 22:10:30 GMT</pubDate>
-		<lastBuildDate>Wed, 30 Jul 2025 22:10:30 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Jul 2025 22:23:01 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Jul 2025 22:23:01 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Fehler beim Abrufen von Clinical Medicine (Medical Informatics)</title>
-			<description>Fehler: Keine neuen Artikel oder ungültige API-Antwort.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-error-clinicalmedicine-medicalinformatics-20250730221030</guid>
-			<pubDate>Wed, 30 Jul 2025 22:10:30 GMT</pubDate>
+			<title>DOI: 10.1016/j.landig.2025.100886 (Rank: 1)</title>
+			<link>https://doi.org/10.1016/j.landig.2025.100886</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 187
+ISSN: 2589-7500
+Tag der Erhebung: 2025-07-30
+
+(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100886-2025-07-30-1</guid>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>DOI: 10.1038/s41746-025-01792-y (Rank: 2)</title>
+			<link>https://doi.org/10.1038/s41746-025-01792-y</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 81
+ISSN: 2398-6352
+Tag der Erhebung: 2025-07-30
+
+(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01792-y-2025-07-30-2</guid>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>DOI: 10.1038/s41746-025-01802-z (Rank: 3)</title>
+			<link>https://doi.org/10.1038/s41746-025-01802-z</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 62
+ISSN: 2398-6352
+Tag der Erhebung: 2025-07-30
+
+(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01802-z-2025-07-30-3</guid>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>DOI: 10.1038/s41746-025-01777-x (Rank: 4)</title>
+			<link>https://doi.org/10.1038/s41746-025-01777-x</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 56
+ISSN: 2398-6352
+Tag der Erhebung: 2025-07-30
+
+(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01777-x-2025-07-30-4</guid>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>DOI: 10.1038/s41746-025-01658-3 (Rank: 5)</title>
+			<link>https://doi.org/10.1038/s41746-025-01658-3</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 37
+ISSN: 2398-6352
+Tag der Erhebung: 2025-07-30
+
+(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01658-3-2025-07-30-5</guid>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
