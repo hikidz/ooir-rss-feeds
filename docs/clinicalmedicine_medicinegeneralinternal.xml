@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+	<channel>
+		<title>OOIR Trends: Clinical Medicine (Medicine, General &amp; Internal)</title>
+		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, General &amp; Internal) von OOIR (nur neue und kürzlich hinzugefügte Papers)</description>
+		<link>https://ooir.org</link>
+		<language>en-us</language>
+		<pubDate>Wed, 30 Jul 2025 21:43:31 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Jul 2025 21:43:31 GMT</lastBuildDate>
+		<item>
+			<title>⚠️ Fehler beim Abrufen von Clinical Medicine (Medicine, General &amp; Internal)</title>
+			<description>Fehler: Keine neuen Artikel oder ungültige API-Antwort.</description>
+			<link>https://ooir.org</link>
+			<guid>ooir-error-clinicalmedicine-medicinegeneralinternal-20250730214331</guid>
+			<pubDate>Wed, 30 Jul 2025 21:43:31 GMT</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+	<channel>
+		<title>OOIR Trends: Biology &amp; Biochemistry</title>
+		<description>Aktuelle Paper-Trends im Bereich Biology &amp; Biochemistry von OOIR (nur neue und kürzlich hinzugefügte Papers)</description>
+		<link>https://ooir.org</link>
+		<language>en-us</language>
+		<pubDate>Wed, 30 Jul 2025 21:43:21 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Jul 2025 21:43:21 GMT</lastBuildDate>
+		<item>
+			<title>⚠️ Fehler beim Abrufen von Biology &amp; Biochemistry</title>
+			<description>Fehler: Keine neuen Artikel oder ungültige API-Antwort.</description>
+			<link>https://ooir.org</link>
+			<guid>ooir-error-biologybiochemistry-20250730214321</guid>
+			<pubDate>Wed, 30 Jul 2025 21:43:21 GMT</pubDate>
+		</item>
+	</channel>
+</rss>
