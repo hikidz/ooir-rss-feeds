@@ -7,6 +7,8 @@ on:
 
 jobs:
   build:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest # Verwendet eine virtuelle Ubuntu-Maschine
 
     steps:
