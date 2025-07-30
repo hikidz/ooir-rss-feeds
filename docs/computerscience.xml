@@ -5,14 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Computer Science von OOIR (nur neue und kürzlich hinzugefügte Papers)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 30 Jul 2025 21:44:01 GMT</pubDate>
-		<lastBuildDate>Wed, 30 Jul 2025 21:44:01 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Jul 2025 21:44:30 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Jul 2025 21:44:30 GMT</lastBuildDate>
 		<item>
 			<title>⚠️ Fehler beim Abrufen von Computer Science</title>
 			<description>Fehler: Keine neuen Artikel oder ungültige API-Antwort.</description>
 			<link>https://ooir.org</link>
-			<guid>ooir-error-computerscience-20250730214401</guid>
-			<pubDate>Wed, 30 Jul 2025 21:44:01 GMT</pubDate>
+			<guid>ooir-error-computerscience-20250730214430</guid>
+			<pubDate>Wed, 30 Jul 2025 21:44:30 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

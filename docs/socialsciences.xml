@@ -5,14 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Social Sciences von OOIR (nur neue und kürzlich hinzugefügte Papers)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 30 Jul 2025 21:44:03 GMT</pubDate>
-		<lastBuildDate>Wed, 30 Jul 2025 21:44:03 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Jul 2025 21:44:31 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Jul 2025 21:44:31 GMT</lastBuildDate>
 		<item>
 			<title>⚠️ Fehler beim Abrufen von Social Sciences</title>
 			<description>Fehler: Keine neuen Artikel oder ungültige API-Antwort.</description>
 			<link>https://ooir.org</link>
-			<guid>ooir-error-socialsciences-20250730214403</guid>
-			<pubDate>Wed, 30 Jul 2025 21:44:03 GMT</pubDate>
+			<guid>ooir-error-socialsciences-20250730214431</guid>
+			<pubDate>Wed, 30 Jul 2025 21:44:31 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
