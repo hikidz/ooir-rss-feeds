@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>OOIR Trends: Computer Science</title>
+    <description>Aktuelle Paper-Trends im Bereich Computer Science von OOIR (nur neue und kürzlich hinzugefügte Papers)</description>
+    <link>https://ooir.org</link>
+    <language>en-us</language>
+    <pubDate>Wed, 30 Jul 2025 19:46:59 GMT</pubDate>
+    <lastBuildDate>Wed, 30 Jul 2025 19:46:59 GMT</lastBuildDate>
+    <item>
+      <title>⚠️ Fehler beim Abrufen von Computer Science</title>
+      <description>Fehler: Invalid JSON response</description>
+      <link>https://ooir.org</link>
+      <guid>ooir-error-computer_science-20250730194659</guid>
+      <pubDate>Wed, 30 Jul 2025 19:46:59 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
