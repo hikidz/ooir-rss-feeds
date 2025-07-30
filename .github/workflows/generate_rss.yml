@@ -1,0 +1,38 @@
+name: Generate RSS Feeds
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Führt den Workflow täglich um Mitternacht UTC aus (Sie können dies anpassen)
+  workflow_dispatch: # Ermöglicht das manuelle Auslösen des Workflows über die GitHub Actions UI
+
+jobs:
+  build:
+    runs-on: ubuntu-latest # Verwendet eine virtuelle Ubuntu-Maschine
+
+    steps:
+    - uses: actions/checkout@v4 # Checkt den Code aus dem Repository aus
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x' # Verwendet die neueste Python 3 Version
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt # Installiert Pakete aus requirements.txt
+
+    - name: Generate RSS Feeds
+      env:
+        OOIR_EMAIL: ${{ secrets.OOIR_EMAIL }} # Verwendet das GitHub Secret für die E-Mail
+      run: |
+        python ooir_rss_monitor.py # Führt Ihr Python-Skript aus
+
+    - name: Commit and push changes
+      run: |
+        git config user.name github-actions # Konfiguriert den Git-Benutzer
+        git config user.email github-actions@github.com # Konfiguriert die Git-E-Mail
+        git add rss_feeds/ # Fügt das Verzeichnis mit den generierten Feeds hinzu
+        git add rss_feeds/index.html # Fügt die Index-Datei hinzu
+        git commit -m "Automated RSS feed update" || echo "No changes to commit" # Committet Änderungen, wenn vorhanden
+        git push # Pusht die Änderungen zurück ins Repository
