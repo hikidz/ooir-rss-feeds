@@ -27,7 +27,8 @@ class OOIRTrendMonitor:
 
         api_url = f"https://ooir.org/api.php?email={self.email}&type=paper-trends&day={today_str}&field={requests.utils.quote(field)}"
         
-        if category:
+        # Wichtig: Der Category-Parameter wird nur hinzugefügt, wenn 'category' NICHT None ist.
+        if category: # Nur hinzufügen, wenn ein spezifischer Kategoriewert vorhanden ist
             api_url += f"&category={requests.utils.quote(category)}"
         
         print(f"DEBUG: Fetching from API: {api_url}")
@@ -43,10 +44,12 @@ class OOIRTrendMonitor:
             print(f"FEHLER beim Abrufen von Daten für Feld '{field}' und Kategorie '{category or 'N/A'}': {e}")
             if hasattr(e, 'response') and e.response is not None:
                 print(f"API-Antwort Status: {e.response.status_code}")
-                print(f"API-Antwort Text: {e.response.text}")
+                # ACHTUNG: Der 'response.text' KANN hier HTML oder leer sein, wenn es kein JSON ist!
+                print(f"API-Antwort Text (Nicht JSON): {e.response.text}")
             return None
         except json.JSONDecodeError as e:
             print(f"FEHLER: Ungültige JSON-Antwort für Feld '{field}' und Kategorie '{category or 'N/A'}': {e}")
+            # Dies ist der Fehler, den wir erhalten, wenn der Content nicht als JSON geparst werden kann
             print(f"Rohe API-Antwort, die keine gültige JSON war: {response.text}")
             return None
 
@@ -56,27 +59,24 @@ class OOIRTrendMonitor:
 
         title = ET.SubElement(item, "title")
         title_text = article.get("title", "Kein Titel verfügbar")
-        # Optional: Entfernen von HTML-Tags aus dem Titel, falls vorhanden
         title.text = re.sub(r'<[^>]*>', '', title_text) 
 
         link = ET.SubElement(item, "link")
-        link.text = article.get("DOI", "") or article.get("link", "") # DOI oder anderer Link
+        link.text = article.get("DOI", "") or article.get("link", "")
 
         description = ET.SubElement(item, "description")
         desc_text = f"Journal: {article.get('journal', 'N/A')}\n"
-        desc_text += f"Published: {article.get('published_date', 'N/A')}\n" # Sicherstellen, dass der korrekte Key verwendet wird
+        desc_text += f"Published: {article.get('published_date', 'N/A')}\n"
         desc_text += f"Authors: {', '.join(article.get('authors', ['N/A']))}\n" if article.get('authors') else ""
         desc_text += f"Abstract: {re.sub(r'<[^>]*>', '', article.get('abstract', ''))}\n" if article.get('abstract') else ""
-        # Formatieren Sie die Beschreibung, um sie besser lesbar für RSS-Reader zu machen (z.B. als CDATA)
         description.text = desc_text
         
         guid = ET.SubElement(item, "guid")
         guid.text = article.get("DOI", "") or f"ooir-paper-{article.get('published_date', '')}-{re.sub(r'[^a-zA-Z0-9]', '', article.get('title', ''))[:20]}"
-        guid.set("isPermaLink", "false") # Nicht dauerhaft, da sich DOI ändern könnte (falls kein DOI)
+        guid.set("isPermaLink", "false")
 
         pub_date = ET.SubElement(item, "pubDate")
         try:
-            # Versuche, das Datum aus 'published_date' zu parsen, sonst fallback auf 'published' oder aktuelles Datum
             date_str = article.get("published_date") or article.get("published")
             if date_str:
                 pub_datetime = datetime.datetime.fromisoformat(date_str.replace('Z', '+00:00'))
@@ -111,7 +111,6 @@ class OOIRTrendMonitor:
             ET.SubElement(error_item, "title").text = f"⚠️ Fehler beim Abrufen von {full_category_name}"
             ET.SubElement(error_item, "description").text = "Fehler: Keine neuen Artikel oder ungültige API-Antwort."
             ET.SubElement(error_item, "link").text = "https://ooir.org"
-            # Generiere eine eindeutige GUID für den Fehlerfall
             error_guid_base = f"ooir-error-{re.sub(r'[^a-zA-Z0-9_]', '', field_name).lower()}"
             if category_param:
                 error_guid_base += f"-{re.sub(r'[^a-zA-Z0-9_]', '', category_param).lower()}"
@@ -121,12 +120,10 @@ class OOIRTrendMonitor:
             for article in articles_for_feed:
                 channel.append(self._create_rss_item(article))
 
-        # Dateiname anpassen (z.B. computer_science.xml oder clinical_medicine_rheumatology.xml)
         if category_param:
-            # Kombiniere Feld und Kategorie für den Dateinamen
             filename_base = f"{re.sub(r'[^a-zA-Z0-9_]', '', field_name).lower()}_{re.sub(r'[^a-zA-Z0-9_]', '', category_param).lower()}"
         else:
-            # Nur Feld für den Dateinamen (z.B. Multidisciplinary)
+            # Dieser Fall sollte jetzt nicht mehr eintreten, da nur Unterkategorien verwendet werden
             filename_base = re.sub(r'[^a-zA-Z0-9_]', '', field_name).lower()
 
         filename = os.path.join(self.output_dir, f"{filename_base}.xml")
@@ -163,10 +160,8 @@ class OOIRTrendMonitor:
         """
 
         for full_name, field_name, category_param in categories:
-            if category_param:
-                filename = f"{re.sub(r'[^a-zA-Z0-9_]', '', field_name).lower()}_{re.sub(r'[^a-zA-Z0-9_]', '', category_param).lower()}.xml"
-            else:
-                filename = f"{re.sub(r'[^a-zA-Z0-9_]', '', field_name).lower()}.xml"
+            # Da wir jetzt immer einen category_param haben, vereinfachen wir das hier
+            filename = f"{re.sub(r'[^a-zA-Z0-9_]', '', field_name).lower()}_{re.sub(r'[^a-zA-Z0-9_]', '', category_param).lower()}.xml"
             
             html_content += f'                <li><a href="{filename}">{full_name} RSS Feed</a></li>\n'
 
@@ -197,12 +192,8 @@ def main():
 
     monitor = OOIRTrendMonitor(email=EMAIL, output_dir="docs")
 
-    # Liste der zu überwachenden Kategorien: (Vollständiger Name, Field-Parameter, Category-Parameter (optional))
-    # Beachten Sie die genaue Schreibweise der 'Field' und 'Category' Parameter,
-    # da diese direkt an die API gehen.
+    # Liste der zu überwachenden Kategorien (nur die von Ihnen gewünschten Clinical Medicine Unterkategorien)
     categories_to_monitor = [
-        ("Biology & Biochemistry", "Biology & Biochemistry", None), # Hauptkategorie
-        ("Clinical Medicine", "Clinical Medicine", None), # Hauptkategorie
         ("Clinical Medicine (Endocrinology & Metabolism)", "Clinical Medicine", "Endocrinology & Metabolism"),
         ("Clinical Medicine (Integrative & Complementary Medicine)", "Clinical Medicine", "Integrative & Complementary Medicine"),
         ("Clinical Medicine (Medical Informatics)", "Clinical Medicine", "Medical Informatics"),
@@ -214,22 +205,12 @@ def main():
         ("Clinical Medicine (Rehabilitation)", "Clinical Medicine", "Rehabilitation"),
         ("Clinical Medicine (Rheumatology)", "Clinical Medicine", "Rheumatology"),
         ("Clinical Medicine (Sport Sciences)", "Clinical Medicine", "Sport Sciences"),
-        ("Computer Science", "Computer Science", None), # Hauptkategorie
-        ("Economics & Business", "Economics & Business", None), # Hauptkategorie
-        ("Multidisciplinary", "Multidisciplinary", None), # Hauptkategorie
-        ("Philosophy & Religion", "Philosophy & Religion", None), # Hauptkategorie
-        ("Psychiatry & Psychology", "Psychiatry & Psychology", None), # Hauptkategorie
-        ("Social Sciences", "Social Sciences", None), # Hauptkategorie
-        # Beispiel für Unterkategorie, wie Sie es im API-Beispiel hatten:
-        ("Social Sciences (Political Science)", "Social Sciences", "Political Science"),
     ]
 
-    # Gehe durch jede Kategorie und hole Daten spezifisch für diese Kategorie
     for full_name, field_name, category_param in categories_to_monitor:
         papers_data = monitor._fetch_data_from_api(field=field_name, category=category_param)
         monitor.generate_rss_feed(full_name, field_name, category_param, papers_data)
 
-    # Generiere die index.html nur einmal am Ende
     monitor.generate_index_html(categories_to_monitor)
 
     print("Alle RSS-Feeds und Index-Seite wurden generiert.")
