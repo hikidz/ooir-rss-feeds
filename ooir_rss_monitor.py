@@ -1,518 +1,188 @@
-#!/usr/bin/env python3
-"""
-OOIR Trend Monitoring mit RSS Feed Generator
-Erstellt RSS Feeds für verschiedene Wissenschaftsbereiche basierend auf OOIR API Daten
-"""
-
 import os
 import requests
 import json
-from datetime import datetime, timedelta
-from xml.etree.ElementTree import Element, SubElement, tostring
-import xml.dom.minidom
-import time
-import logging
-import hashlib
-import pickle
-from typing import Dict, List, Optional, Set, Tuple
-
-# Logging Setup
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-logger = logging.getLogger(__name__)
+import datetime
+import xml.etree.ElementTree as ET
+import re
+from typing import Optional, List, Tuple
 
 class OOIRTrendMonitor:
-    def __init__(self, email: str, output_dir: str = "rss_feeds", max_items: int = 50):
-        """
-        Initialisiert den OOIR Trend Monitor
-        
-        Args:
-            email: Ihre E-Mail-Adresse für die API
-            output_dir: Verzeichnis für die RSS-Dateien
-            max_items: Maximale Anzahl Items pro Feed
-        """
+    def __init__(self, email: str, output_dir: str = "docs", max_items: int = 50):
         self.email = email
-        self.base_url = "https://ooir.org/api.php"
         self.output_dir = output_dir
         self.max_items = max_items
-        
-        # Wissenschaftsbereiche und Kategorien die überwacht werden sollen
-        # Jeder Eintrag ist ein Tupel (field, category)
-        self.fields_and_categories = [
-            ("Biology & Biochemistry", None), # None bedeutet 'all' für die API
-            ("Clinical Medicine", None),
-            ("Computer Science", None),
-            ("Economics & Business", None),
-            ("Multidisciplinary", None),
-            ("Philosophy & Religion", None),
-            ("Psychiatry and Psychology", None),
-            ("Social Sciences", None),
-            # Zusätzliche spezifische Kategorien für Clinical Medicine
-            ("Clinical Medicine", "Integrative & Complementary Medicine"),
-            ("Clinical Medicine", "Endocrinology & Metabolism"),
-            ("Clinical Medicine", "Medical Informatics"),
-            ("Clinical Medicine", "Medicine, General & Internal"),
-            ("Clinical Medicine", "Medicine, Research & Experimental"),
-            ("Clinical Medicine", "Nutrition & Dietetics"),
-            ("Clinical Medicine", "Orthopedics"),
-            ("Clinical Medicine", "Pharmacology & Pharmacy"),
-            ("Clinical Medicine", "Rehabilitation"),
-            ("Clinical Medicine", "Rheumatology"),
-            ("Clinical Medicine", "Sport Sciences")
-        ]
-        
-        # Output-Verzeichnis erstellen
-        os.makedirs(output_dir, exist_ok=True)
-        
-        # Verzeichnis für Verlaufsdaten
-        self.history_dir = os.path.join(output_dir, ".history")
-        os.makedirs(self.history_dir, exist_ok=True)
-        
-    def get_paper_hash(self, paper: Dict) -> str:
-        """
-        Erstellt eindeutigen Hash für ein Paper basierend auf Titel und Autoren
-        
-        Args:
-            paper: Paper-Dictionary
-            
-        Returns:
-            SHA256 Hash als String
-        """
-        title = paper.get("title", "")
-        authors = str(paper.get("authors", []))
-        content = f"{title}|{authors}"
-        return hashlib.sha256(content.encode()).hexdigest()[:16]
-    
-    def get_feed_identifier(self, field: str, category: Optional[str]) -> str:
-        """
-        Erstellt einen eindeutigen Bezeichner für einen Feed basierend auf Feld und optionaler Kategorie.
-        Wird für Dateinamen und Historie verwendet.
-        """
-        if category:
-            return f"{field}_{category}".replace(" ", "_").replace("&", "and").replace(",", "").lower()
-        return field.replace(" ", "_").replace("&", "and").lower()
+        self._ensure_output_directory_exists()
 
-    def load_feed_history(self, identifier: str) -> Dict:
-        """
-        Lädt die Verlaufsdaten für einen Feed
-        
-        Args:
-            identifier: Eindeutiger Bezeichner des Feeds
-            
-        Returns:
-            Dictionary mit bekannten Papers und Metadaten
-        """
-        filename = identifier + "_history.pkl"
-        filepath = os.path.join(self.history_dir, filename)
-        
-        try:
-            with open(filepath, 'rb') as f:
-                return pickle.load(f)
-        except (FileNotFoundError, EOFError, pickle.PickleError):
-            return {
-                "known_papers": set(),
-                "papers_data": [],
-                "last_updated": None
-            }
-    
-    def save_feed_history(self, identifier: str, history: Dict) -> None:
-        """
-        Speichert die Verlaufsdaten für einen Feed
-        
-        Args:
-            identifier: Eindeutiger Bezeichner des Feeds
-            history: Verlaufsdaten-Dictionary
-        """
-        filename = identifier + "_history.pkl"
-        filepath = os.path.join(self.history_dir, filename)
-        
-        history["last_updated"] = datetime.now()
-        
-        with open(filepath, 'wb') as f:
-            pickle.dump(history, f)
-    
-    def merge_papers(self, identifier: str, new_papers: List[Dict]) -> List[Dict]:
-        """
-        Führt neue Papers mit dem bestehenden Feed zusammen
-        
-        Args:
-            identifier: Eindeutiger Bezeichner des Feeds
-            new_papers: Liste neuer Papers von der API
-            
-        Returns:
-            Kombinierte Liste aller Papers (neue + bestehende)
-        """
-        # Verlaufsdaten laden
-        history = self.load_feed_history(identifier)
-        known_hashes = history["known_papers"]
-        existing_papers = history["papers_data"]
-        
-        # Neue Papers identifizieren
-        truly_new_papers = []
-        new_hashes_from_api = set() # Hashes der Papers, die in der aktuellen API-Antwort sind
-        
-        for paper in new_papers:
-            paper_hash = self.get_paper_hash(paper)
-            paper["_hash"] = paper_hash # Sicherstellen, dass Hash im Paper gespeichert ist
-            new_hashes_from_api.add(paper_hash)
-            
-            if paper_hash not in known_hashes:
-                # Paper ist wirklich neu
-                paper["_is_new"] = True
-                paper["_added_date"] = datetime.now().isoformat()
-                truly_new_papers.append(paper)
-                logger.info(f"Neues Paper in {identifier}: {paper.get('title', 'Unbekannt')[:50]}...")
-        
-        # Bestehende Papers, die in der neuen API-Antwort enthalten sind oder noch jung genug sind, behalten
-        updated_existing = []
-        for paper in existing_papers:
-            paper_hash = paper.get("_hash", "")
-            if paper_hash in new_hashes_from_api:
-                # Paper ist noch aktuell und wird im neuen Feed erscheinen, nicht mehr "neu" markieren
-                paper["_is_new"] = False
-                updated_existing.append(paper)
-            else:
-                # Paper ist nicht mehr in den aktuellen Trends der API-Antwort
-                # Aber wir behalten es für eine Woche, um sicherzustellen, dass es nicht zu schnell verschwindet
-                added_date_str = paper.get("_added_date", "")
-                if added_date_str:
-                    try:
-                        added_date = datetime.fromisoformat(added_date_str)
-                        if (datetime.now() - added_date).days < 7:
-                            paper["_is_new"] = False # Es ist nicht mehr _neu_ in diesem Lauf, aber weiterhin sichtbar
-                            updated_existing.append(paper)
-                    except ValueError:
-                        logger.warning(f"Ungültiges Datumsformat für Paper {paper.get('title')}: {added_date_str}")
-                        # Wenn Datum ungültig, Paper vorsichtshalber behalten
-                        updated_existing.append(paper)
-                else:
-                    # Wenn kein added_date, Paper behalten (älter als 7 Tage wird später entfernt)
-                    updated_existing.append(paper)
-        
-        # Kombinieren: Neue Papers zuerst, dann bestehende, dann deduplizieren
-        combined_papers_raw = truly_new_papers + updated_existing
-        
-        # Deduplizieren basierend auf Hash und eine bevorzugte Reihenfolge beibehalten (neu zuerst)
-        deduplicated_papers = []
-        seen_hashes = set()
-        
-        # Priorisiere wirklich neue Papers ganz oben
-        for paper in truly_new_papers:
-            if paper.get("_hash") not in seen_hashes:
-                deduplicated_papers.append(paper)
-                seen_hashes.add(paper.get("_hash"))
-        
-        # Füge dann bestehende Papers hinzu, die noch nicht hinzugefügt wurden
-        for paper in updated_existing:
-            if paper.get("_hash") not in seen_hashes:
-                paper["_is_new"] = False # Bestehende Papers sind nicht mehr "neu"
-                deduplicated_papers.append(paper)
-                seen_hashes.add(paper.get("_hash"))
+    def _ensure_output_directory_exists(self):
+        """Stellt sicher, dass das Ausgabe-Verzeichnis existiert."""
+        if not os.path.exists(self.output_dir):
+            os.makedirs(self.output_dir)
+            print(f"Verzeichnis '{self.output_dir}' erstellt.")
 
-        # Auf maximale Anzahl begrenzen
-        combined_papers_final = deduplicated_papers[:self.max_items]
-        
-        # Verlaufsdaten aktualisieren
-        all_hashes_in_final_list = {p.get("_hash", "") for p in combined_papers_final}
-        history["known_papers"] = all_hashes_in_final_list
-        history["papers_data"] = combined_papers_final
-        self.save_feed_history(identifier, history)
-        
-        logger.info(f"{identifier}: {len(truly_new_papers)} neue Papers, {len(combined_papers_final)} gesamt im Feed.")
-        
-        return combined_papers_final
-    
-    def get_paper_trends(self, field: str, date: Optional[str] = None, category: Optional[str] = None) -> Dict:
+    def _fetch_data_from_api(self, field: str, category: Optional[str] = None) -> Optional[dict]:
         """
-        Ruft Paper-Trends für ein bestimmtes Feld und optional eine Kategorie ab
-        
-        Args:
-            field: Wissenschaftsbereich
-            date: Datum im Format YYYY-MM-DD (Standard: heute)
-            category: Optionale Kategorie
-            
-        Returns:
-            API-Antwort als Dictionary
+        Holt Trenddaten für ein spezifisches Feld und optional eine Kategorie von der OOIR API.
         """
-        if date is None:
-            date = datetime.now().strftime("%Y-%m-%d")
-            
-        params = {
-            "email": self.email,
-            "type": "paper-trends",
-            "day": date,
-            "field": field
-        }
+        today_str = datetime.date.today().strftime("%Y-%m-%d")
+
+        api_url = f"https://ooir.org/api.php?email={self.email}&type=paper-trends&day={today_str}&field={requests.utils.quote(field)}"
+        
         if category:
-            params["category"] = category
+            api_url += f"&category={requests.utils.quote(category)}"
         
-        identifier = self.get_feed_identifier(field, category)
+        print(f"DEBUG: Fetching from API: {api_url}")
 
         try:
-            logger.info(f"Abrufen von Trends für {field}{f' ({category})' if category else ''} am {date}")
-            response = requests.get(self.base_url, params=params, timeout=30)
-            response.raise_for_status()
+            response = requests.get(api_url, timeout=30)
+            response.raise_for_status()  # Löst einen HTTPError für schlechte Antworten (4xx oder 5xx) aus
             
-            # Prüfen ob gültige JSON-Antwort
-            try:
-                data = response.json()
-                return data
-            except json.JSONDecodeError:
-                logger.warning(f"Keine gültige JSON-Antwort für {identifier}: {response.text[:200]}")
-                return {"error": "Invalid JSON response", "field": field, "category": category}
-                
-        except requests.RequestException as e:
-            logger.error(f"API-Fehler für {identifier}: {e}")
-            return {"error": str(e), "field": field, "category": category}
-            
-    def create_rss_feed(self, field: str, category: Optional[str], papers_data: Dict) -> str:
-        """
-        Erstellt einen RSS-Feed aus den Paper-Daten (mit intelligentem Update)
-        
-        Args:
-            field: Wissenschaftsbereich
-            category: Optionale Kategorie
-            papers_data: Daten von der API
-            
-        Returns:
-            RSS-Feed als XML-String
-        """
-        identifier = self.get_feed_identifier(field, category)
-        display_name = f"{field}{f' ({category})' if category else ''}"
+            data = response.json()
+            return data
 
-        # Root RSS Element
-        rss = Element("rss", version="2.0")
-        channel = SubElement(rss, "channel")
+        except requests.exceptions.RequestException as e:
+            print(f"FEHLER beim Abrufen von Daten für Feld '{field}' und Kategorie '{category or 'N/A'}': {e}")
+            if hasattr(e, 'response') and e.response is not None:
+                print(f"API-Antwort Status: {e.response.status_code}")
+                print(f"API-Antwort Text: {e.response.text}")
+            return None
+        except json.JSONDecodeError as e:
+            print(f"FEHLER: Ungültige JSON-Antwort für Feld '{field}' und Kategorie '{category or 'N/A'}': {e}")
+            print(f"Rohe API-Antwort, die keine gültige JSON war: {response.text}")
+            return None
+
+    def _create_rss_item(self, article: dict) -> ET.Element:
+        """Erstellt ein RSS-Item-Element aus einem Artikel-Dictionary."""
+        item = ET.Element("item")
+
+        title = ET.SubElement(item, "title")
+        title_text = article.get("title", "Kein Titel verfügbar")
+        # Optional: Entfernen von HTML-Tags aus dem Titel, falls vorhanden
+        title.text = re.sub(r'<[^>]*>', '', title_text) 
+
+        link = ET.SubElement(item, "link")
+        link.text = article.get("DOI", "") or article.get("link", "") # DOI oder anderer Link
+
+        description = ET.SubElement(item, "description")
+        desc_text = f"Journal: {article.get('journal', 'N/A')}\n"
+        desc_text += f"Published: {article.get('published_date', 'N/A')}\n" # Sicherstellen, dass der korrekte Key verwendet wird
+        desc_text += f"Authors: {', '.join(article.get('authors', ['N/A']))}\n" if article.get('authors') else ""
+        desc_text += f"Abstract: {re.sub(r'<[^>]*>', '', article.get('abstract', ''))}\n" if article.get('abstract') else ""
+        # Formatieren Sie die Beschreibung, um sie besser lesbar für RSS-Reader zu machen (z.B. als CDATA)
+        description.text = desc_text
         
-        # Channel-Informationen
-        title = SubElement(channel, "title")
-        title.text = f"OOIR Trends: {display_name}"
-        
-        description = SubElement(channel, "description")
-        description.text = f"Aktuelle Paper-Trends im Bereich {display_name} von OOIR (nur neue und kürzlich hinzugefügte Papers)"
-        
-        link = SubElement(channel, "link")
-        link.text = "https://ooir.org"
-        
-        language = SubElement(channel, "language")
-        language.text = "en-us"
-        
-        pub_date = SubElement(channel, "pubDate")
-        pub_date.text = datetime.now().strftime("%a, %d %b %Y %H:%M:%S GMT")
-        
-        last_build_date = SubElement(channel, "lastBuildDate")
-        last_build_date.text = datetime.now().strftime("%a, %d %b %Y %H:%M:%S GMT")
-        
-        # Papers verarbeiten und mit Verlauf zusammenführen
-        if "error" not in papers_data and "papers" in papers_data:
-            raw_papers = papers_data.get("papers", [])
-            combined_papers = self.merge_papers(identifier, raw_papers) # Hier identifier verwenden
-            
-            # RSS Items erstellen
-            for paper in combined_papers:
-                item = SubElement(channel, "item")
-                
-                # Titel mit NEW-Marker für wirklich neue Papers
-                item_title = SubElement(item, "title")
-                title_text = paper.get("title", "Unbekannter Titel")
-                if paper.get("_is_new", False):
-                    title_text = f"🆕 {title_text}"
-                item_title.text = title_text
-                
-                item_description = SubElement(item, "description")
-                authors = paper.get("authors", [])
-                citations = paper.get("citations", 0)
-                altmetric = paper.get("altmetric_score", 0)
-                added_date = paper.get("_added_date", "")
-                
-                desc_text = f"Autoren: {', '.join(authors[:3])}{'...' if len(authors) > 3 else ''}"
-                desc_text += f" | Zitationen: {citations} | Altmetric Score: {altmetric}"
-                if paper.get("_is_new", False):
-                    desc_text += " | 🆕 NEU hinzugefügt"
-                elif added_date:
-                    try:
-                        added = datetime.fromisoformat(added_date).strftime("%d.%m.%Y")
-                        desc_text += f" | Hinzugefügt: {added}"
-                    except ValueError:
-                        desc_text += f" | Hinzugefügt: Datum unbekannt"
-                
-                item_description.text = desc_text
-                
-                item_link = SubElement(item, "link")
-                item_link.text = paper.get("url", "https://ooir.org")
-                
-                # Eindeutige GUID basierend auf Paper-Hash
-                item_guid = SubElement(item, "guid")
-                paper_hash = paper.get("_hash", self.get_paper_hash(paper))
-                item_guid.text = f"ooir-{identifier}-{paper_hash}"
-                
-                # Publikationsdatum: Hinzufügungsdatum oder aktuelles Datum
-                item_pub_date = SubElement(item, "pubDate")
-                if added_date:
-                    try:
-                        pub_datetime = datetime.fromisoformat(added_date)
-                    except ValueError:
-                        pub_datetime = datetime.now() # Fallback
-                else:
-                    pub_datetime = datetime.now()
-                item_pub_date.text = pub_datetime.strftime("%a, %d %b %Y %H:%M:%S GMT")
-        
-        elif "error" in papers_data:
-            # Fehler-Item hinzufügen
-            item = SubElement(channel, "item")
-            
-            item_title = SubElement(item, "title")
-            item_title.text = f"⚠️ Fehler beim Abrufen von {display_name}"
-            
-            item_description = SubElement(item, "description")
-            item_description.text = f"Fehler: {papers_data['error']}"
-            
-            item_link = SubElement(item, "link")
-            item_link.text = "https://ooir.org"
-            
-            item_guid = SubElement(item, "guid")
-            item_guid.text = f"ooir-error-{identifier}-{datetime.now().strftime('%Y%m%d%H%M%S')}"
-            
-            item_pub_date = SubElement(item, "pubDate")
-            item_pub_date.text = datetime.now().strftime("%a, %d %b %Y %H:%M:%S GMT")
-        
-        # XML formatieren
-        rough_string = tostring(rss, encoding='unicode')
-        reparsed = xml.dom.minidom.parseString(rough_string)
-        return reparsed.toprettyxml(indent="  ")
-    
-    def save_rss_feed(self, identifier: str, rss_content: str) -> str:
-        """
-        Speichert den RSS-Feed in eine Datei
-        
-        Args:
-            identifier: Eindeutiger Bezeichner des Feeds
-            rss_content: RSS-XML-Inhalt
-            
-        Returns:
-            Pfad zur gespeicherten Datei
-        """
-        # Dateiname erstellen (URL-freundlich)
-        filename = identifier + ".xml"
-        filepath = os.path.join(self.output_dir, filename)
-        
-        with open(filepath, 'w', encoding='utf-8') as f:
-            f.write(rss_content)
-            
-        logger.info(f"RSS-Feed gespeichert: {filepath}")
-        return filepath
-    
-    def run_monitoring(self, date: Optional[str] = None) -> Dict[str, str]:
-        """
-        Führt das komplette Monitoring für alle Felder/Kategorien durch
-        
-        Args:
-            date: Datum für die Abfrage (Standard: heute)
-            
-        Returns:
-            Dictionary mit Anzeigename -> Dateipfad Zuordnungen
-        """
-        results = {}
-        
-        logger.info("Starte OOIR Trend Monitoring...")
-        
-        for field, category in self.fields_and_categories:
-            identifier = self.get_feed_identifier(field, category)
-            display_name = f"{field}{f' ({category})' if category else ''}"
-            try:
-                # API-Daten abrufen
-                papers_data = self.get_paper_trends(field, date, category)
-                
-                # RSS-Feed erstellen
-                rss_content = self.create_rss_feed(field, category, papers_data)
-                
-                # RSS-Feed speichern
-                filepath = self.save_rss_feed(identifier, rss_content)
-                results[display_name] = filepath
-                
-                # Kurze Pause zwischen API-Calls, um Rate-Limits zu vermeiden
-                time.sleep(1)
-                
-            except Exception as e:
-                logger.error(f"Fehler bei {display_name}: {e}")
-                results[display_name] = f"ERROR: {e}"
-        
-        logger.info(f"Monitoring abgeschlossen. {len(results)} RSS-Feeds erstellt.")
-        return results
-    
-    def create_index_html(self, results: Dict[str, str]) -> None:
-        """
-        Erstellt eine HTML-Index-Seite mit Links zu allen RSS-Feeds
-        
-        Args:
-            results: Dictionary mit Anzeigename -> Dateipfad Zuordnungen
-        """
-        html_content = """<!DOCTYPE html>
-<html lang="de">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OOIR Trend Monitoring - RSS Feeds</title>
-    <style>
-        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
-        h1 { color: #333; }
-        .feed-list { list-style-type: none; padding: 0; }
-        .feed-item { 
-            background: #f5f5f5; 
-            margin: 10px 0; 
-            padding: 15px; 
-            border-radius: 5px;
-            border-left: 4px solid #007cba;
-        }
-        .feed-link { text-decoration: none; color: #007cba; font-weight: bold; }
-        .feed-link:hover { text-decoration: underline; }
-        .timestamp { color: #666; font-size: 0.9em; }
-        .error { border-left-color: #dc3545; }
-    </style>
-</head>
-<body>
-    <h1>OOIR Trend Monitoring - RSS Feeds</h1>
-    <p>Automatisch generierte RSS-Feeds für verschiedene Wissenschaftsbereiche und Kategorien.</p>
-    <p class="timestamp">Letzte Aktualisierung: """ + datetime.now().strftime("%d.%m.%Y %H:%M:%S") + """</p>
-    
-    <ul class="feed-list">
-"""
-        
-        for display_name, filepath in results.items():
-            if not filepath.startswith("ERROR"):
-                filename = os.path.basename(filepath)
-                html_content += f"""        <li class="feed-item">
-            <a href="{filename}" class="feed-link">{display_name}</a>
-            <br><small>RSS Feed für aktuelle Paper-Trends</small>
-        </li>
-"""
+        guid = ET.SubElement(item, "guid")
+        guid.text = article.get("DOI", "") or f"ooir-paper-{article.get('published_date', '')}-{re.sub(r'[^a-zA-Z0-9]', '', article.get('title', ''))[:20]}"
+        guid.set("isPermaLink", "false") # Nicht dauerhaft, da sich DOI ändern könnte (falls kein DOI)
+
+        pub_date = ET.SubElement(item, "pubDate")
+        try:
+            # Versuche, das Datum aus 'published_date' zu parsen, sonst fallback auf 'published' oder aktuelles Datum
+            date_str = article.get("published_date") or article.get("published")
+            if date_str:
+                pub_datetime = datetime.datetime.fromisoformat(date_str.replace('Z', '+00:00'))
+                pub_date.text = pub_datetime.strftime("%a, %d %b %Y %H:%M:%S GMT")
             else:
-                html_content += f"""        <li class="feed-item error">
-            <span class="feed-link">{display_name}</span>
-            <br><small style="color: #dc3545;">Fehler: {filepath}</small>
-        </li>
-"""
+                pub_date.text = datetime.datetime.now(datetime.timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
+        except ValueError:
+            pub_date.text = datetime.datetime.now(datetime.timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
+
+        return item
+
+    def generate_rss_feed(self, full_category_name: str, field_name: str, category_param: Optional[str], papers_data: Optional[dict]):
+        """Generiert einen RSS-Feed für eine bestimmte Kategorie mit den bereitgestellten Daten."""
+        rss = ET.Element("rss", version="2.0")
+        channel = ET.SubElement(rss, "channel")
+
+        ET.SubElement(channel, "title").text = f"OOIR Trends: {full_category_name}"
+        ET.SubElement(channel, "description").text = f"Aktuelle Paper-Trends im Bereich {full_category_name} von OOIR (nur neue und kürzlich hinzugefügte Papers)"
+        ET.SubElement(channel, "link").text = "https://ooir.org"
+        ET.SubElement(channel, "language").text = "en-us"
         
-        html_content += """    </ul>
-    
-    <h2>Verwendung</h2>
-    <p>Kopieren Sie die URLs der RSS-Feeds in Ihren bevorzugten RSS-Reader:</p>
-    <ul>
-"""
+        current_time_gmt = datetime.datetime.now(datetime.timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
+        ET.SubElement(channel, "pubDate").text = current_time_gmt
+        ET.SubElement(channel, "lastBuildDate").text = current_time_gmt
+
+        articles_for_feed = []
+        if papers_data and "papers" in papers_data:
+            articles_for_feed = papers_data["papers"][:self.max_items]
+
+        if not articles_for_feed:
+            error_item = ET.SubElement(channel, "item")
+            ET.SubElement(error_item, "title").text = f"⚠️ Fehler beim Abrufen von {full_category_name}"
+            ET.SubElement(error_item, "description").text = "Fehler: Keine neuen Artikel oder ungültige API-Antwort."
+            ET.SubElement(error_item, "link").text = "https://ooir.org"
+            # Generiere eine eindeutige GUID für den Fehlerfall
+            error_guid_base = f"ooir-error-{re.sub(r'[^a-zA-Z0-9_]', '', field_name).lower()}"
+            if category_param:
+                error_guid_base += f"-{re.sub(r'[^a-zA-Z0-9_]', '', category_param).lower()}"
+            ET.SubElement(error_item, "guid").text = f"{error_guid_base}-{datetime.datetime.now().strftime('%Y%m%d%H%M%S')}"
+            ET.SubElement(error_item, "pubDate").text = current_time_gmt
+        else:
+            for article in articles_for_feed:
+                channel.append(self._create_rss_item(article))
+
+        # Dateiname anpassen (z.B. computer_science.xml oder clinical_medicine_rheumatology.xml)
+        if category_param:
+            # Kombiniere Feld und Kategorie für den Dateinamen
+            filename_base = f"{re.sub(r'[^a-zA-Z0-9_]', '', field_name).lower()}_{re.sub(r'[^a-zA-Z0-9_]', '', category_param).lower()}"
+        else:
+            # Nur Feld für den Dateinamen (z.B. Multidisciplinary)
+            filename_base = re.sub(r'[^a-zA-Z0-9_]', '', field_name).lower()
+
+        filename = os.path.join(self.output_dir, f"{filename_base}.xml")
         
-        for display_name, filepath in results.items():
-            if not filepath.startswith("ERROR"):
-                filename = os.path.basename(filepath)
-                html_content += f'        <li><code>http://ihr-server.de/rss_feeds/{filename}</code></li>\n'
-        
-        html_content += """    </ul>
-</body>
-</html>"""
-        
-        index_path = os.path.join(self.output_dir, "index.html")
-        with open(index_path, 'w', encoding='utf-8') as f:
+        tree = ET.ElementTree(rss)
+        ET.indent(tree, space="\t", level=0)
+
+        with open(filename, "wb") as f:
+            f.write(ET.tostring(rss, encoding="utf-8", xml_declaration=True))
+        print(f"RSS Feed für '{full_category_name}' unter '{filename}' generiert.")
+
+    def generate_index_html(self, categories: List[Tuple[str, str, Optional[str]]]):
+        """Generiert eine einfache index.html-Datei mit Links zu den RSS-Feeds."""
+        html_content = f"""
+        <!DOCTYPE html>
+        <html lang="de">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>OOIR RSS Feeds</title>
+            <style>
+                body {{ font-family: sans-serif; margin: 2em; line-height: 1.6; }}
+                h1 {{ color: #333; }}
+                ul {{ list-style-type: none; padding: 0; }}
+                li {{ margin-bottom: 0.5em; }}
+                a {{ color: #007bff; text-decoration: none; }}
+                a:hover {{ text-decoration: underline; }}
+            </style>
+        </head>
+        <body>
+            <h1>OOIR Trend RSS Feeds</h1>
+            <p>Abonnieren Sie die neuesten Paper-Trends von OOIR in verschiedenen Kategorien:</p>
+            <ul>
+        """
+
+        for full_name, field_name, category_param in categories:
+            if category_param:
+                filename = f"{re.sub(r'[^a-zA-Z0-9_]', '', field_name).lower()}_{re.sub(r'[^a-zA-Z0-9_]', '', category_param).lower()}.xml"
+            else:
+                filename = f"{re.sub(r'[^a-zA-Z0-9_]', '', field_name).lower()}.xml"
+            
+            html_content += f'                <li><a href="{filename}">{full_name} RSS Feed</a></li>\n'
+
+        html_content += """
+            </ul>
+            <p>
+                <small>Generiert am: """ + datetime.datetime.now(datetime.timezone.utc).strftime("%d.%m.%Y %H:%M:%S UTC") + """</small>
+            </p>
+        </body>
+        </html>
+        """
+
+        index_html_path = os.path.join(self.output_dir, "index.html")
+        with open(index_html_path, "w", encoding="utf-8") as f:
             f.write(html_content)
-        
-        logger.info(f"Index-Seite erstellt: {index_path}")
+        print(f"Index-Datei unter '{index_html_path}' generiert.")
 
 
 def main():
@@ -520,28 +190,49 @@ def main():
     Hauptfunktion - Beispiel für die Verwendung
     """
     EMAIL = os.getenv("OOIR_EMAIL")
-
+    
     if not EMAIL:
         print("FEHLER: OOIR_EMAIL Umgebungsvariable nicht gesetzt. Kann nicht fortfahren.")
-    return
-    
-    # Monitor initialisieren
-    monitor = OOIRTrendMonitor(email=EMAIL, output_dir="docs")
-    
-    # Monitoring durchführen
-    results = monitor.run_monitoring()
-    
-    # Index-Seite erstellen
-    monitor.create_index_html(results)
-    
-    # Ergebnisse ausgeben
-    print("\n=== OOIR Trend Monitoring Ergebnisse ===")
-    for display_name, filepath in results.items():
-        print(f"{display_name}: {filepath}")
-    
-    print(f"\nAlle RSS-Feeds wurden im Verzeichnis '{monitor.output_dir}' gespeichert.")
-    print("Öffnen Sie die 'index.html' Datei für eine Übersicht aller Feeds.")
+        return
 
+    monitor = OOIRTrendMonitor(email=EMAIL, output_dir="docs")
+
+    # Liste der zu überwachenden Kategorien: (Vollständiger Name, Field-Parameter, Category-Parameter (optional))
+    # Beachten Sie die genaue Schreibweise der 'Field' und 'Category' Parameter,
+    # da diese direkt an die API gehen.
+    categories_to_monitor = [
+        ("Biology & Biochemistry", "Biology & Biochemistry", None), # Hauptkategorie
+        ("Clinical Medicine", "Clinical Medicine", None), # Hauptkategorie
+        ("Clinical Medicine (Endocrinology & Metabolism)", "Clinical Medicine", "Endocrinology & Metabolism"),
+        ("Clinical Medicine (Integrative & Complementary Medicine)", "Clinical Medicine", "Integrative & Complementary Medicine"),
+        ("Clinical Medicine (Medical Informatics)", "Clinical Medicine", "Medical Informatics"),
+        ("Clinical Medicine (Medicine, General & Internal)", "Clinical Medicine", "Medicine, General & Internal"),
+        ("Clinical Medicine (Medicine, Research & Experimental)", "Clinical Medicine", "Medicine, Research & Experimental"),
+        ("Clinical Medicine (Nutrition & Dietetics)", "Clinical Medicine", "Nutrition & Dietetics"),
+        ("Clinical Medicine (Orthopedics)", "Clinical Medicine", "Orthopedics"),
+        ("Clinical Medicine (Pharmacology & Pharmacy)", "Clinical Medicine", "Pharmacology & Pharmacy"),
+        ("Clinical Medicine (Rehabilitation)", "Clinical Medicine", "Rehabilitation"),
+        ("Clinical Medicine (Rheumatology)", "Clinical Medicine", "Rheumatology"),
+        ("Clinical Medicine (Sport Sciences)", "Clinical Medicine", "Sport Sciences"),
+        ("Computer Science", "Computer Science", None), # Hauptkategorie
+        ("Economics & Business", "Economics & Business", None), # Hauptkategorie
+        ("Multidisciplinary", "Multidisciplinary", None), # Hauptkategorie
+        ("Philosophy & Religion", "Philosophy & Religion", None), # Hauptkategorie
+        ("Psychiatry & Psychology", "Psychiatry & Psychology", None), # Hauptkategorie
+        ("Social Sciences", "Social Sciences", None), # Hauptkategorie
+        # Beispiel für Unterkategorie, wie Sie es im API-Beispiel hatten:
+        ("Social Sciences (Political Science)", "Social Sciences", "Political Science"),
+    ]
+
+    # Gehe durch jede Kategorie und hole Daten spezifisch für diese Kategorie
+    for full_name, field_name, category_param in categories_to_monitor:
+        papers_data = monitor._fetch_data_from_api(field=field_name, category=category_param)
+        monitor.generate_rss_feed(full_name, field_name, category_param, papers_data)
+
+    # Generiere die index.html nur einmal am Ende
+    monitor.generate_index_html(categories_to_monitor)
+
+    print("Alle RSS-Feeds und Index-Seite wurden generiert.")
 
 if __name__ == "__main__":
     main()
