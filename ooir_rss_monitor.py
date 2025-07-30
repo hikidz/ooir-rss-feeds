@@ -519,9 +519,12 @@ def main():
     """
     Hauptfunktion - Beispiel für die Verwendung
     """
-    # Holen Sie die E-Mail-Adresse aus den Umgebungsvariablen, die von GitHub Actions gesetzt werden
-    EMAIL = "groeger@yahoo.com"
-        
+    EMAIL = os.getenv("OOIR_EMAIL")
+
+    if not EMAIL:
+        print("FEHLER: OOIR_EMAIL Umgebungsvariable nicht gesetzt. Kann nicht fortfahren.")
+    return
+    
     # Monitor initialisieren
     monitor = OOIRTrendMonitor(email=EMAIL, output_dir="docs")
     
