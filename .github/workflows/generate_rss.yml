@@ -34,7 +34,7 @@ jobs:
       run: |
         git config user.name github-actions # Konfiguriert den Git-Benutzer
         git config user.email github-actions@github.com # Konfiguriert die Git-E-Mail
-        git add rss_feeds/ # Fügt das Verzeichnis mit den generierten Feeds hinzu
-        git add rss_feeds/index.html # Fügt die Index-Datei hinzu
+        git add docs/ # Fügt das Verzeichnis mit den generierten Feeds hinzu
+        git add docs/index.html # Fügt die Index-Datei hinzu
         git commit -m "Automated RSS feed update" || echo "No changes to commit" # Committet Änderungen, wenn vorhanden
         git push # Pusht die Änderungen zurück ins Repository
