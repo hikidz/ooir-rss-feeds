@@ -4,12 +4,12 @@ OOIR Trend Monitoring mit RSS Feed Generator
 Erstellt RSS Feeds für verschiedene Wissenschaftsbereiche basierend auf OOIR API Daten
 """
 
+import os
 import requests
 import json
 from datetime import datetime, timedelta
 from xml.etree.ElementTree import Element, SubElement, tostring
 import xml.dom.minidom
-import os
 import time
 import logging
 import hashlib
@@ -519,12 +519,13 @@ def main():
     """
     Hauptfunktion - Beispiel für die Verwendung
     """
-    # WICHTIG: Ersetzen Sie dies durch Ihre echte E-Mail-Adresse
-    # Oder besser: Verwenden Sie eine Umgebungsvariable wie bei GitHub Actions vorgeschlagen.
-    EMAIL = os.environ.get("OOIR_EMAIL", "ihre.email@beispiel.de")
-    if EMAIL == "ihre.email@beispiel.de":
-        logger.warning("Bitte ändern Sie die E-Mail-Adresse im Skript oder als Umgebungsvariable 'OOIR_EMAIL'.")
-    
+    # Holen Sie die E-Mail-Adresse aus den Umgebungsvariablen, die von GitHub Actions gesetzt werden
+    EMAIL = os.getenv("OOIR_EMAIL")
+
+    if not EMAIL:
+        print("FEHLER: OOIR_EMAIL Umgebungsvariable nicht gesetzt. Kann nicht fortfahren.")
+        return
+        
     # Monitor initialisieren
     monitor = OOIRTrendMonitor(email=EMAIL, output_dir="docs")
     
