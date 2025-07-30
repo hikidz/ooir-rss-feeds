@@ -4,6 +4,7 @@ import json
 import datetime
 import xml.etree.ElementTree as ET
 import re
+import time # Für Verzögerungen zwischen API-Aufrufen
 from typing import Optional, List, Tuple
 
 class OOIRTrendMonitor:
@@ -19,9 +20,10 @@ class OOIRTrendMonitor:
             os.makedirs(self.output_dir)
             print(f"Verzeichnis '{self.output_dir}' erstellt.")
 
-    def _fetch_data_from_api(self, field: str, category: Optional[str] = None) -> Optional[dict]:
+    def _fetch_data_from_api(self, field: str, category: Optional[str] = None) -> Optional[list]:
         """
         Holt Trenddaten für ein spezifisches Feld und optional eine Kategorie von der OOIR API.
+        Erwartet eine Liste von Artikeln als JSON-Antwort.
         """
         today_str = datetime.date.today().strftime("%Y-%m-%d")
 
@@ -30,82 +32,191 @@ class OOIRTrendMonitor:
         if category:
             api_url += f"&category={requests.utils.quote(category)}"
         
-        print(f"DEBUG: Fetching from API: {api_url}")
+        print(f"DEBUG: Fetching from OOIR API: {api_url}")
 
         try:
             response = requests.get(api_url, timeout=30)
             response.raise_for_status()  # Löst einen HTTPError für schlechte Antworten (4xx oder 5xx) aus
             
             data = response.json()
-            return data
+            if isinstance(data, list): # OOIR API gibt direkt eine Liste zurück
+                return data
+            elif isinstance(data, dict) and "papers" in data and isinstance(data["papers"], list): # Falls sie doch mal unter 'papers' sind
+                return data["papers"]
+            else:
+                print(f"WARNUNG: Unerwartetes Datenformat von OOIR API für '{field}' und '{category or 'N/A'}'. Erwartet Liste oder Dict mit 'papers'. Erhalten: {data}")
+                return None
 
         except requests.exceptions.RequestException as e:
-            print(f"FEHLER beim Abrufen von Daten für Feld '{field}' und Kategorie '{category or 'N/A'}': {e}")
+            print(f"FEHLER beim Abrufen von Daten von OOIR API für Feld '{field}' und Kategorie '{category or 'N/A'}': {e}")
             if hasattr(e, 'response') and e.response is not None:
                 print(f"API-Antwort Status: {e.response.status_code}")
                 print(f"API-Antwort Text (Nicht JSON): {e.response.text}")
             return None
         except json.JSONDecodeError as e:
-            print(f"FEHLER: Ungültige JSON-Antwort für Feld '{field}' und Kategorie '{category or 'N/A'}': {e}")
-            print(f"Rohe API-Antwort, die keine gültige JSON war: {response.text}")
+            print(f"FEHLER: Ungültige JSON-Antwort von OOIR API für Feld '{field}' und Kategorie '{category or 'N/A'}': {e}")
+            print(f"Rohe OOIR API-Antwort, die keine gültige JSON war: {response.text}")
+            return None
+
+    def _fetch_article_metadata_from_doi(self, doi: str) -> Optional[dict]:
+        """
+        Holt vollständige Artikelmetadaten (Titel, Autoren, Journal) von der Crossref API anhand der DOI.
+        """
+        if not doi or doi == "N/A":
+            return None
+
+        crossref_url = f"https://api.crossref.org/works/{requests.utils.quote(doi)}"
+        print(f"DEBUG: Fetching metadata from Crossref API for DOI: {doi}")
+
+        # Wichtig: Crossref empfiehlt, eine Kontakt-E-Mail im User-Agent anzugeben,
+        # um im "Polite Pool" zu landen und höhere Rate Limits zu erhalten.
+        # Ersetzen Sie 'your_email@example.com' durch eine gültige Kontakt-E-Mail.
+        headers = {
+            "User-Agent": f"OOIR-RSS-Monitor/1.0 (mailto:{self.email})"
+        }
+
+        try:
+            response = requests.get(crossref_url, headers=headers, timeout=10)
+            response.raise_for_status()
+            data = response.json()
+            
+            if data and data.get("status") == "ok" and "message" in data:
+                return data["message"]
+            else:
+                print(f"WARNUNG: Crossref API lieferte keine Metadaten für DOI {doi}. Antwort: {data}")
+                return None
+
+        except requests.exceptions.RequestException as e:
+            print(f"FEHLER beim Abrufen von Metadaten von Crossref API für DOI {doi}: {e}")
+            if hasattr(e, 'response') and e.response is not None:
+                print(f"Crossref API-Antwort Status: {e.response.status_code}")
+                print(f"Crossref API-Antwort Text: {e.response.text}")
+            return None
+        except json.JSONDecodeError as e:
+            print(f"FEHLER: Ungültige JSON-Antwort von Crossref API für DOI {doi}: {e}")
+            print(f"Rohe Crossref API-Antwort, die keine gültige JSON war: {response.text}")
             return None
 
     def _create_rss_item(self, article: dict) -> ET.Element:
         """
-        Erstellt ein RSS-Item-Element aus einem Artikel-Dictionary, 
-        angepasst an die tatsächlich von der OOIR API gelieferten Daten.
+        Erstellt ein RSS-Item-Element aus einem Artikel-Dictionary,
+        angereichert mit Daten von Crossref.
         """
         item = ET.Element("item")
 
         doi = article.get("doi", "N/A")
-        # Der Titel ist jetzt die DOI, da die API keinen Titel liefert.
+        crossref_metadata = None
+        if doi != "N/A":
+            crossref_metadata = self._fetch_article_metadata_from_doi(doi)
+            time.sleep(0.1) # Kurze Pause, um Crossref Rate Limits einzuhalten (Polite Pool)
+
         title_text = f"DOI: {doi} (Rank: {article.get('rank', 'N/A')})"
+        if crossref_metadata and "title" in crossref_metadata and crossref_metadata["title"]:
+            # Crossref Titel ist oft eine Liste, nehmen den ersten Eintrag
+            title_text = crossref_metadata["title"][0] if isinstance(crossref_metadata["title"], list) else crossref_metadata["title"]
+            title_text = re.sub(r'<[^>]*>', '', title_text) # HTML-Tags entfernen
+
         title = ET.SubElement(item, "title")
         title.text = title_text
 
-        # Link zur DOI-Resolver-Seite, da wir keinen direkten Paper-Link haben.
         link = ET.SubElement(item, "link")
-        if doi != "N/A":
-            link.text = f"https://doi.org/{doi}"
+        if crossref_metadata and "URL" in crossref_metadata:
+            link.text = crossref_metadata["URL"] # Direktlink zum Artikel, falls von Crossref geliefert
+        elif doi != "N/A":
+            link.text = f"https://doi.org/{doi}" # Fallback auf DOI-Resolver
         else:
-            link.text = "https://ooir.org" # Fallback-Link
+            link.text = "https://ooir.org" # Letzter Fallback-Link
 
         description = ET.SubElement(item, "description")
-        desc_text = f"Feld: {article.get('field', 'N/A')}\n"
-        desc_text += f"Kategorie: {article.get('category', 'N/A')}\n"
-        desc_text += f"Score: {article.get('score', 'N/A')}\n"
-        desc_text += f"ISSN: {article.get('issn', 'N/A')}\n"
-        desc_text += f"Tag der Erhebung: {article.get('day', 'N/A')}\n"
-        desc_text += "\n(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)"
-        description.text = desc_text
+        desc_parts = []
+        desc_parts.append(f"Feld: {article.get('field', 'N/A')}")
+        desc_parts.append(f"Kategorie: {article.get('category', 'N/A')}")
+        desc_parts.append(f"Score: {article.get('score', 'N/A')}")
+        
+        if crossref_metadata:
+            if "author" in crossref_metadata:
+                authors = []
+                for author in crossref_metadata["author"]:
+                    if "given" in author and "family" in author:
+                        authors.append(f"{author['given']} {author['family']}")
+                    elif "name" in author: # Manchmal ist nur ein "name" Feld vorhanden
+                        authors.append(author["name"])
+                if authors:
+                    desc_parts.append(f"Autoren: {', '.join(authors)}")
+
+            if "container-title" in crossref_metadata and crossref_metadata["container-title"]:
+                journal_title = crossref_metadata["container-title"][0] if isinstance(crossref_metadata["container-title"], list) else crossref_metadata["container-title"]
+                desc_parts.append(f"Journal: {journal_title}")
+            
+            if "published" in crossref_metadata and "date-parts" in crossref_metadata["published"]:
+                date_parts = crossref_metadata["published"]["date-parts"][0]
+                if date_parts:
+                    try:
+                        pub_date_crossref = datetime.date(*date_parts)
+                        desc_parts.append(f"Veröffentlicht: {pub_date_crossref.strftime('%Y-%m-%d')}")
+                    except ValueError:
+                        pass # Datum unvollständig oder fehlerhaft
+            
+            if "abstract" in crossref_metadata and crossref_metadata["abstract"]:
+                abstract_text = re.sub(r'<[^>]*>', '', crossref_metadata["abstract"]) # HTML-Tags entfernen
+                desc_parts.append(f"Abstract: {abstract_text}")
+        
+        desc_parts.append(f"DOI: {doi}")
+        desc_parts.append(f"ISSN: {article.get('issn', 'N/A')}")
+        desc_parts.append(f"Tag der Erhebung (OOIR): {article.get('day', 'N/A')}")
+
+        description.text = "\n".join(desc_parts)
         
         guid = ET.SubElement(item, "guid")
-        # GUID basiert auf der DOI und dem Erhebungstag
         guid.text = f"ooir-trend-{doi}-{article.get('day', '')}-{article.get('rank', '')}"
         guid.set("isPermaLink", "false")
 
+        pub_date_str = None
+        if crossref_metadata and "issued" in crossref_metadata and "date-parts" in crossref_metadata["issued"]:
+            try:
+                date_parts = crossref_metadata["issued"]["date-parts"][0]
+                if date_parts:
+                    # Crossref kann Datumsteile liefern, wie [Jahr], [Jahr, Monat], [Jahr, Monat, Tag]
+                    # Versuche, das vollständigste Datum zu erstellen
+                    dt_obj = None
+                    if len(date_parts) == 3:
+                        dt_obj = datetime.datetime(date_parts[0], date_parts[1], date_parts[2], tzinfo=datetime.timezone.utc)
+                    elif len(date_parts) == 2:
+                        dt_obj = datetime.datetime(date_parts[0], date_parts[1], 1, tzinfo=datetime.timezone.utc) # Erster Tag des Monats
+                    elif len(date_parts) == 1:
+                        dt_obj = datetime.datetime(date_parts[0], 1, 1, tzinfo=datetime.timezone.utc) # Erster Tag des Jahres
+                    
+                    if dt_obj:
+                        pub_date_str = dt_obj.strftime("%a, %d %b %Y %H:%M:%S GMT")
+            except Exception as e:
+                print(f"WARNUNG: Fehler beim Parsen des Crossref Datums für DOI {doi}: {e}")
+
+        # Fallback auf OOIR-Datum, wenn Crossref-Datum nicht verfügbar oder fehlerhaft
+        if not pub_date_str:
+            try:
+                date_str_ooir = article.get("day")
+                if date_str_ooir:
+                    pub_datetime_ooir = datetime.datetime.strptime(date_str_ooir, "%Y-%m-%d")
+                    pub_date_str = pub_datetime_ooir.replace(tzinfo=datetime.timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
+            except ValueError:
+                pass # OOIR Datum unvollständig oder fehlerhaft
+        
+        # Letzter Fallback auf aktuelle Zeit
+        if not pub_date_str:
+            pub_date_str = datetime.datetime.now(datetime.timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
+
         pub_date = ET.SubElement(item, "pubDate")
-        try:
-            # Versuche, das Datum aus 'day' zu parsen
-            date_str = article.get("day")
-            if date_str:
-                pub_datetime = datetime.datetime.strptime(date_str, "%Y-%m-%d")
-                # Setze die Uhrzeit auf Mitternacht UTC, da die API keine Uhrzeit liefert
-                pub_date.text = pub_datetime.replace(tzinfo=datetime.timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
-            else:
-                pub_date.text = datetime.datetime.now(datetime.timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
-        except ValueError:
-            pub_date.text = datetime.datetime.now(datetime.timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
+        pub_date.text = pub_date_str
 
         return item
 
-    def generate_rss_feed(self, full_category_name: str, field_name: str, category_param: Optional[str], papers_data: Optional[dict]):
+    def generate_rss_feed(self, full_category_name: str, field_name: str, category_param: Optional[str], papers_data: Optional[list]):
         """Generiert einen RSS-Feed für eine bestimmte Kategorie mit den bereitgestellten Daten."""
         rss = ET.Element("rss", version="2.0")
         channel = ET.SubElement(rss, "channel")
 
         ET.SubElement(channel, "title").text = f"OOIR Trends: {full_category_name}"
-        ET.SubElement(channel, "description").text = f"Aktuelle Paper-Trends im Bereich {full_category_name} von OOIR (nur DOIs und Trend-Rankings)"
+        ET.SubElement(channel, "description").text = f"Aktuelle Paper-Trends im Bereich {full_category_name} von OOIR (mit Titel und Metadaten von Crossref)"
         ET.SubElement(channel, "link").text = "https://ooir.org"
         ET.SubElement(channel, "language").text = "en-us"
         
@@ -113,14 +224,9 @@ class OOIRTrendMonitor:
         ET.SubElement(channel, "pubDate").text = current_time_gmt
         ET.SubElement(channel, "lastBuildDate").text = current_time_gmt
 
-        # Die API-Antwort ist direkt eine Liste von Paper-Objekten, nicht unter einem "papers"-Schlüssel
         articles_for_feed = []
-        if isinstance(papers_data, list): # Überprüfen, ob es eine Liste ist (wie in Ihrer Testausgabe)
+        if papers_data: # papers_data ist jetzt direkt eine Liste von der OOIR API
             articles_for_feed = papers_data[:self.max_items]
-        # Falls die API in Zukunft doch ein "papers"-Objekt zurückgibt
-        elif isinstance(papers_data, dict) and "papers" in papers_data:
-            articles_for_feed = papers_data["papers"][:self.max_items]
-
 
         if not articles_for_feed:
             error_item = ET.SubElement(channel, "item")
