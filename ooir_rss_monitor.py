@@ -148,14 +148,23 @@ class OOIRTrendMonitor:
                 journal_title = crossref_metadata["container-title"][0] if isinstance(crossref_metadata["container-title"], list) else crossref_metadata["container-title"]
                 desc_parts.append(f"Journal: {journal_title}")
             
+            # **FIX: Robusteres Parsen für published date-parts im Description-Feld**
             if "published" in crossref_metadata and "date-parts" in crossref_metadata["published"]:
-                date_parts = crossref_metadata["published"]["date-parts"][0]
-                if date_parts:
+                date_parts_pub = crossref_metadata["published"]["date-parts"][0]
+                if date_parts_pub:
                     try:
-                        pub_date_crossref = datetime.date(*date_parts)
+                        year = date_parts_pub[0] if len(date_parts_pub) >= 1 else 1
+                        month = date_parts_pub[1] if len(date_parts_pub) >= 2 else 1
+                        day = date_parts_pub[2] if len(date_parts_pub) >= 3 else 1
+                        
+                        # Sicherstellen, dass Monat und Tag gültig sind, bevor datetime.date erstellt wird
+                        if not (1 <= month <= 12): month = 1
+                        if not (1 <= day <= 31): day = 1 # Vereinfachte Prüfung, genaue Prüfung erfordert Kenntnis des Monats
+                        
+                        pub_date_crossref = datetime.date(year, month, day)
                         desc_parts.append(f"Veröffentlicht: {pub_date_crossref.strftime('%Y-%m-%d')}")
-                    except ValueError:
-                        pass # Datum unvollständig oder fehlerhaft
+                    except ValueError as e:
+                        print(f"WARNUNG: Fehler beim Parsen des Crossref Published Datums für DOI {doi} (Beschreibung): {e}")
             
             if "abstract" in crossref_metadata and crossref_metadata["abstract"]:
                 abstract_text = re.sub(r'<[^>]*>', '', crossref_metadata["abstract"]) # HTML-Tags entfernen
@@ -172,19 +181,22 @@ class OOIRTrendMonitor:
         guid.set("isPermaLink", "false")
 
         pub_date_str = None
+        # **FIX: Robusteres Parsen für issued date-parts im pubDate-Feld**
         if crossref_metadata and "issued" in crossref_metadata and "date-parts" in crossref_metadata["issued"]:
             try:
-                date_parts = crossref_metadata["issued"]["date-parts"][0]
-                # Crossref kann Datumsteile liefern, wie [Jahr], [Jahr, Monat], [Jahr, Monat, Tag]
-                # Versuche, das vollständigste Datum zu erstellen
-                year = date_parts[0] if len(date_parts) >= 1 else 1900
-                month = date_parts[1] if len(date_parts) >= 2 else 1
-                day = date_parts[2] if len(date_parts) >= 3 else 1
+                date_parts_issued = crossref_metadata["issued"]["date-parts"][0]
+                year = date_parts_issued[0] if len(date_parts_issued) >= 1 else 1900
+                month = date_parts_issued[1] if len(date_parts_issued) >= 2 else 1
+                day = date_parts_issued[2] if len(date_parts_issued) >= 3 else 1
+                
+                # Sicherstellen, dass Monat und Tag gültig sind
+                if not (1 <= month <= 12): month = 1
+                if not (1 <= day <= 31): day = 1
                 
                 dt_obj = datetime.datetime(year, month, day, tzinfo=datetime.timezone.utc)
                 pub_date_str = dt_obj.strftime("%a, %d %b %Y %H:%M:%S GMT")
             except Exception as e:
-                print(f"WARNUNG: Fehler beim Parsen des Crossref Datums für DOI {doi}: {e}")
+                print(f"WARNUNG: Fehler beim Parsen des Crossref Issued Datums für DOI {doi}: {e}")
 
         # Fallback auf OOIR-Datum, wenn Crossref-Datum nicht verfügbar oder fehlerhaft
         if not pub_date_str:
