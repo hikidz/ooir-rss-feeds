@@ -2,75 +2,87 @@
 <rss version="2.0">
 	<channel>
 		<title>OOIR Trends: Clinical Medicine (Medicine, General &amp; Internal)</title>
-		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, General &amp; Internal) von OOIR (nur DOIs und Trend-Rankings)</description>
+		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, General &amp; Internal) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 30 Jul 2025 22:23:02 GMT</pubDate>
-		<lastBuildDate>Wed, 30 Jul 2025 22:23:02 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Jul 2025 22:47:26 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Jul 2025 22:47:26 GMT</lastBuildDate>
 		<item>
-			<title>DOI: 10.1056/nejmsb2506929 (Rank: 1)</title>
+			<title>An Evidence-Based Approach to Covid-19 Vaccination</title>
 			<link>https://doi.org/10.1056/nejmsb2506929</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medicine, General &amp; Internal
 Score: 6505
+Autoren: Vinay Prasad, Martin A. Makary
+Journal: New England Journal of Medicine
+Veröffentlicht: 2025-06-26
+DOI: 10.1056/nejmsb2506929
 ISSN: 0028-4793
-Tag der Erhebung: 2025-07-30
-
-(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+Tag der Erhebung (OOIR): 2025-07-30</description>
 			<guid isPermaLink="false">ooir-trend-10.1056/nejmsb2506929-2025-07-30-1</guid>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>DOI: 10.1056/nejmoa2502760 (Rank: 2)</title>
+			<title>Structured Exercise after Adjuvant Chemotherapy for Colon Cancer</title>
 			<link>https://doi.org/10.1056/nejmoa2502760</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medicine, General &amp; Internal
 Score: 3773
+Autoren: Kerry S. Courneya, Janette L. Vardy, Christopher J. O’Callaghan, Sharlene Gill, Christine M. Friedenreich, Rebecca K.S. Wong, Haryana M. Dhillon, Victoria Coyle, Neil S. Chua, Derek J. Jonker, Philip J. Beale, Kamal Haider, Patricia A. Tang, Tony Bonaventura, Ralph Wong, Howard J. Lim, Matthew E. Burge, Stacey Hubay, Michael Sanatani, Kristin L. Campbell, Fernanda Z. Arthuso, Jane Turner, Ralph M. Meyer, Michael Brundage, Patti O’Brien, Dongsheng Tu, Christopher M. Booth
+Journal: New England Journal of Medicine
+Veröffentlicht: 2025-07-03
+DOI: 10.1056/nejmoa2502760
 ISSN: 0028-4793
-Tag der Erhebung: 2025-07-30
-
-(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+Tag der Erhebung (OOIR): 2025-07-30</description>
 			<guid isPermaLink="false">ooir-trend-10.1056/nejmoa2502760-2025-07-30-2</guid>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>DOI: 10.1056/nejmoa2416394 (Rank: 3)</title>
+			<title>Tirzepatide as Compared with Semaglutide for the Treatment of Obesity</title>
 			<link>https://doi.org/10.1056/nejmoa2416394</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medicine, General &amp; Internal
 Score: 3706
+Autoren: Louis J. Aronne, Deborah Bade Horn, Carel W. le Roux, Wayne Ho, Beverly L. Falcon, Elisa Gomez Valderas, Sagar Das, Clare J. Lee, Leonard C. Glass, Cagri Senyucel, Julia P. Dunn
+Journal: New England Journal of Medicine
+Veröffentlicht: 2025-07-03
+DOI: 10.1056/nejmoa2416394
 ISSN: 0028-4793
-Tag der Erhebung: 2025-07-30
-
-(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+Tag der Erhebung (OOIR): 2025-07-30</description>
 			<guid isPermaLink="false">ooir-trend-10.1056/nejmoa2416394-2025-07-30-3</guid>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>DOI: 10.1001/jama.2025.6495 (Rank: 4)</title>
+			<title>Modeling Reemergence of Vaccine-Eliminated Infectious Diseases Under Declining Vaccination in the US</title>
 			<link>https://doi.org/10.1001/jama.2025.6495</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medicine, General &amp; Internal
 Score: 3540
+Autoren: Mathew V. Kiang, Kate M. Bubar, Yvonne Maldonado, Peter J. Hotez, Nathan C. Lo
+Journal: JAMA
+Veröffentlicht: 2025-06-24
+Abstract: ImportanceWidespread childhood vaccination has eliminated many infectious diseases in the US. However, vaccination rates are declining, and there are ongoing policy debates to reduce the childhood vaccine schedule, which may risk reemergence of previously eliminated infectious diseases.ObjectiveTo estimate the number of cases and complications in the US under scenarios of declining childhood vaccination for measles, rubella, poliomyelitis, and diphtheria.Design, Setting, and ParticipantsA simulation model was used to assess the importation and dynamic spread of vaccine-preventable infectious diseases across 50 US states and the District of Columbia. The model was parameterized with data on area-specific estimates for demography, population immunity, and infectious disease importation risk. The model evaluated scenarios with different vaccination rates over a 25-year period. Inputs for current childhood vaccination rates were based on 2004-2023 data.Main Outcomes and MeasuresThe primary outcomes were estimated cases of measles, rubella, poliomyelitis, and diphtheria in the US. The secondary outcomes were estimated rates of infection-related complications (postmeasles neurological sequelae, congenital rubella syndrome, paralytic poliomyelitis, hospitalization, and death) and the probability and timing for an infection to reestablish endemicity.ResultsAt current state-level vaccination rates, the simulation model predicts measles may reestablish endemicity (83% of simulations; mean time of 20.9 years) with an estimated 851 300 cases (95% uncertainty interval [UI], 381 300 to 1.3 million cases) over 25 years. Under a scenario with a 10% decline in measles-mumps-rubella (MMR) vaccination, the model estimates 11.1 million (95% UI, 10.1-12.1 million) cases of measles over 25 years, whereas the model estimates only 5800 cases (95% UI, 3100-19 400 cases) with a 5% increase in MMR vaccination. Other vaccine-preventable diseases are unlikely to reestablish endemicity under current levels of vaccination. If routine childhood vaccination declined by 50%, the model predicts 51.2 million (95% UI, 49.7-52.5 million) cases of measles over a 25-year period, 9.9 million (95% UI, 6.4-13.0 million) cases of rubella, 4.3 million cases (95% UI, 4 cases to 21.5 million cases) of poliomyelitis, and 197 cases (95% UI, 1-1000 cases) of diphtheria. Under this scenario, the model predicts 51 200 cases (95% UI, 49 600-52 600 cases) with postmeasles neurological sequelae, 10 700 cases (95% UI, 6700-14 600 cases) of congenital rubella syndrome, 5400 cases (95% UI, 0-26 300 cases) of paralytic poliomyelitis, 10.3 million hospitalizations (95% UI, 9.9-10.5 million hospitalizations), and 159 200 deaths (95% UI, 151 200-164 700 deaths). In this scenario, measles became endemic at 4.9 years (95% UI, 4.3-5.6 years) and rubella became endemic at 18.1 years (95% UI, 17.0-19.6 years), whereas poliovirus returned to endemic levels in about half of simulations (56%) at an estimated 19.6 years (95% UI, 14.0-24.7 years). There was large variation across the US population.Conclusions and RelevanceBased on estimates from this modeling study, declining childhood vaccination rates will increase the frequency and size of outbreaks of previously eliminated vaccine-preventable infections, eventually leading to their return to endemic levels. The timing and critical threshold for returning to endemicity will differ substantially by disease, with measles likely to be the first to return to endemic levels and may occur even under current vaccination levels without improved vaccine coverage and public health response. These findings support the need to continue routine childhood vaccination at high coverage to prevent resurgence of vaccine-preventable infectious diseases in the US.
+DOI: 10.1001/jama.2025.6495
 ISSN: 0098-7484
-Tag der Erhebung: 2025-07-30
-
-(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+Tag der Erhebung (OOIR): 2025-07-30</description>
 			<guid isPermaLink="false">ooir-trend-10.1001/jama.2025.6495-2025-07-30-4</guid>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>DOI: 10.1001/jama.2025.9855 (Rank: 5)</title>
+			<title>Trends in US Children’s Mortality, Chronic Conditions, Obesity, Functional Status, and Symptoms</title>
 			<link>https://doi.org/10.1001/jama.2025.9855</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medicine, General &amp; Internal
 Score: 3356
+Autoren: Christopher B. Forrest, Lauren J. Koenigsberg, Francis Eddy Harvey, Mitchell G. Maltenfort, Neal Halfon
+Journal: JAMA
+Veröffentlicht: 2025-07-07
+Abstract: ImportanceRecent scientific and policy statements suggest that child health may be worsening in the US.ObjectiveTo determine how US children’s health has been changing from 2007 to 2023 using multiple data collection methods and a comprehensive set of health indicators.Design, Setting, and ParticipantsRepeated, cross-sectional analyses using mortality statistics from the US and 18 comparator high-income nations from the Organisation for Economic Co-operation and Development (OECD18), 5 nationally representative surveys, and electronic health records from 10 pediatric health systems (PEDSnet). The populations included individuals younger than 20 years old. Unweighted denominator sample size ranges were 1623 to 95 677 across the surveys, 1 026 926 to 2 114 638 for PEDSnet, 81.9 million to 83.2 million in the US, and 118.4 million to 121.1 million in the OECD18 for mortality statistics.ExposureCalendar time.Main Outcomes and MeasuresRate ratios (RRs) and annual incidence for mortality and prevalence for chronic physical, developmental, and mental health conditions, functional status, and symptoms.ResultsFrom 2007 to 2022, infants (&amp;amp;amp;lt;1 year old) were 1.78 (95% CI, 1.78-1.79) and 1- to 19-year-old individuals were 1.80 (95% CI, 1.80-1.80) times more likely to die in the US than in the OECD18. The 2 causes of death with the largest net difference between the US and OECD18 were prematurity (RR, 2.22 [95% CI, 2.20-2.24]) and sudden unexpected infant death (RR, 2.39 [95% CI, 2.35-2.43]) for infants 12 months or younger, and firearm-related incidents (RR, 15.34 [95% CI, 14.89-15.80]) and motor vehicle crashes (RR, 2.45 [95% CI, 2.42-2.48]) for 1- to 19-year-old individuals. From 2011 to 2023, the prevalence of 3- to 17-year-old individuals with a chronic condition rose from 39.9% to 45.7% (RR, 1.15 [95% CI, 1.14-1.15]) within PEDSnet, and from 25.8% to 31.0% (RR, 1.20 [95% CI, 1.20-1.20]) within the general population. Rates of obesity, early onset of menstruation, trouble sleeping, limitations in activity, physical symptoms, depressive symptoms, and loneliness all increased during the study period.Conclusions and RelevanceThe health of US children has worsened across a wide range of health indicator domains over the past 17 years. The broad scope of this deterioration highlights the need to identify and address the root causes of this fundamental decline in the nation’s health.
+DOI: 10.1001/jama.2025.9855
 ISSN: 0098-7484
-Tag der Erhebung: 2025-07-30
-
-(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+Tag der Erhebung (OOIR): 2025-07-30</description>
 			<guid isPermaLink="false">ooir-trend-10.1001/jama.2025.9855-2025-07-30-5</guid>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

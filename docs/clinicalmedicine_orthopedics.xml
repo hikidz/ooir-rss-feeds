@@ -2,75 +2,131 @@
 <rss version="2.0">
 	<channel>
 		<title>OOIR Trends: Clinical Medicine (Orthopedics)</title>
-		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Orthopedics) von OOIR (nur DOIs und Trend-Rankings)</description>
+		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Orthopedics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 30 Jul 2025 22:23:03 GMT</pubDate>
-		<lastBuildDate>Wed, 30 Jul 2025 22:23:03 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Jul 2025 22:47:33 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Jul 2025 22:47:33 GMT</lastBuildDate>
 		<item>
-			<title>DOI: 10.1002/jor.70000 (Rank: 1)</title>
+			<title>Development of Artificial Intelligence‐Assisted Lumbar and Femoral BMD Estimation System Using Anteroposterior Lumbar X‐Ray Images</title>
 			<link>https://doi.org/10.1002/jor.70000</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Orthopedics
 Score: 73
+Autoren: Toru Moro, Noriko Yoshimura, Taku Saito, Hiroyuki Oka, Sigeyuki Muraki, Toshiko Iidaka, Takeyuki Tanaka, Kumiko Ono, Hisatoshi Ishikura, Naoya Wada, Kenichi Watanabe, Masayuki Kyomoto, Sakae Tanaka
+Journal: Journal of Orthopaedic Research
+Veröffentlicht: 2025-07-09
+Abstract: ABSTRACTThe early detection and treatment of osteoporosis and prevention of fragility fractures are urgent societal issues. We developed an artificial intelligence‐assisted diagnostic system that estimated not only lumbar bone mineral density but also femoral bone mineral density from anteroposterior lumbar X‐ray images. We evaluated the performance of lumbar and femoral bone mineral density estimations and the osteoporosis classification accuracy of an artificial intelligence‐assisted diagnostic system using lumbar X‐ray images from a population‐based cohort. The artificial neural network consisted of a deep neural network for estimating lumbar and femoral bone mineral density values and classifying lumbar X‐ray images into osteoporosis categories. The deep neural network was built by training dual‐energy X‐ray absorptiometry‐derived lumbar and femoral bone mineral density values as the ground truth of the training data and preprocessed X‐ray images. Five‐fold cross‐validation was performed to evaluate the accuracy of the estimated BMD. A total of 1454 X‐ray images from 1454 participants were analyzed using the artificial neural network. For the bone mineral density estimation performance, the mean absolute errors were 0.076 g/cm2 for the lumbar and 0.071 g/cm2 for the femur between dual‐energy X‐ray absorptiometry‐derived and artificial intelligence‐estimated bone mineral density values. The classification performances for the lumbar and femur of patients with osteopenia, in terms of sensitivity, were 86.4% and 80.4%, respectively, and the respective specificities were 84.1% and 76.3%.Clinical SignificanceThe system was able to estimate the bone mineral density and classify the osteoporosis category of not only patients in clinics or hospitals but also of general inhabitants.
+DOI: 10.1002/jor.70000
 ISSN: 0736-0266
-Tag der Erhebung: 2025-07-30
-
-(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+Tag der Erhebung (OOIR): 2025-07-30</description>
 			<guid isPermaLink="false">ooir-trend-10.1002/jor.70000-2025-07-30-1</guid>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Wed, 09 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>DOI: 10.1016/j.bjpt.2025.101244 (Rank: 2)</title>
+			<title>The content of diagnostic information has an immediate effect on pain with loading in people with midportion Achilles tendinopathy: a randomized clinical experiment</title>
 			<link>https://doi.org/10.1016/j.bjpt.2025.101244</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Orthopedics
 Score: 23
+Autoren: Nigel J Travers, Mervyn J Travers, William Gibson, James R Debenham, Dana A Hince, Benedict M Wand
+Journal: Brazilian Journal of Physical Therapy
+Veröffentlicht: 2025-09-01
+DOI: 10.1016/j.bjpt.2025.101244
 ISSN: 1413-3555
-Tag der Erhebung: 2025-07-30
-
-(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+Tag der Erhebung (OOIR): 2025-07-30</description>
 			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2025.101244-2025-07-30-2</guid>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>DOI: 10.1007/s00586-025-09164-6 (Rank: 3)</title>
+			<title>Diagnostic accuracy of the compression overload test versus straight leg Raise test in detecting lumbar disc herniation: an MRI-Validated Cross-Sectional study</title>
 			<link>https://doi.org/10.1007/s00586-025-09164-6</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Orthopedics
 Score: 20
+Autoren: Malini Madhesh, Charu Eapen, Parthasarathy Eappakkam Kumaraswamy, Vijayakumar Palaniswamy
+Journal: European Spine Journal
+Veröffentlicht: 2025-07-21
+Abstract: Abstract
+          
+            Purpose
+            To determine the diagnostic performance of the Compression Overload Test (COLT) compared with the Straight Leg Raise Test (SLRT) in detecting lumbar intervertebral disc herniation (IVDH), using MRI as the reference standard. A secondary objective was to evaluate the correlation between each test and MRI results.
+          
+          
+            Method
+            Fifty-three 53 participants (mean age: 37.26 ± 12.16) with MRI-confirmed acute lumbar IVDH were included in the study. COLT and SLRT tests were conducted by the principal investigator, blinded to participant history, clinical findings, and MRI, while the co-investigator collected demographic and clinical data. Diagnostic performance was evaluated by sensitivity, specificity, and receiver operating characteristic (ROC) curve measures.
+          
+          
+            Results
+            COLT demonstrated a higher diagnostic yield than SLRT, with a sensitivity of 92% and an overall diagnostic accuracy of 90.57%. It demonstrated moderate agreement with MRI findings (κ = 0.399) and a positive correlation (Φ = 0.428), with an area under the curve (AUC) of 0.793. In contrast, SLRT had no agreement (κ = -0.008) and no correlation (Φ = -0.0274) with MRI and a poor AUC (0.473). MRI predominantly identified L4–L5 herniations (47.5%) and disc bulges (54.5%). Vertebral endplate abnormalities, including Schmorl’s nodes and Modic changes, were observed in 20 participants.
+          
+          
+            Conclusion
+            COLT showed higher diagnostic utility than SLRT and correlated well with MRI results.
+          
+DOI: 10.1007/s00586-025-09164-6
 ISSN: 0940-6719
-Tag der Erhebung: 2025-07-30
-
-(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+Tag der Erhebung (OOIR): 2025-07-30</description>
 			<guid isPermaLink="false">ooir-trend-10.1007/s00586-025-09164-6-2025-07-30-3</guid>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>DOI: 10.1177/23259671251351339 (Rank: 4)</title>
+			<title>Risk Factors for an Ulnar Collateral Ligament Injury Resulting in Surgery: A Prospective Longitudinal Study of 305 Professional Baseball Pitchers</title>
 			<link>https://doi.org/10.1177/23259671251351339</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Orthopedics
 Score: 18
+Autoren: Glenn S. Fleisig, Jonathan S. Slowik, Cara Wychgram, John D’Angelo, Peter N. Chalmers, Brandon J. Erickson, Ryan Froom, Keshia M. Pollack Porter, Frank C. Curriero
+Journal: Orthopaedic Journal of Sports Medicine
+Veröffentlicht: 2025-07-01
+Abstract: 
+            Background:
+            The number of ulnar collateral ligament (UCL) surgical procedures in professional baseball players continues to increase.
+          
+          
+            Hypothesis:
+            Performance, injury history, physical characteristics, pitching velocity, elbow torque, and amount of pitching are associated with the risk of a UCL injury resulting in surgery.
+          
+          
+            Study Design:
+            Cohort study; Level of evidence, 2.
+          
+          
+            Methods:
+            
+              All 30 Major League Baseball (MLB) clubs were contacted for recruitment at Spring Training and the Fall Instructional League in 2015, 2016, and 2017. Pitchers were eligible if they were from the most recent draft and were healthy. Participants completed a questionnaire, a physical examination, magnetic resonance imaging (MRI), and biomechanical testing. The questionnaire included date of birth, previous elbow surgery, and self-reported fastball velocity. The physical examination included measurements of height, weight, and passive range of motion in both shoulders. Elbow MRI assessed for abnormalities of the UCL. During biomechanical testing, fastball velocity was measured, and elbow varus torque was calculated. Pitching volume and injuries resulting in UCL surgery were monitored until the end of 2019. Continuous variables were compared between pitchers with and without UCL surgery using the Student
+              t
+              test. For binary risk factors, significant differences in proportions were determined with the chi-square test. Cox proportional hazards regression was used to model hazard ratios for the associations between risk factor variables and time to injury. An alpha level of .05 was used for all tests.
+            
+          
+          
+            Results:
+            Overall, 31 of 305 participants required UCL surgery during the follow-up period. Elbow varus torque was significantly higher for pitchers with a subsequent injury requiring UCL surgery (100.8 ± 18.1 N·m) compared with pitchers without such an injury (94.3 ± 16.1 N·m). The risk of UCL surgery increased 26% for every 10-N·m increase in elbow varus torque. No statistically significant association was found between UCL surgery and body size, history of surgery, fastball velocity, percentage of games pitched as a starter, or UCL abnormalities on MRI, although the 2 pitchers with a full-thickness UCL tear on MRI subsequently underwent UCL surgery.
+          
+          
+            Conclusion:
+            High elbow varus torque was associated with a greater risk of UCL surgery. With motion capture technology and biomechanists now part of MLB organizations, teams can analyze and improve the biomechanics of their pitchers to reduce elbow varus torque and the injury risk.
+          
+DOI: 10.1177/23259671251351339
 ISSN: 2325-9671
-Tag der Erhebung: 2025-07-30
-
-(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+Tag der Erhebung (OOIR): 2025-07-30</description>
 			<guid isPermaLink="false">ooir-trend-10.1177/23259671251351339-2025-07-30-4</guid>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>DOI: 10.1016/j.injury.2025.112595 (Rank: 5)</title>
+			<title>Implementation of an automated, real-time mortality prediction tool in trauma patients: Can it do more than just predict mortality?</title>
 			<link>https://doi.org/10.1016/j.injury.2025.112595</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Orthopedics
 Score: 16
+Autoren: K. Gopal, K. Diercks, M. Cheng, A. Bain, C. Hirschkorn, A. Franklin, V. Chowdhry, D. Sanders, A. Starr, C. Park
+Journal: Injury
+Veröffentlicht: 2025-08-01
+DOI: 10.1016/j.injury.2025.112595
 ISSN: 0020-1383
-Tag der Erhebung: 2025-07-30
-
-(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+Tag der Erhebung (OOIR): 2025-07-30</description>
 			<guid isPermaLink="false">ooir-trend-10.1016/j.injury.2025.112595-2025-07-30-5</guid>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

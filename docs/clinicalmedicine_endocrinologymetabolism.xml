@@ -2,75 +2,108 @@
 <rss version="2.0">
 	<channel>
 		<title>OOIR Trends: Clinical Medicine (Endocrinology &amp; Metabolism)</title>
-		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Endocrinology &amp; Metabolism) von OOIR (nur DOIs und Trend-Rankings)</description>
+		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Endocrinology &amp; Metabolism) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 30 Jul 2025 22:23:00 GMT</pubDate>
-		<lastBuildDate>Wed, 30 Jul 2025 22:23:00 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Jul 2025 22:47:14 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Jul 2025 22:47:14 GMT</lastBuildDate>
 		<item>
-			<title>DOI: 10.1016/j.freeradbiomed.2025.07.002 (Rank: 1)</title>
+			<title>Ageing modifies the oral microbiome, nitric oxide bioavailability and vascular responses to dietary nitrate supplementation</title>
 			<link>https://doi.org/10.1016/j.freeradbiomed.2025.07.002</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Endocrinology &amp; Metabolism
 Score: 1362
+Autoren: Anni Vanhatalo, Joanna E. L'Heureux, Matthew I. Black, Jamie R. Blackwell, Kuni Aizawa, Christopher Thompson, David W. Williams, Mark van der Giezen, Paul G. Winyard, Andrew M. Jones
+Journal: Free Radical Biology and Medicine
+Veröffentlicht: 2025-07-01
+DOI: 10.1016/j.freeradbiomed.2025.07.002
 ISSN: 0891-5849
-Tag der Erhebung: 2025-07-30
-
-(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+Tag der Erhebung (OOIR): 2025-07-30</description>
 			<guid isPermaLink="false">ooir-trend-10.1016/j.freeradbiomed.2025.07.002-2025-07-30-1</guid>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>DOI: 10.1038/s42255-025-01314-w (Rank: 2)</title>
+			<title>Neuronal glycogen breakdown mitigates tauopathy via pentose-phosphate-pathway-mediated oxidative stress reduction</title>
 			<link>https://doi.org/10.1038/s42255-025-01314-w</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Endocrinology &amp; Metabolism
 Score: 522
+Autoren: Sudipta Bar, Kenneth A. Wilson, Tyler A. U. Hilsabeck, Sydney Alderfer, Eric B. Dammer, Jordan B. Burton, Samah Shah, Anja Holtz, Enrique M. Carrera, Jennifer N. Beck, Jackson H. Chen, Grant Kauwe, Fatemeh Seifar, Ananth Shantaraman, Tara E. Tracy, Nicholas T. Seyfried, Birgit Schilling, Lisa M. Ellerby, Pankaj Kapahi
+Journal: Nature Metabolism
+Veröffentlicht: 2025-06-30
+DOI: 10.1038/s42255-025-01314-w
 ISSN: 2522-5812
-Tag der Erhebung: 2025-07-30
-
-(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+Tag der Erhebung (OOIR): 2025-07-30</description>
 			<guid isPermaLink="false">ooir-trend-10.1038/s42255-025-01314-w-2025-07-30-2</guid>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>DOI: 10.1210/clinem/dgaf284 (Rank: 3)</title>
+			<title>Primary Aldosteronism: An Endocrine Society Clinical Practice Guideline</title>
 			<link>https://doi.org/10.1210/clinem/dgaf284</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Endocrinology &amp; Metabolism
 Score: 495
+Autoren: Gail K Adler, Michael Stowasser, Ricardo R Correa, Nadia Khan, Gregory Kline, Michael J McGowan, Paolo Mulatero, M Hassan Murad, Rhian M Touyz, Anand Vaidya, Tracy A Williams, Jun Yang, William F Young, Maria-Christina Zennaro, Juan P Brito
+Journal: The Journal of Clinical Endocrinology &amp;amp; Metabolism
+Veröffentlicht: 2025-07-14
+Abstract: Abstract
+               
+                  Background
+                  Primary aldosteronism (PA), a primary adrenal disorder leading to excessive aldosterone production by one or both adrenal glands, is a common cause of hypertension. It is associated with an increased risk of cardiovascular complications compared with primary hypertension. Despite effective methods for diagnosing and treating PA, it remains markedly underdiagnosed and undertreated.
+               
+               
+                  Objective
+                  To develop an updated guideline that provides a practical, clinical approach to identifying and managing PA to improve diagnosis rates and encourage targeted treatment.
+               
+               
+                  Methods
+                  The Guideline Development Panel (GDP), composed of a multidisciplinary panel of clinical experts and experts in systemic review methodology, used the Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) approach to define 10 questions related to the diagnosis and treatment of PA. Systematic reviews were conducted for each question. The GDP used the GRADE Evidence to Decision (EtD) framework to consider contextual factors, such as stakeholder values and preferences, costs and required resources, cost-effectiveness, acceptability, feasibility, and the potential impact on health equity.
+               
+               
+                  Results
+                  We suggest that all individuals with hypertension be screened for PA by measuring aldosterone and renin and determining the aldosterone to renin ratio, and that subsequent clinical care be guided by the results. We suggest that individuals with PA receive PA-specific therapy, either medical or surgical. In individuals who screen positive for PA, we suggest (1) commencement of PA-specific medical therapy in individuals who do not desire or are not candidates for surgery and in situations where the probability of lateralizing PA (excess aldosterone produced by one adrenal) is low based on screening results; and (2) aldosterone suppression testing in situations when screening results indicate an intermediate probability for lateralizing PA and individualized decision making confirms a desire to pursue eligibility for surgical therapy. In those who test positive by aldosterone suppression testing, and in those in whom screening results show a high probability of lateralizing PA (obviating the need for aldosterone suppression testing), we suggest adrenal lateralization with computed tomography scanning and adrenal venous sampling prior to deciding the treatment approach (medical vs surgical). In all individuals with PA and an adrenal adenoma, we suggest performing a 1-mg overnight dexamethasone suppression test. We suggest the use of mineralocorticoid receptor antagonists (MRAs) over epithelial sodium-channel (ENaC) inhibitors in the medical treatment of PA. We suggest the use of spironolactone over other MRAs, given its lower cost and greater availability; however, all MRAs, when titrated to equivalent potencies, are anticipated to have similar efficacy in treating PA. Thus, MRAs with greater mineralocorticoid receptor specificity and fewer androgen/progesterone receptor-mediated side effects may be preferred in some situations. In individuals receiving MRA therapy, we suggest monitoring renin and, in those whose hypertension remains uncontrolled and renin is suppressed, titrating the MRA to increase renin.
+               
+               
+                  Conclusion
+                  These recommendations provide a practical framework for the diagnosis and treatment of PA. They are based on currently available literature and take into consideration outcomes that are important to key stakeholders. The goal is to increase identification of individuals with PA and, by initiating PA-specific medical or surgical therapy, improve blood pressure control and reduce PA-associated adverse cardiovascular events. The guidelines also highlight important knowledge gaps in PA diagnosis and management.
+               
+DOI: 10.1210/clinem/dgaf284
 ISSN: 0021-972X
-Tag der Erhebung: 2025-07-30
-
-(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+Tag der Erhebung (OOIR): 2025-07-30</description>
 			<guid isPermaLink="false">ooir-trend-10.1210/clinem/dgaf284-2025-07-30-3</guid>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>DOI: 10.1038/s42255-025-01321-x (Rank: 4)</title>
+			<title>Triglycerides are an important fuel reserve for synapse function in the brain</title>
 			<link>https://doi.org/10.1038/s42255-025-01321-x</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Endocrinology &amp; Metabolism
 Score: 495
+Autoren: Mukesh Kumar, Yumei Wu, Justin Knapp, Catherine L. Pontius, Daehun Park, Rose E. Witte, Rachel McAllister, Kallol Gupta, Kartik N. Rajagopalan, Pietro De Camilli, Timothy A. Ryan
+Journal: Nature Metabolism
+Veröffentlicht: 2025-07-01
+Abstract: Abstract
+          Proper fuelling of the brain is critical to sustain cognitive function, but the role of fatty acid (FA) combustion in this process has been elusive. Here we show that acute block of a neuron-specific triglyceride lipase, DDHD2 (a genetic driver of complex hereditary spastic paraplegia), or of the mitochondrial lipid transporter CPT1 leads to rapid onset of torpor in adult male mice. These data indicate that in vivo neurons are probably constantly fluxing FAs derived from lipid droplets (LDs) through β-oxidation to support neuronal bioenergetics. We show that in dissociated neurons, electrical silencing or blocking of DDHD2 leads to accumulation of neuronal LDs, including at nerve terminals, and that FAs derived from axonal LDs enter mitochondria in an activity-dependent fashion to drive local mitochondrial ATP production. These data demonstrate that nerve terminals can make use of LDs during electrical activity to provide metabolic support and probably have a critical role in supporting neuron function in vivo.
+DOI: 10.1038/s42255-025-01321-x
 ISSN: 2522-5812
-Tag der Erhebung: 2025-07-30
-
-(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+Tag der Erhebung (OOIR): 2025-07-30</description>
 			<guid isPermaLink="false">ooir-trend-10.1038/s42255-025-01321-x-2025-07-30-4</guid>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>DOI: 10.1038/s41574-025-01143-7 (Rank: 5)</title>
+			<title>The role of ultra-processed food in obesity</title>
 			<link>https://doi.org/10.1038/s41574-025-01143-7</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Endocrinology &amp; Metabolism
 Score: 484
+Autoren: Filippa Juul, Euridice Martinez-Steele, Niyati Parekh, Carlos A. Monteiro
+Journal: Nature Reviews Endocrinology
+Veröffentlicht: 2025-07-14
+DOI: 10.1038/s41574-025-01143-7
 ISSN: 1759-5029
-Tag der Erhebung: 2025-07-30
-
-(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+Tag der Erhebung (OOIR): 2025-07-30</description>
 			<guid isPermaLink="false">ooir-trend-10.1038/s41574-025-01143-7-2025-07-30-5</guid>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

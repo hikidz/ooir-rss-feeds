@@ -2,75 +2,103 @@
 <rss version="2.0">
 	<channel>
 		<title>OOIR Trends: Clinical Medicine (Nutrition &amp; Dietetics)</title>
-		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Nutrition &amp; Dietetics) von OOIR (nur DOIs und Trend-Rankings)</description>
+		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Nutrition &amp; Dietetics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 30 Jul 2025 22:23:03 GMT</pubDate>
-		<lastBuildDate>Wed, 30 Jul 2025 22:23:03 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Jul 2025 22:47:30 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Jul 2025 22:47:30 GMT</lastBuildDate>
 		<item>
-			<title>DOI: 10.1016/j.ajcnut.2025.05.003 (Rank: 1)</title>
+			<title>Vitamin D3 and marine ω-3 fatty acids supplementation and leukocyte telomere length: 4-year findings from the VITamin D and OmegA-3 TriaL (VITAL) randomized controlled trial</title>
 			<link>https://doi.org/10.1016/j.ajcnut.2025.05.003</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Nutrition &amp; Dietetics
 Score: 1769
+Autoren: Haidong Zhu, JoAnn E Manson, Nancy R Cook, Bayu B Bekele, Li Chen, Kevin J Kane, Ying Huang, Wenjun Li, William Christen, I-Min Lee, Yanbin Dong
+Journal: The American Journal of Clinical Nutrition
+Veröffentlicht: 2025-07-01
+DOI: 10.1016/j.ajcnut.2025.05.003
 ISSN: 0002-9165
-Tag der Erhebung: 2025-07-30
-
-(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+Tag der Erhebung (OOIR): 2025-07-30</description>
 			<guid isPermaLink="false">ooir-trend-10.1016/j.ajcnut.2025.05.003-2025-07-30-1</guid>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>DOI: 10.1186/s12966-025-01797-6 (Rank: 2)</title>
+			<title>Associations between within-day step accumulation pattern and clinical measures of physical function: a change-for-change analysis of longitudinal data in community-dwelling older adults</title>
 			<link>https://doi.org/10.1186/s12966-025-01797-6</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Nutrition &amp; Dietetics
 Score: 160
+Autoren: Melvyn Hillsdon, Alexander Schoenfelder, Brad Metcalf, Afroditi Stathi, Max J. Western, Joss Langford
+Journal: International Journal of Behavioral Nutrition and Physical Activity
+Veröffentlicht: 2025-07-15
+Abstract: Abstract
+          
+            Background
+            While daily step count and stepping pace are linked to various health benefits in older adults, less is known about how the pattern of step accumulation affects physical function. For example, the same step count could be accumulated through clusters of frequent, short bouts (e.g., during house cleaning) or fewer, longer bouts (e.g., walking to and from work). This study aimed to explore whether stepping patterns, and trends in these patterns, were associated with physical function in older adults.
+          
+          
+            Methods
+            We analysed accelerometer data from wrist-worn GENEActiv devices, from four time points over 24 months in n = 597 older adults (age ≥65 years, 68% female) participating in the REtirement in ACTion intervention. A step counting algorithm was used to create bouts of stepping (at least 10 steps &amp;gt; 20 steps/minute) before counting the steps in each bout and the average cadence. Total daily steps (20–175 steps/minute), slower-paced steps (20–62 steps/minute; below the median cadence), and faster-paced walking steps (63–175 steps/minute; above the median cadence) were then calculated. We used the frequency of stepping bouts, the time between them (mean and standard deviation) and their burstiness (short bursts of stepping bouts clustered together), to examine the daily patterns of step accumulation. Linear mixed-effects models were used to assess trends in stepping variables and their association with changes in objectively measured physical function (short physical performance battery: SPPB) over the two-year period.
+          
+          
+            Results
+            Total, slower-paced and faster-paced daily steps declined, along with the average number of stepping bouts. The time between stepping bouts increased. All components of burstiness, but not burstiness itself, were associated with changes in physical function, even when faster and slower steps (total steps) were in the same model (fewer stepping bouts = lower SPPB, greater SD = lower SPPB). Mean time between bouts was the strongest independent predictor, whereby a 10-minute increase in time between bouts was associated with a clinically important 0.46 decline in SPPB score (p &amp;lt; 0.001).
+          
+          
+            Conclusions
+            Preventing increases in the time between stepping bouts could help preserve physical function in older adults. Future intervention trials targeting how bouts of stepping are spread throughout the day, rather than just total steps, may provide a more effective approach to promoting healthy physical functioning in older age.
+          
+DOI: 10.1186/s12966-025-01797-6
 ISSN: 1479-5868
-Tag der Erhebung: 2025-07-30
-
-(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+Tag der Erhebung (OOIR): 2025-07-30</description>
 			<guid isPermaLink="false">ooir-trend-10.1186/s12966-025-01797-6-2025-07-30-2</guid>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>DOI: 10.1016/j.ajcnut.2025.04.023 (Rank: 3)</title>
+			<title>Nutritional priorities to support GLP-1 therapy for obesity: a joint Advisory from the American College of Lifestyle Medicine, the American Society for Nutrition, the Obesity Medicine Association, and The Obesity Society</title>
 			<link>https://doi.org/10.1016/j.ajcnut.2025.04.023</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Nutrition &amp; Dietetics
 Score: 136
+Autoren: Dariush Mozaffarian, Monica Agarwal, Monica Aggarwal, Lydia Alexander, Caroline M Apovian, Shagun Bindlish, Jonathan Bonnet, W Scott Butsch, Sandra Christensen, Eugenia Gianos, Mahima Gulati, Alka Gupta, Debbie Horn, Ryan M Kane, Jasdeep Saluja, Deepa Sannidhi, Fatima Cody Stanford, Emily A Callahan
+Journal: The American Journal of Clinical Nutrition
+Veröffentlicht: 2025-07-01
+DOI: 10.1016/j.ajcnut.2025.04.023
 ISSN: 0002-9165
-Tag der Erhebung: 2025-07-30
-
-(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+Tag der Erhebung (OOIR): 2025-07-30</description>
 			<guid isPermaLink="false">ooir-trend-10.1016/j.ajcnut.2025.04.023-2025-07-30-3</guid>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>DOI: 10.1016/j.tjnut.2025.05.015 (Rank: 4)</title>
+			<title>Dietary Choline Intake and Risk of Alzheimer’s Dementia in Older Adults</title>
 			<link>https://doi.org/10.1016/j.tjnut.2025.05.015</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Nutrition &amp; Dietetics
 Score: 128
+Autoren: Tasija Karosas, Taylor C Wallace, Muya Li, Yongyi Pan, Puja Agarwal, David A Bennett, Paul F Jacques, Mei Chung
+Journal: The Journal of Nutrition
+Veröffentlicht: 2025-07-01
+DOI: 10.1016/j.tjnut.2025.05.015
 ISSN: 0022-3166
-Tag der Erhebung: 2025-07-30
-
-(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+Tag der Erhebung (OOIR): 2025-07-30</description>
 			<guid isPermaLink="false">ooir-trend-10.1016/j.tjnut.2025.05.015-2025-07-30-4</guid>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>DOI: 10.3390/nu17132205 (Rank: 5)</title>
+			<title>The Alpha and Beta Diversities of Dietary Patterns Differed by Age and Sex in Young and Middle-Aged Japanese Participants</title>
 			<link>https://doi.org/10.3390/nu17132205</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Nutrition &amp; Dietetics
 Score: 86
+Autoren: Katsumi Iizuka, Kotone Yanagi, Kanako Deguchi, Chihiro Ushiroda, Risako Yamamoto-Wada, Takuma Ishihara, Hiroyuki Naruse
+Journal: Nutrients
+Veröffentlicht: 2025-07-02
+Abstract: Background/Objectives: Dietary patterns vary with age and sex. The aim of this study was to clarify the differences in dietary patterns among young and middle-aged Japanese individuals by age group and sex via statistical methods such as alpha diversity and beta diversity analyses. Methods: Using data from a dietary survey of 10 food items during health checkups of 2743 Fujita Health University employees, we examined the effects of age and sex on alpha diversity (Shannon index) and beta diversity (nonmetric multidimensional scaling (NMDS) and RDA). Unlike principal component analysis which assumes linear relationships, redundancy analysis (RDA) incorporates explanatory variables to directly assess how external factors shape multivariate patterns. Results: The Shannon index increased with age and was greater in males across age groups. Type III ANOVA revealed significant main effects of age (p &amp;lt; 0.001) and sex (p &amp;lt; 0.001), and the effect of the interaction between age and sex approached significance (p = 0.08). Visualization of the NMDS data revealed that women aged 20–29 years and women aged 30 years and older and men aged 20–39 years and men aged 50–59 years have different dietary patterns. The RDA model accounted for 2.01% of the variance (adjusted R2 = 1.94%), with age and sex contributing 56.7% and 43.3%, respectively. RDA1 and RDA2 were correlated with age (r = 0.26, −0.14) and sex (r = 0.15, 0.21). The RDA1 values increased with age and were greater in females, whereas the RDA2 values decreased with age and were greater in females. RDA1 (1.41% of the total variance in food group intake, 70.1% of the constrained variance) was positively associated with fruits, milk, and seaweed and negatively associated with meat and eggs. In RDA2 (0.60% of total variance, 29.9% contribution), fruits, potatoes, and vegetables had positive effects, whereas fish had negative effects. Conclusions: Dietary patterns vary by age and sex, with meat, fish, eggs, and fruit as key determinants. Nutritional guidance must account for variations in dietary patterns influenced by age and sex.
+DOI: 10.3390/nu17132205
 ISSN: 2072-6643
-Tag der Erhebung: 2025-07-30
-
-(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+Tag der Erhebung (OOIR): 2025-07-30</description>
 			<guid isPermaLink="false">ooir-trend-10.3390/nu17132205-2025-07-30-5</guid>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

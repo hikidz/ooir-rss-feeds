@@ -2,75 +2,149 @@
 <rss version="2.0">
 	<channel>
 		<title>OOIR Trends: Clinical Medicine (Sport Sciences)</title>
-		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Sport Sciences) von OOIR (nur DOIs und Trend-Rankings)</description>
+		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Sport Sciences) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 30 Jul 2025 22:23:05 GMT</pubDate>
-		<lastBuildDate>Wed, 30 Jul 2025 22:23:05 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Jul 2025 22:47:42 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Jul 2025 22:47:42 GMT</lastBuildDate>
 		<item>
-			<title>DOI: 10.1136/bjsports-2024-109122 (Rank: 1)</title>
+			<title>Physical activity trajectories and accumulation over adulthood and their associations with all-cause and cause-specific mortality: a systematic review and meta-analysis</title>
 			<link>https://doi.org/10.1136/bjsports-2024-109122</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Sport Sciences
 Score: 1208
+Autoren: Ruyi Yu, Stephanie L Duncombe, Yuta Nemoto, Raphael HO Araujo, Hsin-Fang Chung, Gregore I Mielke
+Journal: British Journal of Sports Medicine
+Veröffentlicht: 2025-07-10
+Abstract: 
+                  Objective
+                  To understand the associations of trajectories and accumulation of physical activity (PA) over adulthood with all-cause, cardiovascular disease (CVD), and cancer mortality.
+               
+               
+                  Design
+                  Systematic review and meta-analyses.
+               
+               
+                  Data sources
+                  PubMed, Embase, Scopus, Cochrane Library, Web of Science, CINAHL, MEDLINE, SPORTDiscus, and reference lists of included studies.
+               
+               
+                  Eligibility criteria
+                  Population-based prospective studies with (1) non-clinical adult population, (2) PA assessed ≥2 timepoints as exposure, (3) all-cause, CVD or cancer mortality as outcomes with risk measures, and (4) publication up to 9 April 2024 and in English.
+               
+               
+                  Results
+                  85 studies with three main types of PA exposure (ie, trajectory, time-varying, and cumulative/average) were included. Of these, 77 assessed all-cause mortality, 34 assessed CVD mortality, and 15 assessed cancer mortality. Overall, higher PA was associated with lower risks of all outcomes. Consistently and increasingly active individuals had around 20–40% lower risk of all-cause mortality and 30-40% lower risk of CVD mortality; however, the associations with decreasing PA patterns were less evident. Time-varying and cumulative/average PA illustrated similar inverse associations between higher PA levels and all-cause and CVD mortality. The associations were weaker and less robust for cancer mortality. Non-linear dose-response associations suggested risk reductions in all-cause and CVD mortality for meeting PA guidelines, but consistent/increasing PA below the guidelines also provided health benefits.
+               
+               
+                  Conclusions
+                  Consistently/increasingly accumulated PA over adulthood can reduce the risk of all-cause and CVD mortality, while the health benefits from decreasing PA patterns require further exploration.
+               
+DOI: 10.1136/bjsports-2024-109122
 ISSN: 0306-3674
-Tag der Erhebung: 2025-07-30
-
-(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+Tag der Erhebung (OOIR): 2025-07-30</description>
 			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2024-109122-2025-07-30-1</guid>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>DOI: 10.1007/s40279-025-02263-w (Rank: 2)</title>
+			<title>Effects of Skeletal Muscle Hypertrophy on Fat Mass and Glucose Homeostasis in Humans and Animals: A Narrative Review with Systematic Literature Search</title>
 			<link>https://doi.org/10.1007/s40279-025-02263-w</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Sport Sciences
 Score: 298
+Autoren: Tim Havers, Steffen Held, Martin Schönfelder, Stephan Geisler, Henning Wackerhage
+Journal: Sports Medicine
+Veröffentlicht: 2025-06-27
+Abstract: Abstract
+          Overweight, obesity, and type 2 diabetes mellitus are metabolic health problems and diseases that affect billions of people worldwide. Studies in animals and humans suggest that stimulating global muscle hypertrophy could be a treatment for these diseases, as some key studies suggest that stimulation of global muscle hypertrophy commonly reduces fat mass and improves glucose homeostasis. To analyse the effect of muscle hypertrophy on fat and glucose homeostasis in more detail, we systematically searched the literature and quantitatively analyzed 122 studies (humans: n = 99; animals: n = 23). This analysis reveals that a 1.9–3.3% increase in global muscle mass in humans is associated with 4.1 ± 5.8% lower fat mass, a  mean relative reduction in HbA1c of 4.1 ± 4.6% from baseline, and a reduction of fasting glucose concentrations by 5.8 ± 7.3% in studies lasting 2 weeks to 3 years. In the animal studies analyzed, the researchers increased muscle mass by transgenesis, drugs, or resistance training by 17.7 ± 18.4%. This increase of muscle mass was associated with 23.7 ± 22.3% less fat mass. In the second part of this review, we discuss mechanisms by which muscle hypertrophy can affect fat mass and glucose homeostasis. We also discuss the potential use of hypertrophy-focused resistance training and muscle hypertrophy-stimulating drugs as treatments for people with overweight, obesity, and type 2 diabetes.
+DOI: 10.1007/s40279-025-02263-w
 ISSN: 0112-1642
-Tag der Erhebung: 2025-07-30
-
-(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+Tag der Erhebung (OOIR): 2025-07-30</description>
 			<guid isPermaLink="false">ooir-trend-10.1007/s40279-025-02263-w-2025-07-30-2</guid>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>DOI: 10.1136/bjsports-2024-109380 (Rank: 3)</title>
+			<title>How much running is too much? Identifying high-risk running sessions in a 5200-person cohort study</title>
 			<link>https://doi.org/10.1136/bjsports-2024-109380</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Sport Sciences
 Score: 91
+Autoren: Jesper Schuster Brandt Frandsen, Adam Hulme, Erik Thorlund Parner, Merete Møller, Ida Lindman, Josefin Abrahamson, Nina Sjørup Simonsen, Julie Sandell Jacobsen, Daniel Ramskov, Sebastian Skejø, Laurent Malisoux, Michael Lejbach Bertelsen, Rasmus Oestergaard Nielsen
+Journal: British Journal of Sports Medicine
+Veröffentlicht: 2025-07-07
+Abstract: 
+                  Objectives
+                  We explored whether a spike in running distance during a single session or over 1 week, compared with the preceding period, was associated with increased risk of running-related overuse injury.
+               
+               
+                  Methods
+                  Adult runners were recruited for an 18-month cohort study. Three training-related exposures were defined based on a relative change in running distance, using data collected via Garmin devices: (1) session-specific running distance relative to the longest distance run in the past 30 days; (2) 1-week period relative to the preceding 3 weeks using the acute:chronic workload ratio (ACWR); (3) 1-week period using a week-to-week ratio. Runners were categorised into one of four time-varying states: (1) regression, or up to 10% increase (reference); (2) ‘small spike’ between &amp;gt;10% and 30% increase; (3) ‘moderate spike’ between &amp;gt;30% and 100% increase; and (4) ‘large spike’ &amp;gt;100% increase. Outcome was self-reported overuse running-related injury. A multistate Cox regression model was used to estimate adjusted hazard rate ratios (HRR).
+               
+               
+                  Results
+                  Among 5205 runners (mean age 45.8 years, SD=10.4; 22% female), a total of 1820 (35%) sustained a running-related injury during 588 071 sessions. Significantly increased rates were identified for small spikes (HRR=1.64 (95% CI: 1.31 to 2.05, p=0.01)), moderate spikes (HRR=1.52 (95% CI: 1.16 to 2.00, p&amp;lt;0.01)) and large spikes (HRR=2.28 (95% CI: 1.50 to 3.48, p&amp;lt;0.01)) in single-session running distance. A negative dose-response relationship was observed for the ACWR. No relationship was identified for the week-to-week ratio.
+               
+               
+                  Conclusion
+                  A significant increase in the rate of running-related overuse injury was found when the distance of a single running session exceeded 10% of the longest run undertaken in the last 30 days.
+               
+DOI: 10.1136/bjsports-2024-109380
 ISSN: 0306-3674
-Tag der Erhebung: 2025-07-30
-
-(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+Tag der Erhebung (OOIR): 2025-07-30</description>
 			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2024-109380-2025-07-30-3</guid>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>DOI: 10.1111/sms.70106 (Rank: 4)</title>
+			<title>Post‐COVID‐19 Condition in Track and Field Master Athletes: Severity, Symptoms, and Associations With Quality of Life and C‐Reactive Protein Levels</title>
 			<link>https://doi.org/10.1111/sms.70106</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Sport Sciences
 Score: 80
+Autoren: Boyi Zhang, Marijke Grau, Christian Puta, Daniel Arvidsson, Michael Arz, Jonas Böcker, Philip Chilibeck, Scott C. Forbes, Claudia Kaiser‐Stolz, Natalie McLaurin, Eri Miyamoto‐Mikami, Dominik Pesta, Willi Pustowalow, Hirofumi Tanaka, Jörn Rittweger, Wilhelm Bloch
+Journal: Scandinavian Journal of Medicine &amp;amp; Science in Sports
+Veröffentlicht: 2025-07-01
+Abstract: ABSTRACTHere, we assessed the prevalence of post‐COVID‐condition (PCC, also known as long‐COVID) and investigated its associations with health‐related quality of life and immune‐related biomarkers in track and field masters athletes (MAs). A total of 216 MAs (114 males, 102 females; age: 58.3 ± 11.9 vs. 56.6 ± 11.7 years; BMI: 23.6 [22.2–24.8] vs. 21.3 [20.0–23.6] kg/m2) reported their post‐COVID‐conditions via the Post‐COVID Syndrome Questionnaire (PCSQ). In a subgroup of 108 MAs, fasting blood samples were collected to assess C‐reactive protein (CRP) levels as a biomarker of immune status (MAs‐CRP). Based on their PCSQ sum score, MAs were divided into three groups: no/mild, moderate, and severe. Associations between PCC severity and sex, athletic specialty, and competition level were evaluated using Fisher's exact test. Forty‐six (21%) MAs were identified with clinically relevant moderate‐to‐severe post‐COVID‐19 conditions (PCSQ score &amp;gt; 10.75). The most frequently reported symptoms included musculoskeletal pain (15%), sleep disturbance (13%), sensory or respiratory symptoms (11%), fatigue (11%), and flu‐like symptoms (11%). PCC prevalence did not differ by sex, athletic specialties, training load, or prior competition level (all p &amp;gt; 0.05). MAs with moderate‐to‐severe PCC had significantly lower physical and mental component scores of quality of life compared with those with no or mild symptoms (p &amp;lt; 0.05). In the MAs‐CRP subgroup, self‐reported cardiac ailments and flu‐like symptoms were significantly and positively associated with CRP levels (Spearman ρ = 0.27–0.30, all p &amp;lt; 0.01). Post‐COVID‐19 condition is associated with reduced quality of life in track and field masters athletes, independent of sex, prior competition levels, and training characteristics. Furthermore, low‐grade inflammation based on CRP levels was associated with self‐reported cardiac and flu‐like symptoms.
+DOI: 10.1111/sms.70106
 ISSN: 0905-7188
-Tag der Erhebung: 2025-07-30
-
-(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+Tag der Erhebung (OOIR): 2025-07-30</description>
 			<guid isPermaLink="false">ooir-trend-10.1111/sms.70106-2025-07-30-4</guid>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>DOI: 10.1007/s40279-025-02268-5 (Rank: 5)</title>
+			<title>No Difference in Return-to-Sport Rate or Activity Level in People with Anterior Cruciate Ligament (ACL) Injury Managed with ACL Reconstruction or Rehabilitation Alone: A Systematic Review and Meta-Analysis</title>
 			<link>https://doi.org/10.1007/s40279-025-02268-5</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Sport Sciences
 Score: 49
+Autoren: Stephanie R. Filbay, Garrett Bullock, Scott Russell, Frances Brown, Wilson Hui, Thorlene Egerton
+Journal: Sports Medicine
+Veröffentlicht: 2025-07-02
+Abstract: Abstract
+          
+            Background
+            A common belief amongst patients and clinicians is that anterior cruciate ligament reconstruction is required to return to sport. It is not clear if this belief is supported by the best available research.
+          
+          
+            Objective
+            We aimed to compare return-to-sport and activity levels following anterior cruciate ligament rupture managed with anterior cruciate ligament reconstruction versus rehabilitation alone.
+          
+          
+            Methods
+            We performed a systematic review and meta-analysis. A comprehensive search was conducted across seven electronic databases for empirical studies published to July 2023. Articles were included if they assessed return-to-sport and/or activity levels in two groups where one underwent an anterior cruciate ligament reconstruction and the other had exercise-based rehabilitation that was standardised and/or supervised by a healthcare professional. In addition to narrative syntheses, random-effect meta-analyses were conducted for return-to-sport and activity participation (Tegner Activity Scale). The protocol was pre-registered (PROSPERO CRD42022313507).
+          
+          
+            Results
+            Eighteen articles reporting on 15 studies (two randomised controlled trials) met inclusion criteria. Ten studies had a high risk of confounding bias that was likely to favour anterior cruciate ligament reconstruction including biases in group allocation and differences in activity and return-to-sport advice between groups. The findings suggest that anterior cruciate ligament reconstruction was not associated with higher return-to-sport rates (odds ratio 1.5, 95% confidence interval 0.76–2.97) compared to rehabilitation alone. A small difference favouring anterior cruciate ligament reconstruction was observed for Tegner Activity Scale scores (mean difference 0.7, 95% confidence interval 0.16–1.24) that did not exceed the minimal detectable change and no difference was observed after excluding studies with a high risk of confounding bias. Insufficient data were available for time to return to sport and physical activity levels. The evidence is of low or very low certainty because of the heterogeneity of results and the high risk of bias in the included studies.
+          
+          
+            Conclusions
+            There was no difference in return-to-sport rates or activity levels when comparing anterior cruciate ligament reconstruction with rehabilitation alone for the management of anterior cruciate ligament injury.
+          
+DOI: 10.1007/s40279-025-02268-5
 ISSN: 0112-1642
-Tag der Erhebung: 2025-07-30
-
-(Hinweis: Vollständige Artikelmetadaten wie Titel, Autoren, Abstract sind über diese API nicht verfügbar.)</description>
+Tag der Erhebung (OOIR): 2025-07-30</description>
 			<guid isPermaLink="false">ooir-trend-10.1007/s40279-025-02268-5-2025-07-30-5</guid>
-			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
