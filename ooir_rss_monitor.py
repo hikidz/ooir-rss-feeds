@@ -526,7 +526,7 @@ def main():
         logger.warning("Bitte ändern Sie die E-Mail-Adresse im Skript oder als Umgebungsvariable 'OOIR_EMAIL'.")
     
     # Monitor initialisieren
-    monitor = OOIRTrendMonitor(email=EMAIL)
+    monitor = OOIRTrendMonitor(email=EMAIL, output_dir="docs")
     
     # Monitoring durchführen
     results = monitor.run_monitoring()
