@@ -99,7 +99,7 @@ class OOIRTrendMonitor:
 
     def _create_rss_item(self, article: dict) -> ET.Element:
         """
-        Erstellt ein RSS-Item-Element aus einem Artikel-Dictionary,
+        Erstellt ein RSS-Item-Element aus einem Artikel-Dictionary, 
         angereichert mit Daten von Crossref.
         """
         item = ET.Element("item")
@@ -175,19 +175,14 @@ class OOIRTrendMonitor:
         if crossref_metadata and "issued" in crossref_metadata and "date-parts" in crossref_metadata["issued"]:
             try:
                 date_parts = crossref_metadata["issued"]["date-parts"][0]
-                if date_parts:
-                    # Crossref kann Datumsteile liefern, wie [Jahr], [Jahr, Monat], [Jahr, Monat, Tag]
-                    # Versuche, das vollständigste Datum zu erstellen
-                    dt_obj = None
-                    if len(date_parts) == 3:
-                        dt_obj = datetime.datetime(date_parts[0], date_parts[1], date_parts[2], tzinfo=datetime.timezone.utc)
-                    elif len(date_parts) == 2:
-                        dt_obj = datetime.datetime(date_parts[0], date_parts[1], 1, tzinfo=datetime.timezone.utc) # Erster Tag des Monats
-                    elif len(date_parts) == 1:
-                        dt_obj = datetime.datetime(date_parts[0], 1, 1, tzinfo=datetime.timezone.utc) # Erster Tag des Jahres
-                    
-                    if dt_obj:
-                        pub_date_str = dt_obj.strftime("%a, %d %b %Y %H:%M:%S GMT")
+                # Crossref kann Datumsteile liefern, wie [Jahr], [Jahr, Monat], [Jahr, Monat, Tag]
+                # Versuche, das vollständigste Datum zu erstellen
+                year = date_parts[0] if len(date_parts) >= 1 else 1900
+                month = date_parts[1] if len(date_parts) >= 2 else 1
+                day = date_parts[2] if len(date_parts) >= 3 else 1
+                
+                dt_obj = datetime.datetime(year, month, day, tzinfo=datetime.timezone.utc)
+                pub_date_str = dt_obj.strftime("%a, %d %b %Y %H:%M:%S GMT")
             except Exception as e:
                 print(f"WARNUNG: Fehler beim Parsen des Crossref Datums für DOI {doi}: {e}")
 
