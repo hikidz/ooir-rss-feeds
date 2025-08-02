@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Orthopedics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Fri, 01 Aug 2025 01:21:48 GMT</pubDate>
-		<lastBuildDate>Fri, 01 Aug 2025 01:21:48 GMT</lastBuildDate>
+		<pubDate>Sat, 02 Aug 2025 01:10:41 GMT</pubDate>
+		<lastBuildDate>Sat, 02 Aug 2025 01:10:41 GMT</lastBuildDate>
 		<item>
 			<title>Development of Artificial Intelligence‐Assisted Lumbar and Femoral BMD Estimation System Using Anteroposterior Lumbar X‐Ray Images</title>
 			<link>https://doi.org/10.1002/jor.70000</link>
@@ -19,9 +19,24 @@ Veröffentlicht: 2025-07-09
 Abstract: ABSTRACTThe early detection and treatment of osteoporosis and prevention of fragility fractures are urgent societal issues. We developed an artificial intelligence‐assisted diagnostic system that estimated not only lumbar bone mineral density but also femoral bone mineral density from anteroposterior lumbar X‐ray images. We evaluated the performance of lumbar and femoral bone mineral density estimations and the osteoporosis classification accuracy of an artificial intelligence‐assisted diagnostic system using lumbar X‐ray images from a population‐based cohort. The artificial neural network consisted of a deep neural network for estimating lumbar and femoral bone mineral density values and classifying lumbar X‐ray images into osteoporosis categories. The deep neural network was built by training dual‐energy X‐ray absorptiometry‐derived lumbar and femoral bone mineral density values as the ground truth of the training data and preprocessed X‐ray images. Five‐fold cross‐validation was performed to evaluate the accuracy of the estimated BMD. A total of 1454 X‐ray images from 1454 participants were analyzed using the artificial neural network. For the bone mineral density estimation performance, the mean absolute errors were 0.076 g/cm2 for the lumbar and 0.071 g/cm2 for the femur between dual‐energy X‐ray absorptiometry‐derived and artificial intelligence‐estimated bone mineral density values. The classification performances for the lumbar and femur of patients with osteopenia, in terms of sensitivity, were 86.4% and 80.4%, respectively, and the respective specificities were 84.1% and 76.3%.Clinical SignificanceThe system was able to estimate the bone mineral density and classify the osteoporosis category of not only patients in clinics or hospitals but also of general inhabitants.
 DOI: 10.1002/jor.70000
 ISSN: 0736-0266
-Tag der Erhebung (OOIR): 2025-08-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/jor.70000-2025-08-01-1</guid>
+Tag der Erhebung (OOIR): 2025-08-02</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/jor.70000-2025-08-02-1</guid>
 			<pubDate>Wed, 09 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Arthroplasty in Medicare: A Cost Distribution Analysis of Medicare Beneficiaries Undergoing Total Knee Arthroplasty</title>
+			<link>https://doi.org/10.1016/j.arth.2025.07.001</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 56
+Autoren: Joshua U. Hancock, Joseph A. D’Alonzo, Peter Simon, Max Gill, Thomas L. Bernasek, Steven T. Lyons
+Journal: The Journal of Arthroplasty
+Veröffentlicht: 2025-07-01
+DOI: 10.1016/j.arth.2025.07.001
+ISSN: 0883-5403
+Tag der Erhebung (OOIR): 2025-08-02</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.arth.2025.07.001-2025-08-02-2</guid>
+			<pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Implementation of an automated, real-time mortality prediction tool in trauma patients: Can it do more than just predict mortality?</title>
@@ -34,8 +49,8 @@ Journal: Injury
 Veröffentlicht: 2025-08-01
 DOI: 10.1016/j.injury.2025.112595
 ISSN: 0020-1383
-Tag der Erhebung (OOIR): 2025-08-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.injury.2025.112595-2025-08-01-2</guid>
+Tag der Erhebung (OOIR): 2025-08-02</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.injury.2025.112595-2025-08-02-3</guid>
 			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -49,8 +64,8 @@ Journal: Brazilian Journal of Physical Therapy
 Veröffentlicht: 2025-09-01
 DOI: 10.1016/j.bjpt.2025.101244
 ISSN: 1413-3555
-Tag der Erhebung (OOIR): 2025-08-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2025.101244-2025-08-01-3</guid>
+Tag der Erhebung (OOIR): 2025-08-02</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2025.101244-2025-08-02-4</guid>
 			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -81,52 +96,9 @@ Abstract: Abstract
           
 DOI: 10.1007/s00586-025-09164-6
 ISSN: 0940-6719
-Tag der Erhebung (OOIR): 2025-08-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s00586-025-09164-6-2025-08-01-4</guid>
+Tag der Erhebung (OOIR): 2025-08-02</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s00586-025-09164-6-2025-08-02-5</guid>
 			<pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Risk Factors for an Ulnar Collateral Ligament Injury Resulting in Surgery: A Prospective Longitudinal Study of 305 Professional Baseball Pitchers</title>
-			<link>https://doi.org/10.1177/23259671251351339</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Orthopedics
-Score: 18
-Autoren: Glenn S. Fleisig, Jonathan S. Slowik, Cara Wychgram, John D’Angelo, Peter N. Chalmers, Brandon J. Erickson, Ryan Froom, Keshia M. Pollack Porter, Frank C. Curriero
-Journal: Orthopaedic Journal of Sports Medicine
-Veröffentlicht: 2025-07-01
-Abstract: 
-            Background:
-            The number of ulnar collateral ligament (UCL) surgical procedures in professional baseball players continues to increase.
-          
-          
-            Hypothesis:
-            Performance, injury history, physical characteristics, pitching velocity, elbow torque, and amount of pitching are associated with the risk of a UCL injury resulting in surgery.
-          
-          
-            Study Design:
-            Cohort study; Level of evidence, 2.
-          
-          
-            Methods:
-            
-              All 30 Major League Baseball (MLB) clubs were contacted for recruitment at Spring Training and the Fall Instructional League in 2015, 2016, and 2017. Pitchers were eligible if they were from the most recent draft and were healthy. Participants completed a questionnaire, a physical examination, magnetic resonance imaging (MRI), and biomechanical testing. The questionnaire included date of birth, previous elbow surgery, and self-reported fastball velocity. The physical examination included measurements of height, weight, and passive range of motion in both shoulders. Elbow MRI assessed for abnormalities of the UCL. During biomechanical testing, fastball velocity was measured, and elbow varus torque was calculated. Pitching volume and injuries resulting in UCL surgery were monitored until the end of 2019. Continuous variables were compared between pitchers with and without UCL surgery using the Student
-              t
-              test. For binary risk factors, significant differences in proportions were determined with the chi-square test. Cox proportional hazards regression was used to model hazard ratios for the associations between risk factor variables and time to injury. An alpha level of .05 was used for all tests.
-            
-          
-          
-            Results:
-            Overall, 31 of 305 participants required UCL surgery during the follow-up period. Elbow varus torque was significantly higher for pitchers with a subsequent injury requiring UCL surgery (100.8 ± 18.1 N·m) compared with pitchers without such an injury (94.3 ± 16.1 N·m). The risk of UCL surgery increased 26% for every 10-N·m increase in elbow varus torque. No statistically significant association was found between UCL surgery and body size, history of surgery, fastball velocity, percentage of games pitched as a starter, or UCL abnormalities on MRI, although the 2 pitchers with a full-thickness UCL tear on MRI subsequently underwent UCL surgery.
-          
-          
-            Conclusion:
-            High elbow varus torque was associated with a greater risk of UCL surgery. With motion capture technology and biomechanists now part of MLB organizations, teams can analyze and improve the biomechanics of their pitchers to reduce elbow varus torque and the injury risk.
-          
-DOI: 10.1177/23259671251351339
-ISSN: 2325-9671
-Tag der Erhebung (OOIR): 2025-08-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1177/23259671251351339-2025-08-01-5</guid>
-			<pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
