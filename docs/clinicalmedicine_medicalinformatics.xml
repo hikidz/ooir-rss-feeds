@@ -5,23 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Mon, 04 Aug 2025 01:18:13 GMT</pubDate>
-		<lastBuildDate>Mon, 04 Aug 2025 01:18:13 GMT</lastBuildDate>
-		<item>
-			<title>Development of machine learning prediction models for systemic inflammatory response following controlled exposure to a live attenuated influenza vaccine in healthy adults using multimodal wearable biosensors in Canada: a single-centre, prospective controlled trial</title>
-			<link>https://doi.org/10.1016/j.landig.2025.100886</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 366
-Autoren: Amir Hadid, Emily G McDonald, Qianggang Ding, Christopher Phillipp, Audrey Trottier, Philippe C Dixon, Oussama Jlassi, Matthew P Cheng, Jesse Papenburg, Michael Libman, Dennis Jensen
-Journal: The Lancet Digital Health
-Veröffentlicht: 2025-07-01
-DOI: 10.1016/j.landig.2025.100886
-ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2025-08-04</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100886-2025-08-04-1</guid>
-			<pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-		</item>
+		<pubDate>Tue, 05 Aug 2025 01:14:32 GMT</pubDate>
+		<lastBuildDate>Tue, 05 Aug 2025 01:14:32 GMT</lastBuildDate>
 		<item>
 			<title>Pitfalls of large language models in medical ethics reasoning</title>
 			<link>https://doi.org/10.1038/s41746-025-01792-y</link>
@@ -33,43 +18,9 @@ Journal: npj Digital Medicine
 Veröffentlicht: 2025-07-22
 DOI: 10.1038/s41746-025-01792-y
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-08-04</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01792-y-2025-08-04-2</guid>
+Tag der Erhebung (OOIR): 2025-08-05</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01792-y-2025-08-05-1</guid>
 			<pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Retrieval-augmented generation elevates local LLM quality in radiology contrast media consultation</title>
-			<link>https://doi.org/10.1038/s41746-025-01802-z</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 62
-Autoren: Akihiko Wada, Yuya Tanaka, Mitsuo Nishizawa, Akira Yamamoto, Toshiaki Akashi, Akifumi Hagiwara, Yayoi Hayakawa, Junko Kikuta, Keigo Shimoji, Katsuhiro Sano, Koji Kamagata, Atsushi Nakanishi, Shigeki Aoki
-Journal: npj Digital Medicine
-Veröffentlicht: 2025-07-02
-Abstract: Abstract
-          Large language models (LLMs) demonstrate significant potential in healthcare applications, but clinical deployment is limited by privacy concerns and insufficient medical domain training. This study investigated whether retrieval-augmented generation (RAG) can improve locally deployable LLM for radiology contrast media consultation. In 100 synthetic iodinated contrast media consultations we compared Llama 3.2-11B (baseline and RAG) with three cloud-based models—GPT-4o mini, Gemini 2.0 Flash and Claude 3.5 Haiku. A blinded radiologist ranked the five replies per case, and three LLM-based judges scored accuracy, safety, structure, tone, applicability and latency. Under controlled conditions, RAG eliminated hallucinations (0% vs 8%; χ²₍Yates₎ = 6.38, p = 0.012) and improved mean rank by 1.3 (Z = –4.82, p &amp;lt; 0.001), though performance gaps with cloud models persist. The RAG-enhanced model remained faster (2.6 s vs 4.9–7.3 s) while the LLM-based judges preferred it over GPT-4o mini, though the radiologist ranked GPT-4o mini higher. RAG thus provides meaningful improvements for local clinical LLMs while maintaining the privacy benefits of on-premise deployment.
-DOI: 10.1038/s41746-025-01802-z
-ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-08-04</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01802-z-2025-08-04-3</guid>
-			<pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Clinical decision support using pseudo-notes from multiple streams of EHR data</title>
-			<link>https://doi.org/10.1038/s41746-025-01777-x</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 56
-Autoren: Simon A. Lee, Sujay Jain, Alex Chen, Kyoka Ono, Arabdha Biswas, Ákos Rudas, Jennifer Fang, Jeffrey N. Chiang
-Journal: npj Digital Medicine
-Veröffentlicht: 2025-07-02
-Abstract: Abstract
-          Electronic health records (EHR) contain data from disparate sources, spanning various biological and temporal scales. In this work, we introduce the Multiple Embedding Model for EHR (MEME), a deep learning framework for clinical decision support that operates over heterogeneous EHR. MEME first converts tabular EHR into “pseudo-notes”, reducing the need for concept harmonization across EHR systems and allowing the use of any state-of-the-art, open source language foundation models. The model separately embeds EHR domains, then uses a self-attention mechanism to learn the contextual importance of these multiple embeddings. In a study of 400,019 emergency department visits, MEME successfully predicted emergency department disposition, discharge location, intensive care requirement, and mortality. It outperformed traditional machine learning models (Logistic Regression, Random Forest, XGBoost, MLP), EHR foundation models (EHR-shot, MC-BEC, MSEM), and GPT-4 prompting strategies. Due to text serialization, MEME also exhibited strong few-shot learning performance in an external, unstandardized EHR database.
-DOI: 10.1038/s41746-025-01777-x
-ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-08-04</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01777-x-2025-08-04-4</guid>
-			<pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Synthetic data trained open-source language models are feasible alternatives to proprietary models for radiology reporting</title>
@@ -82,9 +33,96 @@ Journal: npj Digital Medicine
 Veröffentlicht: 2025-07-23
 DOI: 10.1038/s41746-025-01658-3
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-08-04</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01658-3-2025-08-04-5</guid>
+Tag der Erhebung (OOIR): 2025-08-05</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01658-3-2025-08-05-2</guid>
 			<pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Sleep Quality as a Mediator of Internet Gaming Disorder and Executive Dysfunction in Adolescents: Cross-Sectional Questionnaire Study</title>
+			<link>https://doi.org/10.2196/68571</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 23
+Autoren: Michoel L Moshel, Wayne Warburton, Rainer Thomasius, Kerstin Paschke
+Journal: Journal of Medical Internet Research
+Veröffentlicht: 2025-07-09
+Abstract: Abstract
+          
+            Background
+            Internet gaming disorder (IGD) has been associated with impairments in executive functioning, particularly inattention and impulsivity. Sleep quality has separately been linked to both gaming behavior and cognitive performance, yet its role as a mediating factor in this relationship is underexplored.
+          
+          
+            Objective
+            This study aimed to determine whether sleep quality mediates the relationship between IGD symptoms and executive dysfunction in adolescents, specifically focusing on the domains of inattention and hyperactivity or impulsivity. A reverse mediation model was also tested to explore the bidirectional nature of these relationships.
+          
+          
+            Methods
+            A representative sample of 1000 adolescents (539/1000, 53.9% males), aged between 12 and 17 years (mean 14.52, SD 1.64), completed validated self-report measures of IGD symptoms, executive dysfunction, and sleep quality. Structural equation modeling was used to test direct and indirect effects with age and gender included as covariates.
+          
+          
+            Results
+            Of the sample, 2.4% (24/1000) met criteria for IGD (875/1000, 87.5% males), and 22.6% (226/1000) met criteria for chronic sleep reduction. Among those with IGD, 54.2% (542/1000) also experienced chronic sleep reduction. In model A (IGD → Sleep → Executive Dysfunction), IGD symptoms were associated with poorer sleep quality (a=0.32, 95% CI 0.19-0.44), which in turn were associated with greater executive dysfunction (b=0.05, 95% CI 0.01-0.10). The indirect effect was significant (a×b=0.02, 95% CI 0.01-0.04), and sleep quality was a partial mediator. In the reverse model (model B), executive dysfunction was associated with poorer sleep quality (a=0.15, 95% CI 0.06-0.25), which subsequently was associated with higher IGD symptoms (b=0.11, 95% CI 0.07-0.16); indirect effect a×b=0.02, 95% CI 0.01-0.04. Simple slope analysis showed that IGD symptoms were associated only with executive dysfunction at average or poor levels of sleep quality. At higher levels of sleep quality, this relationship was no longer significant.
+          
+          
+            Conclusions
+            The results of this study suggest that sleep quality may be an important intermediary mechanism by which IGD might contribute to executive dysfunction and provide a basis for the development and implementation of strategies that target sleep issues in IGD. Prospective longitudinal research is needed to examine the directionality of the relationships between IGD, sleep quality, and executive dysfunction longitudinally.
+          
+DOI: 10.2196/68571
+ISSN: 1438-8871
+Tag der Erhebung (OOIR): 2025-08-05</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/68571-2025-08-05-3</guid>
+			<pubDate>Wed, 09 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Problematic Online Dating: Systematic Review of Definitions, Correlates, and Study Designs</title>
+			<link>https://doi.org/10.2196/72850</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 17
+Autoren: Marina F Thomas, Sylvia Dörfler, Gloria Mittmann, Verena Steiner-Hofbauer
+Journal: Journal of Medical Internet Research
+Veröffentlicht: 2025-07-03
+Abstract: Abstract
+          
+            Background
+            Users describe mobile dating apps as addictive, and researchers have attempted to formalize compulsive dating app use as a behavioral addiction. However, the concept of online dating addiction remains debated.
+          
+          
+            Objective
+            This systematic literature review synthesized quantitative research on problematized online dating behaviors with a specific focus on (1) definitions and measurement of problematic dating app use, (2) the examined adverse correlates, and (3) study designs.
+          
+          
+            Methods
+            From 16 databases, we identified 263 reports related to problematic online dating. Twenty-nine papers—published between 2009 and 2024—met inclusion criteria. They covered 32 quantitative studies investigating problematic dating app use. Sample sizes varied between 64 and 4057, and participant ages ranged between 13 and 80 years, while many participants were aged between 18 and 35 years.
+          
+          
+            Results
+            Researchers problematized the following online dating behaviors (in descending order of frequency): use for certain motives (in 10 reports), problematic use in the sense of behavioral addiction (n=9), specific activities or experiences (n=9), compulsive use (n=6), a disbalance between offline and online interactions (too many or too few online interactions, n=4), and mere use or frequency (n=4). Even using dating apps for sexual motivations and relationship-seeking was linked to adverse correlates. Scholars have examined adverse correlates, including (1) mood and emotional issues (n=11), (2) anxieties (n=9), (3) user motives and other media variables (n=9), (4) undesired behaviors (n=8), (5) personality (n=8), (6) self-attitudes (n=7), (7) partner choice (n=5), (8) sexuality (n=5), and (9) interpersonal correlates (n=4). Methodologically, the most common scales (measuring use for certain motives and the 6-component behavioral addiction items) include life problems within their measurement of problematic dating app use (eg, use to forget problems and conflict due to use). Of 32 studies, only 3 were randomized experiments. All surveys measured dating app variables only at a single time point (cross-sectionally) and focused on between-person effects rather than within-person dynamics.
+          
+          
+            Conclusions
+            Research on user motives dominates the field. To understand harmful media effects, researchers should measure media use and harmful consequences separately. However, motives are often worded as coping with an undesired state (eg, use to forget problems) or enhancing a desired state (eg, use for self-esteem enhancement). Similarly, behavioral addiction scales include life problems (eg, conflict due to use). These scales thus conflate predictor and outcome. Future literature reviews or meta-analyses that examine associations should include only results of scales that validly distinguish media use from its adverse outcomes. Overall, research on internet dating addiction—and internet addiction in general—requires theoretically grounded definitions as well as experimental and longitudinal studies modeling between- and within-person effects.
+          
+DOI: 10.2196/72850
+ISSN: 1438-8871
+Tag der Erhebung (OOIR): 2025-08-05</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/72850-2025-08-05-4</guid>
+			<pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Cognitive bias in clinical large language models</title>
+			<link>https://doi.org/10.1038/s41746-025-01790-0</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 16
+Autoren: Arjun Mahajan, Ziad Obermeyer, Roxana Daneshjou, Jenna Lester, Dylan Powell
+Journal: npj Digital Medicine
+Veröffentlicht: 2025-07-10
+DOI: 10.1038/s41746-025-01790-0
+ISSN: 2398-6352
+Tag der Erhebung (OOIR): 2025-08-05</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01790-0-2025-08-05-5</guid>
+			<pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
