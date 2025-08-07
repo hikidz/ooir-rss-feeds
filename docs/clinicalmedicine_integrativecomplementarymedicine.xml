@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Integrative &amp; Complementary Medicine) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 06 Aug 2025 01:13:10 GMT</pubDate>
-		<lastBuildDate>Wed, 06 Aug 2025 01:13:10 GMT</lastBuildDate>
+		<pubDate>Thu, 07 Aug 2025 01:13:46 GMT</pubDate>
+		<lastBuildDate>Thu, 07 Aug 2025 01:13:46 GMT</lastBuildDate>
 		<item>
 			<title>Mobilization with movement plus exercise versus exercise alone for patients with central sensitization associated with chronic subacromial pain syndrome: a sham-controlled randomized clinical trial</title>
 			<link>https://doi.org/10.1186/s12906-025-05028-0</link>
@@ -18,8 +18,8 @@ Journal: BMC Complementary Medicine and Therapies
 Veröffentlicht: 2025-07-28
 DOI: 10.1186/s12906-025-05028-0
 ISSN: 2662-7671
-Tag der Erhebung (OOIR): 2025-08-06</description>
-			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05028-0-2025-08-06-1</guid>
+Tag der Erhebung (OOIR): 2025-08-07</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05028-0-2025-08-07-1</guid>
 			<pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -33,24 +33,9 @@ Journal: Phytomedicine
 Veröffentlicht: 2025-09-01
 DOI: 10.1016/j.phymed.2025.157054
 ISSN: 0944-7113
-Tag der Erhebung (OOIR): 2025-08-06</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.phymed.2025.157054-2025-08-06-2</guid>
+Tag der Erhebung (OOIR): 2025-08-07</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.phymed.2025.157054-2025-08-07-2</guid>
 			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Saikosaponin C ameliorates tau-related pathology by modulating oxidative stress and MAPK axis in Alzheimer's disease</title>
-			<link>https://doi.org/10.1016/j.jep.2025.120221</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Integrative &amp; Complementary Medicine
-Score: 7
-Autoren: Dongmei Chen, Ruomeng Li, Fei She, Jiawen Chen, Sang Min Cho, Bohyun Yang, Yuan Tian, Le Guan, Xiuzhi Zheng, Quling Wang, Long Wang, Sang Won Park, Wucheng Tao, Tao Zhang, Byeong Mo Kim, Tae Ho Lee
-Journal: Journal of Ethnopharmacology
-Veröffentlicht: 2025-08-01
-DOI: 10.1016/j.jep.2025.120221
-ISSN: 0378-8741
-Tag der Erhebung (OOIR): 2025-08-06</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.jep.2025.120221-2025-08-06-3</guid>
-			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Self-medication and off-label prescribing in post COVID-19 syndrome: Baseline data of a randomized acupressure and qigong trial</title>
@@ -63,8 +48,8 @@ Journal: Integrative Medicine Research
 Veröffentlicht: 2025-09-01
 DOI: 10.1016/j.imr.2025.101197
 ISSN: 2213-4220
-Tag der Erhebung (OOIR): 2025-08-06</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.imr.2025.101197-2025-08-06-4</guid>
+Tag der Erhebung (OOIR): 2025-08-07</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.imr.2025.101197-2025-08-07-3</guid>
 			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -78,9 +63,24 @@ Journal: Phytomedicine
 Veröffentlicht: 2025-09-01
 DOI: 10.1016/j.phymed.2025.157066
 ISSN: 0944-7113
-Tag der Erhebung (OOIR): 2025-08-06</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.phymed.2025.157066-2025-08-06-5</guid>
+Tag der Erhebung (OOIR): 2025-08-07</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.phymed.2025.157066-2025-08-07-4</guid>
 			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>A Turning Point for Homeopathy?</title>
+			<link>https://doi.org/10.1055/a-2634-8630</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Integrative &amp; Complementary Medicine
+Score: 5
+Autoren: Robert T. Mathie
+Journal: Homeopathy
+Veröffentlicht: 2025-07-22
+DOI: 10.1055/a-2634-8630
+ISSN: 1475-4916
+Tag der Erhebung (OOIR): 2025-08-07</description>
+			<guid isPermaLink="false">ooir-trend-10.1055/a-2634-8630-2025-08-07-5</guid>
+			<pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
