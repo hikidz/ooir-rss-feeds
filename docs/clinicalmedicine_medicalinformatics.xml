@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Fri, 08 Aug 2025 01:13:43 GMT</pubDate>
-		<lastBuildDate>Fri, 08 Aug 2025 01:13:43 GMT</lastBuildDate>
+		<pubDate>Sat, 09 Aug 2025 01:06:59 GMT</pubDate>
+		<lastBuildDate>Sat, 09 Aug 2025 01:06:59 GMT</lastBuildDate>
 		<item>
 			<title>Pitfalls of large language models in medical ethics reasoning</title>
 			<link>https://doi.org/10.1038/s41746-025-01792-y</link>
@@ -18,8 +18,8 @@ Journal: npj Digital Medicine
 Veröffentlicht: 2025-07-22
 DOI: 10.1038/s41746-025-01792-y
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-08-08</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01792-y-2025-08-08-1</guid>
+Tag der Erhebung (OOIR): 2025-08-09</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01792-y-2025-08-09-1</guid>
 			<pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -33,8 +33,8 @@ Journal: npj Digital Medicine
 Veröffentlicht: 2025-07-23
 DOI: 10.1038/s41746-025-01658-3
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-08-08</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01658-3-2025-08-08-2</guid>
+Tag der Erhebung (OOIR): 2025-08-09</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01658-3-2025-08-09-2</guid>
 			<pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -69,45 +69,9 @@ Abstract: Abstract
           
 DOI: 10.2196/68571
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-08-08</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/68571-2025-08-08-3</guid>
+Tag der Erhebung (OOIR): 2025-08-09</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/68571-2025-08-09-3</guid>
 			<pubDate>Wed, 09 Jul 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Problematic Online Dating: Systematic Review of Definitions, Correlates, and Study Designs</title>
-			<link>https://doi.org/10.2196/72850</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 17
-Autoren: Marina F Thomas, Sylvia Dörfler, Gloria Mittmann, Verena Steiner-Hofbauer
-Journal: Journal of Medical Internet Research
-Veröffentlicht: 2025-07-03
-Abstract: Abstract
-          
-            Background
-            Users describe mobile dating apps as addictive, and researchers have attempted to formalize compulsive dating app use as a behavioral addiction. However, the concept of online dating addiction remains debated.
-          
-          
-            Objective
-            This systematic literature review synthesized quantitative research on problematized online dating behaviors with a specific focus on (1) definitions and measurement of problematic dating app use, (2) the examined adverse correlates, and (3) study designs.
-          
-          
-            Methods
-            From 16 databases, we identified 263 reports related to problematic online dating. Twenty-nine papers—published between 2009 and 2024—met inclusion criteria. They covered 32 quantitative studies investigating problematic dating app use. Sample sizes varied between 64 and 4057, and participant ages ranged between 13 and 80 years, while many participants were aged between 18 and 35 years.
-          
-          
-            Results
-            Researchers problematized the following online dating behaviors (in descending order of frequency): use for certain motives (in 10 reports), problematic use in the sense of behavioral addiction (n=9), specific activities or experiences (n=9), compulsive use (n=6), a disbalance between offline and online interactions (too many or too few online interactions, n=4), and mere use or frequency (n=4). Even using dating apps for sexual motivations and relationship-seeking was linked to adverse correlates. Scholars have examined adverse correlates, including (1) mood and emotional issues (n=11), (2) anxieties (n=9), (3) user motives and other media variables (n=9), (4) undesired behaviors (n=8), (5) personality (n=8), (6) self-attitudes (n=7), (7) partner choice (n=5), (8) sexuality (n=5), and (9) interpersonal correlates (n=4). Methodologically, the most common scales (measuring use for certain motives and the 6-component behavioral addiction items) include life problems within their measurement of problematic dating app use (eg, use to forget problems and conflict due to use). Of 32 studies, only 3 were randomized experiments. All surveys measured dating app variables only at a single time point (cross-sectionally) and focused on between-person effects rather than within-person dynamics.
-          
-          
-            Conclusions
-            Research on user motives dominates the field. To understand harmful media effects, researchers should measure media use and harmful consequences separately. However, motives are often worded as coping with an undesired state (eg, use to forget problems) or enhancing a desired state (eg, use for self-esteem enhancement). Similarly, behavioral addiction scales include life problems (eg, conflict due to use). These scales thus conflate predictor and outcome. Future literature reviews or meta-analyses that examine associations should include only results of scales that validly distinguish media use from its adverse outcomes. Overall, research on internet dating addiction—and internet addiction in general—requires theoretically grounded definitions as well as experimental and longitudinal studies modeling between- and within-person effects.
-          
-DOI: 10.2196/72850
-ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-08-08</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/72850-2025-08-08-4</guid>
-			<pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Applying the principle of justice in digital health</title>
@@ -122,9 +86,24 @@ Abstract: Abstract
           In an increasingly digital healthcare landscape, it is essential to assess the ethical impact of technology on care practices. We present a conceptual framework on equity in digital health, addressing justice-related concepts and challenges to reducing the digital divide. An ethical approach ensures that digital health respects fundamental rights. We propose goals—such as incorporating digital determinants into public health policy—to promote justice and reduce health inequalities in digital health implementation.
 DOI: 10.1038/s41746-025-01877-8
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-08-08</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01877-8-2025-08-08-5</guid>
+Tag der Erhebung (OOIR): 2025-08-09</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01877-8-2025-08-09-4</guid>
 			<pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Cognitive bias in clinical large language models</title>
+			<link>https://doi.org/10.1038/s41746-025-01790-0</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 16
+Autoren: Arjun Mahajan, Ziad Obermeyer, Roxana Daneshjou, Jenna Lester, Dylan Powell
+Journal: npj Digital Medicine
+Veröffentlicht: 2025-07-10
+DOI: 10.1038/s41746-025-01790-0
+ISSN: 2398-6352
+Tag der Erhebung (OOIR): 2025-08-09</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01790-0-2025-08-09-5</guid>
+			<pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

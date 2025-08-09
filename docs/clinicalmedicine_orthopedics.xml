@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Orthopedics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Fri, 08 Aug 2025 01:14:31 GMT</pubDate>
-		<lastBuildDate>Fri, 08 Aug 2025 01:14:31 GMT</lastBuildDate>
+		<pubDate>Sat, 09 Aug 2025 01:07:20 GMT</pubDate>
+		<lastBuildDate>Sat, 09 Aug 2025 01:07:20 GMT</lastBuildDate>
 		<item>
 			<title>Development of Artificial Intelligence‐Assisted Lumbar and Femoral BMD Estimation System Using Anteroposterior Lumbar X‐Ray Images</title>
 			<link>https://doi.org/10.1002/jor.70000</link>
@@ -19,8 +19,8 @@ Veröffentlicht: 2025-07-09
 Abstract: ABSTRACTThe early detection and treatment of osteoporosis and prevention of fragility fractures are urgent societal issues. We developed an artificial intelligence‐assisted diagnostic system that estimated not only lumbar bone mineral density but also femoral bone mineral density from anteroposterior lumbar X‐ray images. We evaluated the performance of lumbar and femoral bone mineral density estimations and the osteoporosis classification accuracy of an artificial intelligence‐assisted diagnostic system using lumbar X‐ray images from a population‐based cohort. The artificial neural network consisted of a deep neural network for estimating lumbar and femoral bone mineral density values and classifying lumbar X‐ray images into osteoporosis categories. The deep neural network was built by training dual‐energy X‐ray absorptiometry‐derived lumbar and femoral bone mineral density values as the ground truth of the training data and preprocessed X‐ray images. Five‐fold cross‐validation was performed to evaluate the accuracy of the estimated BMD. A total of 1454 X‐ray images from 1454 participants were analyzed using the artificial neural network. For the bone mineral density estimation performance, the mean absolute errors were 0.076 g/cm2 for the lumbar and 0.071 g/cm2 for the femur between dual‐energy X‐ray absorptiometry‐derived and artificial intelligence‐estimated bone mineral density values. The classification performances for the lumbar and femur of patients with osteopenia, in terms of sensitivity, were 86.4% and 80.4%, respectively, and the respective specificities were 84.1% and 76.3%.Clinical SignificanceThe system was able to estimate the bone mineral density and classify the osteoporosis category of not only patients in clinics or hospitals but also of general inhabitants.
 DOI: 10.1002/jor.70000
 ISSN: 0736-0266
-Tag der Erhebung (OOIR): 2025-08-08</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/jor.70000-2025-08-08-1</guid>
+Tag der Erhebung (OOIR): 2025-08-09</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/jor.70000-2025-08-09-1</guid>
 			<pubDate>Wed, 09 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -34,8 +34,8 @@ Journal: The Journal of Arthroplasty
 Veröffentlicht: 2025-07-01
 DOI: 10.1016/j.arth.2025.07.001
 ISSN: 0883-5403
-Tag der Erhebung (OOIR): 2025-08-08</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.arth.2025.07.001-2025-08-08-2</guid>
+Tag der Erhebung (OOIR): 2025-08-09</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.arth.2025.07.001-2025-08-09-2</guid>
 			<pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -49,8 +49,8 @@ Journal: Injury
 Veröffentlicht: 2025-08-01
 DOI: 10.1016/j.injury.2025.112595
 ISSN: 0020-1383
-Tag der Erhebung (OOIR): 2025-08-08</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.injury.2025.112595-2025-08-08-3</guid>
+Tag der Erhebung (OOIR): 2025-08-09</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.injury.2025.112595-2025-08-09-3</guid>
 			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -64,8 +64,8 @@ Journal: European Spine Journal
 Veröffentlicht: 2025-08-02
 DOI: 10.1007/s00586-025-09218-9
 ISSN: 0940-6719
-Tag der Erhebung (OOIR): 2025-08-08</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s00586-025-09218-9-2025-08-08-4</guid>
+Tag der Erhebung (OOIR): 2025-08-09</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s00586-025-09218-9-2025-08-09-4</guid>
 			<pubDate>Sat, 02 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -80,8 +80,8 @@ Veröffentlicht: 2025-07-29
 Abstract:  Identification of pain descriptors provide a plausible method to consider personalisation of management of pain based on presumed underlying mechanisms. The aim is to use mechanistic pain descriptors (nociceptive, neuropathic and nociplastic pain) to guide clinical practice into an era of personalised medicine for people with pain. Clinicians should understand the concept of descriptors to improve their understanding of a mechanism-based management of chronic pain. Nonetheless, all treatment of individuals suffering from chronic pain should be holistic (i.e., person-centred). Nociplastic pain already serves as an evidence-based explanation that can help make sense of pain without any known pathology, but is not ready to be considered as a target for treatment in itself, based on the current level of evidence. To summarise, treatment outcomes may benefit when treatments are matched to patients according to mechanistic descriptors, and current research initiatives are working on bring this closer to the clinic. 
 DOI: 10.2519/jospt.2025.13335
 ISSN: 0190-6011
-Tag der Erhebung (OOIR): 2025-08-08</description>
-			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2025.13335-2025-08-08-5</guid>
+Tag der Erhebung (OOIR): 2025-08-09</description>
+			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2025.13335-2025-08-09-5</guid>
 			<pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
