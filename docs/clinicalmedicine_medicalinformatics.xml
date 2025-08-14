@@ -5,22 +5,71 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 13 Aug 2025 01:07:56 GMT</pubDate>
-		<lastBuildDate>Wed, 13 Aug 2025 01:07:56 GMT</lastBuildDate>
+		<pubDate>Thu, 14 Aug 2025 01:08:42 GMT</pubDate>
+		<lastBuildDate>Thu, 14 Aug 2025 01:08:42 GMT</lastBuildDate>
+		<item>
+			<title>A Flexible Multi-Sensor Device Enabling Handheld Sensing of Heart Sounds by Untrained Users</title>
+			<link>https://doi.org/10.1109/jbhi.2025.3551882</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 311
+Autoren: Andrew McDonald, Maximilian Nussbaumer, Nirmani Rathnayake, Richard Steeds, Anurag Agarwal
+Journal: IEEE Journal of Biomedical and Health Informatics
+Veröffentlicht: 2025-08-01
+DOI: 10.1109/jbhi.2025.3551882
+ISSN: 2168-2194
+Tag der Erhebung (OOIR): 2025-08-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1109/jbhi.2025.3551882-2025-08-14-1</guid>
+			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Pitfalls of large language models in medical ethics reasoning</title>
 			<link>https://doi.org/10.1038/s41746-025-01792-y</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 92
+Score: 96
 Autoren: Shelly Soffer, Vera Sorin, Girish N. Nadkarni, Eyal Klang
 Journal: npj Digital Medicine
 Veröffentlicht: 2025-07-22
 DOI: 10.1038/s41746-025-01792-y
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-08-13</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01792-y-2025-08-13-1</guid>
+Tag der Erhebung (OOIR): 2025-08-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01792-y-2025-08-14-2</guid>
 			<pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Personalized home based neurostimulation via AI optimization augments sustained attention</title>
+			<link>https://doi.org/10.1038/s41746-025-01744-6</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 80
+Autoren: Roi Cohen Kadosh, Delia Ciobotaru, Malin I. Karstens, Vu Nguyen
+Journal: npj Digital Medicine
+Veröffentlicht: 2025-07-29
+Abstract: Abstract
+          Brain-based technologies for human augmentation face challenges in personalization and real-world translation. We present an AI-driven personalized Bayesian optimization algorithm that remotely adjusts neurostimulation parameters based on baseline ability and head anatomy to enhance sustained attention at home. Validated through in silico modeling and a double-blind, sham-controlled study, our approach aligns with MRI-based models and neurobiological theories, maximizing efficacy and enabling scalable, personalized cognitive enhancement and therapy in real-world settings.
+DOI: 10.1038/s41746-025-01744-6
+ISSN: 2398-6352
+Tag der Erhebung (OOIR): 2025-08-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01744-6-2025-08-14-3</guid>
+			<pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Evaluation of the NHS active 10 walking app intervention through time-series analysis in 201,688 individuals</title>
+			<link>https://doi.org/10.1038/s41746-025-01785-x</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 62
+Autoren: Dharani Yerrakalva, Samantha Hajna, Soren Brage, Simon J. Griffin
+Journal: npj Digital Medicine
+Veröffentlicht: 2025-08-06
+Abstract: Abstract
+          Despite widespread interest in integrating mobile health apps into primary care to prevent and manage physical inactivity-related health conditions, the effectiveness of these apps remains unclear. We quantified the effects of Active 10 (a goal setting and self-monitoring app developed by Public Health England) on brisk and non-brisk walking using a single-group interrupted time-series analysis of individual-level data collected between July 2021 and January 2024. Among Active 10 users (n = 201,668 l; 51.4 ± 14.4 years; 75.4% women) brisk and non-brisk walking increased by 9.0 (95% confidence interval (CI) 8.9, 9.1; 73% above baseline) and 2.6 min/day (95% CI 2.4, 2.8; 9% above baseline), respectively, on the day of app download. Post-download, brisk and non-brisk walking decreased by 0.15 (95% CI −0.17, −0.13) and 0.06 (95% CI −0.08, −0.03) min/day/month, respectively, but remained above baseline. Our findings suggest that Active 10 may be effective in facilitating increases in brisk and non-brisk walking.
+DOI: 10.1038/s41746-025-01785-x
+ISSN: 2398-6352
+Tag der Erhebung (OOIR): 2025-08-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01785-x-2025-08-14-4</guid>
+			<pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Synthetic data trained open-source language models are feasible alternatives to proprietary models for radiology reporting</title>
@@ -33,77 +82,9 @@ Journal: npj Digital Medicine
 Veröffentlicht: 2025-07-23
 DOI: 10.1038/s41746-025-01658-3
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-08-13</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01658-3-2025-08-13-2</guid>
+Tag der Erhebung (OOIR): 2025-08-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01658-3-2025-08-14-5</guid>
 			<pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Sleep Quality as a Mediator of Internet Gaming Disorder and Executive Dysfunction in Adolescents: Cross-Sectional Questionnaire Study</title>
-			<link>https://doi.org/10.2196/68571</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 23
-Autoren: Michoel L Moshel, Wayne Warburton, Rainer Thomasius, Kerstin Paschke
-Journal: Journal of Medical Internet Research
-Veröffentlicht: 2025-07-09
-Abstract: Abstract
-          
-            Background
-            Internet gaming disorder (IGD) has been associated with impairments in executive functioning, particularly inattention and impulsivity. Sleep quality has separately been linked to both gaming behavior and cognitive performance, yet its role as a mediating factor in this relationship is underexplored.
-          
-          
-            Objective
-            This study aimed to determine whether sleep quality mediates the relationship between IGD symptoms and executive dysfunction in adolescents, specifically focusing on the domains of inattention and hyperactivity or impulsivity. A reverse mediation model was also tested to explore the bidirectional nature of these relationships.
-          
-          
-            Methods
-            A representative sample of 1000 adolescents (539/1000, 53.9% males), aged between 12 and 17 years (mean 14.52, SD 1.64), completed validated self-report measures of IGD symptoms, executive dysfunction, and sleep quality. Structural equation modeling was used to test direct and indirect effects with age and gender included as covariates.
-          
-          
-            Results
-            Of the sample, 2.4% (24/1000) met criteria for IGD (875/1000, 87.5% males), and 22.6% (226/1000) met criteria for chronic sleep reduction. Among those with IGD, 54.2% (542/1000) also experienced chronic sleep reduction. In model A (IGD → Sleep → Executive Dysfunction), IGD symptoms were associated with poorer sleep quality (a=0.32, 95% CI 0.19-0.44), which in turn were associated with greater executive dysfunction (b=0.05, 95% CI 0.01-0.10). The indirect effect was significant (a×b=0.02, 95% CI 0.01-0.04), and sleep quality was a partial mediator. In the reverse model (model B), executive dysfunction was associated with poorer sleep quality (a=0.15, 95% CI 0.06-0.25), which subsequently was associated with higher IGD symptoms (b=0.11, 95% CI 0.07-0.16); indirect effect a×b=0.02, 95% CI 0.01-0.04. Simple slope analysis showed that IGD symptoms were associated only with executive dysfunction at average or poor levels of sleep quality. At higher levels of sleep quality, this relationship was no longer significant.
-          
-          
-            Conclusions
-            The results of this study suggest that sleep quality may be an important intermediary mechanism by which IGD might contribute to executive dysfunction and provide a basis for the development and implementation of strategies that target sleep issues in IGD. Prospective longitudinal research is needed to examine the directionality of the relationships between IGD, sleep quality, and executive dysfunction longitudinally.
-          
-DOI: 10.2196/68571
-ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-08-13</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/68571-2025-08-13-3</guid>
-			<pubDate>Wed, 09 Jul 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Applying the principle of justice in digital health</title>
-			<link>https://doi.org/10.1038/s41746-025-01877-8</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 17
-Autoren: Oriol Yuguero, Pere Ruiz-Trujillo, Montse Esquerda, Nuria Terribas, Marta Aymerich
-Journal: npj Digital Medicine
-Veröffentlicht: 2025-07-21
-Abstract: Abstract
-          In an increasingly digital healthcare landscape, it is essential to assess the ethical impact of technology on care practices. We present a conceptual framework on equity in digital health, addressing justice-related concepts and challenges to reducing the digital divide. An ethical approach ensures that digital health respects fundamental rights. We propose goals—such as incorporating digital determinants into public health policy—to promote justice and reduce health inequalities in digital health implementation.
-DOI: 10.1038/s41746-025-01877-8
-ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-08-13</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01877-8-2025-08-13-4</guid>
-			<pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>One shot at trust: building credible evidence for medical artificial intelligence</title>
-			<link>https://doi.org/10.1016/j.landig.2025.100883</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 15
-Autoren: Ramez Kouzy, Julian C. Hong, Danielle S. Bitterman
-Journal: The Lancet Digital Health
-Veröffentlicht: 2025-08-01
-DOI: 10.1016/j.landig.2025.100883
-ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2025-08-13</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100883-2025-08-13-5</guid>
-			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
