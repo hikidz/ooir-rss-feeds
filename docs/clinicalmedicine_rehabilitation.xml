@@ -5,8 +5,23 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rehabilitation) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 14 Aug 2025 01:09:21 GMT</pubDate>
-		<lastBuildDate>Thu, 14 Aug 2025 01:09:21 GMT</lastBuildDate>
+		<pubDate>Fri, 15 Aug 2025 01:09:33 GMT</pubDate>
+		<lastBuildDate>Fri, 15 Aug 2025 01:09:33 GMT</lastBuildDate>
+		<item>
+			<title>Physioethology: a post-humanist perspective on physiotherapy</title>
+			<link>https://doi.org/10.1080/09593985.2025.2532572</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 24
+Autoren: Matthew Low, Fiona H. Moffatt, Roger Kerry, David A. Nicholls
+Journal: Physiotherapy Theory and Practice
+Veröffentlicht: 2025-07-18
+DOI: 10.1080/09593985.2025.2532572
+ISSN: 0959-3985
+Tag der Erhebung (OOIR): 2025-08-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1080/09593985.2025.2532572-2025-08-15-1</guid>
+			<pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Pain Science in Practice (Part 8): Nociceptive, Neuropathic and Nociplastic Pain</title>
 			<link>https://doi.org/10.2519/jospt.2025.13335</link>
@@ -19,24 +34,9 @@ Veröffentlicht: 2025-07-29
 Abstract:  Identification of pain descriptors provide a plausible method to consider personalisation of management of pain based on presumed underlying mechanisms. The aim is to use mechanistic pain descriptors (nociceptive, neuropathic and nociplastic pain) to guide clinical practice into an era of personalised medicine for people with pain. Clinicians should understand the concept of descriptors to improve their understanding of a mechanism-based management of chronic pain. Nonetheless, all treatment of individuals suffering from chronic pain should be holistic (i.e., person-centred). Nociplastic pain already serves as an evidence-based explanation that can help make sense of pain without any known pathology, but is not ready to be considered as a target for treatment in itself, based on the current level of evidence. To summarise, treatment outcomes may benefit when treatments are matched to patients according to mechanistic descriptors, and current research initiatives are working on bring this closer to the clinic. 
 DOI: 10.2519/jospt.2025.13335
 ISSN: 0190-6011
-Tag der Erhebung (OOIR): 2025-08-14</description>
-			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2025.13335-2025-08-14-1</guid>
+Tag der Erhebung (OOIR): 2025-08-15</description>
+			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2025.13335-2025-08-15-2</guid>
 			<pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Physioethology: a post-humanist perspective on physiotherapy</title>
-			<link>https://doi.org/10.1080/09593985.2025.2532572</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rehabilitation
-Score: 24
-Autoren: Matthew Low, Fiona H. Moffatt, Roger Kerry, David A. Nicholls
-Journal: Physiotherapy Theory and Practice
-Veröffentlicht: 2025-07-18
-DOI: 10.1080/09593985.2025.2532572
-ISSN: 0959-3985
-Tag der Erhebung (OOIR): 2025-08-14</description>
-			<guid isPermaLink="false">ooir-trend-10.1080/09593985.2025.2532572-2025-08-14-2</guid>
-			<pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>The content of diagnostic information has an immediate effect on pain with loading in people with midportion Achilles tendinopathy: a randomized clinical experiment</title>
@@ -49,8 +49,8 @@ Journal: Brazilian Journal of Physical Therapy
 Veröffentlicht: 2025-09-01
 DOI: 10.1016/j.bjpt.2025.101244
 ISSN: 1413-3555
-Tag der Erhebung (OOIR): 2025-08-14</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2025.101244-2025-08-14-3</guid>
+Tag der Erhebung (OOIR): 2025-08-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2025.101244-2025-08-15-3</guid>
 			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -64,8 +64,8 @@ Journal: Physical Therapy in Sport
 Veröffentlicht: 2025-09-01
 DOI: 10.1016/j.ptsp.2025.07.007
 ISSN: 1466-853X
-Tag der Erhebung (OOIR): 2025-08-14</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ptsp.2025.07.007-2025-08-14-4</guid>
+Tag der Erhebung (OOIR): 2025-08-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ptsp.2025.07.007-2025-08-15-4</guid>
 			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -80,8 +80,8 @@ Veröffentlicht: 2025-08-07
 Abstract: ABSTRACTBackgroundChildren with intellectual disabilities (ID) experience disparities in mental health care despite experiencing increased exposure to trauma such as physical, emotional and sexual abuse. Studies have suggested that the exclusion of people with ID from medical research may contribute to disparities in health care. It is currently unknown to what extent children with ID are excluded from trauma treatment research.MethodsAll randomised controlled trials (RCTs) (n = 62) included in the most up‐to‐date International Society for Traumatic Stress Studies (ISTSS) clinical care guidelines meta‐analysis of posttraumatic stress disorder (PTSD) treatments were reanalysed and coded to determine whether or not children with ID or other developmental disabilities that co‐occur with ID were excluded based on inclusion/exclusion criteria. Articles were double‐coded by the research team. The corresponding authors of the studies were asked to complete a survey rating the likelihood that children with ID would have been eligible for the study.ResultsOf the studies, 61.3% reviewed reported exclusion criteria based on a diagnosis of intellectual disability, cognitive impairment, autism spectrum disorder, organic/neurological conditions, or other related terms (e.g., ‘significant learning difficulties’). Operationalisation of exclusion criteria was sparse. Few studies reported the number of children excluded from trials based on an ID diagnosis.ConclusionsThe evidence base for the ISTSS clinical care guidelines of child PTSD treatment is not representative of children with ID. Improved documentation of inclusion/exclusion criteria, reporting of disability as a demographic characteristic, and inclusion of children with ID in PTSD treatment trials are needed to improve representation of children with ID in PTSD research.
 DOI: 10.1111/jir.70011
 ISSN: 0964-2633
-Tag der Erhebung (OOIR): 2025-08-14</description>
-			<guid isPermaLink="false">ooir-trend-10.1111/jir.70011-2025-08-14-5</guid>
+Tag der Erhebung (OOIR): 2025-08-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1111/jir.70011-2025-08-15-5</guid>
 			<pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
