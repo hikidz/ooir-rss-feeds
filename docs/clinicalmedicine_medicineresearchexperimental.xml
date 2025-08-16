@@ -5,14 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, Research &amp; Experimental) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Fri, 15 Aug 2025 01:09:01 GMT</pubDate>
-		<lastBuildDate>Fri, 15 Aug 2025 01:09:01 GMT</lastBuildDate>
+		<pubDate>Sat, 16 Aug 2025 01:05:25 GMT</pubDate>
+		<lastBuildDate>Sat, 16 Aug 2025 01:05:25 GMT</lastBuildDate>
 		<item>
 			<title>Ultraprocessed or minimally processed diets following healthy dietary guidelines on weight and cardiometabolic health: a randomized, crossover trial</title>
 			<link>https://doi.org/10.1038/s41591-025-03842-0</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medicine, Research &amp; Experimental
-Score: 2407
+Score: 2467
 Autoren: Samuel J. Dicken, Friedrich C. Jassil, Adrian Brown, Monika Kalis, Chloe Stanley, Chaniqua Ranson, Tapiwa Ruwona, Sulmaaz Qamar, Caroline Buck, Ritwika Mallik, Nausheen Hamid, Jonathan M. Bird, Alanna Brown, Benjamin Norton, Claudia A. M. Gandini Wheeler-Kingshott, Mark Hamer, Chris van Tulleken, Kevin D. Hall, Abigail Fisher, Janine Makaronidis, Rachel L. Batterham
 Journal: Nature Medicine
 Veröffentlicht: 2025-08-04
@@ -20,23 +20,47 @@ Abstract: Abstract
           Ultraprocessed food (UPF) consumption is associated with noncommunicable disease risk, yet no trial has assessed its health impact within the context of national dietary guidelines. In a 2 × 2 crossover randomized controlled feeding trial, 55 adults in England (body mass index ≥25 to &amp;lt;40 kg m−2, habitual UPF intake ≥50% kcal day−1) were provided with two 8-week ad libitum diets following the UK Eatwell Guide: (1) minimally processed food (MPF) and (2) UPF, in a random order. Twenty-eight people were randomized to MPF then UPF, and 27 to UPF then MPF; 50 participants comprised the intention-to-treat sample. The primary outcome was the within-participant difference in percent weight change (%WC) between diets, from baseline to week 8. Participants were blinded to the primary outcome. MPF (%WC, −2.06 (95% confidence interval (CI), −2.99, −1.13) and UPF (%WC, −1.05 (95% CI, −1.98, −0.13)) resulted in weight loss, with significantly greater %WC on MPF (Δ%WC, −1.01 (95% CI, −1.87, −0.14), P = 0.024; Cohen’s d, −0.48 (95% CI, −0.91, −0.06)). Mild gastrointestinal adverse events were common on both diets. Findings indicate greater weight loss on MPF than UPF diets and needing dietary guidance on food processing in addition to existing recommendations. Clinicaltrials.gov registration: NCT05627570.
 DOI: 10.1038/s41591-025-03842-0
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2025-08-15</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03842-0-2025-08-15-1</guid>
+Tag der Erhebung (OOIR): 2025-08-16</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03842-0-2025-08-16-1</guid>
 			<pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>An oral heme oxygenase inhibitor targets immunosuppressive perivascular macrophages in preclinical models of cancer</title>
+			<link>https://doi.org/10.1126/scitranslmed.ads3085</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 1183
+Autoren: Meriem Bahri, Taha Al-Adhami, Emre Demirel, Jit Sarkar, Karen T. Feehan, Joanne E. Anstee, Tik Shing Cheung, Dominika Sosnowska, Chloé A. Woodman, William Macmorland, Dorothy D. Yang, James Rosekilly, Renee Gitsaki-Taylor, Cheryl E. Gillett, Cheryl L. Scudamore, James Spicer, Khondaker Miraz Rahman, James N. Arnold
+Journal: Science Translational Medicine
+Veröffentlicht: 2025-08-06
+Abstract: 
+            A subset of perivascular tumor-associated macrophages (PvTAMs) expressing lymphatic vessel endothelial hyaluronan receptor–1 (LYVE-1) relies on heme oxygenase–1 (HO-1) activity to maintain an immunologically cold tumor microenvironment, which suppresses the efficacy of chemotherapy. Consequently, HO-1 inhibition represents a strategy to target immunosuppressive LYVE-1
+            +
+            PvTAMs and improve therapeutic responses. We developed and characterized KCL-HO-1i, a small-molecule, orally bioavailable HO-1 inhibitor. In chemotherapy-resistant spontaneous murine
+            MMTV-PyMT
+            breast cancer and subcutaneous MN/MCA1 sarcoma models, targeting the PvTAM function with KCL-HO-1i enhanced chemotherapy effects and sensitized tumors to treatment. KCL-HO-1i combined with chemotherapy promoted an immunologically hot tumor microenvironment characterized by increased infiltration of CD8
+            +
+            T cells exhibiting effector function. These findings identify KCL-HO-1i as a nontoxic, orally bioavailable small-molecule immunotherapeutic targeting a key subset of protumoral PvTAMs, offering a combinatorial strategy to enhance chemotherapy efficacy in cancer.
+          
+DOI: 10.1126/scitranslmed.ads3085
+ISSN: 1946-6234
+Tag der Erhebung (OOIR): 2025-08-16</description>
+			<guid isPermaLink="false">ooir-trend-10.1126/scitranslmed.ads3085-2025-08-16-2</guid>
+			<pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Polygenic prediction of body mass index and obesity through the life course and across ancestries</title>
 			<link>https://doi.org/10.1038/s41591-025-03827-z</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medicine, Research &amp; Experimental
-Score: 940
+Score: 956
 Autoren: Roelof A. J. Smit, Kaitlin H. Wade, Qin Hui, Joshua D. Arias, Xianyong Yin, Malene R. Christiansen, Loic Yengo, Michael H. Preuss, Mariam Nakabuye, Ghislain Rocheleau, Sarah E. Graham, Victoria L. Buchanan, Geetha Chittoor, Marielisa Graff, Marta Guindo-Martínez, Yingchang Lu, Eirini Marouli, Saori Sakaue, Cassandra N. Spracklen, Sailaja Vedantam, Emma P. Wilson, Shyh-Huei Chen, Teresa Ferreira, Yingjie Ji, Tugce Karaderi, Kreete Lüll, Moara Machado, Deborah E. Malden, Carolina Medina-Gomez, Amy Moore, Sina Rüeger, Masato Akiyama, Matthew A. Allison, Marcus Alvarez, Mette K. Andersen, Vivek Appadurai, Liubov Arbeeva, Eric Bartell, Seema Bhaskar, Lawrence F. Bielak, Joshua C. Bis, Sailalitha Bollepalli, Jette Bork-Jensen, Jonathan P. Bradfield, Yuki Bradford, Caroline Brandl, Peter S. Braund, Jennifer A. Brody, Ulrich Broeckel, Kristoffer S. Burgdorf, Brian E. Cade, Qiuyin Cai, Silvia Camarda, Archie Campbell, Marisa Cañadas-Garre, Jin-Fang Chai, Alessandra Chesi, Seung Hoan Choi, Paraskevi Christofidou, Christian Couture, Gabriel Cuellar-Partida, Rebecca Danning, Frauke Degenhardt, Graciela E. Delgado, Alessandro Delitala, Ayşe Demirkan, Xuan Deng, Alexander Dietl, Maria Dimitriou, Latchezar Dimitrov, Rajkumar Dorajoo, Fabian Eichelmann, Anders U. Eliasen, Jorgen E. Engmann, Michael R. Erdos, Zammy Fairhurst-Hunter, Aliki-Eleni Farmaki, Jessica D. Faul, Juan-Carlos Fernandez-Lopez, Lukas Forer, Mirjam Frank, Sandra Freitag-Wolf, Lars G. Fritsche, Christian Fuchsberger, Tessel E. Galesloot, Yan Gao, Frank Geller, Olga Giannakopoulou, Franco Giulianini, Anette P. Gjesing, Anuj Goel, Scott D. Gordon, Mathias Gorski, Jakob Grove, Xiuqing Guo, Stefan Gustafsson, Jeffrey Haessler, Thomas F. Hansen, Aki S. Havulinna, Simon J. Haworth, Nancy Heard-Costa, Daiane Hemerich, Heather M. Highland, George Hindy, Yuk-Lam Ho, Edith Hofer, Elizabeth Holliday, Katrin Horn, Whitney E. Hornsby, Jouke-Jan Hottenga, Hongyan Huang, Jie Huang, Alicia Huerta-Chagoya, Shaofeng Huo, Mi Yeong Hwang, Chii-Min Hwu, Hiroyuki Iha, Daisuke D. Ikeda, Masato Isono, Anne U. Jackson, Iris E. Jansen, Yunxuan Jiang, Ingegerd Johansson, Anna Jonsson, Torben Jørgensen, Ioanna P. Kalafati, Masahiro Kanai, Stavroula Kanoni, Line L. Kårhus, Anuradhani Kasturiratne, Tomohiro Katsuya, Takahisa Kawaguchi, Rachel L. Kember, Katherine A. Kentistou, Daeeun Kim, Han-Na Kim, Young Jin Kim, Marcus E. Kleber, Maria J. Knol, Azra Kurbasic, Marie Lauzon, Phuong Le, Rodney Lea, Jong-Young Lee, Wen-Jane Lee, Hampton L. Leonard, Hengtong Li, Shengchao A. Li, Xiaohui Li, Xiaoyin Li, Jingjing Liang, Honghuang Lin, Kuang Lin, Jun Liu, Xueping Liu, Ken Sin Lo, Jirong Long, Laura Lores-Motta, Jian’an Luan, Valeriya Lyssenko, Leo-Pekka Lyytikäinen, Anubha Mahajan, Md Zubbair Malik, Vasiliki Mamakou, Massimo Mangino, Ani Manichaikul, Jonathan Marten, Manuel Mattheisen, Aaron F. McDaid, Quanshun Mei, Heike Meiselbach, Tori L. Melendez, Yuri Milaneschi, Jason E. Miller, Iona Y. Millwood, Pashupati P. Mishra, Ruth E. Mitchell, Line T. Møllehave, Nina Mononen, Sören Mucha, Matthias Munz, Juha Mykkänen, Masahiro Nakatochi, Giuseppe Giovanni Nardone, Christopher P. Nelson, Maria Nethander, Chu Won Nho, Aneta A. Nielsen, Ilja M. Nolte, Suraj S. Nongmaithem, Raymond Noordam, Ioanna Ntalla, Teresa Nutile, Anita Pandit, Marc Pauper, Eva R. B. Petersen, Liselotte V. Petersen, Francesco Piluso, Ozren Polašek, Alaitz Poveda, Saiju Pyarajan, Laura M. Raffield, Hiromi Rakugi, Julia Ramirez, Asif Rasheed, Dennis Raven, Nigel W. Rayner, Carlos Riveros, Rebecca Rohde, Daniela Ruggiero, Sanni E. Ruotsalainen, Kathleen A. Ryan, Maria Sabater-Lleal, Aurora Santin, Richa Saxena, Markus Scholz, Botong Shen, Jingchunzi Shi, Jae Hun Shin, Carlo Sidore, Julia Sidorenko, Xueling Sim, Roderick C. Slieker, Albert V. Smith, Jennifer A. Smith, Laura J. Smyth, Lorraine Southam, Valgerdur Steinthorsdottir, Liang Sun, Fumihiko Takeuchi, Kent D. Taylor, Bamidele O. Tayo, Catherine Tcheandjieu, Natalie Terzikhan, Paola Tesolin, Alexander Teumer, Elizabeth Theusch, Deborah J. Thompson, Gudmar Thorleifsson, Paul R. H. J. Timmers, Stella Trompet, Constance Turman, Simona Vaccargiu, Sander W. van der Laan, Peter J. van der Most, Jan B. van Klinken, Jessica van Setten, Shefali S. Verma, Niek Verweij, Yogasudha Veturi, Carol A. Wang, Chaolong Wang, Jun-Sing Wang, Lihua Wang, Ya Xing Wang, Zhe Wang, Helen R. Warren, Wen Bin Wei, Wanqing Wen, William A. Wheeler, Ananda R. Wickremasinghe, Matthias Wielscher, Bendik S. Winsvold, Andrew Wong, Matthias Wuttke, Rui Xia, Ken Yamamoto, Jingyun Yang, Jie Yao, Hannah Young, Noha A. Yousri, Lei Yu, Lingyao Zeng, Weihua Zhang, Xinyuan Zhang, Jing-Hua Zhao, Wei Zhao, Wei Zhou, Martina E. Zimmermann, Magdalena Zoledziewska, Leen M. ‘t Hart, Linda S. Adair, Hieab H. H. Adams, Carlos A. Aguilar-Salinas, Fahd Al-Mulla, Donna K. Arnett, Folkert W. Asselbergs, Bjørn Olav Åsvold, John Attia, Bernhard Banas, Stefania Bandinelli, Lawrence J. Beilin, David A. Bennett, Tobias Bergler, Dwaipayan Bharadwaj, Ginevra Biino, Eric Boerwinkle, Carsten A. Böger, Judith B. Borja, Claude Bouchard, Donald W. Bowden, Ivan Brandslund, Ben Brumpton, Julie E. Buring, Mark J. Caulfield, John C. Chambers, Giriraj R. Chandak, Stephen J. Chanock, Nish Chaturvedi, Yii-Der Ida Chen, Zhengming Chen, Ching-Yu Cheng, Yoon Shin Cho, Kaare Christensen, Ingrid E. Christophersen, Marina Ciullo, John W. Cole, Francis S. Collins, Maria Pina Concas, Richard S. Cooper, Miguel Cruz, Francesco Cucca, Michael J. Cutler, Scott M. Damrauer, Thomas M. Dantoft, Gert J. de Borst, Eco J. C. de Geus, Lisette C. P. G. M. de Groot, Philip L. De Jager, Dominique P. V. de Kleijn, H. Janaka de Silva, George V. Dedoussis, Anneke I. den Hollander, Shufa Du, Douglas F. Easton, Kai-Uwe Eckardt, Petra J. M. Elders, A. Heather Eliassen, Patrick T. Ellinor, Sölve Elmståhl, Jeanette Erdmann, Michele K. Evans, Diane Fatkin, Bjarke Feenstra, Mary F. Feitosa, Luigi Ferrucci, Jose C. Florez, Ian Ford, Myriam Fornage, Andre Franke, Paul W. Franks, Barry I. Freedman, Christian Gieger, Giorgia Girotto, Yvonne M. Golightly, Clicerio Gonzalez-Villalpando, Penny Gordon-Larsen, Harald Grallert, Struan F. A. Grant, Niels Grarup, Lyn Griffiths, Vilmundur Gudnason, Christopher Haiman, Hakon Hakonarson, Torben Hansen, Catharina A. Hartman, Andrew T. Hattersley, Caroline Hayward, Iris M. Heid, Chew-Kiat Heng, Christian Hengstenberg, Karl-Heinz Herzig, Alex W. Hewitt, Haretsugu Hishigaki, David M. Hougaard, Carel B. Hoyng, Paul L. Huang, Wei Huang, Wen-Yi Huang, Jennifer E. Huffman, Steven C. Hunt, Nina Hutri, Kristian Hveem, Elina Hyppönen, William G. Iacono, Sahoko Ichihara, M. Arfan Ikram, Carmen R. Isasi, Marjo-Riitta Jarvelin, Zi-Bing Jin, Karl-Heinz Jöckel, Jost B. Jonas, Peter K. Joshi, Pekka Jousilahti, J. Wouter Jukema, Mika Kähönen, Yoichiro Kamatani, Kui Dong Kang, Jaakko Kaprio, Sharon L. R. Kardia, Fredrik Karpe, Norihiro Kato, Maryam Kavousi, Frank Kee, Thorsten Kessler, Amit V. Khera, Chiea Chuen Khor, Lambertus A. L. M. Kiemeney, Bong-Jo Kim, Eung Kweon Kim, Hyung-Lae Kim, Paulus Kirchhof, Mika Kivimaki, Woon-Puay Koh, Heikki A. Koistinen, Alexander Kokkinos, Jaspal S. Kooner, Charles Kooperberg, Peter Kovacs, Adriaan Kraaijeveld, Peter Kraft, Ronald M. Krauss, Meena Kumari, Zoltan Kutalik, Markku Laakso, Leslie A. Lange, Claudia Langenberg, Lenore J. Launer, Hyejin Lee, Nanette R. Lee, Terho Lehtimäki, Rozenn N. Lemaitre, Huaixing Li, Liming Li, Wolfgang Lieb, Xu Lin, Lars Lind, Allan Linneberg, Ching-Ti Liu, Jianjun Liu, Markus Loeffler, Barry London, Fan Lu, Steven A. Lubitz, David A. Mackey, Patrik K. E. Magnusson, JoAnn E. Manson, Gregory M. Marcus, Pedro Marques Vidal, Nicholas G. Martin, Winfried März, Fumihiko Matsuda, Mark I. McCarthy, Robert W. McGarrah, Matt McGue, Amy Jayne McKnight, Sarah E. Medland, Dan Mellström, Andres Metspalu, Braxton D. Mitchell, Paul Mitchell, Dennis O. Mook-Kanamori, Trevor A. Mori, Andrew D. Morris, Lorelei A. Mucci, Patricia B. Munroe, Mike A. Nalls, Saman Nazarian, Amanda E. Nelson, Matt J. Neville, Christopher Newton-Cheh, Christopher S. Nielsen, Harri Niinikoski, Kjell Nikus, Markus M. Nöthen, Adesola Ogunniyi, Claes Ohlsson, Albertine J. Oldehinkel, Lorena Orozco, Katja Pahkala, Päivi Pajukanta, Colin N. A. Palmer, Esteban J. Parra, Cristian Pattaro, Oluf Pedersen, Craig E. Pennell, Brenda W. J. H. Penninx, Louis Perusse, Annette Peters, Patricia A. Peyser, David J. Porteous, Danielle Posthuma, Chris Power, Peter P. Pramstaller, Michael A. Province, Bruce M. Psaty, Qibin Qi, Jia Qu, Daniel J. Rader, Olli T. Raitakari, Loukianos S. Rallidis, Dabeeru C. Rao, Susan Redline, Dermot F. Reilly, Alexander P. Reiner, Sang Youl Rhee, Paul M. Ridker, Michiel Rienstra, Samuli Ripatti, Marylyn D. Ritchie, Fernando Rivadeneira, Dan M. Roden, Frits R. Rosendaal, Jerome I. Rotter, Igor Rudan, Femke Rutters, Seungho Ryu, Charumathi Sabanayagam, Babatunde Salako, Danish Saleheen, Veikko Salomaa, Nilesh J. Samani, Dharambir K. Sanghera, Naveed Sattar, Börge Schmidt, Helena Schmidt, Reinhold Schmidt, Matthias B. Schulze, Heribert Schunkert, Laura J. Scott, Rodney J. Scott, Peter Sever, Wayne H. H. Sheu, M. Benjamin Shoemaker, Xiao-Ou Shu, Eleanor M. Simonsick, Mario Sims, Andrew B. Singleton, Moritz F. Sinner, J. Gustav Smith, Harold Snieder, Tim D. Spector, Beatrice Spedicati, Meir J. Stampfer, Klaus J. Stark, David P. Strachan, Yasuharu Tabara, E. Shyong Tai, Hua Tang, Jean-Claude Tardif, Thangavel A. Thanaraj, Anke Tönjes, Tiinamaija Tuomi, Jaakko Tuomilehto, Maria-Teresa Tusié-Luna, Rob M. van Dam, Pim van der Harst, Nathalie Van der Velde, Cornelia M. van Duijn, Natasja M. van Schoor, Veronique Vitart, Marie-Claude Vohl, Uwe Völker, Peter Vollenweider, Henry Völzke, Scott Vrieze, Niels H. Wacher-Rodarte, Mark Walker, Gurpreet S. Wander, Nicholas J. Wareham, Richard M. Watanabe, Hugh Watkins, David R. Weir, Thomas M. Werge, Elisabeth Widen, Gonneke Willemsen, Walter C. Willett, James F. Wilson, Peter W. F. Wilson, Tien Y. Wong, Jeong-Taek Woo, Alan F. Wright, Huichun Xu, Chittaranjan S. Yajnik, Jian Yang, Mitsuhiro Yokota, Jian-Min Yuan, Eleftheria Zeggini, Babette S. Zemel, Wei Zheng, Xiaofeng Zhu, M. Carola Zillikens, Alan B. Zonderman, John-Anker Zwart, 23andMe Research Team, DiscovEHR (DiscovEHR and MyCode Community Health Initiative), eMERGE (Electronic Medical Records and Genomics Network), GPC-UGR, The PRACTICAL Consortium, Understanding Society Scientific Group, VA Million Veteran Program, Goncalo R. Abecasis, Themistocles L. Assimes, Adam Auton, Michael Boehnke, Daniel I. Chasman, Tõnu Esko, Kari Stefansson, Guillaume Lettre, Cecilia M. Lindgren, Maggie C. Y. Ng, Christopher J. O’Donnell, Unnur Thorsteinsdottir, Peter M. Visscher, Robin G. Walters, Thomas W. Winkler, Andrew R. Wood, Panos Deloukas, Timothy M. Frayling, Anne E. Justice, Tuomas O. Kilpeläinen, Adam E. Locke, Karen L. Mohlke, Kari E. North, Yukinori Okada, Cristen J. Willer, Kristin L. Young, Segun Fatumo, Jeanne M. McCaffery, Nicholas J. Timpson, Joel N. Hirschhorn, Yan V. Sun, Sonja I. Berndt, Ruth J. F. Loos
 Journal: Nature Medicine
 Veröffentlicht: 2025-07-21
 DOI: 10.1038/s41591-025-03827-z
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2025-08-15</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03827-z-2025-08-15-2</guid>
+Tag der Erhebung (OOIR): 2025-08-16</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03827-z-2025-08-16-3</guid>
 			<pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -50,8 +74,8 @@ Journal: Nature Medicine
 Veröffentlicht: 2025-07-14
 DOI: 10.1038/s41591-025-03808-2
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2025-08-15</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03808-2-2025-08-15-3</guid>
+Tag der Erhebung (OOIR): 2025-08-16</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03808-2-2025-08-16-4</guid>
 			<pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -62,27 +86,12 @@ Kategorie: Medicine, Research &amp; Experimental
 Score: 440
 Autoren: Vishal Midya, Meizhen Yao, Elena Colicino, Dinesh Barupal, Xiangping Lin, Chris Gennings, Leda Chatzi, Veronica Wendy Setiawan, Ruth J.F. Loos, Ryan W. Walker, Douglas I. Walker, Damaskini Valvi
 Journal: eBioMedicine
-Veröffentlicht: 2025-07-01
+Veröffentlicht: 2025-08-01
 DOI: 10.1016/j.ebiom.2025.105838
 ISSN: 2352-3964
-Tag der Erhebung (OOIR): 2025-08-15</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ebiom.2025.105838-2025-08-15-4</guid>
-			<pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>AI-driven multi-omics modeling of myalgic encephalomyelitis/chronic fatigue syndrome</title>
-			<link>https://doi.org/10.1038/s41591-025-03788-3</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, Research &amp; Experimental
-Score: 339
-Autoren: Ruoyun Xiong, Elizabeth Aiken, Ryan Caldwell, Suzanne D. Vernon, Lina Kozhaya, Courtney Gunter, Lucinda Bateman, Derya Unutmaz, Julia Oh
-Journal: Nature Medicine
-Veröffentlicht: 2025-07-25
-DOI: 10.1038/s41591-025-03788-3
-ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2025-08-15</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03788-3-2025-08-15-5</guid>
-			<pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
+Tag der Erhebung (OOIR): 2025-08-16</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ebiom.2025.105838-2025-08-16-5</guid>
+			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
