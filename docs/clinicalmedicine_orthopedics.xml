@@ -5,36 +5,21 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Orthopedics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 16 Aug 2025 01:05:36 GMT</pubDate>
-		<lastBuildDate>Sat, 16 Aug 2025 01:05:36 GMT</lastBuildDate>
-		<item>
-			<title>Implementation of an automated, real-time mortality prediction tool in trauma patients: Can it do more than just predict mortality?</title>
-			<link>https://doi.org/10.1016/j.injury.2025.112595</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Orthopedics
-Score: 90
-Autoren: K. Gopal, K. Diercks, M. Cheng, A. Bain, C. Hirschkorn, A. Franklin, V. Chowdhry, D. Sanders, A. Starr, C. Park
-Journal: Injury
-Veröffentlicht: 2025-08-01
-DOI: 10.1016/j.injury.2025.112595
-ISSN: 0020-1383
-Tag der Erhebung (OOIR): 2025-08-16</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.injury.2025.112595-2025-08-16-1</guid>
-			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-		</item>
+		<pubDate>Sun, 17 Aug 2025 01:13:30 GMT</pubDate>
+		<lastBuildDate>Sun, 17 Aug 2025 01:13:30 GMT</lastBuildDate>
 		<item>
 			<title>Digital pain diagrams to identify common lumbar spinal stenosis pain distribution patterns: a cross-sectional latent class analysis</title>
 			<link>https://doi.org/10.1007/s00586-025-09218-9</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Orthopedics
-Score: 28
+Score: 36
 Autoren: James J Young, Natalie Hong Siu Chang, Casper Nim, Søren O´Neill, David T McNaughton, Rikke Krüger Jensen, Steen Harsted
 Journal: European Spine Journal
 Veröffentlicht: 2025-08-02
 DOI: 10.1007/s00586-025-09218-9
 ISSN: 0940-6719
-Tag der Erhebung (OOIR): 2025-08-16</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s00586-025-09218-9-2025-08-16-2</guid>
+Tag der Erhebung (OOIR): 2025-08-17</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s00586-025-09218-9-2025-08-17-1</guid>
 			<pubDate>Sat, 02 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -49,8 +34,8 @@ Veröffentlicht: 2025-07-29
 Abstract:  Identification of pain descriptors provide a plausible method to consider personalisation of management of pain based on presumed underlying mechanisms. The aim is to use mechanistic pain descriptors (nociceptive, neuropathic and nociplastic pain) to guide clinical practice into an era of personalised medicine for people with pain. Clinicians should understand the concept of descriptors to improve their understanding of a mechanism-based management of chronic pain. Nonetheless, all treatment of individuals suffering from chronic pain should be holistic (i.e., person-centred). Nociplastic pain already serves as an evidence-based explanation that can help make sense of pain without any known pathology, but is not ready to be considered as a target for treatment in itself, based on the current level of evidence. To summarise, treatment outcomes may benefit when treatments are matched to patients according to mechanistic descriptors, and current research initiatives are working on bring this closer to the clinic. 
 DOI: 10.2519/jospt.2025.13335
 ISSN: 0190-6011
-Tag der Erhebung (OOIR): 2025-08-16</description>
-			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2025.13335-2025-08-16-3</guid>
+Tag der Erhebung (OOIR): 2025-08-17</description>
+			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2025.13335-2025-08-17-2</guid>
 			<pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -64,8 +49,8 @@ Journal: Brazilian Journal of Physical Therapy
 Veröffentlicht: 2025-09-01
 DOI: 10.1016/j.bjpt.2025.101244
 ISSN: 1413-3555
-Tag der Erhebung (OOIR): 2025-08-16</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2025.101244-2025-08-16-4</guid>
+Tag der Erhebung (OOIR): 2025-08-17</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2025.101244-2025-08-17-3</guid>
 			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -79,9 +64,41 @@ Journal: Skeletal Radiology
 Veröffentlicht: 2025-07-29
 DOI: 10.1007/s00256-025-04995-2
 ISSN: 0364-2348
-Tag der Erhebung (OOIR): 2025-08-16</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s00256-025-04995-2-2025-08-16-5</guid>
+Tag der Erhebung (OOIR): 2025-08-17</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s00256-025-04995-2-2025-08-17-4</guid>
 			<pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Diagnostic accuracy of the compression overload test versus straight leg Raise test in detecting lumbar disc herniation: an MRI-Validated Cross-Sectional study</title>
+			<link>https://doi.org/10.1007/s00586-025-09164-6</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 20
+Autoren: Malini Madhesh, Charu Eapen, Parthasarathy Eappakkam Kumaraswamy, Vijayakumar Palaniswamy
+Journal: European Spine Journal
+Veröffentlicht: 2025-07-21
+Abstract: Abstract
+          
+            Purpose
+            To determine the diagnostic performance of the Compression Overload Test (COLT) compared with the Straight Leg Raise Test (SLRT) in detecting lumbar intervertebral disc herniation (IVDH), using MRI as the reference standard. A secondary objective was to evaluate the correlation between each test and MRI results.
+          
+          
+            Method
+            Fifty-three 53 participants (mean age: 37.26 ± 12.16) with MRI-confirmed acute lumbar IVDH were included in the study. COLT and SLRT tests were conducted by the principal investigator, blinded to participant history, clinical findings, and MRI, while the co-investigator collected demographic and clinical data. Diagnostic performance was evaluated by sensitivity, specificity, and receiver operating characteristic (ROC) curve measures.
+          
+          
+            Results
+            COLT demonstrated a higher diagnostic yield than SLRT, with a sensitivity of 92% and an overall diagnostic accuracy of 90.57%. It demonstrated moderate agreement with MRI findings (κ = 0.399) and a positive correlation (Φ = 0.428), with an area under the curve (AUC) of 0.793. In contrast, SLRT had no agreement (κ = -0.008) and no correlation (Φ = -0.0274) with MRI and a poor AUC (0.473). MRI predominantly identified L4–L5 herniations (47.5%) and disc bulges (54.5%). Vertebral endplate abnormalities, including Schmorl’s nodes and Modic changes, were observed in 20 participants.
+          
+          
+            Conclusion
+            COLT showed higher diagnostic utility than SLRT and correlated well with MRI results.
+          
+DOI: 10.1007/s00586-025-09164-6
+ISSN: 0940-6719
+Tag der Erhebung (OOIR): 2025-08-17</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s00586-025-09164-6-2025-08-17-5</guid>
+			<pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
