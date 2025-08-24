@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rehabilitation) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 23 Aug 2025 01:02:09 GMT</pubDate>
-		<lastBuildDate>Sat, 23 Aug 2025 01:02:09 GMT</lastBuildDate>
+		<pubDate>Sun, 24 Aug 2025 01:10:46 GMT</pubDate>
+		<lastBuildDate>Sun, 24 Aug 2025 01:10:46 GMT</lastBuildDate>
 		<item>
 			<title>Multi-institutional, randomized, controlled trial to assess the efficacy and tolerability of a reusable, self-contained cryotherapy delivery device</title>
 			<link>https://doi.org/10.1007/s00520-025-09795-x</link>
@@ -18,8 +18,8 @@ Journal: Supportive Care in Cancer
 Veröffentlicht: 2025-07-31
 DOI: 10.1007/s00520-025-09795-x
 ISSN: 0941-4355
-Tag der Erhebung (OOIR): 2025-08-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s00520-025-09795-x-2025-08-23-1</guid>
+Tag der Erhebung (OOIR): 2025-08-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s00520-025-09795-x-2025-08-24-1</guid>
 			<pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -47,8 +47,8 @@ Abstract:
           
 DOI: 10.1177/0145482x251365588
 ISSN: 0145-482X
-Tag der Erhebung (OOIR): 2025-08-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1177/0145482x251365588-2025-08-23-2</guid>
+Tag der Erhebung (OOIR): 2025-08-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1177/0145482x251365588-2025-08-24-2</guid>
 			<pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -82,24 +82,9 @@ Abstract:
           
 DOI: 10.1097/htr.0000000000001096
 ISSN: 0885-9701
-Tag der Erhebung (OOIR): 2025-08-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1097/htr.0000000000001096-2025-08-23-3</guid>
+Tag der Erhebung (OOIR): 2025-08-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1097/htr.0000000000001096-2025-08-24-3</guid>
 			<pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Physioethology: a post-humanist perspective on physiotherapy</title>
-			<link>https://doi.org/10.1080/09593985.2025.2532572</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rehabilitation
-Score: 24
-Autoren: Matthew Low, Fiona H. Moffatt, Roger Kerry, David A. Nicholls
-Journal: Physiotherapy Theory and Practice
-Veröffentlicht: 2025-07-18
-DOI: 10.1080/09593985.2025.2532572
-ISSN: 0959-3985
-Tag der Erhebung (OOIR): 2025-08-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1080/09593985.2025.2532572-2025-08-23-4</guid>
-			<pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Pain Science in Practice (Part 8): Nociceptive, Neuropathic and Nociplastic Pain</title>
@@ -113,9 +98,24 @@ Veröffentlicht: 2025-07-29
 Abstract:  Identification of pain descriptors provide a plausible method to consider personalisation of management of pain based on presumed underlying mechanisms. The aim is to use mechanistic pain descriptors (nociceptive, neuropathic and nociplastic pain) to guide clinical practice into an era of personalised medicine for people with pain. Clinicians should understand the concept of descriptors to improve their understanding of a mechanism-based management of chronic pain. Nonetheless, all treatment of individuals suffering from chronic pain should be holistic (i.e., person-centred). Nociplastic pain already serves as an evidence-based explanation that can help make sense of pain without any known pathology, but is not ready to be considered as a target for treatment in itself, based on the current level of evidence. To summarise, treatment outcomes may benefit when treatments are matched to patients according to mechanistic descriptors, and current research initiatives are working on bring this closer to the clinic. 
 DOI: 10.2519/jospt.2025.13335
 ISSN: 0190-6011
-Tag der Erhebung (OOIR): 2025-08-23</description>
-			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2025.13335-2025-08-23-5</guid>
+Tag der Erhebung (OOIR): 2025-08-24</description>
+			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2025.13335-2025-08-24-4</guid>
 			<pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Physioethology: a post-humanist perspective on physiotherapy</title>
+			<link>https://doi.org/10.1080/09593985.2025.2532572</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 24
+Autoren: Matthew Low, Fiona H. Moffatt, Roger Kerry, David A. Nicholls
+Journal: Physiotherapy Theory and Practice
+Veröffentlicht: 2025-07-18
+DOI: 10.1080/09593985.2025.2532572
+ISSN: 0959-3985
+Tag der Erhebung (OOIR): 2025-08-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1080/09593985.2025.2532572-2025-08-24-5</guid>
+			<pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

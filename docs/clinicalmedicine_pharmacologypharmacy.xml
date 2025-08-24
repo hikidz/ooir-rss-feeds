@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Pharmacology &amp; Pharmacy) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 23 Aug 2025 01:02:04 GMT</pubDate>
-		<lastBuildDate>Sat, 23 Aug 2025 01:02:04 GMT</lastBuildDate>
+		<pubDate>Sun, 24 Aug 2025 01:10:41 GMT</pubDate>
+		<lastBuildDate>Sun, 24 Aug 2025 01:10:41 GMT</lastBuildDate>
 		<item>
 			<title>Evenamide reverses schizophrenia-related dysfunction in a neurodevelopmental animal model</title>
 			<link>https://doi.org/10.1038/s41386-025-02188-y</link>
@@ -18,8 +18,8 @@ Journal: Neuropsychopharmacology
 Veröffentlicht: 2025-08-05
 DOI: 10.1038/s41386-025-02188-y
 ISSN: 0893-133X
-Tag der Erhebung (OOIR): 2025-08-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41386-025-02188-y-2025-08-23-1</guid>
+Tag der Erhebung (OOIR): 2025-08-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41386-025-02188-y-2025-08-24-1</guid>
 			<pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -27,15 +27,47 @@ Tag der Erhebung (OOIR): 2025-08-23</description>
 			<link>https://doi.org/10.1016/j.jgar.2025.07.014</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Pharmacology &amp; Pharmacy
-Score: 154
+Score: 174
 Autoren: Tayla Williamson, Jack Adderley, Kylie Quinn, Taane G. Clark, Sharon R. Lewin, Christian Doerig
 Journal: Journal of Global Antimicrobial Resistance
 Veröffentlicht: 2025-09-01
 DOI: 10.1016/j.jgar.2025.07.014
 ISSN: 2213-7165
-Tag der Erhebung (OOIR): 2025-08-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.jgar.2025.07.014-2025-08-23-2</guid>
+Tag der Erhebung (OOIR): 2025-08-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.jgar.2025.07.014-2025-08-24-2</guid>
 			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Methylphenidate (Ritalin) does not improve exam performance in an experimental setting</title>
+			<link>https://doi.org/10.1007/s00213-025-06864-1</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 97
+Autoren: Anke Sambeth, Monika Toth, Arjan Blokland
+Journal: Psychopharmacology
+Veröffentlicht: 2025-08-05
+Abstract: Abstract
+          
+            Rationale
+            Surveys indicate that about 10–20% of students use medicinal drugs to improve their exam performance. Whether these drugs really improve exam performance has not been examined in an experimental setting yet. This study tested the effects of methylphenidate (MPH; 20 mg) on exam performance either by giving the drug before studying for an exam (day 1, acquiring new information) or before the exam was taken (day 2, retrieving the information).
+          
+          
+            Method
+            For this study, a double-blind placebo controlled between-subjects design was applied. The participants were randomly assigned to three groups that were given treatment on the two days: Placebo-Placebo (n = 25), MPH (n = 24), Placebo-MPH (n = 26). The exam contained multiple-choice questions (factual knowledge and inference questions) and open questions (inference).
+          
+          
+            Results
+            The data showed that MPH did not improve the exam performance on the three types of questions. In addition, the average grade did not differ between the three groups and the number of participants failing or passing the exam did not differ.
+          
+          
+            Conclusion
+            This is a first experimental study showing that MPH does not improve exam performance and should discourage students to take MPH during exam periods.
+          
+DOI: 10.1007/s00213-025-06864-1
+ISSN: 0033-3158
+Tag der Erhebung (OOIR): 2025-08-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s00213-025-06864-1-2025-08-24-3</guid>
+			<pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>FDA grants first US approval for decades-old eye drug</title>
@@ -48,8 +80,8 @@ Journal: Nature Reviews Drug Discovery
 Veröffentlicht: 2025-08-07
 DOI: 10.1038/d41573-025-00138-3
 ISSN: 1474-1776
-Tag der Erhebung (OOIR): 2025-08-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/d41573-025-00138-3-2025-08-23-3</guid>
+Tag der Erhebung (OOIR): 2025-08-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/d41573-025-00138-3-2025-08-24-4</guid>
 			<pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -63,24 +95,9 @@ Journal: Pharmaceutical Research
 Veröffentlicht: 2025-07-29
 DOI: 10.1007/s11095-025-03888-2
 ISSN: 0724-8741
-Tag der Erhebung (OOIR): 2025-08-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s11095-025-03888-2-2025-08-23-4</guid>
+Tag der Erhebung (OOIR): 2025-08-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s11095-025-03888-2-2025-08-24-5</guid>
 			<pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Dual-payload ADCs move into first oncology clinical trials</title>
-			<link>https://doi.org/10.1038/d41573-025-00121-y</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Pharmacology &amp; Pharmacy
-Score: 59
-Autoren: Asher Mullard
-Journal: Nature Reviews Drug Discovery
-Veröffentlicht: 2025-07-08
-DOI: 10.1038/d41573-025-00121-y
-ISSN: 1474-1776
-Tag der Erhebung (OOIR): 2025-08-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/d41573-025-00121-y-2025-08-23-5</guid>
-			<pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
