@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Pharmacology &amp; Pharmacy) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 27 Aug 2025 01:02:12 GMT</pubDate>
-		<lastBuildDate>Wed, 27 Aug 2025 01:02:12 GMT</lastBuildDate>
+		<pubDate>Thu, 28 Aug 2025 01:02:14 GMT</pubDate>
+		<lastBuildDate>Thu, 28 Aug 2025 01:02:14 GMT</lastBuildDate>
 		<item>
 			<title>Evenamide reverses schizophrenia-related dysfunction in a neurodevelopmental animal model</title>
 			<link>https://doi.org/10.1038/s41386-025-02188-y</link>
@@ -18,16 +18,48 @@ Journal: Neuropsychopharmacology
 Veröffentlicht: 2025-08-05
 DOI: 10.1038/s41386-025-02188-y
 ISSN: 0893-133X
-Tag der Erhebung (OOIR): 2025-08-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41386-025-02188-y-2025-08-27-1</guid>
+Tag der Erhebung (OOIR): 2025-08-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41386-025-02188-y-2025-08-28-1</guid>
 			<pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Cyclodextrin-mediated Enhancement of Haloperidol Solubility: Physicochemical Studies and In Vivo Investigation Using Planaria Worms</title>
+			<link>https://doi.org/10.1007/s11095-025-03909-0</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 143
+Autoren: Yuehuai Xiong, Kenneth Shankland, Vitaliy V. Khutoryanskiy
+Journal: Pharmaceutical Research
+Veröffentlicht: 2025-08-15
+Abstract: Abstract
+          
+            Purpose
+            This study aims to evaluate the ability of various cyclodextrins (CDs) to enhance the aqueous solubility of haloperidol (HAL), through the formation of inclusion complexes. It also investigates the pharmacological activity of CD/HAL complexes using a planaria model.
+          
+          
+            Methods
+            Inclusion complexes were prepared using α-CD, β-CD, methyl-β-CD, hydroxypropyl-β-CD and γ-CD. The solubility of HAL in the presence of CDs was assessed, and the stoichiometry of the complexes was determined using Job’s method. Physicochemical interactions between HAL and CDs were characterized by nuclear magnetic resonance (NMR), differential scanning calorimetry (DSC), and powder X-ray diffraction (PXRD). The in vivo pharmacological activity was tested in planaria worms following exposure to HAL in the presence or absence of CDs.
+          
+          
+            Results
+            HAL’s aqueous solubility was significantly enhanced in the presence of α-CD, methyl-β-CD, and hydroxypropyl-β-CD, while γ-CD showed no effect. Only modest solubility improvements were observed with increasing β-CD concentrations up to 8 mg/mL. Stoichiometric analysis confirmed a 1:1 ratio of HAL to CD in the inclusion complexes. In vivo studies demonstrated that HAL reduced planaria mobility, mimicking cataleptic effects seen in mammals, whereas the presence of CDs reduced this pharmacological effect.
+          
+          
+            Conclusion
+            Cyclodextrins, particularly α-CD, methyl-β-CD, and hydroxypropyl-β-CD, effectively enhance the solubility of haloperidol by forming 1:1 inclusion complexes. The reduction in haloperidol-induced behavioral changes in planaria by CDs suggests a potential impact on drug bioavailability and supports the use of planaria as a simple in vivo model for screening neuroactive compounds and formulations.
+          
+DOI: 10.1007/s11095-025-03909-0
+ISSN: 0724-8741
+Tag der Erhebung (OOIR): 2025-08-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s11095-025-03909-0-2025-08-28-2</guid>
+			<pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Methylphenidate (Ritalin) does not improve exam performance in an experimental setting</title>
 			<link>https://doi.org/10.1007/s00213-025-06864-1</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Pharmacology &amp; Pharmacy
-Score: 102
+Score: 103
 Autoren: Anke Sambeth, Monika Toth, Arjan Blokland
 Journal: Psychopharmacology
 Veröffentlicht: 2025-08-05
@@ -50,8 +82,8 @@ Abstract: Abstract
           
 DOI: 10.1007/s00213-025-06864-1
 ISSN: 0033-3158
-Tag der Erhebung (OOIR): 2025-08-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s00213-025-06864-1-2025-08-27-2</guid>
+Tag der Erhebung (OOIR): 2025-08-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s00213-025-06864-1-2025-08-28-3</guid>
 			<pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -65,8 +97,8 @@ Journal: Nature Reviews Drug Discovery
 Veröffentlicht: 2025-08-07
 DOI: 10.1038/d41573-025-00138-3
 ISSN: 1474-1776
-Tag der Erhebung (OOIR): 2025-08-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/d41573-025-00138-3-2025-08-27-3</guid>
+Tag der Erhebung (OOIR): 2025-08-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/d41573-025-00138-3-2025-08-28-4</guid>
 			<pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -80,24 +112,9 @@ Journal: Pharmaceutical Research
 Veröffentlicht: 2025-07-29
 DOI: 10.1007/s11095-025-03888-2
 ISSN: 0724-8741
-Tag der Erhebung (OOIR): 2025-08-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s11095-025-03888-2-2025-08-27-4</guid>
+Tag der Erhebung (OOIR): 2025-08-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s11095-025-03888-2-2025-08-28-5</guid>
 			<pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Dual-payload ADCs move into first oncology clinical trials</title>
-			<link>https://doi.org/10.1038/d41573-025-00121-y</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Pharmacology &amp; Pharmacy
-Score: 59
-Autoren: Asher Mullard
-Journal: Nature Reviews Drug Discovery
-Veröffentlicht: 2025-07-08
-DOI: 10.1038/d41573-025-00121-y
-ISSN: 1474-1776
-Tag der Erhebung (OOIR): 2025-08-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/d41573-025-00121-y-2025-08-27-5</guid>
-			<pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
