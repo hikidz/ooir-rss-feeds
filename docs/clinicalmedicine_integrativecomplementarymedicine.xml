@@ -5,22 +5,39 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Integrative &amp; Complementary Medicine) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 28 Aug 2025 01:01:29 GMT</pubDate>
-		<lastBuildDate>Thu, 28 Aug 2025 01:01:29 GMT</lastBuildDate>
+		<pubDate>Fri, 29 Aug 2025 01:01:41 GMT</pubDate>
+		<lastBuildDate>Fri, 29 Aug 2025 01:01:41 GMT</lastBuildDate>
 		<item>
-			<title>Urtica dioica leaf infusion enhances cisplatin-induced apoptosis in ovarian cancer cells in vitro</title>
-			<link>https://doi.org/10.1186/s12906-025-05053-z</link>
+			<title>Antimicrobial, antibiofilm, cytotoxicity, and substantivity of aged garlic extract against oral bacteria: an in-vitro study</title>
+			<link>https://doi.org/10.1186/s12906-025-05012-8</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Integrative &amp; Complementary Medicine
 Score: 15
-Autoren: Perla Nafeh, Guy Nafeh, Maria Younes, Ahlam Chaaban, Louna El Bitar, José-Noel Ibrahim, Philippe H. Kobeissy, Sandra Rizk
+Autoren: Meghana Sunil, Bhaskar Kurangi, Suneel Dodamani, Marwa Khalil, Aditi Chopra
 Journal: BMC Complementary Medicine and Therapies
-Veröffentlicht: 2025-08-13
-DOI: 10.1186/s12906-025-05053-z
+Veröffentlicht: 2025-07-16
+Abstract: Abstract
+          
+            Background
+            Garlic (Allium sativum L.) is a powerful antimicrobial, antioxidant, and anti-inflammatory agent. Aged garlic has more antioxidant and antimicrobial properties compared to fresh garlic. Garlic has been used for the treatment of many oral and periodontal diseases. However, the efficacy of aged garlic extract (AGE) against periodontal pathogens has never been explored. Hence, this in vitro study aims to assess the antimicrobial, antibiofilm, substantivity, and cytotoxic properties of AGE against key periodontal pathogens and oral tissues.
+          
+          
+            Methods
+            The antimicrobial properties of the AGE were evaluated by assessing the minimal bactericidal concentration (MBC) and minimal inhibitory concentration (MIC) against Actinomyces viscosus, Streptococcus salivarius, Fusobacterium nucleatum, Prevotella intermedia, Porphyromonas gingivalis, Aggregatibacter actinomycetemcomitans, and Tannerella forsythia compared to doxycycline and chlorhexidine using the serial dilution method. The antibiofilm properties of AGE were checked for A. actinomycetemcomitans, and F. nucleatum was checked using the standard crystal violet staining assay. The cytocompatibility was checked against human-derived gingival and periodontal fibroblasts and modified oral keratinocytes using 3-4-5-dimethylthiazol-2-yl-2,5-diphenyltetrazolium bromide (MTT) assay. The substantivity of the extract was checked against chlorhexidine on the dentin surface from extracted tooth samples using an ultraviolet spectrophotometer.
+          
+          
+            Results
+            The growth of A. viscosus, F. nucleatum, and S. salivarius was inhibited by AGE at 50 µg/ml. At 25 µg/ml, P. gingivalis and A. actinomycetemcomitans were inhibited. P. intermedia growth required a higher concentration of 100 µg/ml. At 25 µg/ml and 100 µg/ml, AGE showed bactericidal activity against A. viscosus and P. intermedia, respectively. The anti-biofilm assay showed that the percentage inhibition was 37.99% for F. nucleatum and 2.52% for A. actinomycetemcomitans. The cell viability of gingival fibroblasts (90%) and modified human keratinocytes (80%) was maintained by AGE at concentrations of 2.5 mg/ml and 5 mg/ml, respectively. The mean difference in substantivity for chlorhexidine and AGE at one minute was statistically significant (p = 0.0112).
+          
+          
+            Conclusion
+            AGE was effective in inhibiting the growth of periodontal pathogens. However, its antimicrobial effects were not statistically significant when compared to doxycycline. AGE is biocompatible with gingival and periodontal ligament fibroblasts and has good substantivity to the dentin surface.
+          
+DOI: 10.1186/s12906-025-05012-8
 ISSN: 2662-7671
-Tag der Erhebung (OOIR): 2025-08-28</description>
-			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05053-z-2025-08-28-1</guid>
-			<pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
+Tag der Erhebung (OOIR): 2025-08-29</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05012-8-2025-08-29-1</guid>
+			<pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Nanoparticles from grape seed extract inhibit inflammatory cytokines and ameliorate CCl4-induced hepatotoxicity</title>
@@ -54,54 +71,77 @@ Abstract: Abstract
           
 DOI: 10.1186/s12906-025-05005-7
 ISSN: 2662-7671
-Tag der Erhebung (OOIR): 2025-08-28</description>
-			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05005-7-2025-08-28-2</guid>
+Tag der Erhebung (OOIR): 2025-08-29</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05005-7-2025-08-29-2</guid>
 			<pubDate>Sat, 19 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Mobilization with movement plus exercise versus exercise alone for patients with central sensitization associated with chronic subacromial pain syndrome: a sham-controlled randomized clinical trial</title>
-			<link>https://doi.org/10.1186/s12906-025-05028-0</link>
+			<title>The clinical efficacy of auricular acupuncture in the treatment of frequent episodic tension-type headache: a single-blind randomized controlled trial</title>
+			<link>https://doi.org/10.1186/s12906-025-05063-x</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Integrative &amp; Complementary Medicine
-Score: 13
-Autoren: Volkan Deniz, Bayram Kelle
+Score: 15
+Autoren: Xiaxia Jin, Ziwen Xu, Tao Gao, Gaofeng Wang, Wendi Dong, Junyi Jin, Yongmei Yan
 Journal: BMC Complementary Medicine and Therapies
-Veröffentlicht: 2025-07-28
-DOI: 10.1186/s12906-025-05028-0
+Veröffentlicht: 2025-08-21
+Abstract: Abstract
+          
+            Background
+            Frequent episodic tension-type headache (FETTH) is a significant public-health concern. Scientific research has demonstrated that acupuncture can improve the clinical symptoms of FETTH.
+          
+          
+            Purpose
+            This study aimed to compare the efficacy and safety of auricular acupuncture and sham acupuncture in treating FETTH.
+          
+          
+            Methods
+            This was a randomized controlled trial. Participants with FETTH were randomly assigned in a 1:1 ratio to receive auricular acupuncture or sham acupuncture for 4 weeks, with follow-up lasting for up to 24 weeks. The primary outcomes were measured using the headache index and visual analog scale (VAS) score. Secondary outcomes included the Hamilton Anxiety Scale (HAMA) score, Hamilton Depression Scale (HAMD) score, blood flow velocity in the anterior cerebral artery (ACA), middle cerebral artery (MCA), and posterior cerebral artery (PCA) (VACA, VMCA, and VPCA, respectively), and the usage of acute headache medications. Adverse events were also recorded to assess safety.
+          
+          
+            Results
+            Compared with the sham acupuncture group, the auricular acupuncture group showed significant improvements in VAS score (2 (1.25, 2) vs. 3 (2, 3.5) at 24 h, P &amp;lt; 0.001; 2 (1.25, 2) vs. 2 (2, 3) at the 2nd week, P = 0.004; 2 (1, 2) vs. 2 (1.5, 3) at the 4th week, P = 0.015), headache index (4 (2, 7) vs. 7 (4, 9) at the 4th week, P = 0.016), HAMA score (11.69 ± 2.70) vs. (14.24 ± 3.20) at the 4th week, P &amp;lt; 0.001; (9.83 ± 2.71) vs. (11.95 ± 2.59) at the 8th week, P = 0.001; (9.67 ± 2.65) vs. (11.76 ± 3.00) at the 24th week, P = 0.002), HAMD score ((14.25 ± 2.68) vs. (15.89 ± 3.48) at the 4th week, P = 0.027,) VACA (85.5 (85, 86) vs. 83 (83, 84) at the 4th week, P &amp;lt; 0.001), VPCA (82 (81, 83) vs. 78 (77, 79) at the 4th week, P &amp;lt; 0.001), and usage of acute headache medications (8 (7, 10) vs. 9 (8, 11) at the 4th week, P = 0.030). The incidence of adverse events was similar between the two groups (P = 1.000).
+          
+          
+            Conclusion
+            This study found that auricular acupuncture effectively improved the clinical symptoms of FETTH and had relatively fewer side effects. Trial registration: The study was retrospectively registered in the International Traditional Medicine Clinical Trial Registry (ITMCTR2025000363) on January 20, 2025.
+          
+DOI: 10.1186/s12906-025-05063-x
 ISSN: 2662-7671
-Tag der Erhebung (OOIR): 2025-08-28</description>
-			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05028-0-2025-08-28-3</guid>
-			<pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
+Tag der Erhebung (OOIR): 2025-08-29</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05063-x-2025-08-29-3</guid>
+			<pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Microbiological Risk Assessment and Safety Evaluation of Widely Used Herbal Pharmaceuticals</title>
-			<link>https://doi.org/10.1016/j.hermed.2025.101047</link>
+			<title>Urtica dioica leaf infusion enhances cisplatin-induced apoptosis in ovarian cancer cells in vitro</title>
+			<link>https://doi.org/10.1186/s12906-025-05053-z</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Integrative &amp; Complementary Medicine
-Score: 13
-Autoren: Naveen Kumar Ramachandrappa, Kalyan Dola, Vakdevi Validandi, Senthilkumar Balakrishnan, Philip Raj Abraham, Aditi Ashutosh Kaledhonkar, SDG Gauthami, K Srinivasu, Surekha Mullapudi Venkata
-Journal: Journal of Herbal Medicine
-Veröffentlicht: 2025-08-01
-DOI: 10.1016/j.hermed.2025.101047
-ISSN: 2210-8033
-Tag der Erhebung (OOIR): 2025-08-28</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.hermed.2025.101047-2025-08-28-4</guid>
-			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+Score: 15
+Autoren: Perla Nafeh, Guy Nafeh, Maria Younes, Ahlam Chaaban, Louna El Bitar, José-Noel Ibrahim, Philippe H. Kobeissy, Sandra Rizk
+Journal: BMC Complementary Medicine and Therapies
+Veröffentlicht: 2025-08-13
+DOI: 10.1186/s12906-025-05053-z
+ISSN: 2662-7671
+Tag der Erhebung (OOIR): 2025-08-29</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05053-z-2025-08-29-4</guid>
+			<pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Facilitating microglial phagocytosis by which Jiawei Xionggui Decoction alleviates cognitive impairment via TREM2-mediated energy metabolic reprogramming</title>
-			<link>https://doi.org/10.1016/s1875-5364(25)60927-7</link>
+			<title>Chemical profile of Ficus lyrata bark extract and its therapeutic effect on non-alcoholic fatty liver disease via regulating oxidative stress, inflammation and hepatic lipogenesis</title>
+			<link>https://doi.org/10.1186/s12906-025-05010-w</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Integrative &amp; Complementary Medicine
-Score: 11
-Autoren: Wen Wen, Jie Chen, Junbao Xiang, Shiqi Zhang, Jingru Liu, Jie Wang, Ping Wang, Shijun Xu
-Journal: Chinese Journal of Natural Medicines
-Veröffentlicht: 2025-08-01
-DOI: 10.1016/s1875-5364(25)60927-7
-ISSN: 1875-5364
-Tag der Erhebung (OOIR): 2025-08-28</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/s1875-5364(25)60927-7-2025-08-28-5</guid>
-			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+Score: 15
+Autoren: Amria Mamdouh Mousa, Rehab Fikry Taher, Nermin Mohamed El-Sammad, Esraa Aly Balabel, Elham Mohamed Youssef, Ahmed Hassan Afifi, Sahar Samir Abdel-Rahman, Nayera Anwar, Sherien Kamal Hassan
+Journal: BMC Complementary Medicine and Therapies
+Veröffentlicht: 2025-07-19
+Abstract: Abstract
+          The high prevalence of non-alcoholic fatty liver disease (NAFLD) worldwide necessitates the attention and intervention of modern medical treatment options. Preliminary studies have demonstrated that Ficus Lyrata leaves can exert protective effects in rats against hepatic fibrosis and hypercholesterolemia. Hence, this study was conducted to investigate the therapeutic effect of Ficus lyrata Wrab bark extract on the NAFLD rat model. NAFLD was induced through a high-fat diet (HFD) for 12 weeks in male Wistar rats. After four weeks of HFD feeding, the rats were treated with F. lyrata extract (250 mg/kg, 5 days/week) or simvastatin (4 mg/kg, 5 days/week) while continuing on the HFD till the end of the experiment. Serum and liver samples were harvested for biochemical, molecular, histopathological, and immunohistochemical investigations. In silico analysis was also conducted to analyse the binding affinity of the extract polyphenols and the key regulators of hepatic lipogenesis. The results revealed that F. lyrata extract administered to HFD-fed rats significantly improved the characteristics of NAFLD by reducing hyperglycemia, hyperinsulinemia, and aminotransferases while improving serum lipid profile and adipokines. Moreover, the extract reduced the expression of hepatic lipogenic genes sterol regulatory element-binding protein-1c (SREBP-1c), acetyl-CoA carboxylase-1 (ACC-1), and fatty acid synthase (FAS), and inflammatory markers tumour necrosis factor-α (TNF-α) and interleukin-6 (IL-6), along with modulating oxidative stress markers and reversing histopathological changes. Molecular docking study revealed that most polyphenolic compounds in F. lyrata extract exhibited good binding affinity towards peroxisome proliferator-activated receptors γ (PPAR-γ) and liver X receptor α (LXR-α). In conclusion, our findings suggested that F. lyrata bark could be a promising therapeutic agent against the health issues related to NAFLD.
+DOI: 10.1186/s12906-025-05010-w
+ISSN: 2662-7671
+Tag der Erhebung (OOIR): 2025-08-29</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05010-w-2025-08-29-5</guid>
+			<pubDate>Sat, 19 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
