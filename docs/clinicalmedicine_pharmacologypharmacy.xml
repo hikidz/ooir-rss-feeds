@@ -5,14 +5,117 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Pharmacology &amp; Pharmacy) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sun, 31 Aug 2025 01:06:17 GMT</pubDate>
-		<lastBuildDate>Sun, 31 Aug 2025 01:06:17 GMT</lastBuildDate>
+		<pubDate>Mon, 01 Sep 2025 01:12:50 GMT</pubDate>
+		<lastBuildDate>Mon, 01 Sep 2025 01:12:50 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Pharmacology &amp; Pharmacy) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-pharmacologypharmacy-20250831010617</guid>
-			<pubDate>Sun, 31 Aug 2025 01:06:17 GMT</pubDate>
+			<title>Evenamide reverses schizophrenia-related dysfunction in a neurodevelopmental animal model</title>
+			<link>https://doi.org/10.1038/s41386-025-02188-y</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 218
+Autoren: Daniela L. Uliana, Rachel A. Walsh, Debora Fabris, Anthony A. Grace
+Journal: Neuropsychopharmacology
+Veröffentlicht: 2025-08-05
+DOI: 10.1038/s41386-025-02188-y
+ISSN: 0893-133X
+Tag der Erhebung (OOIR): 2025-09-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41386-025-02188-y-2025-09-01-1</guid>
+			<pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Cyclodextrin-mediated Enhancement of Haloperidol Solubility: Physicochemical Studies and In Vivo Investigation Using Planaria Worms</title>
+			<link>https://doi.org/10.1007/s11095-025-03909-0</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 143
+Autoren: Yuehuai Xiong, Kenneth Shankland, Vitaliy V. Khutoryanskiy
+Journal: Pharmaceutical Research
+Veröffentlicht: 2025-08-15
+Abstract: Abstract
+          
+            Purpose
+            This study aims to evaluate the ability of various cyclodextrins (CDs) to enhance the aqueous solubility of haloperidol (HAL), through the formation of inclusion complexes. It also investigates the pharmacological activity of CD/HAL complexes using a planaria model.
+          
+          
+            Methods
+            Inclusion complexes were prepared using α-CD, β-CD, methyl-β-CD, hydroxypropyl-β-CD and γ-CD. The solubility of HAL in the presence of CDs was assessed, and the stoichiometry of the complexes was determined using Job’s method. Physicochemical interactions between HAL and CDs were characterized by nuclear magnetic resonance (NMR), differential scanning calorimetry (DSC), and powder X-ray diffraction (PXRD). The in vivo pharmacological activity was tested in planaria worms following exposure to HAL in the presence or absence of CDs.
+          
+          
+            Results
+            HAL’s aqueous solubility was significantly enhanced in the presence of α-CD, methyl-β-CD, and hydroxypropyl-β-CD, while γ-CD showed no effect. Only modest solubility improvements were observed with increasing β-CD concentrations up to 8 mg/mL. Stoichiometric analysis confirmed a 1:1 ratio of HAL to CD in the inclusion complexes. In vivo studies demonstrated that HAL reduced planaria mobility, mimicking cataleptic effects seen in mammals, whereas the presence of CDs reduced this pharmacological effect.
+          
+          
+            Conclusion
+            Cyclodextrins, particularly α-CD, methyl-β-CD, and hydroxypropyl-β-CD, effectively enhance the solubility of haloperidol by forming 1:1 inclusion complexes. The reduction in haloperidol-induced behavioral changes in planaria by CDs suggests a potential impact on drug bioavailability and supports the use of planaria as a simple in vivo model for screening neuroactive compounds and formulations.
+          
+DOI: 10.1007/s11095-025-03909-0
+ISSN: 0724-8741
+Tag der Erhebung (OOIR): 2025-09-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s11095-025-03909-0-2025-09-01-2</guid>
+			<pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Methylphenidate (Ritalin) does not improve exam performance in an experimental setting</title>
+			<link>https://doi.org/10.1007/s00213-025-06864-1</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 106
+Autoren: Anke Sambeth, Monika Toth, Arjan Blokland
+Journal: Psychopharmacology
+Veröffentlicht: 2025-08-05
+Abstract: Abstract
+          
+            Rationale
+            Surveys indicate that about 10–20% of students use medicinal drugs to improve their exam performance. Whether these drugs really improve exam performance has not been examined in an experimental setting yet. This study tested the effects of methylphenidate (MPH; 20 mg) on exam performance either by giving the drug before studying for an exam (day 1, acquiring new information) or before the exam was taken (day 2, retrieving the information).
+          
+          
+            Method
+            For this study, a double-blind placebo controlled between-subjects design was applied. The participants were randomly assigned to three groups that were given treatment on the two days: Placebo-Placebo (n = 25), MPH (n = 24), Placebo-MPH (n = 26). The exam contained multiple-choice questions (factual knowledge and inference questions) and open questions (inference).
+          
+          
+            Results
+            The data showed that MPH did not improve the exam performance on the three types of questions. In addition, the average grade did not differ between the three groups and the number of participants failing or passing the exam did not differ.
+          
+          
+            Conclusion
+            This is a first experimental study showing that MPH does not improve exam performance and should discourage students to take MPH during exam periods.
+          
+DOI: 10.1007/s00213-025-06864-1
+ISSN: 0033-3158
+Tag der Erhebung (OOIR): 2025-09-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s00213-025-06864-1-2025-09-01-3</guid>
+			<pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>‘Exploiting PP2A dependent and independent effects of forskolin for therapeutic targeting of KMT2A (MLL)‐rearranged acute leukaemia’</title>
+			<link>https://doi.org/10.1111/bph.70158</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 73
+Autoren: Yoana Arroyo‐Berdugo, Antonella Di Mambro, Volker Behrends, Michelle A. Sahai, Luca Cozzuto, Immacolata Zollo, Julia Ponomarenko, Owen Williams, John Gribben, Yolanda Calle, Bela Patel, Maria Teresa Esposito
+Journal: British Journal of Pharmacology
+Veröffentlicht: 2025-08-20
+Abstract: Background and PurposeActivation of Protein Phosphatase 2A (PP2A), via genetic and pharmacologic modulation of SET, has recently being identified as a promising strategy to therapeutically target acute myeloid leukaemia (AML) carrying KMT2A (MLL) chromosomal translocations (KMT2A‐r AML).Experimental ApproachIn this study, we investigated the expression of PP2A subunits and the therapeutic potential of forskolin, a cyclic adenosine monophosphate (cAMP) elevating natural compound that has been reported as a PP2A activator.Key ResultsOur data show that PPP2CA encoding protein phosphatase 2 catalytic subunit α is abundantly expressed in KMT2A‐r AML cells. Treatment with forskolin arrests proliferation; induces cell death; represses the expression of MYC, HOXA9 and HOXA10; stimulates PP2A activity; and attenuates the activity of ERK1/2 in KMT2A‐r AML cells. Forskolin increases sensitivity to standard‐of‐care daunorubicin in KMT2A‐AML cell lines and PDX. Silencing PPP2CA partially rescues the cytotoxic effect of forskolin, stimulates ERK1/2, inhibits GSK3β, and abolishes the forskolin‐mediated repression of c‐MYC and HOXA10, but it did not affect the potentiation of response to daunorubicin. This effect was also not dependent on increase of cAMP, but it was because of increase in the intracellular accumulation of daunorubicin, through inhibition of drug efflux pump P‐glycoprotein 1 (multidrug resistance protein).Conclusions and ImplicationsIn conclusion, our findings highlight a novel mechanism of action for forskolin and support a potential role of this natural compound in combination with current conventional agent daunorubicin in the treatment of KMT2A‐r AML.
+DOI: 10.1111/bph.70158
+ISSN: 0007-1188
+Tag der Erhebung (OOIR): 2025-09-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1111/bph.70158-2025-09-01-4</guid>
+			<pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>FDA grants first US approval for decades-old eye drug</title>
+			<link>https://doi.org/10.1038/d41573-025-00138-3</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 70
+Autoren: Asher Mullard
+Journal: Nature Reviews Drug Discovery
+Veröffentlicht: 2025-08-07
+DOI: 10.1038/d41573-025-00138-3
+ISSN: 1474-1776
+Tag der Erhebung (OOIR): 2025-09-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/d41573-025-00138-3-2025-09-01-5</guid>
+			<pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
