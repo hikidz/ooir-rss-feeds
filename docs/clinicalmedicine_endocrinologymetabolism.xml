@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Endocrinology &amp; Metabolism) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Mon, 01 Sep 2025 01:12:13 GMT</pubDate>
-		<lastBuildDate>Mon, 01 Sep 2025 01:12:13 GMT</lastBuildDate>
+		<pubDate>Tue, 02 Sep 2025 01:02:34 GMT</pubDate>
+		<lastBuildDate>Tue, 02 Sep 2025 01:02:34 GMT</lastBuildDate>
 		<item>
 			<title>Protective effect of metformin against dementia in patients with obesity: Results from a global federated health network analysis</title>
 			<link>https://doi.org/10.1111/dom.16647</link>
@@ -19,8 +19,8 @@ Veröffentlicht: 2025-08-06
 Abstract: AbstractAimsMetformin, a first‐line medication for Type 2 diabetes (T2D), has been suggested to reduce dementia risk. We investigated whether metformin use was associated with lower long‐term incidence of dementia and all‐cause mortality in obese patients.Materials and MethodsWe analysed electronic health record data from the TriNetX network. Patients were categorised into four body mass index (BMI) groups (25–29.9, 30–34.9, 35–39.9 and over 40). In each group, those prescribed metformin were compared with matched controls who were not prescribed metformin, using propensity score matching. Kaplan–Meier survival analysis was used to estimate dementia incidence and all‐cause mortality over a 10‐year follow‐up.ResultsThe matched cohorts included 132 920 (BMI 25–29.9), 142 723 (30–34.9), 94 402 (35–39.9) and 82 732 (over 40) patients per group. After 10 years of follow‐up, metformin users exhibited significantly lower risks of both dementia and all‐cause mortality compared to controls. Specifically, the hazard ratios for dementia across each BMI group were 0.875 (95% confidence interval [CI]: 0.848–0.904), 0.917 (0.885–0.951), 0.878 (0.834–0.924) and 0.891 (0.834–0.953), respectively. For all‐cause mortality, the corresponding hazard ratios were 0.719 (0.701–0.737), 0.727 (0.708–0.746), 0.717 (0.694–0.741) and 0.743 (0.717–0.771).ConclusionsIn this large, multi‐centre cohort study, metformin use was associated with reduced risks of dementia and all‐cause mortality in obese patients. The protective effect was observed across all BMI groups, with variations noted by population. These findings support the potential of metformin in lowering dementia risk in patients with obesity. Further studies are needed to explore the underlying mechanisms.
 DOI: 10.1111/dom.16647
 ISSN: 1462-8902
-Tag der Erhebung (OOIR): 2025-09-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1111/dom.16647-2025-09-01-1</guid>
+Tag der Erhebung (OOIR): 2025-09-02</description>
+			<guid isPermaLink="false">ooir-trend-10.1111/dom.16647-2025-09-02-1</guid>
 			<pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -34,8 +34,8 @@ Journal: Cell Metabolism
 Veröffentlicht: 2025-08-01
 DOI: 10.1016/j.cmet.2025.07.004
 ISSN: 1550-4131
-Tag der Erhebung (OOIR): 2025-09-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2025.07.004-2025-09-01-2</guid>
+Tag der Erhebung (OOIR): 2025-09-02</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2025.07.004-2025-09-02-2</guid>
 			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -50,8 +50,8 @@ Veröffentlicht: 2025-07-18
 Abstract: IntroductionVitamin D is a pleiotropic hormone essential for bone health and overall physiological function. Despite its significance, vitamin D deficiency remains widespread and is often influenced by genetic factors. MethodsThis study investigates the role of SDR42E1, a gene encoding a short-chain dehydrogenase/reductase enzyme, in vitamin D regulation and sterol metabolism. Using CRISPR/Cas9 gene-editing, we generated an SDR42E1 knock-in model in HCT116 colorectal cells, which exhibit high endogenous SDR42E1 expression, harboring a nonsense variant associated with vitamin D deficiency.ResultsIntegrated transcriptomic and proteomic analyses revealed significant dysregulation of sterol absorption and metabolism (fold change (FC) = 1.8, P = 0.007) and cancer-related signaling pathways (FC = −1.7, P = 0.02). Notably, key differentially expressed genes included upregulated LRP1B and ABCC2, alongside downregulated WNT16 and SLC7A5. Proteomic profiling confirmed alterations in cell proliferation-related proteins, including reduced ALDOA expression (FC = −0.37, P = 0.0005). Functionally, SDR42E1 deficiency reduced cell viability by 53% (P = 0.0001), an effect reversed by transient SDR42E1 overexpression with restoring ABCC2 expression. ConclusionThese findings establish SDR42E1 as a key modulator of vitamin D-related pathways and highlight its potential as a therapeutic target for addressing vitamin D deficiency and associated pathologies, including cancer.
 DOI: 10.3389/fendo.2025.1585859
 ISSN: 1664-2392
-Tag der Erhebung (OOIR): 2025-09-01</description>
-			<guid isPermaLink="false">ooir-trend-10.3389/fendo.2025.1585859-2025-09-01-3</guid>
+Tag der Erhebung (OOIR): 2025-09-02</description>
+			<guid isPermaLink="false">ooir-trend-10.3389/fendo.2025.1585859-2025-09-02-3</guid>
 			<pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -65,8 +65,8 @@ Journal: Cell Metabolism
 Veröffentlicht: 2025-08-01
 DOI: 10.1016/j.cmet.2025.07.009
 ISSN: 1550-4131
-Tag der Erhebung (OOIR): 2025-09-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2025.07.009-2025-09-01-4</guid>
+Tag der Erhebung (OOIR): 2025-09-02</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2025.07.009-2025-09-02-4</guid>
 			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -80,8 +80,8 @@ Journal: Cell Metabolism
 Veröffentlicht: 2025-08-01
 DOI: 10.1016/j.cmet.2025.07.006
 ISSN: 1550-4131
-Tag der Erhebung (OOIR): 2025-09-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2025.07.006-2025-09-01-5</guid>
+Tag der Erhebung (OOIR): 2025-09-02</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2025.07.006-2025-09-02-5</guid>
 			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
