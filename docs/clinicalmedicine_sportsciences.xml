@@ -5,62 +5,23 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Sport Sciences) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 03 Sep 2025 00:59:24 GMT</pubDate>
-		<lastBuildDate>Wed, 03 Sep 2025 00:59:24 GMT</lastBuildDate>
+		<pubDate>Thu, 04 Sep 2025 00:59:08 GMT</pubDate>
+		<lastBuildDate>Thu, 04 Sep 2025 00:59:08 GMT</lastBuildDate>
 		<item>
 			<title>Habitual fluid intake and hydration status influence cortisol reactivity to acute psychosocial stress</title>
 			<link>https://doi.org/10.1152/japplphysiol.00408.2025</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Sport Sciences
-Score: 1652
-Autoren: Daniel Sean Kashi, Marianne Hunter, Jason Paul Edwards, Juliane Zemdegs, Jennifer Lourenço, Anne-Cécile Mille, Erica T Perrier, Alberto Dolci, Neil P Walsh
+Score: 1677
+Autoren: Daniel S. Kashi, Marianne Hunter, Jason P. Edwards, Juliane Zemdegs, Jennifer Lourenço, Anne-Cécile Mille, Erica T. Perrier, Alberto Dolci, Neil P. Walsh
 Journal: Journal of Applied Physiology
-Veröffentlicht: 2025-08-13
-Abstract:  Shared pathways connect water regulation and cortisol release and exaggerated cortisol reactivity to stress is associated with poor long-term health. This study investigated the unknown influence of habitual fluid intake and hydration status on saliva cortisol reactivity to psychosocial stress. After screening 62 healthy males and females and adopting low and high fluid intake quartiles from a national database, we identified 16 individuals with habitual low (LOW: 1.3 ± 0.4 L/day) and 16 with habitual high fluid intake (HIGH: 4.4 ± 1.2 L/day) who were comparable for factors likely to influence stress reactivity (e.g., trait anxiety). In pairs (one LOW and one HIGH), participants underwent 7 days of monitored habitual fluid intake. The following day, participants individually completed the Trier Social Stress Test (TSST). Hydration status was assessed in the days preceding and on the day of the TSST (urine osmolality and color; UOsm, UCol). Both UOsm and UCol were greater in LOW ( P &amp;lt; 0.001). The TSST evoked similar increases in state anxiety and heart rate in LOW and HIGH, yet saliva cortisol increased significantly post-TSST only in LOW (group*time interaction, P = 0.02). Moreover, cortisol reactivity was greater in LOW (Δ, 6.2 ± 2.9 vs. HIGH: 4.0 ± 1.8 nmol/L; P = 0.03, Cohen’s d = 0.9) and was associated with hydration status assessed as UOsm (Pearson R = 0.7, P &amp;lt; 0.001). These novel findings show greater cortisol reactivity to acute psychosocial stress in adults with habitual low fluid intake and suboptimal hydration, which may influence long-term health. 
+Veröffentlicht: 2025-09-01
+Abstract:  Cortisol reactivity to acute stress predicts long-term health. Our novel findings show greater cortisol reactivity to acute stress in adults with habitual low fluid intake. Suboptimal hydration (e.g., darker morning urine) was associated with greater cortisol reactivity to acute stress. These findings provide one possible explanation for why habitual low fluid intake and suboptimal hydration are related to poor long-term health. Furthermore, researchers should account for hydration when assessing cortisol reactivity to acute stressors. 
 DOI: 10.1152/japplphysiol.00408.2025
 ISSN: 8750-7587
-Tag der Erhebung (OOIR): 2025-09-03</description>
-			<guid isPermaLink="false">ooir-trend-10.1152/japplphysiol.00408.2025-2025-09-03-1</guid>
-			<pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Exercise based cardiac rehabilitation for atrial fibrillation: Cochrane systematic review, meta-analysis, meta-regression and trial sequential analysis</title>
-			<link>https://doi.org/10.1136/bjsports-2024-109149</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Sport Sciences
-Score: 213
-Autoren: Benjamin JR Buckley, Linda Long, Deirdre A Lane, Signe Risom, Charlotte Jane Fitzhugh, Selina K Berg, Pernille Palm, Kirstine L Sibilitz, Jesper H Svendsen, Christian Gluud, Ann-Dorthe Zwisler, Gregory Y H Lip, Lis Neubeck, Rod S Taylor
-Journal: British Journal of Sports Medicine
-Veröffentlicht: 2025-07-29
-Abstract: 
-                  Objective
-                  To undertake a contemporary review of the impact of exercise based cardiac rehabilitation (ExCR) for patients with atrial fibrillation (AF).
-               
-               
-                  Data sources
-                  CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL, WoS Core Collection, LILACS and trial registers were searched from inception up to 24 March 2024.
-               
-               
-                  Eligibility criteria
-                  Randomised clinical trials (RCTs) comparing ExCR with any non-exercise control.
-               
-               
-                  Design
-                  Random effect meta-analyses presented as effect estimates and 95% CIs. Meta-regression examined study level effect modification. Cochrane risk of bias, GRADE (Grading of Recommendations Assessment, Development and Evaluation) and trial sequential analysis (RTSA) were applied.
-               
-               
-                  Results
-                  20 RCTs (n=2039) with a mean follow-up of 11 months showed that ExCR did not impact all cause mortality (8.3% vs 6.0%, relative risk (RR) 1.06, 95% CI 0.76 to 1.48) or serious adverse events (2.9% vs 4.1%, RR 1.30, 95% CI 0.66 to 2.56) but did reduce AF symptom severity (mean difference (MD) −1.61, 95% CI −3.06 to −0.16), AF burden (MD −1.61, 95% CI −2.76 to −0.45), episode frequency (MD −0.57, 95% CI −1.07 to −0.07), episode duration (MD −0.58, 95% CI −1.14 to −0.03), AF recurrence (RR 0.68, 95% CI 0.53 to 0.89), and improved exercise capacity (maximal oxygen consumption (VO2 peak) MD 3.18, 95% CI 1.05 to 5.31 mL/kg/min). There was benefit for the mental component but not the physical component of a health related quality of life questionnaire. No differential effects across AF subtype, ExCR dose, or mode of delivery were seen.
-               
-               
-                  Conclusion
-                  Meta-analyses of RCT evidence for ExCR in patients with AF demonstrated several clinical benefits without an increase in serious adverse events. GRADE and RTSA assessments indicated further high quality and adequately powered RCTs are needed.
-               
-DOI: 10.1136/bjsports-2024-109149
-ISSN: 0306-3674
-Tag der Erhebung (OOIR): 2025-09-03</description>
-			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2024-109149-2025-09-03-2</guid>
-			<pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
+Tag der Erhebung (OOIR): 2025-09-04</description>
+			<guid isPermaLink="false">ooir-trend-10.1152/japplphysiol.00408.2025-2025-09-04-1</guid>
+			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Trans* Athletes in Sport: Not Ceding to the Sex/Gender Binary of Gender Critical Feminism1</title>
@@ -74,24 +35,9 @@ Veröffentlicht: 2025-09-01
 Abstract: Debates over the position(ing) of trans* athletes in sport have been reignited in the last decade because of the confluence of broader political debates over the provision of rights of self-identification for trans* people with the International Olympic Committee’s decision to place responsibility for transgender regulations in the hands of international sporting federations. The effect of this confluence has meant a regressive shift back toward hard essentialism with regard to sex categories in sport. This paper challenges the politically powerful, yet romanticized and historically inaccurate, narrative that so-called gender critical feminists have produced to support this regressive move.
 DOI: 10.1123/ssj.2024-0030
 ISSN: 0741-1235
-Tag der Erhebung (OOIR): 2025-09-03</description>
-			<guid isPermaLink="false">ooir-trend-10.1123/ssj.2024-0030-2025-09-03-3</guid>
+Tag der Erhebung (OOIR): 2025-09-04</description>
+			<guid isPermaLink="false">ooir-trend-10.1123/ssj.2024-0030-2025-09-04-2</guid>
 			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Role of exercise in atrial fibrillation management</title>
-			<link>https://doi.org/10.1136/bjsports-2025-110191</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Sport Sciences
-Score: 110
-Autoren: Sarandeep Marwaha, Sanjay Sharma
-Journal: British Journal of Sports Medicine
-Veröffentlicht: 2025-07-29
-DOI: 10.1136/bjsports-2025-110191
-ISSN: 0306-3674
-Tag der Erhebung (OOIR): 2025-09-03</description>
-			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-110191-2025-09-03-4</guid>
-			<pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Effects of aerobic or resistance exercise during neoadjuvant chemotherapy on tumor response and therapy completion in women with breast cancer: The randomized controlled BENEFIT trial</title>
@@ -104,9 +50,41 @@ Journal: Journal of Sport and Health Science
 Veröffentlicht: 2025-12-01
 DOI: 10.1016/j.jshs.2025.101064
 ISSN: 2095-2546
-Tag der Erhebung (OOIR): 2025-09-03</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.jshs.2025.101064-2025-09-03-5</guid>
+Tag der Erhebung (OOIR): 2025-09-04</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.jshs.2025.101064-2025-09-04-3</guid>
 			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Consensus Statements—Optimizing Performance of the Elite Athlete</title>
+			<link>https://doi.org/10.1111/sms.70112</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 45
+Autoren: Jens Bangsbo, Morten Hostrup, Ylva Hellsten, Mette Hansen, Anna Melin, Michael Kjær, Jamie F. Burr, Lars Engebretsen, Brendan Egan, Anthony C. Hackney, Toby L. Chambers, Andrew M. Jones, Yannis Pitsiladis, Peter Magnusson, Jesper Petersen, Atul S. Deshmukh, Jose A. L. Calbet, Kirsty Elliott‐Sale, Mike Joyner, Jesper L. Andersen, Peter M. Christensen, Michael R. Dünweber, Tue Rømer, Kate A. Wickham, Søren K. Jessen, Julie Kissow, Jan S. Jeppesen, Lukas Moesgaard
+Journal: Scandinavian Journal of Medicine &amp;amp; Science in Sports
+Veröffentlicht: 2025-08-01
+Abstract: ABSTRACTThe International Consensus Conference “Optimising Performance of the Elite Athlete,” held in November 2024, brought together 29 scientists, some coaches, and athletes to establish evidence‐based consensus statements aimed at enhancing elite athletic performance and health. The conference addressed critical themes including training strategies, nutrition, female athlete considerations, injury management, and emerging technologies. Key conclusions emphasize individualized, sport‐specific approaches to training and nutrition, integrating concurrent training modalities to improve endurance, resilience, and efficiency. Nutrition strategies highlight the importance of tailored energy and macronutrient periodization, recognition of low energy availability risks, and cautious use of dietary supplements. Special attention was directed to female athletes, advocating for improved monitoring of menstrual cycles and hormonal status, while acknowledging current knowledge gaps in hormonal influences on performance and injury risk. Injury prevention remains a challenge, with tendon overuse and Achilles tendon ruptures significantly impacting athlete careers; rehabilitation should rely on criteria‐based progression and multidisciplinary input. Emerging technologies, including wearable sensors and multi‐omics analyses, hold promise for personalized training and nutrition but require further validation in elite contexts. Despite robust consensus, the panel identified substantial research gaps, particularly regarding female athletes, longitudinal training effects, and efficacy of novel interventions. This consensus provides a practical, scientifically grounded framework to optimize elite athlete performance and health, while underscoring the need for continued research to address outstanding questions and promote inclusive evidence‐based practices.
+DOI: 10.1111/sms.70112
+ISSN: 0905-7188
+Tag der Erhebung (OOIR): 2025-09-04</description>
+			<guid isPermaLink="false">ooir-trend-10.1111/sms.70112-2025-09-04-4</guid>
+			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>The role of adipose tissue in critical illness-induced skeletal muscle wasting—new considerations for treatment approaches</title>
+			<link>https://doi.org/10.1152/japplphysiol.00203.2025</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 41
+Autoren: Casey L. Sexton, Selene Meza-Perez, Konstantinos Papanikolaou, Tomasz M. Kaminski, Marta Nowacka-Chmielewska, Piotr Rodak, Yi Lin, Thomas W. Buford, Peter E. Morris, Davis A. Englund, Robert T. Mankowski
+Journal: Journal of Applied Physiology
+Veröffentlicht: 2025-08-01
+Abstract:  Critical illness-induced muscle wasting is associated with poor in-hospital and long-term outcomes, but prevention strategies are lacking. Critical illness elicits muscle wasting through upregulation of protein degradation and downregulation of protein synthesis via primary (i.e., modulation of ubiquitin-proteasome, autophagy-lysosome, calpain, and caspase-3 pathways) and secondary (i.e., bed rest/disuse, nutritional modulation, and accumulation of cellular damage) mechanisms. However, therapeutic targeting of these skeletal muscle mechanisms has not advanced the prevention of critical illness-induced muscle wasting, which may require exploring the roles of other peripheral organs. For example, recent research has demonstrated positive associations between whole-body adipose tissue mass, maintenance of muscle mass, and lower mortality rates in critically ill patients. However, having excess adiposity is often associated with impaired skeletal muscle remodeling due to blunted anabolic signaling, which has been tied to insulin resistance, lipid accumulation, and inflammation. Thus, the positive association between adiposity and beneficial outcomes in critical illness is paradoxical. This may be explained, at least partially, by an incomplete understanding of the processes by which adipose tissue influences skeletal muscle health and function in the context of critical illness. This review highlights the current evidence and key questions that warrant further investigations to improve understanding of the relationship between adipose tissue and skeletal muscle health. This knowledge may then be leveraged to facilitate new therapeutic approaches aimed at improving skeletal muscle health and functional outcomes in patients with critical illness. 
+DOI: 10.1152/japplphysiol.00203.2025
+ISSN: 8750-7587
+Tag der Erhebung (OOIR): 2025-09-04</description>
+			<guid isPermaLink="false">ooir-trend-10.1152/japplphysiol.00203.2025-2025-09-04-5</guid>
+			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
