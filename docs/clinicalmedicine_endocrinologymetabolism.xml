@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Endocrinology &amp; Metabolism) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Fri, 05 Sep 2025 00:59:57 GMT</pubDate>
-		<lastBuildDate>Fri, 05 Sep 2025 00:59:57 GMT</lastBuildDate>
+		<pubDate>Sat, 06 Sep 2025 00:58:37 GMT</pubDate>
+		<lastBuildDate>Sat, 06 Sep 2025 00:58:37 GMT</lastBuildDate>
 		<item>
 			<title>Protective effect of metformin against dementia in patients with obesity: Results from a global federated health network analysis</title>
 			<link>https://doi.org/10.1111/dom.16647</link>
@@ -19,40 +19,40 @@ Veröffentlicht: 2025-08-06
 Abstract: AbstractAimsMetformin, a first‐line medication for Type 2 diabetes (T2D), has been suggested to reduce dementia risk. We investigated whether metformin use was associated with lower long‐term incidence of dementia and all‐cause mortality in obese patients.Materials and MethodsWe analysed electronic health record data from the TriNetX network. Patients were categorised into four body mass index (BMI) groups (25–29.9, 30–34.9, 35–39.9 and over 40). In each group, those prescribed metformin were compared with matched controls who were not prescribed metformin, using propensity score matching. Kaplan–Meier survival analysis was used to estimate dementia incidence and all‐cause mortality over a 10‐year follow‐up.ResultsThe matched cohorts included 132 920 (BMI 25–29.9), 142 723 (30–34.9), 94 402 (35–39.9) and 82 732 (over 40) patients per group. After 10 years of follow‐up, metformin users exhibited significantly lower risks of both dementia and all‐cause mortality compared to controls. Specifically, the hazard ratios for dementia across each BMI group were 0.875 (95% confidence interval [CI]: 0.848–0.904), 0.917 (0.885–0.951), 0.878 (0.834–0.924) and 0.891 (0.834–0.953), respectively. For all‐cause mortality, the corresponding hazard ratios were 0.719 (0.701–0.737), 0.727 (0.708–0.746), 0.717 (0.694–0.741) and 0.743 (0.717–0.771).ConclusionsIn this large, multi‐centre cohort study, metformin use was associated with reduced risks of dementia and all‐cause mortality in obese patients. The protective effect was observed across all BMI groups, with variations noted by population. These findings support the potential of metformin in lowering dementia risk in patients with obesity. Further studies are needed to explore the underlying mechanisms.
 DOI: 10.1111/dom.16647
 ISSN: 1462-8902
-Tag der Erhebung (OOIR): 2025-09-05</description>
-			<guid isPermaLink="false">ooir-trend-10.1111/dom.16647-2025-09-05-1</guid>
+Tag der Erhebung (OOIR): 2025-09-06</description>
+			<guid isPermaLink="false">ooir-trend-10.1111/dom.16647-2025-09-06-1</guid>
 			<pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Unexpected effects of semaglutide on skeletal muscle mass and force-generating capacity in mice</title>
-			<link>https://doi.org/10.1016/j.cmet.2025.07.004</link>
+			<title>Association of metformin treatment with changes in metal dynamics in individuals with type 2 diabetes</title>
+			<link>https://doi.org/10.1136/bmjdrc-2025-005255</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Endocrinology &amp; Metabolism
-Score: 359
-Autoren: Takuya Karasawa, Ran Hee Choi, Cesar A. Meza, Subhasmita Rout, Micah J. Drummond, Amandine Chaix, Katsuhiko Funai
-Journal: Cell Metabolism
-Veröffentlicht: 2025-08-01
-DOI: 10.1016/j.cmet.2025.07.004
-ISSN: 1550-4131
-Tag der Erhebung (OOIR): 2025-09-05</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2025.07.004-2025-09-05-2</guid>
-			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>SDR42E1 modulates vitamin D absorption and cancer pathogenesis: insights from an in vitro model</title>
-			<link>https://doi.org/10.3389/fendo.2025.1585859</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Endocrinology &amp; Metabolism
-Score: 195
-Autoren: Nagham Nafiz Hendi, Georges Nemer
-Journal: Frontiers in Endocrinology
-Veröffentlicht: 2025-07-18
-Abstract: IntroductionVitamin D is a pleiotropic hormone essential for bone health and overall physiological function. Despite its significance, vitamin D deficiency remains widespread and is often influenced by genetic factors. MethodsThis study investigates the role of SDR42E1, a gene encoding a short-chain dehydrogenase/reductase enzyme, in vitamin D regulation and sterol metabolism. Using CRISPR/Cas9 gene-editing, we generated an SDR42E1 knock-in model in HCT116 colorectal cells, which exhibit high endogenous SDR42E1 expression, harboring a nonsense variant associated with vitamin D deficiency.ResultsIntegrated transcriptomic and proteomic analyses revealed significant dysregulation of sterol absorption and metabolism (fold change (FC) = 1.8, P = 0.007) and cancer-related signaling pathways (FC = −1.7, P = 0.02). Notably, key differentially expressed genes included upregulated LRP1B and ABCC2, alongside downregulated WNT16 and SLC7A5. Proteomic profiling confirmed alterations in cell proliferation-related proteins, including reduced ALDOA expression (FC = −0.37, P = 0.0005). Functionally, SDR42E1 deficiency reduced cell viability by 53% (P = 0.0001), an effect reversed by transient SDR42E1 overexpression with restoring ABCC2 expression. ConclusionThese findings establish SDR42E1 as a key modulator of vitamin D-related pathways and highlight its potential as a therapeutic target for addressing vitamin D deficiency and associated pathologies, including cancer.
-DOI: 10.3389/fendo.2025.1585859
-ISSN: 1664-2392
-Tag der Erhebung (OOIR): 2025-09-05</description>
-			<guid isPermaLink="false">ooir-trend-10.3389/fendo.2025.1585859-2025-09-05-3</guid>
-			<pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+Score: 320
+Autoren: Natsu Otowa-Suematsu, Kazuhiko Sakaguchi, Tomoko Yamada, Marika Nishisaka, Yasuko Morita, Hayato Fukumitsu, Yukari Katsura, Yuko Okada, Yushi Hirota, Kenji Sugawara, Wataru Ogawa
+Journal: BMJ Open Diabetes Research &amp;amp; Care
+Veröffentlicht: 2025-08-31
+Abstract: 
+                  Introduction
+                  The metal-chelating activity of metformin, which has long been known but of unclear clinical relevance, has recently been implicated in the pleiotropic effects, including antitumorigenic and anti-inflammatory actions, of the drug. However, whether metformin actually influences metal dynamics in humans has remained unknown. We here investigate whether metformin influences serum metal levels in individuals with type 2 diabetes.
+               
+               
+                  Research design and methods
+                  In this cross-sectional study, individuals with type 2 diabetes treated or not treated with metformin for at least 6 months were recruited. The primary outcome was the difference in serum copper concentration between metformin users and non-users. Secondary outcomes included differences in serum levels of iron, zinc, and vitamin B12 as well as in copper-related and iron-related parameters between the two groups.
+               
+               
+                  Results
+                  A total of 189 individuals (93 metformin users and 96 non-users) were analyzed. Metformin users showed significantly lower serum copper (16.0 vs 17.8 µmol/L, p&amp;lt;0.001) and iron levels (16.3 vs 17.3 µmol/L, p=0.02) and higher zinc levels (13.3 vs 12.5 µmol/L, p=0.01) compared with non-users. Copper-related and iron-related parameters for metformin users were consistent with latent deficiencies of these metals. Serum homocysteine levels (12.2 vs 11.2 µmol/L, p=0.03) were significantly higher, whereas vitamin B12 levels (338.7 vs 412.8 pmol/L, p&amp;lt;0.001) were significantly lower, in metformin users. Multiple regression analysis including variables that potentially influence metal dynamics identified metformin use as an independent predictor of serum copper (B = –1.54 µmol/L, p&amp;lt;0.001) and iron levels (B = –2.49 µmol/L, p=0.004).
+               
+               
+                  Conclusions
+                  Metformin use was associated with reduced serum levels of copper and iron, as well as with increased serum zinc levels. These changes in metal dynamics may be related to the pharmacological effects of this widely administered drug.
+               
+DOI: 10.1136/bmjdrc-2025-005255
+ISSN: 2052-4897
+Tag der Erhebung (OOIR): 2025-09-06</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bmjdrc-2025-005255-2025-09-06-2</guid>
+			<pubDate>Sun, 31 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Glucose-dependent insulinotropic polypeptide receptor signaling in oligodendrocytes increases the weight-loss action of GLP-1R agonism</title>
@@ -65,24 +65,41 @@ Journal: Cell Metabolism
 Veröffentlicht: 2025-09-01
 DOI: 10.1016/j.cmet.2025.07.009
 ISSN: 1550-4131
-Tag der Erhebung (OOIR): 2025-09-05</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2025.07.009-2025-09-05-4</guid>
+Tag der Erhebung (OOIR): 2025-09-06</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2025.07.009-2025-09-06-3</guid>
 			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Glucose-dependent glycosphingolipid biosynthesis fuels CD8+ T cell function and tumor control</title>
-			<link>https://doi.org/10.1016/j.cmet.2025.07.006</link>
+			<title>Efficacy and safety of cAMP-biased GLP-1 receptor agonist ecnoglutide versus dulaglutide in patients with type 2 diabetes and elevated glucose concentrations on metformin monotherapy (EECOH-2): a 52-week, multicentre, open-label, non-inferiority, randomised, phase 3 trial</title>
+			<link>https://doi.org/10.1016/s2213-8587(25)00196-2</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Endocrinology &amp; Metabolism
-Score: 122
-Autoren: Joseph Longo, Lisa M. DeCamp, Brandon M. Oswald, Robert Teis, Alfredo Reyes-Oliveras, Michael S. Dahabieh, Abigail E. Ellis, Michael P. Vincent, Hannah Damico, Kristin L. Gallik, Nicole M. Foy, Shelby E. Compton, Colt D. Capan, Kelsey S. Williams, Corinne R. Esquibel, Zachary B. Madaj, Hyoungjoo Lee, Dominic G. Roy, Connie M. Krawczyk, Brian B. Haab, Ryan D. Sheldon, Russell G. Jones
-Journal: Cell Metabolism
-Veröffentlicht: 2025-09-01
-DOI: 10.1016/j.cmet.2025.07.006
-ISSN: 1550-4131
-Tag der Erhebung (OOIR): 2025-09-05</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2025.07.006-2025-09-05-5</guid>
-			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+Score: 102
+Autoren: Yang He, Nianrong Mi, Zhifeng Cheng, Haibo Xue, Jie Han, Haifang Wang, Huihui Wang, Jun Wu, Xiaoguang Shi, Shuping Zhao, Binhong Duan, Yikun Zhu, Yanqin Zhou, Feng Li, Xin Wang, Hongwei Ling, Su Wang, Qingju Li, Feifei Jiang, Ming Yang, Shaohui Bing, Qing Zheng, Jing Ning, Mengying Guo, Yue Bu, Lei Guan, Yao Li, Liu Yang, Wanjun Guo, Hai Pan, Xiaoying Li
+Journal: The Lancet Diabetes &amp;amp; Endocrinology
+Veröffentlicht: 2025-08-01
+DOI: 10.1016/s2213-8587(25)00196-2
+ISSN: 2213-8587
+Tag der Erhebung (OOIR): 2025-09-06</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/s2213-8587(25)00196-2-2025-09-06-4</guid>
+			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Fluorescent GLP1R/GIPR dual agonist probes reveal cell targets in the pancreas and brain</title>
+			<link>https://doi.org/10.1038/s42255-025-01342-6</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 101
+Autoren: Anne de Bray, Anna G. Roberts, Sarah Armour, Jason Tong, Christiane Huhn, Blaise Gatin-Fraudet, Kilian Roßmann, Ali H. Shilleh, Wanqing Jiang, Natalie S. Figueredo Burgos, James P. P. Trott, Katrina Viloria, Daniela Nasteska, Abigail Pearce, Satsuki Miyazaki, Jeremy W. Tomlinson, Dylan M. Owen, Daniel J. Nieves, Julia Ast, Malgorzata Cyranka, Alexey Epanchintsev, Carina Ämmälä, Frank Reimann, Tolga Soykan, Graham Ladds, Alice E. Adriaenssens, Stefan Trapp, Ben Jones, Johannes Broichhagen, David J. Hodson
+Journal: Nature Metabolism
+Veröffentlicht: 2025-08-19
+Abstract: Abstract
+          Dual agonists targeting glucagon-like peptide-1 receptor (GLP1R) and glucose-dependent insulinotropic polypeptide receptor (GIPR) are breakthrough treatments for patients with type 2 diabetes and obesity. Compared to GLP1R agonists, dual agonists show superior efficacy for glucose lowering and weight reduction. However, delineation of dual agonist cell targets remains challenging. Here, we develop and test daLUXendin and daLUXendin+, non-lipidated and lipidated fluorescent GLP1R/GIPR dual agonist probes, and use them to visualize cellular targets. daLUXendins are potent GLP1R/GIPR dual agonists that advantageously show less functional selectivity for mouse GLP1R over mouse GIPR. daLUXendins label rodent and human pancreatic islet cells, with a signal intensity of β cells &amp;gt; α cells = δ cells. Systemic administration of daLUXendin strongly labels GLP1R+ and GIPR+ neurons in circumventricular organs characterized by an incomplete blood–brain barrier but does not penetrate the brain beyond labelling seen with single (ant)agonists. At the single-molecule level, daLUXendin targets endogenous GLP1R–GIPR nanodomains, which differ in organization and composition from those targeted by a single agonist. daLUXendins reveal dual agonist targets in the pancreas and brain and exclude a role for brain penetration in determining the superior efficacy of dual agonists, shedding new light on different modes of action of dual agonists versus single agonists.
+DOI: 10.1038/s42255-025-01342-6
+ISSN: 2522-5812
+Tag der Erhebung (OOIR): 2025-09-06</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s42255-025-01342-6-2025-09-06-5</guid>
+			<pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
