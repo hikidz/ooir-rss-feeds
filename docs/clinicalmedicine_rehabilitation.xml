@@ -5,8 +5,23 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rehabilitation) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 06 Sep 2025 00:59:07 GMT</pubDate>
-		<lastBuildDate>Sat, 06 Sep 2025 00:59:07 GMT</lastBuildDate>
+		<pubDate>Sun, 07 Sep 2025 01:05:38 GMT</pubDate>
+		<lastBuildDate>Sun, 07 Sep 2025 01:05:38 GMT</lastBuildDate>
+		<item>
+			<title>Validity, reliability, and clinical usefulness of instruments for measuring thoracic kyphosis: a systematic review and meta-analysis</title>
+			<link>https://doi.org/10.1016/j.bjpt.2025.101246</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 88
+Autoren: Ana Paula Flôr Alves Nepomuceno, Ana Carolina Cury, Larissa Santos Pinto Pinheiro, George Schayer Sabino, Thales Rezende Souza, Sérgio Teixeira Fonseca, Juliana Melo Ocarino, Renan Alves Resende
+Journal: Brazilian Journal of Physical Therapy
+Veröffentlicht: 2025-09-01
+DOI: 10.1016/j.bjpt.2025.101246
+ISSN: 1413-3555
+Tag der Erhebung (OOIR): 2025-09-07</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2025.101246-2025-09-07-1</guid>
+			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Scapular kinematics variability in individuals with and without rotator cuff-related shoulder pain: A systematic review with multilevel meta-regression</title>
 			<link>https://doi.org/10.1016/j.bjpt.2025.101261</link>
@@ -18,24 +33,9 @@ Journal: Brazilian Journal of Physical Therapy
 Veröffentlicht: 2025-11-01
 DOI: 10.1016/j.bjpt.2025.101261
 ISSN: 1413-3555
-Tag der Erhebung (OOIR): 2025-09-06</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2025.101261-2025-09-06-1</guid>
+Tag der Erhebung (OOIR): 2025-09-07</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2025.101261-2025-09-07-2</guid>
 			<pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Validity, reliability, and clinical usefulness of instruments for measuring thoracic kyphosis: a systematic review and meta-analysis</title>
-			<link>https://doi.org/10.1016/j.bjpt.2025.101246</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rehabilitation
-Score: 47
-Autoren: Ana Paula Flôr Alves Nepomuceno, Ana Carolina Cury, Larissa Santos Pinto Pinheiro, George Schayer Sabino, Thales Rezende Souza, Sérgio Teixeira Fonseca, Juliana Melo Ocarino, Renan Alves Resende
-Journal: Brazilian Journal of Physical Therapy
-Veröffentlicht: 2025-09-01
-DOI: 10.1016/j.bjpt.2025.101246
-ISSN: 1413-3555
-Tag der Erhebung (OOIR): 2025-09-06</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2025.101246-2025-09-06-2</guid>
-			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Association of Long COVID With Vision Difficulties Among Adults in the United States</title>
@@ -62,8 +62,8 @@ Abstract:
           
 DOI: 10.1177/0145482x251365588
 ISSN: 0145-482X
-Tag der Erhebung (OOIR): 2025-09-06</description>
-			<guid isPermaLink="false">ooir-trend-10.1177/0145482x251365588-2025-09-06-3</guid>
+Tag der Erhebung (OOIR): 2025-09-07</description>
+			<guid isPermaLink="false">ooir-trend-10.1177/0145482x251365588-2025-09-07-3</guid>
 			<pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -77,8 +77,8 @@ Journal: Brazilian Journal of Physical Therapy
 Veröffentlicht: 2025-11-01
 DOI: 10.1016/j.bjpt.2025.101258
 ISSN: 1413-3555
-Tag der Erhebung (OOIR): 2025-09-06</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2025.101258-2025-09-06-4</guid>
+Tag der Erhebung (OOIR): 2025-09-07</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2025.101258-2025-09-07-4</guid>
 			<pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -112,8 +112,8 @@ Abstract:
           
 DOI: 10.1097/htr.0000000000001096
 ISSN: 0885-9701
-Tag der Erhebung (OOIR): 2025-09-06</description>
-			<guid isPermaLink="false">ooir-trend-10.1097/htr.0000000000001096-2025-09-06-5</guid>
+Tag der Erhebung (OOIR): 2025-09-07</description>
+			<guid isPermaLink="false">ooir-trend-10.1097/htr.0000000000001096-2025-09-07-5</guid>
 			<pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>

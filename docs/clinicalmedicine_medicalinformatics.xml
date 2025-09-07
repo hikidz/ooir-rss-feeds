@@ -5,23 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 06 Sep 2025 00:58:45 GMT</pubDate>
-		<lastBuildDate>Sat, 06 Sep 2025 00:58:45 GMT</lastBuildDate>
-		<item>
-			<title>A Flexible Multi-Sensor Device Enabling Handheld Sensing of Heart Sounds by Untrained Users</title>
-			<link>https://doi.org/10.1109/jbhi.2025.3551882</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 311
-Autoren: Andrew McDonald, Maximilian Nussbaumer, Nirmani Rathnayake, Richard Steeds, Anurag Agarwal
-Journal: IEEE Journal of Biomedical and Health Informatics
-Veröffentlicht: 2025-08-01
-DOI: 10.1109/jbhi.2025.3551882
-ISSN: 2168-2194
-Tag der Erhebung (OOIR): 2025-09-06</description>
-			<guid isPermaLink="false">ooir-trend-10.1109/jbhi.2025.3551882-2025-09-06-1</guid>
-			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-		</item>
+		<pubDate>Sun, 07 Sep 2025 01:05:00 GMT</pubDate>
+		<lastBuildDate>Sun, 07 Sep 2025 01:05:00 GMT</lastBuildDate>
 		<item>
 			<title>Evaluating gender bias in large language models in long-term care</title>
 			<link>https://doi.org/10.1186/s12911-025-03118-0</link>
@@ -50,26 +35,9 @@ Abstract: Abstract
           
 DOI: 10.1186/s12911-025-03118-0
 ISSN: 1472-6947
-Tag der Erhebung (OOIR): 2025-09-06</description>
-			<guid isPermaLink="false">ooir-trend-10.1186/s12911-025-03118-0-2025-09-06-2</guid>
+Tag der Erhebung (OOIR): 2025-09-07</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12911-025-03118-0-2025-09-07-1</guid>
 			<pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Personalized home based neurostimulation via AI optimization augments sustained attention</title>
-			<link>https://doi.org/10.1038/s41746-025-01744-6</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 108
-Autoren: Roi Cohen Kadosh, Delia Ciobotaru, Malin I. Karstens, Vu Nguyen
-Journal: npj Digital Medicine
-Veröffentlicht: 2025-07-29
-Abstract: Abstract
-          Brain-based technologies for human augmentation face challenges in personalization and real-world translation. We present an AI-driven personalized Bayesian optimization algorithm that remotely adjusts neurostimulation parameters based on baseline ability and head anatomy to enhance sustained attention at home. Validated through in silico modeling and a double-blind, sham-controlled study, our approach aligns with MRI-based models and neurobiological theories, maximizing efficacy and enabling scalable, personalized cognitive enhancement and therapy in real-world settings.
-DOI: 10.1038/s41746-025-01744-6
-ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-09-06</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01744-6-2025-09-06-3</guid>
-			<pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>AI as an independent second reader in detection of clinically relevant breast cancers within a population-based screening programme in the Netherlands: a retrospective cohort study</title>
@@ -82,26 +50,77 @@ Journal: The Lancet Digital Health
 Veröffentlicht: 2025-08-01
 DOI: 10.1016/j.landig.2025.100882
 ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2025-09-06</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100882-2025-09-06-4</guid>
+Tag der Erhebung (OOIR): 2025-09-07</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100882-2025-09-07-2</guid>
 			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Evaluation of the NHS active 10 walking app intervention through time-series analysis in 201,688 individuals</title>
-			<link>https://doi.org/10.1038/s41746-025-01785-x</link>
+			<title>Culture-free detection of bacteria from blood for rapid sepsis diagnosis</title>
+			<link>https://doi.org/10.1038/s41746-025-01948-w</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 69
-Autoren: Dharani Yerrakalva, Samantha Hajna, Soren Brage, Simon J. Griffin
+Score: 73
+Autoren: M. Henar Marino Miguélez, Mohammad Osaid, Erik Hallström, Kerem Kaya, Jimmy Larsson, Vinodh Kandavalli, Carolina Wählby, Johan Elf, Wouter van der Wijngaart
 Journal: npj Digital Medicine
-Veröffentlicht: 2025-08-06
+Veröffentlicht: 2025-08-25
 Abstract: Abstract
-          Despite widespread interest in integrating mobile health apps into primary care to prevent and manage physical inactivity-related health conditions, the effectiveness of these apps remains unclear. We quantified the effects of Active 10 (a goal setting and self-monitoring app developed by Public Health England) on brisk and non-brisk walking using a single-group interrupted time-series analysis of individual-level data collected between July 2021 and January 2024. Among Active 10 users (n = 201,668 l; 51.4 ± 14.4 years; 75.4% women) brisk and non-brisk walking increased by 9.0 (95% confidence interval (CI) 8.9, 9.1; 73% above baseline) and 2.6 min/day (95% CI 2.4, 2.8; 9% above baseline), respectively, on the day of app download. Post-download, brisk and non-brisk walking decreased by 0.15 (95% CI −0.17, −0.13) and 0.06 (95% CI −0.08, −0.03) min/day/month, respectively, but remained above baseline. Our findings suggest that Active 10 may be effective in facilitating increases in brisk and non-brisk walking.
-DOI: 10.1038/s41746-025-01785-x
+          Approximately 50 million people suffer from sepsis yearly, and 13 million die from it. For every hour a patient with septic shock is untreated, their survival rate decreases by 8%. Therefore, rapid detection and antibiotic susceptibility profiling of bacterial agents in the blood of sepsis patients are crucial for determining appropriate treatment. Here, we introduce a method to isolate bacteria from whole blood with high separation efficiency through Smart centrifugation, followed by microfluidic trapping and subsequent detection using deep learning applied to microscopy images. We detected, within 2 h, E. coli, K. pneumoniae, or E. faecalis from spiked samples of healthy human donor blood at clinically relevant concentrations as low as 9, 7 and 32 colony-forming units per ml of blood, respectively. However, the detection of S. aureus remains a challenge. This rapid isolation and detection represents a significant advancement towards culture-free detection of bloodstream infections.
+DOI: 10.1038/s41746-025-01948-w
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-09-06</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01785-x-2025-09-06-5</guid>
-			<pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
+Tag der Erhebung (OOIR): 2025-09-07</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01948-w-2025-09-07-3</guid>
+			<pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Assessing genotype−phenotype correlations in colorectal cancer with deep learning: a multicentre cohort study</title>
+			<link>https://doi.org/10.1016/j.landig.2025.100891</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 60
+Autoren: Marco Gustav, Marko van Treeck, Nic G Reitsam, Zunamys I Carrero, Chiara M L Loeffler, Asier Rabasco Meneghetti, Bruno Märkl, Lisa A Boardman, Amy J French, Ellen L Goode, Andrea Gsur, Stefanie Brezina, Marc J Gunter, Neil Murphy, Pia Hönscheid, Christian Sperling, Sebastian Foersch, Robert Steinfelder, Tabitha Harrison, Ulrike Peters, Amanda Phipps, Jakob Nikolas Kather
+Journal: The Lancet Digital Health
+Veröffentlicht: 2025-08-01
+DOI: 10.1016/j.landig.2025.100891
+ISSN: 2589-7500
+Tag der Erhebung (OOIR): 2025-09-07</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100891-2025-09-07-4</guid>
+			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Web-Based Video Intervention and Associated Factors for the Uptake of the Catch-Up Human Papillomavirus Vaccination in Japan: Randomized Controlled Trial</title>
+			<link>https://doi.org/10.2196/67778</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 44
+Autoren: Toshiki Yoshioka, Atsushi Goto, Taichi Mizushima, Yukio Suzuki, Yutaka Ueda, Asami Yagi, Masayuki Sekine, Risa Kudo, Suzanne M Garland, Suresh Kumarasamy, Ida Ismail-Pratt, Katharina Reimer, Etsuko Miyagi, Asia Pacific HPV Coalition
+Journal: Journal of Medical Internet Research
+Veröffentlicht: 2025-08-15
+Abstract: Abstract
+          
+            Background
+            In Japan, the human papillomavirus (HPV) vaccination rate has dropped to nearly zero since the suspension of proactive government recommendations in 2013. Following the termination of vaccination suspension in 2021 and subsequent proactive vaccination recommendation in 2022, it is crucial to promote catch-up vaccinations for those who missed their initial opportunity.
+          
+          
+            Objective
+            This study aims to evaluate the effect of video-based informational intervention and explore factors associated with the uptake of catch-up HPV vaccinations among unvaccinated young adult women in Japan.
+          
+          
+            Methods
+            In this randomized, parallel, single-blinded, internet-based trial, we recruited women aged 18‐26 years unvaccinated for HPV through a web-based research panel. The participants were randomly assigned (1:1) to receive either an educational leaflet containing information on the HPV vaccine and a short narrative video (intervention) or the leaflet alone (control). The primary outcome was the difference in proportion between both groups regarding the uptake of the free catch-up vaccinations at the follow-up survey after 3 months. No deviations from the registered protocol occurred during the study.
+          
+          
+            Results
+            We enrolled 4065 women in the trial and randomly assigned them to either the intervention (2274 women) or the control (2331 women) group. Of these, we excluded 2595 women (63.8%) who did not respond to the follow-up survey, resulting in 1017 and 993 women in the intervention and control groups, respectively, for the final analysis. At the 3-month follow-up, 11.3% (228/2010) of the participants received at least one catch-up vaccine dose. The intervention and control groups had 10.5% (107/1017) and 12.2% (121/993) uptake, respectively. The difference in proportions between both groups was −1.7% (95% CI −4.5 to 1.2%; P=.26), and the adjusted difference was −1.6% (95% CI −4.3 to 1%; P=.23). In the subgroup analysis, the intervention group had a lower proportion of catch-up vaccination among sexually experienced women who had previous sexual intercourse experience (difference in proportion −5%, 95% CI −10% to −1%; P=.03) and those who had undergone a Pap test within the past 2 years (difference in proportion −11%, 95% CI −20% to −1%; P=.03). In addition, in the overall sample, factors positively associated with catch-up vaccination included higher educational background (difference in proportion: 7%, 95% CI 4%-10%; P&amp;lt;.001) and having undergone a Pap test within the past 2 years (difference in proportion 5%, 95% CI 0%-9%, P=.06).
+          
+          
+            Conclusions
+            Our study demonstrated that video-based interventions did not have a substantial impact on the uptake of catch-up HPV vaccinations among young adults. However, our subgroup analyses suggested that the effectiveness of interventions may vary depending on individual characteristics. It is therefore desirable to explore and tailor more effective strategies based on the background and needs of specific populations in real-world settings.
+          
+DOI: 10.2196/67778
+ISSN: 1438-8871
+Tag der Erhebung (OOIR): 2025-09-07</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/67778-2025-09-07-5</guid>
+			<pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
