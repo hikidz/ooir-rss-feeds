@@ -5,14 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 09 Sep 2025 01:01:09 GMT</pubDate>
-		<lastBuildDate>Tue, 09 Sep 2025 01:01:09 GMT</lastBuildDate>
+		<pubDate>Wed, 10 Sep 2025 00:59:34 GMT</pubDate>
+		<lastBuildDate>Wed, 10 Sep 2025 00:59:34 GMT</lastBuildDate>
 		<item>
 			<title>Evaluating gender bias in large language models in long-term care</title>
 			<link>https://doi.org/10.1186/s12911-025-03118-0</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 122
+Score: 121
 Autoren: Sam Rickman
 Journal: BMC Medical Informatics and Decision Making
 Veröffentlicht: 2025-08-11
@@ -35,8 +35,8 @@ Abstract: Abstract
           
 DOI: 10.1186/s12911-025-03118-0
 ISSN: 1472-6947
-Tag der Erhebung (OOIR): 2025-09-09</description>
-			<guid isPermaLink="false">ooir-trend-10.1186/s12911-025-03118-0-2025-09-09-1</guid>
+Tag der Erhebung (OOIR): 2025-09-10</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12911-025-03118-0-2025-09-10-1</guid>
 			<pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -50,9 +50,45 @@ Journal: The Lancet Digital Health
 Veröffentlicht: 2025-08-01
 DOI: 10.1016/j.landig.2025.100882
 ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2025-09-09</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100882-2025-09-09-2</guid>
+Tag der Erhebung (OOIR): 2025-09-10</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100882-2025-09-10-2</guid>
 			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Detecting, Characterizing, and Mitigating Implicit and Explicit Racial Biases in Health Care Datasets With Subgroup Learnability: Algorithm Development and Validation Study</title>
+			<link>https://doi.org/10.2196/71757</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 77
+Autoren: Faris Gulamali, Ashwin Shreekant Sawant, Lora Liharska, Carol Horowitz, Lili Chan, Ira Hofer, Karandeep Singh, Lynne Richardson, Emmanuel Mensah, Alexander Charney, David Reich, Jianying Hu, Girish Nadkarni
+Journal: Journal of Medical Internet Research
+Veröffentlicht: 2025-09-04
+Abstract: Abstract
+          
+            Background
+            The growing adoption of diagnostic and prognostic algorithms in health care has led to concerns about the perpetuation of algorithmic bias against disadvantaged groups of individuals. Deep learning methods to detect and mitigate bias have revolved around modifying models, optimization strategies, and threshold calibration with varying levels of success and tradeoffs. However, there have been limited substantive efforts to address bias at the level of the data used to generate algorithms in health care datasets.
+          
+          
+            Objective
+            The aim of this study is to create a simple metric (AEquity) that uses a learning curve approximation to distinguish and mitigate bias via guided dataset collection or relabeling.
+          
+          
+            Methods
+            We demonstrate this metric in 2 well-known examples, chest X-rays and health care cost utilization, and detect novel biases in the National Health and Nutrition Examination Survey.
+          
+          
+            Results
+            We demonstrated that using AEquity to guide data-centric collection for each diagnostic finding in the chest radiograph dataset decreased bias by between 29% and 96.5% when measured by differences in area under the curve. Next, we wanted to examine (1) whether AEquity worked on intersectional populations and (2) if AEquity is invariant to different types of fairness metrics, not just area under the curve. Subsequently, we examined the effect of AEquity on mitigating bias when measured by false negative rate, precision, and false discovery rate for Black patients on Medicaid. When we examined Black patients on Medicaid, at the intersection of race and socioeconomic status, we found that AEquity-based interventions reduced bias across a number of different fairness metrics including overall false negative rate by 33.3% (bias reduction absolute=1.88×10−1, 95% CI 1.4×10−1 to 2.5×10−1; bias reduction of 33.3%, 95% CI 26.6%‐40%; precision bias by 7.50×10−2, 95% CI 7.48×10−2 to 7.51×10−2; bias reduction of 94.6%, 95% CI 94.5%‐94.7%; false discovery rate by 94.5%; absolute bias reduction=3.50×10−2, 95% CI 3.49×10−2 to 3.50×10−2). Similarly, AEquity-guided data collection demonstrated bias reduction of up to 80% on mortality prediction with the National Health and Nutrition Examination Survey (bias reduction absolute=0.08, 95% CI 0.07-0.09). Then, we wanted to compare AEquity to state-of-the-art data-guided debiasing measures such as balanced empirical risk minimization and calibration. Consequently, we benchmarked against balanced empirical risk minimization and calibration and showed that AEquity-guided data collection outperforms both standard approaches. Moreover, we demonstrated that AEquity works on fully connected networks; convolutional neural networks such as ResNet-50; transformer architectures such as VIT-B-16, a vision transformer with 86 million parameters; and nonparametric methods such as Light Gradient-Boosting Machine.
+          
+          
+            Conclusions
+            In short, we demonstrated that AEquity is a robust tool by applying it to different datasets, algorithms, and intersectional analyses and measuring its effectiveness with respect to a range of traditional fairness metrics.
+          
+DOI: 10.2196/71757
+ISSN: 1438-8871
+Tag der Erhebung (OOIR): 2025-09-10</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/71757-2025-09-10-3</guid>
+			<pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Culture-free detection of bacteria from blood for rapid sepsis diagnosis</title>
@@ -67,8 +103,8 @@ Abstract: Abstract
           Approximately 50 million people suffer from sepsis yearly, and 13 million die from it. For every hour a patient with septic shock is untreated, their survival rate decreases by 8%. Therefore, rapid detection and antibiotic susceptibility profiling of bacterial agents in the blood of sepsis patients are crucial for determining appropriate treatment. Here, we introduce a method to isolate bacteria from whole blood with high separation efficiency through Smart centrifugation, followed by microfluidic trapping and subsequent detection using deep learning applied to microscopy images. We detected, within 2 h, E. coli, K. pneumoniae, or E. faecalis from spiked samples of healthy human donor blood at clinically relevant concentrations as low as 9, 7 and 32 colony-forming units per ml of blood, respectively. However, the detection of S. aureus remains a challenge. This rapid isolation and detection represents a significant advancement towards culture-free detection of bloodstream infections.
 DOI: 10.1038/s41746-025-01948-w
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-09-09</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01948-w-2025-09-09-3</guid>
+Tag der Erhebung (OOIR): 2025-09-10</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01948-w-2025-09-10-4</guid>
 			<pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -82,45 +118,9 @@ Journal: The Lancet Digital Health
 Veröffentlicht: 2025-08-01
 DOI: 10.1016/j.landig.2025.100891
 ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2025-09-09</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100891-2025-09-09-4</guid>
+Tag der Erhebung (OOIR): 2025-09-10</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100891-2025-09-10-5</guid>
 			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Web-Based Video Intervention and Associated Factors for the Uptake of the Catch-Up Human Papillomavirus Vaccination in Japan: Randomized Controlled Trial</title>
-			<link>https://doi.org/10.2196/67778</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 44
-Autoren: Toshiki Yoshioka, Atsushi Goto, Taichi Mizushima, Yukio Suzuki, Yutaka Ueda, Asami Yagi, Masayuki Sekine, Risa Kudo, Suzanne M Garland, Suresh Kumarasamy, Ida Ismail-Pratt, Katharina Reimer, Etsuko Miyagi, Asia Pacific HPV Coalition
-Journal: Journal of Medical Internet Research
-Veröffentlicht: 2025-08-15
-Abstract: Abstract
-          
-            Background
-            In Japan, the human papillomavirus (HPV) vaccination rate has dropped to nearly zero since the suspension of proactive government recommendations in 2013. Following the termination of vaccination suspension in 2021 and subsequent proactive vaccination recommendation in 2022, it is crucial to promote catch-up vaccinations for those who missed their initial opportunity.
-          
-          
-            Objective
-            This study aims to evaluate the effect of video-based informational intervention and explore factors associated with the uptake of catch-up HPV vaccinations among unvaccinated young adult women in Japan.
-          
-          
-            Methods
-            In this randomized, parallel, single-blinded, internet-based trial, we recruited women aged 18‐26 years unvaccinated for HPV through a web-based research panel. The participants were randomly assigned (1:1) to receive either an educational leaflet containing information on the HPV vaccine and a short narrative video (intervention) or the leaflet alone (control). The primary outcome was the difference in proportion between both groups regarding the uptake of the free catch-up vaccinations at the follow-up survey after 3 months. No deviations from the registered protocol occurred during the study.
-          
-          
-            Results
-            We enrolled 4065 women in the trial and randomly assigned them to either the intervention (2274 women) or the control (2331 women) group. Of these, we excluded 2595 women (63.8%) who did not respond to the follow-up survey, resulting in 1017 and 993 women in the intervention and control groups, respectively, for the final analysis. At the 3-month follow-up, 11.3% (228/2010) of the participants received at least one catch-up vaccine dose. The intervention and control groups had 10.5% (107/1017) and 12.2% (121/993) uptake, respectively. The difference in proportions between both groups was −1.7% (95% CI −4.5 to 1.2%; P=.26), and the adjusted difference was −1.6% (95% CI −4.3 to 1%; P=.23). In the subgroup analysis, the intervention group had a lower proportion of catch-up vaccination among sexually experienced women who had previous sexual intercourse experience (difference in proportion −5%, 95% CI −10% to −1%; P=.03) and those who had undergone a Pap test within the past 2 years (difference in proportion −11%, 95% CI −20% to −1%; P=.03). In addition, in the overall sample, factors positively associated with catch-up vaccination included higher educational background (difference in proportion: 7%, 95% CI 4%-10%; P&amp;lt;.001) and having undergone a Pap test within the past 2 years (difference in proportion 5%, 95% CI 0%-9%, P=.06).
-          
-          
-            Conclusions
-            Our study demonstrated that video-based interventions did not have a substantial impact on the uptake of catch-up HPV vaccinations among young adults. However, our subgroup analyses suggested that the effectiveness of interventions may vary depending on individual characteristics. It is therefore desirable to explore and tailor more effective strategies based on the background and needs of specific populations in real-world settings.
-          
-DOI: 10.2196/67778
-ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-09-09</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/67778-2025-09-09-5</guid>
-			<pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
