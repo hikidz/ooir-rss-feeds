@@ -5,23 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rehabilitation) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 10 Sep 2025 00:59:56 GMT</pubDate>
-		<lastBuildDate>Wed, 10 Sep 2025 00:59:56 GMT</lastBuildDate>
-		<item>
-			<title>Validity, reliability, and clinical usefulness of instruments for measuring thoracic kyphosis: a systematic review and meta-analysis</title>
-			<link>https://doi.org/10.1016/j.bjpt.2025.101246</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rehabilitation
-Score: 96
-Autoren: Ana Paula Flôr Alves Nepomuceno, Ana Carolina Cury, Larissa Santos Pinto Pinheiro, George Schayer Sabino, Thales Rezende Souza, Sérgio Teixeira Fonseca, Juliana Melo Ocarino, Renan Alves Resende
-Journal: Brazilian Journal of Physical Therapy
-Veröffentlicht: 2025-09-01
-DOI: 10.1016/j.bjpt.2025.101246
-ISSN: 1413-3555
-Tag der Erhebung (OOIR): 2025-09-10</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2025.101246-2025-09-10-1</guid>
-			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-		</item>
+		<pubDate>Thu, 11 Sep 2025 01:01:16 GMT</pubDate>
+		<lastBuildDate>Thu, 11 Sep 2025 01:01:16 GMT</lastBuildDate>
 		<item>
 			<title>Scapular kinematics variability in individuals with and without rotator cuff-related shoulder pain: A systematic review with multilevel meta-regression</title>
 			<link>https://doi.org/10.1016/j.bjpt.2025.101261</link>
@@ -33,8 +18,8 @@ Journal: Brazilian Journal of Physical Therapy
 Veröffentlicht: 2025-11-01
 DOI: 10.1016/j.bjpt.2025.101261
 ISSN: 1413-3555
-Tag der Erhebung (OOIR): 2025-09-10</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2025.101261-2025-09-10-2</guid>
+Tag der Erhebung (OOIR): 2025-09-11</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2025.101261-2025-09-11-1</guid>
 			<pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -62,8 +47,8 @@ Abstract:
           
 DOI: 10.1177/0145482x251365588
 ISSN: 0145-482X
-Tag der Erhebung (OOIR): 2025-09-10</description>
-			<guid isPermaLink="false">ooir-trend-10.1177/0145482x251365588-2025-09-10-3</guid>
+Tag der Erhebung (OOIR): 2025-09-11</description>
+			<guid isPermaLink="false">ooir-trend-10.1177/0145482x251365588-2025-09-11-2</guid>
 			<pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -77,8 +62,8 @@ Journal: Brazilian Journal of Physical Therapy
 Veröffentlicht: 2025-11-01
 DOI: 10.1016/j.bjpt.2025.101258
 ISSN: 1413-3555
-Tag der Erhebung (OOIR): 2025-09-10</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2025.101258-2025-09-10-4</guid>
+Tag der Erhebung (OOIR): 2025-09-11</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2025.101258-2025-09-11-3</guid>
 			<pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -112,9 +97,24 @@ Abstract:
           
 DOI: 10.1097/htr.0000000000001096
 ISSN: 0885-9701
-Tag der Erhebung (OOIR): 2025-09-10</description>
-			<guid isPermaLink="false">ooir-trend-10.1097/htr.0000000000001096-2025-09-10-5</guid>
+Tag der Erhebung (OOIR): 2025-09-11</description>
+			<guid isPermaLink="false">ooir-trend-10.1097/htr.0000000000001096-2025-09-11-4</guid>
 			<pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>The person-centered hypothesis framework: Advancing clinical reasoning in musculoskeletal pain management</title>
+			<link>https://doi.org/10.1016/j.msksp.2025.103395</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 26
+Autoren: Mark H. Shepherd, Amy McDevitt, Damian Keter, Nick Albers, Derek Clewley, Chad Cook
+Journal: Musculoskeletal Science and Practice
+Veröffentlicht: 2025-11-01
+DOI: 10.1016/j.msksp.2025.103395
+ISSN: 2468-7812
+Tag der Erhebung (OOIR): 2025-09-11</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.msksp.2025.103395-2025-09-11-5</guid>
+			<pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
