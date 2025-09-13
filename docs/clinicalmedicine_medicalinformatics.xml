@@ -5,14 +5,143 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Fri, 12 Sep 2025 00:58:41 GMT</pubDate>
-		<lastBuildDate>Fri, 12 Sep 2025 00:58:41 GMT</lastBuildDate>
+		<pubDate>Sat, 13 Sep 2025 00:56:14 GMT</pubDate>
+		<lastBuildDate>Sat, 13 Sep 2025 00:56:14 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Medical Informatics) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-medicalinformatics-20250912005841</guid>
-			<pubDate>Fri, 12 Sep 2025 00:58:41 GMT</pubDate>
+			<title>Evaluating gender bias in large language models in long-term care</title>
+			<link>https://doi.org/10.1186/s12911-025-03118-0</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 121
+Autoren: Sam Rickman
+Journal: BMC Medical Informatics and Decision Making
+Veröffentlicht: 2025-08-11
+Abstract: Abstract
+          
+            Background
+            Large language models (LLMs) are being used to reduce the administrative burden in long-term care by automatically generating and summarising case notes. However, LLMs can reproduce bias in their training data. This study evaluates gender bias in summaries of long-term care records generated with two state-of-the-art, open-source LLMs released in 2024: Meta’s Llama 3 and Google Gemma.
+          
+          
+            Methods
+            Gender-swapped versions were created of long-term care records for 617 older people from a London local authority. Summaries of male and female versions were generated with Llama 3 and Gemma, as well as benchmark models from Meta and Google released in 2019: T5 and BART. Counterfactual bias was quantified through sentiment analysis alongside an evaluation of word frequency and thematic patterns.
+          
+          
+            Results
+            The benchmark models exhibited some variation in output on the basis of gender. Llama 3 showed no gender-based differences across any metrics. Gemma displayed the most significant gender-based differences. Male summaries focus more on physical and mental health issues. Language used for men was more direct, with women’s needs downplayed more often than men’s.
+          
+          
+            Conclusion
+            Care services are allocated on the basis of need. If women’s health issues are underemphasised, this may lead to gender-based disparities in service receipt. LLMs may offer substantial benefits in easing administrative burden. However, the findings highlight the variation in state-of-the-art LLMs, and the need for evaluation of bias. The methods in this paper provide a practical framework for quantitative evaluation of gender bias in LLMs. The code is available on GitHub.
+          
+DOI: 10.1186/s12911-025-03118-0
+ISSN: 1472-6947
+Tag der Erhebung (OOIR): 2025-09-13</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12911-025-03118-0-2025-09-13-1</guid>
+			<pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>AI as an independent second reader in detection of clinically relevant breast cancers within a population-based screening programme in the Netherlands: a retrospective cohort study</title>
+			<link>https://doi.org/10.1016/j.landig.2025.100882</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 98
+Autoren: Suzanne L van Winkel, Jim Peters, Natasja Janssen, Jaap Kroes, Elizabeth A Loehrer, Jessie Gommers, Ioannis Sechopoulos, Linda de Munck, Jonas Teuwen, Mireille Broeders, Nico Karssemeijer, Ritse M Mann
+Journal: The Lancet Digital Health
+Veröffentlicht: 2025-08-01
+DOI: 10.1016/j.landig.2025.100882
+ISSN: 2589-7500
+Tag der Erhebung (OOIR): 2025-09-13</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100882-2025-09-13-2</guid>
+			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Enhancing end-stage renal disease outcome prediction: a multisourced data-driven approach</title>
+			<link>https://doi.org/10.1093/jamia/ocaf118</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 81
+Autoren: Yubo Li, Rema Padman
+Journal: Journal of the American Medical Informatics Association
+Veröffentlicht: 2025-08-06
+Abstract: Abstract
+               
+                  Objectives
+                  To improve prediction of chronic kidney disease (CKD) progression to end-stage renal disease (ESRD) using machine learning (ML) and deep learning (DL) models applied to integrated clinical and claims data with varying observation windows, supported by explainable artificial intelligence (AI) to enhance interpretability and reduce bias.
+               
+               
+                  Materials and Methods
+                  We utilized data from 10 326 CKD patients, combining clinical and claims information from 2009 to 2018. After preprocessing, cohort identification, and feature engineering, we evaluated multiple statistical, ML and DL models using 5 distinct observation windows. Feature importance and SHapley Additive exPlanations (SHAP) analysis were employed to understand key predictors. Models were tested for robustness, clinical relevance, misclassification patterns, and bias.
+               
+               
+                  Results
+                  Integrated data models outperformed single data source models, with long short-term memory achieving the highest area under the receiver operating characteristic curve (AUROC) (0.93) and F1 score (0.65). A 24-month observation window optimally balanced early detection and prediction accuracy. The 2021 estimated glomerular filtration rate (eGFR) equation improved prediction accuracy and reduced racial bias, particularly for African American patients.
+               
+               
+                  Discussion
+                  Improved prediction accuracy, interpretability, and bias mitigation strategies have the potential to enhance CKD management, support targeted interventions, and reduce health-care disparities.
+               
+               
+                  Conclusion
+                  This study presents a robust framework for predicting ESRD outcomes, improving clinical decision-making through integrated multisourced data and advanced analytics. Future research will expand data integration and extend this framework to other chronic diseases.
+               
+DOI: 10.1093/jamia/ocaf118
+ISSN: 1067-5027
+Tag der Erhebung (OOIR): 2025-09-13</description>
+			<guid isPermaLink="false">ooir-trend-10.1093/jamia/ocaf118-2025-09-13-3</guid>
+			<pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Detecting, Characterizing, and Mitigating Implicit and Explicit Racial Biases in Health Care Datasets With Subgroup Learnability: Algorithm Development and Validation Study</title>
+			<link>https://doi.org/10.2196/71757</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 77
+Autoren: Faris Gulamali, Ashwin Shreekant Sawant, Lora Liharska, Carol Horowitz, Lili Chan, Ira Hofer, Karandeep Singh, Lynne Richardson, Emmanuel Mensah, Alexander Charney, David Reich, Jianying Hu, Girish Nadkarni
+Journal: Journal of Medical Internet Research
+Veröffentlicht: 2025-09-04
+Abstract: Abstract
+          
+            Background
+            The growing adoption of diagnostic and prognostic algorithms in health care has led to concerns about the perpetuation of algorithmic bias against disadvantaged groups of individuals. Deep learning methods to detect and mitigate bias have revolved around modifying models, optimization strategies, and threshold calibration with varying levels of success and tradeoffs. However, there have been limited substantive efforts to address bias at the level of the data used to generate algorithms in health care datasets.
+          
+          
+            Objective
+            The aim of this study is to create a simple metric (AEquity) that uses a learning curve approximation to distinguish and mitigate bias via guided dataset collection or relabeling.
+          
+          
+            Methods
+            We demonstrate this metric in 2 well-known examples, chest X-rays and health care cost utilization, and detect novel biases in the National Health and Nutrition Examination Survey.
+          
+          
+            Results
+            We demonstrated that using AEquity to guide data-centric collection for each diagnostic finding in the chest radiograph dataset decreased bias by between 29% and 96.5% when measured by differences in area under the curve. Next, we wanted to examine (1) whether AEquity worked on intersectional populations and (2) if AEquity is invariant to different types of fairness metrics, not just area under the curve. Subsequently, we examined the effect of AEquity on mitigating bias when measured by false negative rate, precision, and false discovery rate for Black patients on Medicaid. When we examined Black patients on Medicaid, at the intersection of race and socioeconomic status, we found that AEquity-based interventions reduced bias across a number of different fairness metrics including overall false negative rate by 33.3% (bias reduction absolute=1.88×10−1, 95% CI 1.4×10−1 to 2.5×10−1; bias reduction of 33.3%, 95% CI 26.6%‐40%; precision bias by 7.50×10−2, 95% CI 7.48×10−2 to 7.51×10−2; bias reduction of 94.6%, 95% CI 94.5%‐94.7%; false discovery rate by 94.5%; absolute bias reduction=3.50×10−2, 95% CI 3.49×10−2 to 3.50×10−2). Similarly, AEquity-guided data collection demonstrated bias reduction of up to 80% on mortality prediction with the National Health and Nutrition Examination Survey (bias reduction absolute=0.08, 95% CI 0.07-0.09). Then, we wanted to compare AEquity to state-of-the-art data-guided debiasing measures such as balanced empirical risk minimization and calibration. Consequently, we benchmarked against balanced empirical risk minimization and calibration and showed that AEquity-guided data collection outperforms both standard approaches. Moreover, we demonstrated that AEquity works on fully connected networks; convolutional neural networks such as ResNet-50; transformer architectures such as VIT-B-16, a vision transformer with 86 million parameters; and nonparametric methods such as Light Gradient-Boosting Machine.
+          
+          
+            Conclusions
+            In short, we demonstrated that AEquity is a robust tool by applying it to different datasets, algorithms, and intersectional analyses and measuring its effectiveness with respect to a range of traditional fairness metrics.
+          
+DOI: 10.2196/71757
+ISSN: 1438-8871
+Tag der Erhebung (OOIR): 2025-09-13</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/71757-2025-09-13-4</guid>
+			<pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Culture-free detection of bacteria from blood for rapid sepsis diagnosis</title>
+			<link>https://doi.org/10.1038/s41746-025-01948-w</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 75
+Autoren: M. Henar Marino Miguélez, Mohammad Osaid, Erik Hallström, Kerem Kaya, Jimmy Larsson, Vinodh Kandavalli, Carolina Wählby, Johan Elf, Wouter van der Wijngaart
+Journal: npj Digital Medicine
+Veröffentlicht: 2025-08-25
+Abstract: Abstract
+          Approximately 50 million people suffer from sepsis yearly, and 13 million die from it. For every hour a patient with septic shock is untreated, their survival rate decreases by 8%. Therefore, rapid detection and antibiotic susceptibility profiling of bacterial agents in the blood of sepsis patients are crucial for determining appropriate treatment. Here, we introduce a method to isolate bacteria from whole blood with high separation efficiency through Smart centrifugation, followed by microfluidic trapping and subsequent detection using deep learning applied to microscopy images. We detected, within 2 h, E. coli, K. pneumoniae, or E. faecalis from spiked samples of healthy human donor blood at clinically relevant concentrations as low as 9, 7 and 32 colony-forming units per ml of blood, respectively. However, the detection of S. aureus remains a challenge. This rapid isolation and detection represents a significant advancement towards culture-free detection of bloodstream infections.
+DOI: 10.1038/s41746-025-01948-w
+ISSN: 2398-6352
+Tag der Erhebung (OOIR): 2025-09-13</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01948-w-2025-09-13-5</guid>
+			<pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
