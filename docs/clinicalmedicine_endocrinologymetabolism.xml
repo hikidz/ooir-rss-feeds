@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Endocrinology &amp; Metabolism) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 16 Sep 2025 00:59:27 GMT</pubDate>
-		<lastBuildDate>Tue, 16 Sep 2025 00:59:27 GMT</lastBuildDate>
+		<pubDate>Wed, 17 Sep 2025 00:59:08 GMT</pubDate>
+		<lastBuildDate>Wed, 17 Sep 2025 00:59:08 GMT</lastBuildDate>
 		<item>
 			<title>Global, regional, and national cascades of diabetes care, 2000–23: a systematic review and modelling analysis using findings from the Global Burden of Disease Study</title>
 			<link>https://doi.org/10.1016/s2213-8587(25)00217-7</link>
@@ -18,8 +18,8 @@ Journal: The Lancet Diabetes &amp;amp; Endocrinology
 Veröffentlicht: 2025-09-01
 DOI: 10.1016/s2213-8587(25)00217-7
 ISSN: 2213-8587
-Tag der Erhebung (OOIR): 2025-09-16</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/s2213-8587(25)00217-7-2025-09-16-1</guid>
+Tag der Erhebung (OOIR): 2025-09-17</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/s2213-8587(25)00217-7-2025-09-17-1</guid>
 			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -49,24 +49,9 @@ Abstract:
                
 DOI: 10.1136/bmjdrc-2025-005255
 ISSN: 2052-4897
-Tag der Erhebung (OOIR): 2025-09-16</description>
-			<guid isPermaLink="false">ooir-trend-10.1136/bmjdrc-2025-005255-2025-09-16-2</guid>
+Tag der Erhebung (OOIR): 2025-09-17</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bmjdrc-2025-005255-2025-09-17-2</guid>
 			<pubDate>Sun, 31 Aug 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Glucose-dependent insulinotropic polypeptide receptor signaling in oligodendrocytes increases the weight-loss action of GLP-1R agonism</title>
-			<link>https://doi.org/10.1016/j.cmet.2025.07.009</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Endocrinology &amp; Metabolism
-Score: 149
-Autoren: Robert Hansford, Sophie Buller, Anthony H. Tsang, Simon Benoit, Anna G. Roberts, Emmy Erskine, Thomas Brown, Valentina Pirro, Frank Reimann, Norio Harada, Nobuya Inagaki, Ricardo J. Samms, Johannes Broichhagen, David J. Hodson, Alice Adriaenssens, Soyoung Park, Clemence Blouet
-Journal: Cell Metabolism
-Veröffentlicht: 2025-09-01
-DOI: 10.1016/j.cmet.2025.07.009
-ISSN: 1550-4131
-Tag der Erhebung (OOIR): 2025-09-16</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2025.07.009-2025-09-16-3</guid>
-			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>The effect of turmeric/curcumin supplementation on anthropometric indices in subjects with prediabetes and type 2 diabetes mellitus: A GRADE-assessed systematic review and dose-response meta-analysis of randomized controlled trials</title>
@@ -79,9 +64,28 @@ Journal: Nutrition &amp;amp; Diabetes
 Veröffentlicht: 2025-08-14
 DOI: 10.1038/s41387-025-00386-7
 ISSN: 2044-4052
-Tag der Erhebung (OOIR): 2025-09-16</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41387-025-00386-7-2025-09-16-4</guid>
+Tag der Erhebung (OOIR): 2025-09-17</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41387-025-00386-7-2025-09-17-3</guid>
 			<pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>An alternative route for β-hydroxybutyrate metabolism supports cytosolic acetyl-CoA synthesis in cancer cells</title>
+			<link>https://doi.org/10.1038/s42255-025-01366-y</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 110
+Autoren: Faith C. Kaluba, Thomas J. Rogers, Yu-Jin Jeong, Rachel ‘Rae’ J. House, Althea Waldhart, Kelly H. Sokol, Samuel R. Daniels, Cameron J. Lee, Joseph Longo, Amy Johnson, Vincent J. Sartori, Ryan D. Sheldon, Russell G. Jones, Evan C. Lien
+Journal: Nature Metabolism
+Veröffentlicht: 2025-09-08
+Abstract: Abstract
+          Cancer cells are exposed to diverse metabolites in the tumour microenvironment that are used to support the synthesis of nucleotides, amino acids and lipids needed for rapid cell proliferation. In some tumours, ketone bodies such as β-hydroxybutyrate (β-OHB), which are elevated in circulation under fasting conditions or low glycemic diets, can serve as an alternative fuel that is metabolized in the mitochondria to provide acetyl-CoA for the tricarboxylic acid (TCA) cycle. Here we identify a non-canonical route for β-OHB metabolism that bypasses the TCA cycle to generate cytosolic acetyl-CoA. We show that in cancer cells that can metabolize ketones, β-OHB-derived acetoacetate in the mitochondria can be shunted into the cytosol, where acetoacetyl-CoA synthetase (AACS) and thiolase convert it into cytosolic acetyl-CoA. This alternative metabolic routing allows β-OHB to avoid oxidation in the mitochondria and to be used as a major source of cytosolic acetyl-CoA, even when other key cytosolic acetyl-CoA precursors such as glucose are available in excess. Finally, we demonstrate that ketone body metabolism, including this alternative AACS-dependent route, can support the growth of mouse Kras
+            G12D; Trp53
+            −/− pancreatic tumours grown orthotopically in the pancreas of male mice, as well as the growth of mouse B16 melanoma tumours in male mice fed a calorie-restricted diet. Together, these data reveal how cancer cells use β-OHB as a major source of cytosolic acetyl-CoA to support cell proliferation and tumour growth.
+DOI: 10.1038/s42255-025-01366-y
+ISSN: 2522-5812
+Tag der Erhebung (OOIR): 2025-09-17</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s42255-025-01366-y-2025-09-17-4</guid>
+			<pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Too stressed for sex? Associations between stress and sex in daily life</title>
@@ -94,8 +98,8 @@ Journal: Psychoneuroendocrinology
 Veröffentlicht: 2025-11-01
 DOI: 10.1016/j.psyneuen.2025.107583
 ISSN: 0306-4530
-Tag der Erhebung (OOIR): 2025-09-16</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.psyneuen.2025.107583-2025-09-16-5</guid>
+Tag der Erhebung (OOIR): 2025-09-17</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.psyneuen.2025.107583-2025-09-17-5</guid>
 			<pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>

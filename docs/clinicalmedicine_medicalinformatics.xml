@@ -5,40 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 16 Sep 2025 00:59:39 GMT</pubDate>
-		<lastBuildDate>Tue, 16 Sep 2025 00:59:39 GMT</lastBuildDate>
-		<item>
-			<title>Evaluating gender bias in large language models in long-term care</title>
-			<link>https://doi.org/10.1186/s12911-025-03118-0</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 121
-Autoren: Sam Rickman
-Journal: BMC Medical Informatics and Decision Making
-Veröffentlicht: 2025-08-11
-Abstract: Abstract
-          
-            Background
-            Large language models (LLMs) are being used to reduce the administrative burden in long-term care by automatically generating and summarising case notes. However, LLMs can reproduce bias in their training data. This study evaluates gender bias in summaries of long-term care records generated with two state-of-the-art, open-source LLMs released in 2024: Meta’s Llama 3 and Google Gemma.
-          
-          
-            Methods
-            Gender-swapped versions were created of long-term care records for 617 older people from a London local authority. Summaries of male and female versions were generated with Llama 3 and Gemma, as well as benchmark models from Meta and Google released in 2019: T5 and BART. Counterfactual bias was quantified through sentiment analysis alongside an evaluation of word frequency and thematic patterns.
-          
-          
-            Results
-            The benchmark models exhibited some variation in output on the basis of gender. Llama 3 showed no gender-based differences across any metrics. Gemma displayed the most significant gender-based differences. Male summaries focus more on physical and mental health issues. Language used for men was more direct, with women’s needs downplayed more often than men’s.
-          
-          
-            Conclusion
-            Care services are allocated on the basis of need. If women’s health issues are underemphasised, this may lead to gender-based disparities in service receipt. LLMs may offer substantial benefits in easing administrative burden. However, the findings highlight the variation in state-of-the-art LLMs, and the need for evaluation of bias. The methods in this paper provide a practical framework for quantitative evaluation of gender bias in LLMs. The code is available on GitHub.
-          
-DOI: 10.1186/s12911-025-03118-0
-ISSN: 1472-6947
-Tag der Erhebung (OOIR): 2025-09-16</description>
-			<guid isPermaLink="false">ooir-trend-10.1186/s12911-025-03118-0-2025-09-16-1</guid>
-			<pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
-		</item>
+		<pubDate>Wed, 17 Sep 2025 00:59:16 GMT</pubDate>
+		<lastBuildDate>Wed, 17 Sep 2025 00:59:16 GMT</lastBuildDate>
 		<item>
 			<title>AI as an independent second reader in detection of clinically relevant breast cancers within a population-based screening programme in the Netherlands: a retrospective cohort study</title>
 			<link>https://doi.org/10.1016/j.landig.2025.100882</link>
@@ -50,8 +18,8 @@ Journal: The Lancet Digital Health
 Veröffentlicht: 2025-08-01
 DOI: 10.1016/j.landig.2025.100882
 ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2025-09-16</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100882-2025-09-16-2</guid>
+Tag der Erhebung (OOIR): 2025-09-17</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100882-2025-09-17-1</guid>
 			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -86,8 +54,8 @@ Abstract: Abstract
           
 DOI: 10.2196/71757
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-09-16</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/71757-2025-09-16-3</guid>
+Tag der Erhebung (OOIR): 2025-09-17</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/71757-2025-09-17-2</guid>
 			<pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -103,8 +71,8 @@ Abstract: Abstract
           Approximately 50 million people suffer from sepsis yearly, and 13 million die from it. For every hour a patient with septic shock is untreated, their survival rate decreases by 8%. Therefore, rapid detection and antibiotic susceptibility profiling of bacterial agents in the blood of sepsis patients are crucial for determining appropriate treatment. Here, we introduce a method to isolate bacteria from whole blood with high separation efficiency through Smart centrifugation, followed by microfluidic trapping and subsequent detection using deep learning applied to microscopy images. We detected, within 2 h, E. coli, K. pneumoniae, or E. faecalis from spiked samples of healthy human donor blood at clinically relevant concentrations as low as 9, 7 and 32 colony-forming units per ml of blood, respectively. However, the detection of S. aureus remains a challenge. This rapid isolation and detection represents a significant advancement towards culture-free detection of bloodstream infections.
 DOI: 10.1038/s41746-025-01948-w
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-09-16</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01948-w-2025-09-16-4</guid>
+Tag der Erhebung (OOIR): 2025-09-17</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01948-w-2025-09-17-3</guid>
 			<pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -118,9 +86,26 @@ Journal: The Lancet Digital Health
 Veröffentlicht: 2025-08-01
 DOI: 10.1016/j.landig.2025.100891
 ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2025-09-16</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100891-2025-09-16-5</guid>
+Tag der Erhebung (OOIR): 2025-09-17</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100891-2025-09-17-4</guid>
 			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Peer perceptions of clinicians using generative AI in medical decision-making</title>
+			<link>https://doi.org/10.1038/s41746-025-01901-x</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 58
+Autoren: Haiyang Yang, Tinglong Dai, Nestoras Mathioudakis, Amy M. Knight, Yuna Nakayasu, Risa M. Wolf
+Journal: npj Digital Medicine
+Veröffentlicht: 2025-08-18
+Abstract: Abstract
+          This study investigates how a physician’s use of generative AI (GenAI) in medical decision‑making is perceived by peer clinicians. In a randomized experiment, 276 practicing clinicians evaluated one of three vignettes depicting a physician: (1) using no GenAI (Control), (2) using GenAI as a primary decision-making tool (GenAI-primary), and (3) using GenAI as a verification tool (GenAI-verify). Participants rated the physician depicted in the GenAI‑primary condition significantly lower in clinical skill (on a 1–7 scale; mean = 3.79) than in the Control condition (5.93, p &amp;lt; 0.001). Framing GenAI use as verification partially mitigated this effect (4.99, p &amp;lt; 0.001). Similar patterns appeared for perceived overall healthcare experience and competence. Participants also acknowledged GenAI’s value in improving accuracy (4.30, p &amp;lt; 0.002) and rated institutionally customized GenAI more favorably (4.96, p &amp;lt; 0.001). These findings suggest that while clinicians see GenAI as helpful, its use can negatively impact peer evaluations. These effects can be reduced, but not fully eliminated, by framing it as a verification aid.
+DOI: 10.1038/s41746-025-01901-x
+ISSN: 2398-6352
+Tag der Erhebung (OOIR): 2025-09-17</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01901-x-2025-09-17-5</guid>
+			<pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
