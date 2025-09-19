@@ -5,8 +5,47 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Orthopedics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 18 Sep 2025 00:59:39 GMT</pubDate>
-		<lastBuildDate>Thu, 18 Sep 2025 00:59:39 GMT</lastBuildDate>
+		<pubDate>Fri, 19 Sep 2025 01:03:07 GMT</pubDate>
+		<lastBuildDate>Fri, 19 Sep 2025 01:03:07 GMT</lastBuildDate>
+		<item>
+			<title>Is a Response to Intraoperative Electrical Nerve Stimulation Associated With Recovery After Stretch Injury in the Rat Median Nerve?</title>
+			<link>https://doi.org/10.1097/corr.0000000000003672</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 57
+Autoren: Christoph A. Schroen, Michael R. Hausman, Paul J. Cagle
+Journal: Clinical Orthopaedics &amp;amp; Related Research
+Veröffentlicht: 2025-09-03
+Abstract: 
+            Background
+            Peripheral nerve injury commonly results in pain and long-term disability for patients. Recovery after in-continuity stretch or crush injury remains inherently unpredictable. However, surgical intervention yields the most favorable outcomes when performed shortly after injury. Our inability to accurately distinguish injuries that will recover naturally from those needing immediate surgical intervention makes surgical decision-making highly challenging and often results in delayed surgery with unsatisfying outcomes. A prognostic tool with the ability to distinguish different degrees of nerve injury and to predict recovery in the acute clinical setting could thus be very useful.
+          
+          
+            Questions/purposes
+            Using a previously validated in vivo rat model, we asked: (1) Can intraoperative electrical stimulation be used to distinguish two distinct degrees of acute stretch injury in the rat median nerve? (2) Is a response to intraoperative stimulation associated with functional recovery after stretch injury in the rat median nerve?
+          
+          
+            Methods
+            To answer our first research question, we included 22 male Sprague-Dawley rats, all 12 months of age, in a sham control (6 rats), an epineuroclasis (8 rats), and an endoneuroclasis (8 rats) group. Epineuroclasis and endoneuroclasis describe the first and second degree of mechanical and structural failure during stretching in the rat median nerve and serve as the first and second (more severe) stretch injury levels in this study. Under anesthesia, the median nerves of both forelimbs were surgically exposed and probed with a handheld electrical stimulator to identify the stimulation threshold required to induce digit flexion. In both injury groups, nerves were then stretched to their respective injury levels using a hook attached to a load cell that generated the load-deformation curve of the nerve in real time. Nerves were secured under two metal pins 1 cm apart and stretched at a speed of 0.2 mm per second until a first (epineuroclasis) or second (endoneuroclasis) sudden force reduction was observed on load-deformation curves. After the stretch injury, rats in both injury groups were again probed with the stimulator to identify differences in stimulation thresholds between both injury levels. To answer our second question, the grip strength of all rats was assessed using the grasping test at 1 week preoperatively, as well as at 1, 3, 6, 9, and 12 weeks postoperatively. Twelve weeks served as the final follow-up, after which the rats were euthanized. Stimulation thresholds at time 0 were compared using Wilcoxon tests (within one group) and Mann-Whitney tests (between groups). Grip strength test data were compared using a two-way mixed-effects model and Tukey multiple comparisons test. Recovery was defined as rats reaching a grip strength similar to sham control rats at 12 weeks, and lack of recovery was defined as similar grip strength at 1 and 12 weeks after injury within the same group. An association between response to stimulation and recovery was tested for using a chi-square test. From the corresponding 2 × 2 contingency table (motor response present/absent versus recovery/no recovery), an OR was calculated, as well as a positive predictive value (defined as the fraction of nerves without a response that actually did not recover).
+          
+          
+            Results
+            Intraoperative electrical stimulation allowed for differentiation of both injury levels based on the nerve’s overall responsiveness to stimulation. Both injury levels required similarly high stimulation thresholds to induce digit flexion after stretch injury, with a median (range) of 200 nanocoulombs (nC) (100 to 1600) after epineuroclasis and 200 nC (100 to 400) after endoneuroclasis (median difference 0 nC; p = 0.74). However, 15 of 16 nerves induced digit movement after epineuroclasis, whereas only 5 of 16 nerves in the endoneuroclasis group induced a response at any stimulation threshold (OR 33 [95% confidence interval (CI) 3.91 to 373.0]; p &amp;lt; 0.001). These results demonstrate that lack of responsiveness at time 0 was strongly associated with a lack of functional recovery. Both injury levels exhibited an acute loss of grip strength 1 week after injury. However, at 12 weeks, rats in the sham control and epineuroclasis groups demonstrated a similar grip strength, with a mean ± SD of 12.97 ± 2.88 N and 13.18 ± 2.59 N, respectively (mean difference -0.21 N [95% CI -3.85 to 3.43]; p = 0.99). Endoneuroclasis resulted in a sustained loss of function compared with rats in the control group, with 2.51 ± 1.06 N at 12 weeks (mean difference 10.46 N [95% CI 6.81 to 14.1]; p &amp;lt; 0.001). Based on a retrospective contingency table analysis, nerves that were unresponsive to stimulation had a 92% likelihood of no functional recovery (negative predictive value 0.92 [95% CI 0.64 to 1]). Conversely, nerves that responded to simulation had a 75% probability of recovery (positive predictive value 0.75 [95% CI 0.53 to 0.89]).
+          
+          
+            Conclusion
+            Two distinct degrees of acute stretch injury in the rat median nerve can be distinguished based on the ability to induce digit movement using a handheld electrical stimulator. In the rat median nerve, responsiveness to stimulation is indicative of long-term recovery after stretch injury and vice versa.
+          
+          
+            Clinical Relevance
+            The ability to predict recovery using intraoperative nerve stimulation could allow surgeons to distinguish injuries that will likely recover naturally from those likely to benefit from immediate surgical intervention. To identify the clinical scenarios in which patients may benefit from the use of intraoperative stimulation as a prognostic tool, future prospective preclinical studies using larger animal models such as rabbits should evaluate the prognostic abilities of handheld stimulators for multiple types of nerve injury, including crush injury.
+          
+DOI: 10.1097/corr.0000000000003672
+ISSN: 0009-921X
+Tag der Erhebung (OOIR): 2025-09-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1097/corr.0000000000003672-2025-09-19-1</guid>
+			<pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Scapular kinematics variability in individuals with and without rotator cuff-related shoulder pain: A systematic review with multilevel meta-regression</title>
 			<link>https://doi.org/10.1016/j.bjpt.2025.101261</link>
@@ -18,8 +57,8 @@ Journal: Brazilian Journal of Physical Therapy
 Veröffentlicht: 2025-11-01
 DOI: 10.1016/j.bjpt.2025.101261
 ISSN: 1413-3555
-Tag der Erhebung (OOIR): 2025-09-18</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2025.101261-2025-09-18-1</guid>
+Tag der Erhebung (OOIR): 2025-09-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2025.101261-2025-09-19-2</guid>
 			<pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -93,8 +132,8 @@ Abstract:
           
 DOI: 10.1177/10538127251371635
 ISSN: 1053-8127
-Tag der Erhebung (OOIR): 2025-09-18</description>
-			<guid isPermaLink="false">ooir-trend-10.1177/10538127251371635-2025-09-18-2</guid>
+Tag der Erhebung (OOIR): 2025-09-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1177/10538127251371635-2025-09-19-3</guid>
 			<pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -108,8 +147,8 @@ Journal: Osteoarthritis and Cartilage
 Veröffentlicht: 2025-10-01
 DOI: 10.1016/j.joca.2025.03.003
 ISSN: 1063-4584
-Tag der Erhebung (OOIR): 2025-09-18</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.joca.2025.03.003-2025-09-18-3</guid>
+Tag der Erhebung (OOIR): 2025-09-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.joca.2025.03.003-2025-09-19-4</guid>
 			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -123,25 +162,9 @@ Journal: Brazilian Journal of Physical Therapy
 Veröffentlicht: 2025-11-01
 DOI: 10.1016/j.bjpt.2025.101258
 ISSN: 1413-3555
-Tag der Erhebung (OOIR): 2025-09-18</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2025.101258-2025-09-18-4</guid>
+Tag der Erhebung (OOIR): 2025-09-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2025.101258-2025-09-19-5</guid>
 			<pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Medial Tibial Stress Syndrome Needs a New Name—Make No Bones About It</title>
-			<link>https://doi.org/10.2519/jospt.2025.13411</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Orthopedics
-Score: 22
-Autoren: Laura M. Anderson, Stuart J. Warden, Richard W. Willy, Daniel R. Bonanno, Hylton B. Menz
-Journal: Journal of Orthopaedic &amp;amp; Sports Physical Therapy
-Veröffentlicht: 2025-08-18
-Abstract:  Pain near the posteromedial tibia is common in running and jumping athletes. This problem has had many names, with “shin splints” and “medial tibial stress syndrome” (MTSS) the most common. The term shin splints is nonspecific and nondescript, and has never gained clinical traction. Similarly, the clinical use of MTSS with athletes and coaches is often met with confusion as ‘tibial stress’ is frequently misinterpreted as indicating a bone stress injury. With no conclusive evidence regarding the pathophysiology of MTSS, we advocate renaming it “Load Induced Medial-Leg Pain” (LIMP). LIMP avoids the use of ‘tibial stress’ which is problematic due to the unknown pathology of the condition and its confusion with bone stress injury. Using the term LIMP instead of MTSS gives clinicians, researchers, and athletes a clearer, more accurate way to approach managing exercise-related lower leg pain. 
-DOI: 10.2519/jospt.2025.13411
-ISSN: 0190-6011
-Tag der Erhebung (OOIR): 2025-09-18</description>
-			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2025.13411-2025-09-18-5</guid>
-			<pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

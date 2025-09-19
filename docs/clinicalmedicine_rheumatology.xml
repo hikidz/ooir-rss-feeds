@@ -5,83 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rheumatology) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 18 Sep 2025 00:59:54 GMT</pubDate>
-		<lastBuildDate>Thu, 18 Sep 2025 00:59:54 GMT</lastBuildDate>
+		<pubDate>Fri, 19 Sep 2025 01:03:11 GMT</pubDate>
+		<lastBuildDate>Fri, 19 Sep 2025 01:03:11 GMT</lastBuildDate>
 		<item>
-			<title>Personalised gait retraining for medial compartment knee osteoarthritis: a randomised controlled trial</title>
-			<link>https://doi.org/10.1016/s2665-9913(25)00151-1</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rheumatology
-Score: 949
-Autoren: Scott D Uhlrich, Valentina Mazzoli, Amy Silder, Andrea K Finlay, Feliks Kogan, Garry E Gold, Scott L Delp, Gary S Beaupre, Julie A Kolesar
-Journal: The Lancet Rheumatology
-Veröffentlicht: 2025-08-01
-DOI: 10.1016/s2665-9913(25)00151-1
-ISSN: 2665-9913
-Tag der Erhebung (OOIR): 2025-09-18</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(25)00151-1-2025-09-18-1</guid>
-			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Knee crepitus and osteoarthritis features in young adults following traumatic knee injury</title>
-			<link>https://doi.org/10.1002/acr.25637</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rheumatology
-Score: 168
-Autoren: Jamon L Couch, Brooke E Patterson, Kay M Crossley, Ali Guermazi, Matthew G King, Danilo De Oliveira Silva, Jackie L Whittaker, Michael A Girdwood, Adam G Culvenor
-Journal: Arthritis Care &amp;amp; Research
-Veröffentlicht: 2025-08-25
-Abstract: ObjectiveThis study explored the association between knee crepitus and the presence, and worsening, of structural osteoarthritis features and self‐reported outcomes in young adults following traumatic knee injury.MethodsOne‐year following anterior cruciate ligament reconstruction (ACLR), 112 participants (41 female participants; median age 28 years) self‐reported the presence/absence of knee crepitus using an item from the Knee injury and Osteoarthritis Outcome Score (KOOS). Patellofemoral and tibiofemoral osteoarthritis features (i.e. cartilage lesions, osteophytes, bone marrow lesions) were assessed from MRIs at 1‐ and 5‐years post‐ACLR. Self‐reported outcomes were assessed with two KOOS subscales (pain, quality of life [QoL]) and the International Knee Documentation Committee subjective evaluation form (i.e. self‐reported function). Poisson regression evaluated the relationship between self‐reported crepitus and the presence/worsening of structural osteoarthritis features. General linear models explored the relationship between crepitus and self‐reported outcomes.ResultsSelf‐reported crepitus was associated with full‐thickness patellofemoral cartilage lesions 1‐year post‐ACLR (prevalence ratio 2.70, 95%CI 1.41, 6.39) but not the risk of worsening structural osteoarthritis features between 1‐ and 5‐years post‐ACLR. Those with crepitus reported worse pain (β ‐6.42, 95%CI ‐10.47, ‐2.36), QoL (β ‐10.39, 95%CI ‐18.58, ‐2.20) and function (β ‐5.49, 95%CI ‐10.92, ‐0.06) 1‐year post‐ACLR, but greater improvement in pain and function between 1‐ and 5‐years.ConclusionSelf‐reported knee crepitus was associated with the presence of full‐thickness patellofemoral cartilage defects 1‐year post‐ACLR, but was not associated with a greater risk of worsening structural osteoarthritis features up to 5‐years post‐ACLR. One‐year post‐ACLR, those with crepitus reported worse pain, knee‐related QoL, and function.
-DOI: 10.1002/acr.25637
-ISSN: 2151-464X
-Tag der Erhebung (OOIR): 2025-09-18</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/acr.25637-2025-09-18-2</guid>
-			<pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Long-term effectiveness of non-surgical interventions for chronic low back pain: a systematic review and meta-analysis</title>
-			<link>https://doi.org/10.1016/s2665-9913(25)00064-5</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rheumatology
-Score: 123
-Autoren: Hazel J Jenkins, Leticia Corrêa, Benjamin T Brown, Giovanni E Ferreira, Casper Nim, Sasha L Aspinall, Deborah Wareham, Junghyun Choi, Christopher G Maher, Mark J Hancock
-Journal: The Lancet Rheumatology
-Veröffentlicht: 2025-09-01
-DOI: 10.1016/s2665-9913(25)00064-5
-ISSN: 2665-9913
-Tag der Erhebung (OOIR): 2025-09-18</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(25)00064-5-2025-09-18-3</guid>
-			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>EULAR recommendations for a core dataset to support clinical care and translational and observational research in systemic lupus erythematosus</title>
-			<link>https://doi.org/10.1016/j.ard.2025.07.001</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rheumatology
-Score: 38
-Autoren: Johanna Mucke, George Bertsias, Martin Aringer, Laurent Arnaud, Carina Boström, Ricard Cervera, Gamal Chehab, László Czirják, Lene Wohlfahrt Dreyer, Luís Inês, Søren Jacobsen, Charite Kjaerside Nielsen, Emiliano Marasco, Marta Mosca, Kirsi Myllys, Cristina Pamfil, Jose M. Pego-Reigosa, Jutta G. Richter, Savino Sciascia, Farah Tamirou, Michel Tsang-A-Sjoe, Edward M. Vital, Ronald Van Vollenhoven, Chris Wincup, Matthias Schneider
-Journal: Annals of the Rheumatic Diseases
-Veröffentlicht: 2025-08-01
-DOI: 10.1016/j.ard.2025.07.001
-ISSN: 0003-4967
-Tag der Erhebung (OOIR): 2025-09-18</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2025.07.001-2025-09-18-4</guid>
-			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Spatial transcriptomic analysis of muscle biopsy from patients with treatment-naive juvenile dermatomyositis reveals mitochondrial abnormalities despite disease-related interferon-driven signature</title>
-			<link>https://doi.org/10.1016/j.ard.2025.07.015</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rheumatology
-Score: 36
-Autoren: Aris E. Syntakas, Melissa Kartawinata, Nia M.L. Evans, Huong D. Nguyen, Charalampia Papadopoulou, Muthana Al Obaidi, Clarissa Pilkington, Yvonne Glackin, Christopher B. Mahony, Adam P. Croft, Simon Eaton, Mario Cortina-Borja, Olumide Ogunbiyi, Ashirwad Merve, Lucy R. Wedderburn, Meredyth G. Ll Wilkinson
-Journal: Annals of the Rheumatic Diseases
-Veröffentlicht: 2025-08-01
-DOI: 10.1016/j.ard.2025.07.015
-ISSN: 0003-4967
-Tag der Erhebung (OOIR): 2025-09-18</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2025.07.015-2025-09-18-5</guid>
-			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+			<title>⚠️ Keine Trends für Clinical Medicine (Rheumatology) verfügbar</title>
+			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
+			<link>https://ooir.org</link>
+			<guid>ooir-no-trends-clinicalmedicine-rheumatology-20250919010311</guid>
+			<pubDate>Fri, 19 Sep 2025 01:03:11 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
