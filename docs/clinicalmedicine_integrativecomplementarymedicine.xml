@@ -5,14 +5,120 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Integrative &amp; Complementary Medicine) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Fri, 19 Sep 2025 01:01:48 GMT</pubDate>
-		<lastBuildDate>Fri, 19 Sep 2025 01:01:48 GMT</lastBuildDate>
+		<pubDate>Sat, 20 Sep 2025 00:58:16 GMT</pubDate>
+		<lastBuildDate>Sat, 20 Sep 2025 00:58:16 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Integrative &amp; Complementary Medicine) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-integrativecomplementarymedicine-20250919010148</guid>
-			<pubDate>Fri, 19 Sep 2025 01:01:48 GMT</pubDate>
+			<title>Systematic review of clinical practice guidelines on acupuncture for chronic musculoskeletal pain</title>
+			<link>https://doi.org/10.1186/s12906-025-05070-y</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Integrative &amp; Complementary Medicine
+Score: 19
+Autoren: Leonard Ho, Cyrus Ngo Tin Lai, Haiyong Chen, Sheung Wai Law, Edwin Chau Leung Yu, Fiona Pui Yan Lam, Yi Chung Cheung, Irene Xinyin Wu, Samuel Yeung Shan Wong, Regina Wing Shan Sit
+Journal: BMC Complementary Medicine and Therapies
+Veröffentlicht: 2025-09-01
+Abstract: Abstract
+          
+            Introduction
+            Acupuncture is increasingly utilised in primary care to manage chronic musculoskeletal pain, supported by a growing body of evidence. This rising adoption has driven demand for clinical practice guidelines (CPGs). We summarised the characteristics of recent acupuncture CPGs for osteoarthritis, low back pain, neck pain, and shoulder pain, and critically appraised their methodological quality.
+          
+          
+            Methods
+            We searched nine databases to identify acupuncture CPGs published from January 2014 to November 2024. Eligible CPGs were required to be developed by guideline committees and to include evidence-informed recommendations linked to clearly defined levels of evidence. Two independent reviewers extracted CPG characteristics and assessed methodological quality using the Appraisal of Guidelines for Research and Evaluation II (AGREE II) instrument.
+          
+          
+            Results
+            Of the 1,999 records screened, 17 CPGs were included, encompassing 35 recommendations. Shoulder pain was the most addressed condition (n = 14), followed by low back pain (n = 11), osteoarthritis (n = 8), and neck pain (n = 2). Various types of acupuncture were considered, with manual acupuncture featuring in most (n = 26) recommendations. Overall, 60% of the recommendations supported the use of acupuncture, comprising 5.7% strong recommendations and 54.3% weak or conditional recommendations. In contrast, 22.9% of recommendations offered no explicit guidance, while 17.1% advised against its use. Methodological assessment classified 10 CPGs as high quality, while seven were of moderate quality.
+          
+          
+            Conclusions
+            Contradictions exist among the included CPGs regarding whether acupuncture should be recommended for routine practice, potentially reflecting differences in clinical and cultural contexts. Local CPGs should be developed using rigorous methodology, ensuring the involvement of local stakeholders. An AGREE II extension should be developed for the methodological quality assessment of acupuncture CPGs.
+          
+DOI: 10.1186/s12906-025-05070-y
+ISSN: 2662-7671
+Tag der Erhebung (OOIR): 2025-09-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05070-y-2025-09-20-1</guid>
+			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Potential clinical relevance of Buchholzia coriacea: in vitro antimicrobial characteristics of the methanol leaf extract</title>
+			<link>https://doi.org/10.1186/s12906-025-05057-9</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Integrative &amp; Complementary Medicine
+Score: 18
+Autoren: Xiyao Feng, Chinonyerem O. Iheanacho
+Journal: BMC Complementary Medicine and Therapies
+Veröffentlicht: 2025-08-19
+DOI: 10.1186/s12906-025-05057-9
+ISSN: 2662-7671
+Tag der Erhebung (OOIR): 2025-09-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05057-9-2025-09-20-2</guid>
+			<pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Trends and patterns of complementary and alternative medicine use among cancer patients in Jordan: a decade comparison</title>
+			<link>https://doi.org/10.1186/s12906-025-05065-9</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Integrative &amp; Complementary Medicine
+Score: 18
+Autoren: Nedal Al-Rawashdeh, Mohammad Alqudimat, Ibrahim Alananzeh, Nour Kasasbeh, Khawlah Ammar, Amal Al-Omari
+Journal: BMC Complementary Medicine and Therapies
+Veröffentlicht: 2025-08-26
+DOI: 10.1186/s12906-025-05065-9
+ISSN: 2662-7671
+Tag der Erhebung (OOIR): 2025-09-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05065-9-2025-09-20-3</guid>
+			<pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>The clinical efficacy of auricular acupuncture in the treatment of frequent episodic tension-type headache: a single-blind randomized controlled trial</title>
+			<link>https://doi.org/10.1186/s12906-025-05063-x</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Integrative &amp; Complementary Medicine
+Score: 15
+Autoren: Xiaxia Jin, Ziwen Xu, Tao Gao, Gaofeng Wang, Wendi Dong, Junyi Jin, Yongmei Yan
+Journal: BMC Complementary Medicine and Therapies
+Veröffentlicht: 2025-08-21
+Abstract: Abstract
+          
+            Background
+            Frequent episodic tension-type headache (FETTH) is a significant public-health concern. Scientific research has demonstrated that acupuncture can improve the clinical symptoms of FETTH.
+          
+          
+            Purpose
+            This study aimed to compare the efficacy and safety of auricular acupuncture and sham acupuncture in treating FETTH.
+          
+          
+            Methods
+            This was a randomized controlled trial. Participants with FETTH were randomly assigned in a 1:1 ratio to receive auricular acupuncture or sham acupuncture for 4 weeks, with follow-up lasting for up to 24 weeks. The primary outcomes were measured using the headache index and visual analog scale (VAS) score. Secondary outcomes included the Hamilton Anxiety Scale (HAMA) score, Hamilton Depression Scale (HAMD) score, blood flow velocity in the anterior cerebral artery (ACA), middle cerebral artery (MCA), and posterior cerebral artery (PCA) (VACA, VMCA, and VPCA, respectively), and the usage of acute headache medications. Adverse events were also recorded to assess safety.
+          
+          
+            Results
+            Compared with the sham acupuncture group, the auricular acupuncture group showed significant improvements in VAS score (2 (1.25, 2) vs. 3 (2, 3.5) at 24 h, P &amp;lt; 0.001; 2 (1.25, 2) vs. 2 (2, 3) at the 2nd week, P = 0.004; 2 (1, 2) vs. 2 (1.5, 3) at the 4th week, P = 0.015), headache index (4 (2, 7) vs. 7 (4, 9) at the 4th week, P = 0.016), HAMA score (11.69 ± 2.70) vs. (14.24 ± 3.20) at the 4th week, P &amp;lt; 0.001; (9.83 ± 2.71) vs. (11.95 ± 2.59) at the 8th week, P = 0.001; (9.67 ± 2.65) vs. (11.76 ± 3.00) at the 24th week, P = 0.002), HAMD score ((14.25 ± 2.68) vs. (15.89 ± 3.48) at the 4th week, P = 0.027,) VACA (85.5 (85, 86) vs. 83 (83, 84) at the 4th week, P &amp;lt; 0.001), VPCA (82 (81, 83) vs. 78 (77, 79) at the 4th week, P &amp;lt; 0.001), and usage of acute headache medications (8 (7, 10) vs. 9 (8, 11) at the 4th week, P = 0.030). The incidence of adverse events was similar between the two groups (P = 1.000).
+          
+          
+            Conclusion
+            This study found that auricular acupuncture effectively improved the clinical symptoms of FETTH and had relatively fewer side effects. Trial registration: The study was retrospectively registered in the International Traditional Medicine Clinical Trial Registry (ITMCTR2025000363) on January 20, 2025.
+          
+DOI: 10.1186/s12906-025-05063-x
+ISSN: 2662-7671
+Tag der Erhebung (OOIR): 2025-09-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05063-x-2025-09-20-4</guid>
+			<pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Electrical acupoint stimulation for psychiatric sequelae in women victims of domestic violence: study protocol for an assessor-blind randomized controlled trial</title>
+			<link>https://doi.org/10.1186/s12906-025-05033-3</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Integrative &amp; Complementary Medicine
+Score: 15
+Autoren: Sichang Yang, Agnes Tiwari, Denise Shuk Ting Cheung, Calvin Pak Wing Cheng, Mei Yan Chan, Haiyong Chen, Zhang-Jin Zhang
+Journal: BMC Complementary Medicine and Therapies
+Veröffentlicht: 2025-09-01
+DOI: 10.1186/s12906-025-05033-3
+ISSN: 2662-7671
+Tag der Erhebung (OOIR): 2025-09-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05033-3-2025-09-20-5</guid>
+			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
