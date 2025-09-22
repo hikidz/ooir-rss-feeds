@@ -5,105 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sun, 21 Sep 2025 01:05:55 GMT</pubDate>
-		<lastBuildDate>Sun, 21 Sep 2025 01:05:55 GMT</lastBuildDate>
+		<pubDate>Mon, 22 Sep 2025 01:05:01 GMT</pubDate>
+		<lastBuildDate>Mon, 22 Sep 2025 01:05:01 GMT</lastBuildDate>
 		<item>
-			<title>AI as an independent second reader in detection of clinically relevant breast cancers within a population-based screening programme in the Netherlands: a retrospective cohort study</title>
-			<link>https://doi.org/10.1016/j.landig.2025.100882</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 99
-Autoren: Suzanne L van Winkel, Jim Peters, Natasja Janssen, Jaap Kroes, Elizabeth A Loehrer, Jessie Gommers, Ioannis Sechopoulos, Linda de Munck, Jonas Teuwen, Mireille Broeders, Nico Karssemeijer, Ritse M Mann
-Journal: The Lancet Digital Health
-Veröffentlicht: 2025-08-01
-DOI: 10.1016/j.landig.2025.100882
-ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2025-09-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100882-2025-09-21-1</guid>
-			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Detecting, Characterizing, and Mitigating Implicit and Explicit Racial Biases in Health Care Datasets With Subgroup Learnability: Algorithm Development and Validation Study</title>
-			<link>https://doi.org/10.2196/71757</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 77
-Autoren: Faris Gulamali, Ashwin Shreekant Sawant, Lora Liharska, Carol Horowitz, Lili Chan, Ira Hofer, Karandeep Singh, Lynne Richardson, Emmanuel Mensah, Alexander Charney, David Reich, Jianying Hu, Girish Nadkarni
-Journal: Journal of Medical Internet Research
-Veröffentlicht: 2025-09-04
-Abstract: Abstract
-          
-            Background
-            The growing adoption of diagnostic and prognostic algorithms in health care has led to concerns about the perpetuation of algorithmic bias against disadvantaged groups of individuals. Deep learning methods to detect and mitigate bias have revolved around modifying models, optimization strategies, and threshold calibration with varying levels of success and tradeoffs. However, there have been limited substantive efforts to address bias at the level of the data used to generate algorithms in health care datasets.
-          
-          
-            Objective
-            The aim of this study is to create a simple metric (AEquity) that uses a learning curve approximation to distinguish and mitigate bias via guided dataset collection or relabeling.
-          
-          
-            Methods
-            We demonstrate this metric in 2 well-known examples, chest X-rays and health care cost utilization, and detect novel biases in the National Health and Nutrition Examination Survey.
-          
-          
-            Results
-            We demonstrated that using AEquity to guide data-centric collection for each diagnostic finding in the chest radiograph dataset decreased bias by between 29% and 96.5% when measured by differences in area under the curve. Next, we wanted to examine (1) whether AEquity worked on intersectional populations and (2) if AEquity is invariant to different types of fairness metrics, not just area under the curve. Subsequently, we examined the effect of AEquity on mitigating bias when measured by false negative rate, precision, and false discovery rate for Black patients on Medicaid. When we examined Black patients on Medicaid, at the intersection of race and socioeconomic status, we found that AEquity-based interventions reduced bias across a number of different fairness metrics including overall false negative rate by 33.3% (bias reduction absolute=1.88×10−1, 95% CI 1.4×10−1 to 2.5×10−1; bias reduction of 33.3%, 95% CI 26.6%‐40%; precision bias by 7.50×10−2, 95% CI 7.48×10−2 to 7.51×10−2; bias reduction of 94.6%, 95% CI 94.5%‐94.7%; false discovery rate by 94.5%; absolute bias reduction=3.50×10−2, 95% CI 3.49×10−2 to 3.50×10−2). Similarly, AEquity-guided data collection demonstrated bias reduction of up to 80% on mortality prediction with the National Health and Nutrition Examination Survey (bias reduction absolute=0.08, 95% CI 0.07-0.09). Then, we wanted to compare AEquity to state-of-the-art data-guided debiasing measures such as balanced empirical risk minimization and calibration. Consequently, we benchmarked against balanced empirical risk minimization and calibration and showed that AEquity-guided data collection outperforms both standard approaches. Moreover, we demonstrated that AEquity works on fully connected networks; convolutional neural networks such as ResNet-50; transformer architectures such as VIT-B-16, a vision transformer with 86 million parameters; and nonparametric methods such as Light Gradient-Boosting Machine.
-          
-          
-            Conclusions
-            In short, we demonstrated that AEquity is a robust tool by applying it to different datasets, algorithms, and intersectional analyses and measuring its effectiveness with respect to a range of traditional fairness metrics.
-          
-DOI: 10.2196/71757
-ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-09-21</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/71757-2025-09-21-2</guid>
-			<pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Culture-free detection of bacteria from blood for rapid sepsis diagnosis</title>
-			<link>https://doi.org/10.1038/s41746-025-01948-w</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 74
-Autoren: M. Henar Marino Miguélez, Mohammad Osaid, Erik Hallström, Kerem Kaya, Jimmy Larsson, Vinodh Kandavalli, Carolina Wählby, Johan Elf, Wouter van der Wijngaart
-Journal: npj Digital Medicine
-Veröffentlicht: 2025-08-25
-Abstract: Abstract
-          Approximately 50 million people suffer from sepsis yearly, and 13 million die from it. For every hour a patient with septic shock is untreated, their survival rate decreases by 8%. Therefore, rapid detection and antibiotic susceptibility profiling of bacterial agents in the blood of sepsis patients are crucial for determining appropriate treatment. Here, we introduce a method to isolate bacteria from whole blood with high separation efficiency through Smart centrifugation, followed by microfluidic trapping and subsequent detection using deep learning applied to microscopy images. We detected, within 2 h, E. coli, K. pneumoniae, or E. faecalis from spiked samples of healthy human donor blood at clinically relevant concentrations as low as 9, 7 and 32 colony-forming units per ml of blood, respectively. However, the detection of S. aureus remains a challenge. This rapid isolation and detection represents a significant advancement towards culture-free detection of bloodstream infections.
-DOI: 10.1038/s41746-025-01948-w
-ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-09-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01948-w-2025-09-21-3</guid>
-			<pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Assessing genotype−phenotype correlations in colorectal cancer with deep learning: a multicentre cohort study</title>
-			<link>https://doi.org/10.1016/j.landig.2025.100891</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 65
-Autoren: Marco Gustav, Marko van Treeck, Nic G Reitsam, Zunamys I Carrero, Chiara M L Loeffler, Asier Rabasco Meneghetti, Bruno Märkl, Lisa A Boardman, Amy J French, Ellen L Goode, Andrea Gsur, Stefanie Brezina, Marc J Gunter, Neil Murphy, Pia Hönscheid, Christian Sperling, Sebastian Foersch, Robert Steinfelder, Tabitha Harrison, Ulrike Peters, Amanda Phipps, Jakob Nikolas Kather
-Journal: The Lancet Digital Health
-Veröffentlicht: 2025-08-01
-DOI: 10.1016/j.landig.2025.100891
-ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2025-09-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100891-2025-09-21-4</guid>
-			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Measuring Patient Participation Burden in Clinical Outcome Assessments for Clinical Trials</title>
-			<link>https://doi.org/10.1007/s43441-025-00832-9</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 49
-Autoren: Abigail Dirks, Hana Do, Chelsea Gallagher, Arnab Roy, Tricia Siddharth, Emily Szabo, Kenneth Getz
-Journal: Therapeutic Innovation &amp;amp; Regulatory Science
-Veröffentlicht: 2025-08-21
-DOI: 10.1007/s43441-025-00832-9
-ISSN: 2168-4790
-Tag der Erhebung (OOIR): 2025-09-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s43441-025-00832-9-2025-09-21-5</guid>
-			<pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
+			<title>⚠️ Keine Trends für Clinical Medicine (Medical Informatics) verfügbar</title>
+			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
+			<link>https://ooir.org</link>
+			<guid>ooir-no-trends-clinicalmedicine-medicalinformatics-20250922010501</guid>
+			<pubDate>Mon, 22 Sep 2025 01:05:01 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
