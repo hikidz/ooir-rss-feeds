@@ -5,14 +5,119 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Integrative &amp; Complementary Medicine) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Mon, 22 Sep 2025 01:05:00 GMT</pubDate>
-		<lastBuildDate>Mon, 22 Sep 2025 01:05:00 GMT</lastBuildDate>
+		<pubDate>Tue, 23 Sep 2025 00:59:44 GMT</pubDate>
+		<lastBuildDate>Tue, 23 Sep 2025 00:59:44 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Integrative &amp; Complementary Medicine) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-integrativecomplementarymedicine-20250922010500</guid>
-			<pubDate>Mon, 22 Sep 2025 01:05:00 GMT</pubDate>
+			<title>Systematic review of clinical practice guidelines on acupuncture for chronic musculoskeletal pain</title>
+			<link>https://doi.org/10.1186/s12906-025-05070-y</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Integrative &amp; Complementary Medicine
+Score: 19
+Autoren: Leonard Ho, Cyrus Ngo Tin Lai, Haiyong Chen, Sheung Wai Law, Edwin Chau Leung Yu, Fiona Pui Yan Lam, Yi Chung Cheung, Irene Xinyin Wu, Samuel Yeung Shan Wong, Regina Wing Shan Sit
+Journal: BMC Complementary Medicine and Therapies
+Veröffentlicht: 2025-09-01
+Abstract: Abstract
+          
+            Introduction
+            Acupuncture is increasingly utilised in primary care to manage chronic musculoskeletal pain, supported by a growing body of evidence. This rising adoption has driven demand for clinical practice guidelines (CPGs). We summarised the characteristics of recent acupuncture CPGs for osteoarthritis, low back pain, neck pain, and shoulder pain, and critically appraised their methodological quality.
+          
+          
+            Methods
+            We searched nine databases to identify acupuncture CPGs published from January 2014 to November 2024. Eligible CPGs were required to be developed by guideline committees and to include evidence-informed recommendations linked to clearly defined levels of evidence. Two independent reviewers extracted CPG characteristics and assessed methodological quality using the Appraisal of Guidelines for Research and Evaluation II (AGREE II) instrument.
+          
+          
+            Results
+            Of the 1,999 records screened, 17 CPGs were included, encompassing 35 recommendations. Shoulder pain was the most addressed condition (n = 14), followed by low back pain (n = 11), osteoarthritis (n = 8), and neck pain (n = 2). Various types of acupuncture were considered, with manual acupuncture featuring in most (n = 26) recommendations. Overall, 60% of the recommendations supported the use of acupuncture, comprising 5.7% strong recommendations and 54.3% weak or conditional recommendations. In contrast, 22.9% of recommendations offered no explicit guidance, while 17.1% advised against its use. Methodological assessment classified 10 CPGs as high quality, while seven were of moderate quality.
+          
+          
+            Conclusions
+            Contradictions exist among the included CPGs regarding whether acupuncture should be recommended for routine practice, potentially reflecting differences in clinical and cultural contexts. Local CPGs should be developed using rigorous methodology, ensuring the involvement of local stakeholders. An AGREE II extension should be developed for the methodological quality assessment of acupuncture CPGs.
+          
+DOI: 10.1186/s12906-025-05070-y
+ISSN: 2662-7671
+Tag der Erhebung (OOIR): 2025-09-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05070-y-2025-09-23-1</guid>
+			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Baseline individual factors associated with clinical outcomes in adults with non-specific low back pain following manual therapy: a systematic review</title>
+			<link>https://doi.org/10.1186/s12906-025-04975-y</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Integrative &amp; Complementary Medicine
+Score: 18
+Autoren: Gaetan Barbier, Mathieu Picchiottino, Arnaud Delafontaine, Guillaume Goncalves, André Bussières, François Cottin, Arnaud Lardon
+Journal: BMC Complementary Medicine and Therapies
+Veröffentlicht: 2025-09-18
+DOI: 10.1186/s12906-025-04975-y
+ISSN: 2662-7671
+Tag der Erhebung (OOIR): 2025-09-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-04975-y-2025-09-23-2</guid>
+			<pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Potential clinical relevance of Buchholzia coriacea: in vitro antimicrobial characteristics of the methanol leaf extract</title>
+			<link>https://doi.org/10.1186/s12906-025-05057-9</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Integrative &amp; Complementary Medicine
+Score: 18
+Autoren: Xiyao Feng, Chinonyerem O. Iheanacho
+Journal: BMC Complementary Medicine and Therapies
+Veröffentlicht: 2025-08-19
+DOI: 10.1186/s12906-025-05057-9
+ISSN: 2662-7671
+Tag der Erhebung (OOIR): 2025-09-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05057-9-2025-09-23-3</guid>
+			<pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Trends and patterns of complementary and alternative medicine use among cancer patients in Jordan: a decade comparison</title>
+			<link>https://doi.org/10.1186/s12906-025-05065-9</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Integrative &amp; Complementary Medicine
+Score: 18
+Autoren: Nedal Al-Rawashdeh, Mohammad Alqudimat, Ibrahim Alananzeh, Nour Kasasbeh, Khawlah Ammar, Amal Al-Omari
+Journal: BMC Complementary Medicine and Therapies
+Veröffentlicht: 2025-08-26
+DOI: 10.1186/s12906-025-05065-9
+ISSN: 2662-7671
+Tag der Erhebung (OOIR): 2025-09-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05065-9-2025-09-23-4</guid>
+			<pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Cicer arietinum extract as antitumor and protective agent against Ehrlich Solid Carcinoma-bearing mice</title>
+			<link>https://doi.org/10.1186/s12906-025-05061-z</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Integrative &amp; Complementary Medicine
+Score: 15
+Autoren: Amany Ahmed Sayed, Mahmoud Salah Abdullah, Amr Ahmed WalyEldeen, Rasha Mohamed Samir Sayed, Refaat M. Gabre, Sherif Abdelaziz Ibrahim, Hebatallah Hassan
+Journal: BMC Complementary Medicine and Therapies
+Veröffentlicht: 2025-09-02
+Abstract: Abstract
+          
+            Background
+            Cancer remains a significant global health challenge. Several plant-derived compounds have garnered the attention of cancer research for their anticancer effects. Chickpea (Cicer arietinum) is one of the top nutritious legumes with promising chemoprotective effects. We previously demonstrated that Cicer arietinum extract (CAE) has antitumor activity in vitro. Therefore, herein, we aimed to extend our findings and investigate CAE’s preventive and therapeutic antitumor effects in vivo using a murine Ehrlich solid carcinoma (ESC) model.
+          
+          
+            Methods
+            Thirty-six female mice were divided into six groups: healthy controls, untreated ESC-bearing mice, CAE pre-treated groups (low, moderate, and high doses), and CAE post-treated group administered after tumor establishment. Tumor size, oxidative stress markers, antioxidant enzyme activities, and the expression of apoptotic (Casp3)- and pyroptotic (Gsdmd)-related genes were assessed. Finally, the immunohistochemical staining for the anti-apoptotic Survivin expression was assessed across different mice groups.
+          
+          
+            Results
+            Our data indicate that pre-treatment with moderate and high doses of CAE, as well as post-treatment, significantly inhibited tumor growth by more than 40% relative to untreated ESC-bearing controls. Histopathological analysis showed notable improvements in muscle tissue structure in CAE-treated samples. Mechanistically, CAE exerted its chemopreventive and therapeutic effects via the alleviation of oxidative stress by a significant enhancement of the antioxidant enzyme activities and increased Gpx4 mRNA expression, accompanied by a reduction of MDA and NO levels. Furthermore, CAE attenuated survivin expression, while dramatically boosting the expression of apoptotic Casp3 and pyroptotic Gsdmd markers, particularly in the post-treatment group.
+          
+          
+            Conclusion
+            These findings suggest that CAE is a promising anticancer agent with protective effects against ESC.
+          
+          
+            Graphical Abstract
+          
+DOI: 10.1186/s12906-025-05061-z
+ISSN: 2662-7671
+Tag der Erhebung (OOIR): 2025-09-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05061-z-2025-09-23-5</guid>
+			<pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
