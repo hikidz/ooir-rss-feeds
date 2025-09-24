@@ -5,22 +5,22 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 23 Sep 2025 00:59:57 GMT</pubDate>
-		<lastBuildDate>Tue, 23 Sep 2025 00:59:57 GMT</lastBuildDate>
+		<pubDate>Wed, 24 Sep 2025 01:00:32 GMT</pubDate>
+		<lastBuildDate>Wed, 24 Sep 2025 01:00:32 GMT</lastBuildDate>
 		<item>
-			<title>AI as an independent second reader in detection of clinically relevant breast cancers within a population-based screening programme in the Netherlands: a retrospective cohort study</title>
-			<link>https://doi.org/10.1016/j.landig.2025.100882</link>
+			<title>Comparative effectiveness of remote perioperative telemonitoring in cancer surgery: a randomized trial</title>
+			<link>https://doi.org/10.1038/s41746-025-01961-z</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 99
-Autoren: Suzanne L van Winkel, Jim Peters, Natasja Janssen, Jaap Kroes, Elizabeth A Loehrer, Jessie Gommers, Ioannis Sechopoulos, Linda de Munck, Jonas Teuwen, Mireille Broeders, Nico Karssemeijer, Ritse M Mann
-Journal: The Lancet Digital Health
-Veröffentlicht: 2025-08-01
-DOI: 10.1016/j.landig.2025.100882
-ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2025-09-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100882-2025-09-23-1</guid>
-			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+Score: 221
+Autoren: Virginia Sun, Yi Xiao, Shanpeng Li, Joycelynne Palmer, Calvin P. Tribby, Tracy E. Crane, Laleh Melstrom, Thanh Dellinger, Bertram Yuh, Dan Raz, Enrique Cota-Robles, Linda Cota-Robles, Margaret Nolde, Betty Ferrell, Yuman Fong
+Journal: npj Digital Medicine
+Veröffentlicht: 2025-08-28
+DOI: 10.1038/s41746-025-01961-z
+ISSN: 2398-6352
+Tag der Erhebung (OOIR): 2025-09-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01961-z-2025-09-24-1</guid>
+			<pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Detecting, Characterizing, and Mitigating Implicit and Explicit Racial Biases in Health Care Datasets With Subgroup Learnability: Algorithm Development and Validation Study</title>
@@ -54,8 +54,8 @@ Abstract: Abstract
           
 DOI: 10.2196/71757
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-09-23</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/71757-2025-09-23-2</guid>
+Tag der Erhebung (OOIR): 2025-09-24</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/71757-2025-09-24-2</guid>
 			<pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -71,39 +71,60 @@ Abstract: Abstract
           Approximately 50 million people suffer from sepsis yearly, and 13 million die from it. For every hour a patient with septic shock is untreated, their survival rate decreases by 8%. Therefore, rapid detection and antibiotic susceptibility profiling of bacterial agents in the blood of sepsis patients are crucial for determining appropriate treatment. Here, we introduce a method to isolate bacteria from whole blood with high separation efficiency through Smart centrifugation, followed by microfluidic trapping and subsequent detection using deep learning applied to microscopy images. We detected, within 2 h, E. coli, K. pneumoniae, or E. faecalis from spiked samples of healthy human donor blood at clinically relevant concentrations as low as 9, 7 and 32 colony-forming units per ml of blood, respectively. However, the detection of S. aureus remains a challenge. This rapid isolation and detection represents a significant advancement towards culture-free detection of bloodstream infections.
 DOI: 10.1038/s41746-025-01948-w
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-09-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01948-w-2025-09-23-3</guid>
+Tag der Erhebung (OOIR): 2025-09-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01948-w-2025-09-24-3</guid>
 			<pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Assessing genotype−phenotype correlations in colorectal cancer with deep learning: a multicentre cohort study</title>
-			<link>https://doi.org/10.1016/j.landig.2025.100891</link>
+			<title>Video and Telephone Telehealth Use and Web-Based Patient Portal Activation Among Rural-Dwelling Patients: Retrospective Medical Record Review and Policy Implications</title>
+			<link>https://doi.org/10.2196/67226</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 65
-Autoren: Marco Gustav, Marko van Treeck, Nic G Reitsam, Zunamys I Carrero, Chiara M L Loeffler, Asier Rabasco Meneghetti, Bruno Märkl, Lisa A Boardman, Amy J French, Ellen L Goode, Andrea Gsur, Stefanie Brezina, Marc J Gunter, Neil Murphy, Pia Hönscheid, Christian Sperling, Sebastian Foersch, Robert Steinfelder, Tabitha Harrison, Ulrike Peters, Amanda Phipps, Jakob Nikolas Kather
-Journal: The Lancet Digital Health
-Veröffentlicht: 2025-08-01
-DOI: 10.1016/j.landig.2025.100891
-ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2025-09-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100891-2025-09-23-4</guid>
-			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+Score: 41
+Autoren: Meghan Rowe Ferrara, Gina Intinarelli-Shuler, Susan A Chapman
+Journal: Journal of Medical Internet Research
+Veröffentlicht: 2025-08-29
+Abstract: Abstract
+          
+            Background
+            Telehealth may redress rural health care shortages in the United States and improve related rural health disparities. However, following the expansion of telehealth related to the COVID-19 pandemic, telehealth use has been lower among rural populations compared to urban populations. Certain populations are also more likely to use audio-only telehealth, with implications for care quality.
+          
+          
+            Objective
+            The aim of this study is to describe demographic and telehealth use characteristics of a population of rural-dwelling adult patients and explore relationships of these characteristics with patients’ level of rurality and with modality of patients’ most recent telehealth encounter.
+          
+          
+            Methods
+            We conducted a retrospective medical record review of adults who lived in rural California zip codes and used telehealth at an urban medical center from December 2021 to December 2022. Rural-Urban Commuting Area codes were used to assign rurality and group patients by 3 levels of rurality. Telehealth visits were defined as video-enabled and telephone encounters. Variables included age, race or ethnicity, preferred language, payer, web-based patient portal activation status (as proxy for digital health literacy), video or telephone modality, and visit provider. Chi-square and Fisher exact tested associations of demographic and encounter characteristics with patient level of rurality and telehealth encounter modality.
+          
+          
+            Results
+            A total of 9359 patients were included. Telehealth patients living in the most rural zip codes were older, and a higher proportion were White compared to those in less rural zip codes. Patients who were American Indian, Asian, Black, and Latino together comprised 18.8% (n=1760) of the sample, lower than that in rural California counties. Video visit use was significantly lower among patients who were 65 years of age or older (n=3183, 91.3% vs n=5507, 93.8% for younger than 65 years; χ21=19.3; P&amp;lt;.001), Latino race or ethnicity (n=1229, 90.9% vs n=6078, 93.4% among White patients; χ23=12.0; P=.008), primary Spanish speakers (n=336, 87.7% vs n=8305, 93% among English speakers; Fisher exact, P&amp;lt;.001), and publicly insured (Medicare: n=3843, 91.7%; Medicaid: n=1717, 92.2%; privately insured: n=3130, 94.7%; χ22=27.9; P&amp;lt;.001). Patient portal activation was lower among Latinx patients (n=1183, 87.5% vs n=6099, 93.7% among White patients), Spanish speakers (n=295, 77% vs n=8241, 92.3% among English speakers; Fisher exact: P&amp;lt;.001), and Medicaid patients (n=1635, 87.8%; Medicare: n=3802, 90.7%; privately insured: n=3140, 95%; χ24=106.3; P&amp;lt;.001).
+          
+          
+            Conclusions
+            Findings substantiate concerns of rural telehealth access disparities, particularly among patients who are older, of minoritized race or ethnicity, and Spanish-speaking. Ongoing research is needed to understand how underserved rural populations use telehealth. To address telehealth use disparities, policy should address patient-level barriers by supporting measures such as health care navigation resources, culturally tailored telehealth patient outreach, digital access assessment, and patient digital education. Evidence-based telehealth reimbursement policy is essential to support access and address provider-side barriers.
+          
+DOI: 10.2196/67226
+ISSN: 1438-8871
+Tag der Erhebung (OOIR): 2025-09-24</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/67226-2025-09-24-4</guid>
+			<pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Measuring Patient Participation Burden in Clinical Outcome Assessments for Clinical Trials</title>
-			<link>https://doi.org/10.1007/s43441-025-00832-9</link>
+			<title>Explainable machine learning models for early Alzheimer’s disease detection using multimodal clinical data</title>
+			<link>https://doi.org/10.1016/j.ijmedinf.2025.106093</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 49
-Autoren: Abigail Dirks, Hana Do, Chelsea Gallagher, Arnab Roy, Tricia Siddharth, Emily Szabo, Kenneth Getz
-Journal: Therapeutic Innovation &amp;amp; Regulatory Science
-Veröffentlicht: 2025-08-21
-DOI: 10.1007/s43441-025-00832-9
-ISSN: 2168-4790
-Tag der Erhebung (OOIR): 2025-09-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s43441-025-00832-9-2025-09-23-5</guid>
-			<pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
+Score: 39
+Autoren: Afeez Adekunle Soladoye, Nicholas Aderinto, Damilola Osho, David B. Olawade
+Journal: International Journal of Medical Informatics
+Veröffentlicht: 2025-12-01
+DOI: 10.1016/j.ijmedinf.2025.106093
+ISSN: 1386-5056
+Tag der Erhebung (OOIR): 2025-09-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ijmedinf.2025.106093-2025-09-24-5</guid>
+			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
