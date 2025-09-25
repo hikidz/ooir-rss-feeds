@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, Research &amp; Experimental) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 24 Sep 2025 01:00:46 GMT</pubDate>
-		<lastBuildDate>Wed, 24 Sep 2025 01:00:46 GMT</lastBuildDate>
+		<pubDate>Thu, 25 Sep 2025 01:00:57 GMT</pubDate>
+		<lastBuildDate>Thu, 25 Sep 2025 01:00:57 GMT</lastBuildDate>
 		<item>
 			<title>Pig-to-human lung xenotransplantation into a brain-dead recipient</title>
 			<link>https://doi.org/10.1038/s41591-025-03861-x</link>
@@ -18,8 +18,8 @@ Journal: Nature Medicine
 Veröffentlicht: 2025-08-25
 DOI: 10.1038/s41591-025-03861-x
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2025-09-24</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03861-x-2025-09-24-1</guid>
+Tag der Erhebung (OOIR): 2025-09-25</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03861-x-2025-09-25-1</guid>
 			<pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -33,8 +33,8 @@ Journal: Nature Medicine
 Veröffentlicht: 2025-08-25
 DOI: 10.1038/s41591-025-03891-5
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2025-09-24</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03891-5-2025-09-24-2</guid>
+Tag der Erhebung (OOIR): 2025-09-25</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03891-5-2025-09-25-2</guid>
 			<pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -42,15 +42,15 @@ Tag der Erhebung (OOIR): 2025-09-24</description>
 			<link>https://doi.org/10.1126/scitranslmed.adp5653</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medicine, Research &amp; Experimental
-Score: 447
+Score: 454
 Autoren: Sam J. McCright, Olivia Harding, Julia Chini, Nicole DeMarco, Li-Yin Hung, Christopher F. Pastore, Wenyun Lu, Joshua Rabinowitz, Jorge Henao-Mejia, De’Broski R. Herbert, Lisa R. Young, David A. Hill
 Journal: Science Translational Medicine
 Veröffentlicht: 2025-08-27
 Abstract: Resident tissue macrophages and monocytes (RTMs) integrate local and systemic signals to coordinate immune cell function at homeostasis and in response to inflammatory stimuli. Obesity-associated metabolic dysfunction drives the development of RTM populations that contribute to disease states in multiple tissues. However, the contribution of specific dietary components to innate immune cell activation and function, as opposed to the direct effects of obesity, is largely unknown. Here, we studied the mechanisms by which high-fat (HF) diets shape lung RTM phenotype and function at steady state and influence responses to inflammatory insults. We found that, during HF diet feeding, lung RTMs accumulate saturated long-chain fatty acids, specifically stearic acid (SA), and demonstrate features of NLRP3 inflammasome priming and activation. In vivo, increased dietary SA was sufficient to cause neutrophil-predominant lung inflammation in the steady state and exacerbate a model of innate airway inflammation, whereas increased dietary oleic acid, the monounsaturated counterpart of SA, was sufficient to reduce inflammasome activation in the steady state and attenuate airway inflammation. Depletion of interleukin-1β (IL-1β) or pharmacologic inhibition of the endonuclease inositol requiring enzyme 1α (IRE1α) protected against SA-induced exacerbated lung inflammation. Last, we identified a population of lung monocytes with hallmarks of HF diet–induced RTM activation that were present in samples from obese humans with asthma. Together, these results identify a class of dietary lipids that regulate lung RTM phenotype and function in the steady state and modulate the severity of inflammation in the lung.
 DOI: 10.1126/scitranslmed.adp5653
 ISSN: 1946-6234
-Tag der Erhebung (OOIR): 2025-09-24</description>
-			<guid isPermaLink="false">ooir-trend-10.1126/scitranslmed.adp5653-2025-09-24-3</guid>
+Tag der Erhebung (OOIR): 2025-09-25</description>
+			<guid isPermaLink="false">ooir-trend-10.1126/scitranslmed.adp5653-2025-09-25-3</guid>
 			<pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -64,8 +64,8 @@ Journal: Nature Medicine
 Veröffentlicht: 2025-09-02
 DOI: 10.1038/s41591-025-03877-3
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2025-09-24</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03877-3-2025-09-24-4</guid>
+Tag der Erhebung (OOIR): 2025-09-25</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03877-3-2025-09-25-4</guid>
 			<pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -79,8 +79,8 @@ Journal: Nature Medicine
 Veröffentlicht: 2025-09-16
 DOI: 10.1038/s41591-025-03893-3
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2025-09-24</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03893-3-2025-09-24-5</guid>
+Tag der Erhebung (OOIR): 2025-09-25</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03893-3-2025-09-25-5</guid>
 			<pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
