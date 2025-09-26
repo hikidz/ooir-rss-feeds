@@ -5,14 +5,84 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rheumatology) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 25 Sep 2025 01:01:25 GMT</pubDate>
-		<lastBuildDate>Thu, 25 Sep 2025 01:01:25 GMT</lastBuildDate>
+		<pubDate>Fri, 26 Sep 2025 01:01:39 GMT</pubDate>
+		<lastBuildDate>Fri, 26 Sep 2025 01:01:39 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Rheumatology) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-rheumatology-20250925010125</guid>
-			<pubDate>Thu, 25 Sep 2025 01:01:25 GMT</pubDate>
+			<title>Knee crepitus and osteoarthritis features in young adults following traumatic knee injury</title>
+			<link>https://doi.org/10.1002/acr.25637</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 168
+Autoren: Jamon L Couch, Brooke E Patterson, Kay M Crossley, Ali Guermazi, Matthew G King, Danilo De Oliveira Silva, Jackie L Whittaker, Michael A Girdwood, Adam G Culvenor
+Journal: Arthritis Care &amp;amp; Research
+Veröffentlicht: 2025-08-25
+Abstract: ObjectiveThis study explored the association between knee crepitus and the presence, and worsening, of structural osteoarthritis features and self‐reported outcomes in young adults following traumatic knee injury.MethodsOne‐year following anterior cruciate ligament reconstruction (ACLR), 112 participants (41 female participants; median age 28 years) self‐reported the presence/absence of knee crepitus using an item from the Knee injury and Osteoarthritis Outcome Score (KOOS). Patellofemoral and tibiofemoral osteoarthritis features (i.e. cartilage lesions, osteophytes, bone marrow lesions) were assessed from MRIs at 1‐ and 5‐years post‐ACLR. Self‐reported outcomes were assessed with two KOOS subscales (pain, quality of life [QoL]) and the International Knee Documentation Committee subjective evaluation form (i.e. self‐reported function). Poisson regression evaluated the relationship between self‐reported crepitus and the presence/worsening of structural osteoarthritis features. General linear models explored the relationship between crepitus and self‐reported outcomes.ResultsSelf‐reported crepitus was associated with full‐thickness patellofemoral cartilage lesions 1‐year post‐ACLR (prevalence ratio 2.70, 95%CI 1.41, 6.39) but not the risk of worsening structural osteoarthritis features between 1‐ and 5‐years post‐ACLR. Those with crepitus reported worse pain (β ‐6.42, 95%CI ‐10.47, ‐2.36), QoL (β ‐10.39, 95%CI ‐18.58, ‐2.20) and function (β ‐5.49, 95%CI ‐10.92, ‐0.06) 1‐year post‐ACLR, but greater improvement in pain and function between 1‐ and 5‐years.ConclusionSelf‐reported knee crepitus was associated with the presence of full‐thickness patellofemoral cartilage defects 1‐year post‐ACLR, but was not associated with a greater risk of worsening structural osteoarthritis features up to 5‐years post‐ACLR. One‐year post‐ACLR, those with crepitus reported worse pain, knee‐related QoL, and function.
+DOI: 10.1002/acr.25637
+ISSN: 2151-464X
+Tag der Erhebung (OOIR): 2025-09-26</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/acr.25637-2025-09-26-1</guid>
+			<pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>The impact of population ageing on musculoskeletal disorders in 204 countries and territories, 1990-2021: global burden and healthcare costs</title>
+			<link>https://doi.org/10.1016/j.ard.2025.08.002</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 119
+Autoren: Shi-Yang Guan, Jin-Xin Zheng, Xin-Yu Feng, Shun-Xian Zhang, Shu-Zhen Xu, Peng Wang, Hong-Yan Cai, Hai-Feng Pan
+Journal: Annals of the Rheumatic Diseases
+Veröffentlicht: 2025-09-01
+DOI: 10.1016/j.ard.2025.08.002
+ISSN: 0003-4967
+Tag der Erhebung (OOIR): 2025-09-26</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2025.08.002-2025-09-26-2</guid>
+			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>A phase 2 trial of hydroxychloroquine in individuals at risk for rheumatoid arthritis</title>
+			<link>https://doi.org/10.1002/art.43366</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 31
+Autoren: Kevin D. Deane, Christopher C. Striebich, Marie L. Feser, James R. O'Dell, Judith A. James, Jeffrey A. Sparks, John M. Davis, Jonathan Graf, Maureen A. McMahon, Elizabeth B. Solow, Lindsy Forbess, Athan Tiliakos, Elena Schiopu, Maria I. Danila, Diane L. Horowitz, Jonathan Kay, Colin D. Strickland, Joel M. Guthridge, Cristina Arriens, Jennifer M. Grossman, M. Kristen Demoruelle, Elizabeth A. Bemis, Ashley Frazer‐Abel, Chelsie L. Fleischer, David A. Fox, Ted R. Mikuls, Melissa Greenleaf, Kate York, Sarah Walker, Lynette Keyes‐Elstein, Margie Byron, Janel Fedler, Ellen A. Goldmuntz, V. Michael Holers
+Journal: Arthritis &amp;amp; Rheumatology
+Veröffentlicht: 2025-08-29
+Abstract: BackgroundIndividuals with serum elevations of anti‐cyclic citrullinated peptide (anti‐CCP) antibodies are at increased risk for future rheumatoid arthritis (RA). No pharmacologic interventions have been approved for the prevention of RA in such ‘at‐risk’ individuals. However, hydroxychloroquine (HCQ) is used without supporting clinical trial evidence.MethodsIn this phase 2 randomized trial, individuals at‐risk for RA with anti‐CCP ≥2 times the upper limit of normal (ULN) were assigned to receive HCQ or placebo for 12 months, with up to 24 months of post‐drug follow‐up. The primary outcome was the development of clinical RA, as defined in the protocol, at 36 months. Secondary outcomes included safety, development of inflammatory arthritis (IA), and participant‐reported joint symptoms.ResultsOf 144 randomized participants, 71 were assigned to HCQ and 73 to placebo. In the modified intent‐to‐treat population, clinical RA occurred in 21 of 69 (30.4%) participants in the HCQ group and 24 of 73 (32.9%) in the placebo group. The risk of clinical RA at 36 months was 0.336 with HCQ and 0.394 with placebo (difference ‐0.058; 95% confidence interval ‐0.336 to 0.220; P=0.52). Results for IA were similar. The occurrence and severity of joint symptoms were not observed to differ between groups. Adverse event incidence was similar between groups.ConclusionsIn this trial involving individuals with anti‐CCP levels ≥2 times the ULN, 12 months of HCQ did not prevent the development of clinical RA at 36 months. (Funded by the National Institute of Allergy and Infectious Diseases; ClinicalTrials.gov number, NCT02603146.)image
+DOI: 10.1002/art.43366
+ISSN: 2326-5191
+Tag der Erhebung (OOIR): 2025-09-26</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/art.43366-2025-09-26-3</guid>
+			<pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Risk factors for the development of knee osteoarthritis across the lifespan: A systematic review and meta-analysis</title>
+			<link>https://doi.org/10.1016/j.joca.2025.03.003</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 30
+Autoren: Vicky Duong, Christina Abdel Shaheed, Manuela L. Ferreira, Sujita W. Narayan, Venkatesha Venkatesha, David J. Hunter, Jimmy Zhu, Inoshi Atukorala, Sarah Kobayashi, Siew Li Goh, Andrew M. Briggs, Marita Cross, Rolando Espinosa-Morales, Kai Fu, Francis Guillemin, Francis Keefe, L. Stefan Lohmander, Lyn March, George J. Milne, Yifang Mei, Ali Mobasheri, Mosedi Namane, George Peat, May Arna Risberg, Saurab Sharma, Regina Sit, Rosa Weiss Telles, Yuqing Zhang, Cyrus Cooper
+Journal: Osteoarthritis and Cartilage
+Veröffentlicht: 2025-10-01
+DOI: 10.1016/j.joca.2025.03.003
+ISSN: 1063-4584
+Tag der Erhebung (OOIR): 2025-09-26</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.joca.2025.03.003-2025-09-26-4</guid>
+			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>ERS/EULAR clinical practice guidelines for connective tissue disease-associated interstitial lung disease developed by the task force for connective tissue disease-associated interstitial lung disease of the European Respiratory Society (ERS) and the European Alliance of Associations for Rheumatology (EULAR) Endorsed by the European Reference Network on rare respiratory diseases (ERN-LUNG)</title>
+			<link>https://doi.org/10.1016/j.ard.2025.08.021</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 27
+Autoren: Katerina M. Antoniou, Oliver Distler, Ana-Maria Gheorghiu, Catharina C. Moor, Jens Vikse, Nikoleta Bizymi, Ilaria Galetti, Graham Brown, Elena Bargagli, Yannick Allanore, Tamera J. Corte, Philippe Dieudé, Vincent Cottin, Benjamin A. Fisher, Aurelie Fabre, Jon T. Giles, Michael Kreuter, Ingrid E. Lundberg, Venerino Poletti, Britta Maurer, Elisabetta A. Renzoni, Ulf Müller-Ladner, Mary E. Strek, Nicola Sverzellati, Paul Studenic, Jibril Mohammed, Blin Nagavci, Tanja Stamm, Thomy Tonia, Bruno Crestani, Anna-Maria Hoffmann-Vold
+Journal: Annals of the Rheumatic Diseases
+Veröffentlicht: 2025-09-01
+DOI: 10.1016/j.ard.2025.08.021
+ISSN: 0003-4967
+Tag der Erhebung (OOIR): 2025-09-26</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2025.08.021-2025-09-26-5</guid>
+			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,40 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Pharmacology &amp; Pharmacy) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 25 Sep 2025 01:01:13 GMT</pubDate>
-		<lastBuildDate>Thu, 25 Sep 2025 01:01:13 GMT</lastBuildDate>
-		<item>
-			<title>Cyclodextrin-mediated Enhancement of Haloperidol Solubility: Physicochemical Studies and In Vivo Investigation Using Planaria Worms</title>
-			<link>https://doi.org/10.1007/s11095-025-03909-0</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Pharmacology &amp; Pharmacy
-Score: 143
-Autoren: Yuehuai Xiong, Kenneth Shankland, Vitaliy V. Khutoryanskiy
-Journal: Pharmaceutical Research
-Veröffentlicht: 2025-08-01
-Abstract: Abstract
-          
-            Purpose
-            This study aims to evaluate the ability of various cyclodextrins (CDs) to enhance the aqueous solubility of haloperidol (HAL), through the formation of inclusion complexes. It also investigates the pharmacological activity of CD/HAL complexes using a planaria model.
-          
-          
-            Methods
-            Inclusion complexes were prepared using α-CD, β-CD, methyl-β-CD, hydroxypropyl-β-CD and γ-CD. The solubility of HAL in the presence of CDs was assessed, and the stoichiometry of the complexes was determined using Job’s method. Physicochemical interactions between HAL and CDs were characterized by nuclear magnetic resonance (NMR), differential scanning calorimetry (DSC), and powder X-ray diffraction (PXRD). The in vivo pharmacological activity was tested in planaria worms following exposure to HAL in the presence or absence of CDs.
-          
-          
-            Results
-            HAL’s aqueous solubility was significantly enhanced in the presence of α-CD, methyl-β-CD, and hydroxypropyl-β-CD, while γ-CD showed no effect. Only modest solubility improvements were observed with increasing β-CD concentrations up to 8 mg/mL. Stoichiometric analysis confirmed a 1:1 ratio of HAL to CD in the inclusion complexes. In vivo studies demonstrated that HAL reduced planaria mobility, mimicking cataleptic effects seen in mammals, whereas the presence of CDs reduced this pharmacological effect.
-          
-          
-            Conclusion
-            Cyclodextrins, particularly α-CD, methyl-β-CD, and hydroxypropyl-β-CD, effectively enhance the solubility of haloperidol by forming 1:1 inclusion complexes. The reduction in haloperidol-induced behavioral changes in planaria by CDs suggests a potential impact on drug bioavailability and supports the use of planaria as a simple in vivo model for screening neuroactive compounds and formulations.
-          
-DOI: 10.1007/s11095-025-03909-0
-ISSN: 0724-8741
-Tag der Erhebung (OOIR): 2025-09-25</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s11095-025-03909-0-2025-09-25-1</guid>
-			<pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-		</item>
+		<pubDate>Fri, 26 Sep 2025 01:01:23 GMT</pubDate>
+		<lastBuildDate>Fri, 26 Sep 2025 01:01:23 GMT</lastBuildDate>
 		<item>
 			<title>PEPITEM and its tripeptide pharmacophores: Mechanisms of bone regulation and therapeutic potential in health and disease</title>
 			<link>https://doi.org/10.1016/j.biopha.2025.118489</link>
@@ -50,8 +18,8 @@ Journal: Biomedicine &amp;amp; Pharmacotherapy
 Veröffentlicht: 2025-10-01
 DOI: 10.1016/j.biopha.2025.118489
 ISSN: 0753-3322
-Tag der Erhebung (OOIR): 2025-09-25</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.biopha.2025.118489-2025-09-25-2</guid>
+Tag der Erhebung (OOIR): 2025-09-26</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.biopha.2025.118489-2025-09-26-1</guid>
 			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -100,8 +68,8 @@ Abstract:
           
 DOI: 10.1177/02698811251362390
 ISSN: 0269-8811
-Tag der Erhebung (OOIR): 2025-09-25</description>
-			<guid isPermaLink="false">ooir-trend-10.1177/02698811251362390-2025-09-25-3</guid>
+Tag der Erhebung (OOIR): 2025-09-26</description>
+			<guid isPermaLink="false">ooir-trend-10.1177/02698811251362390-2025-09-26-2</guid>
 			<pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -115,8 +83,8 @@ Journal: Advances in Therapy
 Veröffentlicht: 2025-08-28
 DOI: 10.1007/s12325-025-03327-z
 ISSN: 0741-238X
-Tag der Erhebung (OOIR): 2025-09-25</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s12325-025-03327-z-2025-09-25-4</guid>
+Tag der Erhebung (OOIR): 2025-09-26</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s12325-025-03327-z-2025-09-26-3</guid>
 			<pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -132,9 +100,40 @@ Abstract: Abstract
           Anti-vascular endothelial growth factor (anti-VEGF), laser, and vitrectomy therapy are commonly used for the management of vision-threatening posterior eye disease (PED), but non-invasive alternatives have garnered increasing popularity as proactive preventative strategies for early retinopathy, such as targeted plant-based diets or herbal supplements. However, only some plants contain bioactive compounds that specifically target retinal degeneration and demonstrate potent pharmacological benefits that are cost-effective, safe, and accessible for at-risk individuals. This review pinpoints plant bioactive compounds, specifically polyphenols and carotenoids, that target retinopathy, with a focus on apoptotic, angiogenesis, inflammation, and oxidative pathways leading to visible, functional, and vascular macula improvements. Innovations accelerating therapeutic applications of these botanicals for ocular delivery were then explored. Finally, advancements in disease assessments and the computational methods for early retinopathy biomarker diagnosis and treatment, particularly designed to bio-prospect plant-based therapies, were also reviewed to guide future developments and address translational limitations.
 DOI: 10.1007/s43440-025-00778-7
 ISSN: 1734-1140
-Tag der Erhebung (OOIR): 2025-09-25</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s43440-025-00778-7-2025-09-25-5</guid>
+Tag der Erhebung (OOIR): 2025-09-26</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s43440-025-00778-7-2025-09-26-4</guid>
 			<pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Meta-analysis of Response and Remission Outcomes With a Weighted Multigene Pharmacogenomic Test for Adults With Depression</title>
+			<link>https://doi.org/10.1097/jcp.0000000000002061</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 56
+Autoren: Renee E. Albers, Melissa P. Dyer, Matthew Kucera, Daniel Hain, Alexander Gutin, Andria L. Del Tredici, Rachael H. Earls, Sagar V. Parikh, Holly L. Johnson, Rebecca Law, Boadie W. Dunlop
+Journal: Journal of Clinical Psychopharmacology
+Veröffentlicht: 2025-09-03
+Abstract: 
+            Purpose/Background:
+            Multiple meta-analyses have suggested that pharmacogenomic (PGx) testing may be a valuable tool to improve clinical outcomes for patients with major depressive disorder (MDD) who have failed at least one treatment. However, these meta-analyses included studies with different PGx tests and different trial designs, which produce uncertainty when interpreting results. To investigate the clinical utility of a single weighted multigene PGx test, a meta-analysis was performed for prospective studies utilizing this PGx test in adult patients with MDD.
+          
+          
+            Methods/Procedures:
+            MEDLINE/PubMed and Cochrane [including Embase, clinicaltrials.gov, and International Clinical Trials Registry Platform (ICTRP)] were searched through May 2025 for studies evaluating the impact of pharmacogenomic testing on outcomes for patients with MDD. Using PRISMA guidelines, 243 records were identified, and 6 studies were included that compared PGx-guided care to unguided care in adult patients with MDD, using a single weighted multigene test.
+          
+          
+            Findings/Results:
+            Overall, 3,532 patients were included, with outcomes evaluated at week 8 or week 10. Patients with MDD whose care was guided by the weighted multigene PGx test were 30% more likely to achieve response [relative risk ratio (RR)=1.30, 95% CI: 1.16-1.47, P&amp;lt;0.001] and 41% more likely to achieve remission [RR=1.41, 95% CI: 1.19-1.66, P&amp;lt;0.001] compared to unguided care. No heterogeneity in outcomes across studies was detected.
+          
+          
+            Implications/Conclusions:
+            Prescribing informed by a weighted multigene PGx test significantly improved response and remission rates among adult patients with MDD who experienced at least 1 prior treatment failure, further demonstrating the clinical utility of weighted multigene PGx testing.
+          
+DOI: 10.1097/jcp.0000000000002061
+ISSN: 0271-0749
+Tag der Erhebung (OOIR): 2025-09-26</description>
+			<guid isPermaLink="false">ooir-trend-10.1097/jcp.0000000000002061-2025-09-26-5</guid>
+			<pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
