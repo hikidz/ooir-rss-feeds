@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Pharmacology &amp; Pharmacy) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 27 Sep 2025 00:58:32 GMT</pubDate>
-		<lastBuildDate>Sat, 27 Sep 2025 00:58:32 GMT</lastBuildDate>
+		<pubDate>Sun, 28 Sep 2025 01:07:31 GMT</pubDate>
+		<lastBuildDate>Sun, 28 Sep 2025 01:07:31 GMT</lastBuildDate>
 		<item>
 			<title>PEPITEM and its tripeptide pharmacophores: Mechanisms of bone regulation and therapeutic potential in health and disease</title>
 			<link>https://doi.org/10.1016/j.biopha.2025.118489</link>
@@ -18,8 +18,8 @@ Journal: Biomedicine &amp;amp; Pharmacotherapy
 Veröffentlicht: 2025-10-01
 DOI: 10.1016/j.biopha.2025.118489
 ISSN: 0753-3322
-Tag der Erhebung (OOIR): 2025-09-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.biopha.2025.118489-2025-09-27-1</guid>
+Tag der Erhebung (OOIR): 2025-09-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.biopha.2025.118489-2025-09-28-1</guid>
 			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -68,8 +68,8 @@ Abstract:
           
 DOI: 10.1177/02698811251362390
 ISSN: 0269-8811
-Tag der Erhebung (OOIR): 2025-09-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1177/02698811251362390-2025-09-27-2</guid>
+Tag der Erhebung (OOIR): 2025-09-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1177/02698811251362390-2025-09-28-2</guid>
 			<pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -83,9 +83,26 @@ Journal: Advances in Therapy
 Veröffentlicht: 2025-08-28
 DOI: 10.1007/s12325-025-03327-z
 ISSN: 0741-238X
-Tag der Erhebung (OOIR): 2025-09-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s12325-025-03327-z-2025-09-27-3</guid>
+Tag der Erhebung (OOIR): 2025-09-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s12325-025-03327-z-2025-09-28-3</guid>
 			<pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Chronic treatment with fluoxetine regulates mitochondrial features and plasticity-associated transcriptomic pathways in parvalbumin-positive interneurons of prefrontal cortex</title>
+			<link>https://doi.org/10.1038/s41386-025-02219-8</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 63
+Autoren: Elias Jetsonen, Giuliano Didio, Ilida Suleymanova, Indrek Teino, Eero Castrén, Juzoh Umemori
+Journal: Neuropsychopharmacology
+Veröffentlicht: 2025-09-08
+Abstract: Abstract
+          Chronic treatment with fluoxetine, a widely prescribed selective serotonin reuptake inhibitor (SSRI), is known to promote neural plasticity. The role of fluoxetine in plasticity has been particularly tied to parvalbumin-positive interneurons, a key population of GABAergic neurons that regulate inhibitory tone and network stability. While our previous studies have highlighted fluoxetine-induced plasticity in the visual cortex and hippocampus, its cell-type-specific effects in the prefrontal cortex (PFC) remain unclear. This study aims to investigate the effects of chronic fluoxetine treatment on PV-positive (PV+) cells, identified using PV-IRES-Cre-driven reporter expression in the PFC. Using Translating Ribosome Affinity Purification (TRAP), we found that fluoxetine treatment altered the expression of 50 distinct biological pathways. Downregulated pathways are involved in mitochondrial ATP production, including components of the electron transport chain, and ribosomes. Upregulated pathways were associated with phosphatase activity, ion channel function, and cytoskeletal remodeling —molecules broadly implicated in synaptic signaling and plasticity-related processes. In FACS-sorted cells, mitochondrial DNA (mtDNA) expression was significantly increased in PV+ cells of the PFC, while intracellular ATP levels remained unchanged. Immunohistochemical analyses demonstrated reduced PV expression and weakened perineuronal nets in specific PFC subregions, suggesting a plasticity-permissive state in PV+ cells. TOMM22 signal intensity in PV+ cells showed a slight but significant increase in the prelimbic region, suggesting potential compensatory mitochondrial biogenesis despite transcriptomic downregulation of mitochondrial genes. Our findings reveal that chronic fluoxetine induces coordinated transcriptional, structural alterations in PV+ cells of the PFC, including shifts in mitochondrial-related gene expression and plasticity-associated pathways. These changes may contribute to region-specific shifts in cortical inhibition and plasticity, complementing previous reports of fluoxetine-mediated behavioral modulation.
+DOI: 10.1038/s41386-025-02219-8
+ISSN: 0893-133X
+Tag der Erhebung (OOIR): 2025-09-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41386-025-02219-8-2025-09-28-4</guid>
+			<pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Non-invasive pharmacological advances in early retinopathy treatment: bioactive herbal compounds, polymer delivery systems, and computational bioprospecting of functional targets</title>
@@ -100,45 +117,9 @@ Abstract: Abstract
           Anti-vascular endothelial growth factor (anti-VEGF), laser, and vitrectomy therapy are commonly used for the management of vision-threatening posterior eye disease (PED), but non-invasive alternatives have garnered increasing popularity as proactive preventative strategies for early retinopathy, such as targeted plant-based diets or herbal supplements. However, only some plants contain bioactive compounds that specifically target retinal degeneration and demonstrate potent pharmacological benefits that are cost-effective, safe, and accessible for at-risk individuals. This review pinpoints plant bioactive compounds, specifically polyphenols and carotenoids, that target retinopathy, with a focus on apoptotic, angiogenesis, inflammation, and oxidative pathways leading to visible, functional, and vascular macula improvements. Innovations accelerating therapeutic applications of these botanicals for ocular delivery were then explored. Finally, advancements in disease assessments and the computational methods for early retinopathy biomarker diagnosis and treatment, particularly designed to bio-prospect plant-based therapies, were also reviewed to guide future developments and address translational limitations.
 DOI: 10.1007/s43440-025-00778-7
 ISSN: 1734-1140
-Tag der Erhebung (OOIR): 2025-09-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s43440-025-00778-7-2025-09-27-4</guid>
+Tag der Erhebung (OOIR): 2025-09-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s43440-025-00778-7-2025-09-28-5</guid>
 			<pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Short-term residual effects of smoked cannabis on simulated driving performance</title>
-			<link>https://doi.org/10.1007/s00213-025-06880-1</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Pharmacology &amp; Pharmacy
-Score: 56
-Autoren: Kyle F. Mastropietro, Jake A. Rattigan, Anya Umlauf, David J. Grelotti, Marilyn A. Huestis, Raymond T. Suhandynata, Igor Grant, Robert L. Fitzgerald, Thomas D. Marcotte
-Journal: Psychopharmacology
-Veröffentlicht: 2025-09-06
-Abstract: Abstract
-          
-            Rationale
-            Between periods of use, chronic cannabis consumers may display residual effects on selective cognitive functions, particularly memory and attention. Whether there are comparable deficits in real-world behaviors, such as driving, has not been thoroughly examined.
-          
-          
-            Objectives
-            The current study explored the association between driving simulator performance, cannabis use history, and demographic factors after ≥ 48 h of abstinence. Study I examined simulator performance across a broad range of use within 191 healthy cannabis users. Study II compared performance between participants with the highest cannabis use intensity and a non-cannabis-using comparison group.
-          
-          
-            Methods
-            In Study I, 191 healthy cannabis users completed a 25-minute simulated drive, following ≥ 48 h of abstinence. In Study II, a pilot study comprising a subset of 18 frequent cannabis users was compared to 12 non-using controls who completed identical driving measures in a separate study. In both studies, the main outcome was the Composite Drive Score (CDS), a global measure of driving performance comprising key driving-related variables, including standard deviation of lateral position.
-          
-          
-            Results
-            In Study I, there was no relationship between CDS, its subtests, measures of cannabis use history, or demographic variables (all ps &amp;gt; 0.10). In Study II, frequent cannabis users and the non-using comparison group did not differ on CDS or performance on its subtests (all ps &amp;gt; 0.40).
-          
-          
-            Conclusions
-            The current study did not find evidence of a residual effect of cannabis on simulated driving performance during a short period of cannabis abstinence. Future studies would benefit from inclusion of larger non-cannabis-using comparison groups.
-          
-DOI: 10.1007/s00213-025-06880-1
-ISSN: 0033-3158
-Tag der Erhebung (OOIR): 2025-09-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s00213-025-06880-1-2025-09-27-5</guid>
-			<pubDate>Sat, 06 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

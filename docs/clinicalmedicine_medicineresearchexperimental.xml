@@ -5,21 +5,21 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, Research &amp; Experimental) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 27 Sep 2025 00:58:18 GMT</pubDate>
-		<lastBuildDate>Sat, 27 Sep 2025 00:58:18 GMT</lastBuildDate>
+		<pubDate>Sun, 28 Sep 2025 01:07:01 GMT</pubDate>
+		<lastBuildDate>Sun, 28 Sep 2025 01:07:01 GMT</lastBuildDate>
 		<item>
 			<title>Heat-related mortality in Europe during 2024 and health emergency forecasting to reduce preventable deaths</title>
 			<link>https://doi.org/10.1038/s41591-025-03954-7</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medicine, Research &amp; Experimental
-Score: 822
+Score: 871
 Autoren: Tomáš Janoš, Marcos Quijal-Zamorano, Natalia Shartova, Elisa Gallo, Raúl Fernando Méndez Turrubiates, Nadia Denisse Beltrán Barrón, Fabien Peyrusse, Joan Ballester
 Journal: Nature Medicine
 Veröffentlicht: 2025-09-22
 DOI: 10.1038/s41591-025-03954-7
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2025-09-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03954-7-2025-09-27-1</guid>
+Tag der Erhebung (OOIR): 2025-09-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03954-7-2025-09-28-1</guid>
 			<pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -34,23 +34,43 @@ Veröffentlicht: 2025-08-27
 Abstract: Resident tissue macrophages and monocytes (RTMs) integrate local and systemic signals to coordinate immune cell function at homeostasis and in response to inflammatory stimuli. Obesity-associated metabolic dysfunction drives the development of RTM populations that contribute to disease states in multiple tissues. However, the contribution of specific dietary components to innate immune cell activation and function, as opposed to the direct effects of obesity, is largely unknown. Here, we studied the mechanisms by which high-fat (HF) diets shape lung RTM phenotype and function at steady state and influence responses to inflammatory insults. We found that, during HF diet feeding, lung RTMs accumulate saturated long-chain fatty acids, specifically stearic acid (SA), and demonstrate features of NLRP3 inflammasome priming and activation. In vivo, increased dietary SA was sufficient to cause neutrophil-predominant lung inflammation in the steady state and exacerbate a model of innate airway inflammation, whereas increased dietary oleic acid, the monounsaturated counterpart of SA, was sufficient to reduce inflammasome activation in the steady state and attenuate airway inflammation. Depletion of interleukin-1β (IL-1β) or pharmacologic inhibition of the endonuclease inositol requiring enzyme 1α (IRE1α) protected against SA-induced exacerbated lung inflammation. Last, we identified a population of lung monocytes with hallmarks of HF diet–induced RTM activation that were present in samples from obese humans with asthma. Together, these results identify a class of dietary lipids that regulate lung RTM phenotype and function in the steady state and modulate the severity of inflammation in the lung.
 DOI: 10.1126/scitranslmed.adp5653
 ISSN: 1946-6234
-Tag der Erhebung (OOIR): 2025-09-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1126/scitranslmed.adp5653-2025-09-27-2</guid>
+Tag der Erhebung (OOIR): 2025-09-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1126/scitranslmed.adp5653-2025-09-28-2</guid>
 			<pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Progression to rheumatoid arthritis in at-risk individuals is defined by systemic inflammation and by T and B cell dysregulation</title>
+			<link>https://doi.org/10.1126/scitranslmed.adt7214</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 421
+Autoren: Ziyuan He, Marla C. Glass, Pravina Venkatesan, Marie L. Feser, Leander Lazaro, Lauren Y. Okada, Nhung T. T. Tran, Yudong D. He, Samir Rachid Zaim, Christy E. Bennett, Padmapriyadarshini Ravisankar, Elisabeth M. Dornisch, Alexandra C. Ferrannini, Najeeb A. Arishi, Ashley G. Asamoah, Saman Barzideh, Lynne A. Becker, Elizabeth A. Bemis, Jane H. Buckner, Christopher E. Collora, Megan A. L. Criley, M. Kristen Demoruelle, Chelsie L. Fleischer, Jessica Garber, Palak C. Genge, Qiuyu Gong, Lucas T. Graybuck, Claire E. Gustafson, Brian C. Hattel, Veronica Hernandez, Alexander T. Heubeck, Erin K. Kawelo, Upaasana Krishnan, Emma L. Kuan, Kristine A. Kuhn, Christian M. LaFrance, Kevin J. Lee, Ruoxin Li, Cara Lord, Regina R. Mettey, Laura Moss, Blessing Musgrove, Katherine HY Nguyen, Andrea Ochoa, Vaishnavi Parthasarathy, Mark-Phillip Pebworth, Chong Pedrick, Tao Peng, Cole G. Phalen, Julian Reading, Charles R. Roll, Jennifer A. Seifert, Marguerite D. Siedschlag, Cate Speake, Christopher C. Striebich, Tyanna J. Stuckey, Elliott G. Swanson, Hideto Takada, Tylor Thai, Zachary J. Thomson, Nguyen Trieu, Vlad Tsaltskan, Wei Wang, Morgan D. A. Weiss, Amy Westermann, Fan Zhang, David L. Boyle, Ananda W. Goldrath, Thomas F. Bumol, Xiao-jun Li, V. Michael Holers, Peter J. Skene, Adam K. Savage, Gary S. Firestein, Kevin D. Deane, Troy R. Torgerson, Mark A. Gillespie
+Journal: Science Translational Medicine
+Veröffentlicht: 2025-09-24
+Abstract: 
+            Rheumatoid arthritis (RA) is preceded by an at-risk stage of disease that can be marked by the presence of anticitrullinated protein antibodies (ACPAs) but the absence of clinically apparent synovitis (clinical RA). Preemptive intervention in at-risk individuals could prevent or delay future tissue damage; however, the immunobiology of this stage is unclear. Using integrative multiomics, we longitudinally profiled at-risk individuals, where one-third of participants developed clinical RA on study. We found evidence of systemic inflammation and signatures of activation in naïve T and B cells of at-risk individuals. During progression to clinical RA, proinflammatory skewing of atypical B cells and expansion of memory CD4 T cells with signatures of activation and B cell help were present without elevations in circulating ACPA titers. Epigenetic changes in naïve CD4 T cells suggested a predisposition to differentiate into effector cells capable of B cell help. These findings characterize pathogenesis of the ACPA
+            +
+            at-risk stage and support the concept that the disease begins much earlier than clinical RA. Additionally, an extensive immune resource of the at-risk stage and progression to clinical RA with interactive tools was developed to enable further investigation.
+          
+DOI: 10.1126/scitranslmed.adt7214
+ISSN: 1946-6234
+Tag der Erhebung (OOIR): 2025-09-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1126/scitranslmed.adt7214-2025-09-28-3</guid>
+			<pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Targeting dormant tumor cells to prevent recurrent breast cancer: a randomized phase 2 trial</title>
 			<link>https://doi.org/10.1038/s41591-025-03877-3</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medicine, Research &amp; Experimental
-Score: 372
+Score: 381
 Autoren: Angela DeMichele, Amy S. Clark, Emily Shea, Lauren J. Bayne, Christopher J. Sterner, Killian Rohn, Samantha Dwyer, Tien-chi Pan, Isoris Nivar, Yan Chen, Paul Wileyto, Lindsay R. Berry, Shannon Deluca, Jessica Savage, Igor Makhlin, Dhruv K. Pant, Heather Martin, Adetutu Egunsola, Nathan Mears, Brooke L. Goodspeed, Elizabeth M. Chislock, Jewell Graves, Jianping Wang, Natalie Shih, George K. Belka, Don Berry, Anupma Nayak, Michael Feldman, Lewis A. Chodosh
 Journal: Nature Medicine
 Veröffentlicht: 2025-09-02
 DOI: 10.1038/s41591-025-03877-3
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2025-09-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03877-3-2025-09-27-3</guid>
+Tag der Erhebung (OOIR): 2025-09-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03877-3-2025-09-28-4</guid>
 			<pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -58,31 +78,15 @@ Tag der Erhebung (OOIR): 2025-09-27</description>
 			<link>https://doi.org/10.1038/s41591-025-03893-3</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medicine, Research &amp; Experimental
-Score: 358
+Score: 373
 Autoren: Hamlet Gasoyan, Mohammad Hesam Alavi, Alexander Zajichek, Nicholas J. Casacchia, Abdullah Al Jabri, James Bena, Xiaoxi Feng, Rickesha Wilson, Ricard Corcelles, W. Scott Butsch, Rishi P. Singh, Nikhil Das, Hejin Jeong, Amgad Mentias, W. H. Wilson Tang, Bartolome Burguera, Raul J. Rosenthal, Steven E. Nissen, Michael B. Rothberg, Ali Aminian
 Journal: Nature Medicine
 Veröffentlicht: 2025-09-16
 DOI: 10.1038/s41591-025-03893-3
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2025-09-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03893-3-2025-09-27-4</guid>
+Tag der Erhebung (OOIR): 2025-09-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03893-3-2025-09-28-5</guid>
 			<pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Longitudinal antibody titers measured after COVID-19 mRNA vaccination can identify individuals at risk for subsequent infection</title>
-			<link>https://doi.org/10.1126/scitranslmed.adv4214</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, Research &amp; Experimental
-Score: 301
-Autoren: Hyeongki Park, Naotoshi Nakamura, Sho Miyamoto, Yoshitaka Sato, Kwang Su Kim, Kosaku Kitagawa, Yurie Kobashi, Yuta Tani, Yuzo Shimazu, Tianchen Zhao, Yoshitaka Nishikawa, Fumiya Omata, Moe Kawashima, Toshiki Abe, Yoshika Saito, Saori Nonaka, Morihito Takita, Chika Yamamoto, Hiroshi Morioka, Katsuhiro Kato, Ken Sagou, Tetsuya Yagi, Takeshi Kawamura, Akira Sugiyama, Aya Nakayama, Yudai Kaneko, Risa Yokokawa Shibata, Kazuyuki Aihara, Tatsuhiko Kodama, Akifumi Kamiyama, Tomokazu Tamura, Takasuke Fukuhara, Kenji Shibuya, Tadaki Suzuki, Shingo Iwami, Masaharu Tsubokura
-Journal: Science Translational Medicine
-Veröffentlicht: 2025-09-17
-Abstract: A key issue in the post–COVID-19 pandemic era is the ongoing administration of COVID-19 vaccines. Repeated vaccination is essential for preparing against currently circulating and newly emerging severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) variants. However, optimizing vaccination strategies is crucial to efficiently manage medical resources and establish an effective vaccination framework. Therefore, a strategy to identify poor responders with lower sustained antibody titers would be beneficial because these individuals should be considered high priority for revaccination. We investigated longitudinal antibody titer data in a cohort of 2526 people in Fukushima, Japan, collected between April 2021 and November 2022. Using mathematical modeling and machine learning, we stratified the time-course patterns of antibody titers after two primary doses and one booster dose of COVID-19 messenger RNA vaccines. We identified three populations, which we refer to as the durable, the vulnerable, and the rapid-decliner populations, and approximately half of the participants remained in the same population after the booster dose. The rapid-decliner population experienced earlier infections than the others. Furthermore, when comparing spike protein–specific immunoglobulin G (IgG) titers, spike protein–specific IgA titers, and SARS-CoV-2–specific T cell responses between participants who experienced subsequent infections after booster vaccination and those who did not, we found that spike protein–specific IgA titers were lower during the early stage after booster vaccination in participants who went on to become infected with SARS-CoV-2. This approach could be used to inform policy decisions on vaccine distribution to maximize population-level immunity both in future pandemics and in the post–COVID-19 pandemic era.
-DOI: 10.1126/scitranslmed.adv4214
-ISSN: 1946-6234
-Tag der Erhebung (OOIR): 2025-09-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1126/scitranslmed.adv4214-2025-09-27-5</guid>
-			<pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

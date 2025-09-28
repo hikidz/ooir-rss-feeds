@@ -5,21 +5,21 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 27 Sep 2025 00:58:07 GMT</pubDate>
-		<lastBuildDate>Sat, 27 Sep 2025 00:58:07 GMT</lastBuildDate>
+		<pubDate>Sun, 28 Sep 2025 01:06:51 GMT</pubDate>
+		<lastBuildDate>Sun, 28 Sep 2025 01:06:51 GMT</lastBuildDate>
 		<item>
 			<title>Comparative effectiveness of remote perioperative telemonitoring in cancer surgery: a randomized trial</title>
 			<link>https://doi.org/10.1038/s41746-025-01961-z</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 310
+Score: 315
 Autoren: Virginia Sun, Yi Xiao, Shanpeng Li, Joycelynne Palmer, Calvin P. Tribby, Tracy E. Crane, Laleh Melstrom, Thanh Dellinger, Bertram Yuh, Dan Raz, Enrique Cota-Robles, Linda Cota-Robles, Margaret Nolde, Betty Ferrell, Yuman Fong
 Journal: npj Digital Medicine
 Veröffentlicht: 2025-08-28
 DOI: 10.1038/s41746-025-01961-z
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-09-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01961-z-2025-09-27-1</guid>
+Tag der Erhebung (OOIR): 2025-09-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01961-z-2025-09-28-1</guid>
 			<pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -54,8 +54,8 @@ Abstract: Abstract
           
 DOI: 10.2196/71757
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-09-27</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/71757-2025-09-27-2</guid>
+Tag der Erhebung (OOIR): 2025-09-28</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/71757-2025-09-28-2</guid>
 			<pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -63,7 +63,7 @@ Tag der Erhebung (OOIR): 2025-09-27</description>
 			<link>https://doi.org/10.1038/s41746-025-01948-w</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 74
+Score: 75
 Autoren: M. Henar Marino Miguélez, Mohammad Osaid, Erik Hallström, Kerem Kaya, Jimmy Larsson, Vinodh Kandavalli, Carolina Wählby, Johan Elf, Wouter van der Wijngaart
 Journal: npj Digital Medicine
 Veröffentlicht: 2025-08-25
@@ -71,8 +71,8 @@ Abstract: Abstract
           Approximately 50 million people suffer from sepsis yearly, and 13 million die from it. For every hour a patient with septic shock is untreated, their survival rate decreases by 8%. Therefore, rapid detection and antibiotic susceptibility profiling of bacterial agents in the blood of sepsis patients are crucial for determining appropriate treatment. Here, we introduce a method to isolate bacteria from whole blood with high separation efficiency through Smart centrifugation, followed by microfluidic trapping and subsequent detection using deep learning applied to microscopy images. We detected, within 2 h, E. coli, K. pneumoniae, or E. faecalis from spiked samples of healthy human donor blood at clinically relevant concentrations as low as 9, 7 and 32 colony-forming units per ml of blood, respectively. However, the detection of S. aureus remains a challenge. This rapid isolation and detection represents a significant advancement towards culture-free detection of bloodstream infections.
 DOI: 10.1038/s41746-025-01948-w
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-09-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01948-w-2025-09-27-3</guid>
+Tag der Erhebung (OOIR): 2025-09-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01948-w-2025-09-28-3</guid>
 			<pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -107,24 +107,45 @@ Abstract: Abstract
           
 DOI: 10.2196/67226
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-09-27</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/67226-2025-09-27-4</guid>
+Tag der Erhebung (OOIR): 2025-09-28</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/67226-2025-09-28-4</guid>
 			<pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Explainable machine learning models for early Alzheimer’s disease detection using multimodal clinical data</title>
-			<link>https://doi.org/10.1016/j.ijmedinf.2025.106093</link>
+			<title>Demographic and Socioeconomic Disparities in Telemedicine Use Among Individuals With Type 2 Diabetes in Primary Care: Systematic Review and Meta-Analysis</title>
+			<link>https://doi.org/10.2196/73113</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 39
-Autoren: Afeez Adekunle Soladoye, Nicholas Aderinto, Damilola Osho, David B. Olawade
-Journal: International Journal of Medical Informatics
-Veröffentlicht: 2025-12-01
-DOI: 10.1016/j.ijmedinf.2025.106093
-ISSN: 1386-5056
-Tag der Erhebung (OOIR): 2025-09-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ijmedinf.2025.106093-2025-09-27-5</guid>
-			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+Score: 34
+Autoren: Nawwarah Alfarwan, Maria Panagioti, Alexander Hodkinson, Lamiece Hassan, Salwa S Zghebi, Evangelos Kontopantelis
+Journal: Journal of Medical Internet Research
+Veröffentlicht: 2025-09-09
+Abstract: Abstract
+          
+            Background
+            Telemedicine has revolutionized the management of type 2 diabetes mellitus (T2DM) in primary care by improving access to health care services and enhancing health outcomes. Despite these advancements, it remains unclear whether telemedicine has reduced access inequalities among different demographic and socioeconomic groups.
+          
+          
+            Objective
+            This study aimed to investigate the most important demographic and socioeconomic factors associated with telemedicine use among individuals with T2DM in primary care.
+          
+          
+            Methods
+            We conducted a systematic review and meta-analysis. Databases including MEDLINE, Embase, PsycINFO, Google Scholar, Scopus, and CINAHL were searched from inception to December 2023. The reference lists of eligible studies and other relevant systematic reviews were also searched. We included observational and cohort studies that assessed the effects of telemedicine interventions on individuals with T2DM in primary care. The core outcomes were the factors associated with telemedicine use, reported as adjusted odds ratios and 95% CIs for each factor, using a random-effects model. Heterogeneity was quantified using the I² statistic, and publication bias was assessed. The protocol for this review was registered with PROSPERO (CRD42024550410).
+          
+          
+            Results
+            Of the 3006 records identified, 16 studies involving 71,336 patients were included in the meta-analysis. Female patients had higher odds of using telemedicine than males (pooled adjusted odds ratio [OR] 1.05, 95% CI 1.02-1.09). Older patients were significantly less likely to use telemedicine than younger patients (pooled OR 0.979, 95% CI 0.98-0.98). Compared with White patients, Black patients were less likely to use telemedicine (pooled OR 0.55, 95% CI 0.32-0.94), while no statistically significant differences were observed for Hispanic (pooled OR 1.075, 95% CI 0.36-3.24) or Asian participants (pooled OR 0.56, 95% CI 0.29-1.06). Patients with higher education levels had greater odds of using telemedicine than those with lower education levels (pooled OR 1.681, 95% CI 1.48-1.91).
+          
+          
+            Conclusions
+            This systematic review and meta-analysis provide evidence of significant disparities in telemedicine use among men, older adults, Black individuals, and those with lower levels of education who have T2DM in primary care. Given that these groups are among the most vulnerable to T2DM, these disparities highlight the critical need for strategic interventions and robust policies that ensure telemedicine fosters equitable access to health care while preventing further exacerbation of existing health inequalities.
+          
+DOI: 10.2196/73113
+ISSN: 1438-8871
+Tag der Erhebung (OOIR): 2025-09-28</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/73113-2025-09-28-5</guid>
+			<pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
