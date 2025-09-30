@@ -5,118 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Pharmacology &amp; Pharmacy) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Mon, 29 Sep 2025 01:02:45 GMT</pubDate>
-		<lastBuildDate>Mon, 29 Sep 2025 01:02:45 GMT</lastBuildDate>
+		<pubDate>Tue, 30 Sep 2025 01:02:04 GMT</pubDate>
+		<lastBuildDate>Tue, 30 Sep 2025 01:02:04 GMT</lastBuildDate>
 		<item>
-			<title>PEPITEM and its tripeptide pharmacophores: Mechanisms of bone regulation and therapeutic potential in health and disease</title>
-			<link>https://doi.org/10.1016/j.biopha.2025.118489</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Pharmacology &amp; Pharmacy
-Score: 117
-Autoren: Kathryn Frost, Alyssa Urbanowski, Georgiana Neag, Jonathan W. Lewis, Ellie Northall, Samuel Kemble, Emily Powell, Adam P. Croft, Asif J. Iqbal, G. Ed Rainger, James R. Edwards, Amy J. Naylor, Helen M. McGettrick
-Journal: Biomedicine &amp;amp; Pharmacotherapy
-Veröffentlicht: 2025-10-01
-DOI: 10.1016/j.biopha.2025.118489
-ISSN: 0753-3322
-Tag der Erhebung (OOIR): 2025-09-29</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.biopha.2025.118489-2025-09-29-1</guid>
-			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Investigating the safety and tolerability of single-dose psilocybin for post-traumatic stress disorder: A nonrandomized open-label clinical trial</title>
-			<link>https://doi.org/10.1177/02698811251362390</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Pharmacology &amp; Pharmacy
-Score: 79
-Autoren: Niall M. McGowan, James J. Rucker, Rachel Yehuda, Manish Agrawal, Nadav Liam Modlin, Hollie Simmons, Agata Tofil-Kaluza, Shriya Das, Guy M. Goodwin
-Journal: Journal of Psychopharmacology
-Veröffentlicht: 2025-08-29
-Abstract: 
-            Background:
-            Post-traumatic stress disorder (PTSD) is a debilitating condition for which there are few efficacious treatments. Psilocybin is being studied for use in treatment-resistant depression but has not yet been investigated in PTSD.
-          
-          
-            Aims:
-            The trial’s primary outcome was to investigate the safety and tolerability of single-dose psilocybin in participants with PTSD.
-          
-          
-            Methods:
-            This was a Phase 2, nonrandomized, open-label, multicenter trial. Secondary outcomes were changes in PTSD symptoms (Clinician-Administered PTSD Scale for DSM-5 (CAPS-5); PTSD Checklist for DSM-5 (PCL-5)), functional impairment (Sheehan Disability Scale; SDS) and quality of life (EQ-5D-5L index score).
-          
-          
-            Results:
-            
-              Amongst the 22 participants enrolled (63.6% female; mean (SD) age, 39.0 (7.91) years), there was a total of 117 treatment-emergent adverse events (TEAEs); 70 (59.8%) were reported on administration day, of which 64/70 (91.4%) resolved by the end of the next day. TEAEs commonly included headache (
-              n
-               = 11; 50.0%), nausea (
-              n
-               = 8; 36.4%), crying (
-              n
-               = 6; 27.3%) and fatigue (
-              n
-               = 6; 27.3%). There were no serious TEAEs or TEAEs leading to study withdrawal. Pre-post comparisons indicated a clinically meaningful change from Baseline in mean CAPS-5 total score at Week 4 (−29.9 (14.06)) and Week 12 (−29.5 (15.43)), which was associated with the intensity of psychedelic experience on Day 1. PCL-5 scores showed symptom reduction was rapid and sustained until Week 12. SDS total score and EQ-5D-5L index score showed similar improvements.
-            
-          
-          
-            Conclusions:
-            Psilocybin at a dose of 25 mg, administered with psychological support, may be safe, well-tolerated and associated with symptomatic improvement in adults with PTSD. Further investigation is warranted.
-          
-          
-            Clinical trial registration:
-            ClinicalTrials.gov Identifier: NCT05312151
-            (https://clinicaltrials.gov/study/NCT05312151)
-          
-DOI: 10.1177/02698811251362390
-ISSN: 0269-8811
-Tag der Erhebung (OOIR): 2025-09-29</description>
-			<guid isPermaLink="false">ooir-trend-10.1177/02698811251362390-2025-09-29-2</guid>
-			<pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>A New Ashwagandha Formulation (Zenroot™) Alleviates Stress and Anxiety Symptoms While Improving Mood and Sleep Quality: A Randomized, Double-Blind, Placebo-Controlled Clinical Study</title>
-			<link>https://doi.org/10.1007/s12325-025-03327-z</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Pharmacology &amp; Pharmacy
-Score: 65
-Autoren: Manasvi Mahadevan, Kumarpillai Gopukumar, Ruchi Gupta, Abhijeet Morde, Paras Patni, Sahitya Sarvamangala Srinivas, Arun Bhuvanendran, Abhijith Phanindra
-Journal: Advances in Therapy
-Veröffentlicht: 2025-08-28
-DOI: 10.1007/s12325-025-03327-z
-ISSN: 0741-238X
-Tag der Erhebung (OOIR): 2025-09-29</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s12325-025-03327-z-2025-09-29-3</guid>
-			<pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Population Pharmacokinetic Modeling and Pediatric Exposure of Dexamethasone Sodium Phosphate Encapsulated in Erythrocytes (eDSP) Administered Monthly for Treatment of Neurological Symptoms of Patients With Ataxia Telangiectasia</title>
-			<link>https://doi.org/10.1002/psp4.70103</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Pharmacology &amp; Pharmacy
-Score: 64
-Autoren: Deniz Ozdin, Leila Kheibarshekan, Giovanni Mambrini, Pierre‐Olivier Tremblay
-Journal: CPT: Pharmacometrics &amp;amp; Systems Pharmacology
-Veröffentlicht: 2025-09-22
-Abstract: ABSTRACTThe EryDex System (EDS) is a drug/device combination, which has been tested in clinical trials for ataxia telangiectasia (AT). EDS encapsulates dexamethasone sodium phosphate (DSP) solution in autologous erythrocytes at the point of care, and encapsulated DSP (eDSP) is infused back into the patient. Low doses of dexamethasone are released from erythrocytes over a 30‐day period. This study aimed to (1) characterize the pharmacokinetics (PK) of dexamethasone released from intravenously infused eDSP based on data collected in clinical trials of healthy adults and pediatric AT patients, and to (2) simulate and extrapolate exposure measures of dexamethasone following intravenous infusion of eDSP administered once per month over 6 months in a pediatric population. The population PK model was developed using dense PK data from a phase 1 study in healthy adults and sparse PK data from a phase 3 study in pediatric AT patients. Three dose levels were studied, and the overall PK population included 24 healthy adults and 109 AT patients. The PK of dexamethasone released from eDSP was described using a simplified two‐compartment model, adequate for estimating systemic exposure despite not fully capturing RBC release kinetics indicative of a triphasic pattern. The model showed a good fit, and future refinement will include mechanistic release modeling as more in vitro and in vivo data become available. Monte Carlo simulations of eDSP showed a rapid peak at 0.67 h, followed by sustained dexamethasone release; faster in the first 24 h, then slower over 20–30 days. No accumulation occurred with once‐monthly dosing.
-DOI: 10.1002/psp4.70103
-ISSN: 2163-8306
-Tag der Erhebung (OOIR): 2025-09-29</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/psp4.70103-2025-09-29-4</guid>
-			<pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Coffee for the liver: a mechanistic approach</title>
-			<link>https://doi.org/10.1016/j.bcp.2025.117338</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Pharmacology &amp; Pharmacy
-Score: 64
-Autoren: Eduardo E. Vargas-Pozada, Erika Ramos-Tovar, Linda Vanessa Márquez-Quiroga, Karla Jocelyn Ortega-Carballo, Pablo Muriel
-Journal: Biochemical Pharmacology
-Veröffentlicht: 2025-12-01
-DOI: 10.1016/j.bcp.2025.117338
-ISSN: 0006-2952
-Tag der Erhebung (OOIR): 2025-09-29</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.bcp.2025.117338-2025-09-29-5</guid>
-			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+			<title>⚠️ Keine Trends für Clinical Medicine (Pharmacology &amp; Pharmacy) verfügbar</title>
+			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
+			<link>https://ooir.org</link>
+			<guid>ooir-no-trends-clinicalmedicine-pharmacologypharmacy-20250930010204</guid>
+			<pubDate>Tue, 30 Sep 2025 01:02:04 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

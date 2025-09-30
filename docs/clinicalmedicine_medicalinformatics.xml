@@ -5,23 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Mon, 29 Sep 2025 01:02:18 GMT</pubDate>
-		<lastBuildDate>Mon, 29 Sep 2025 01:02:18 GMT</lastBuildDate>
-		<item>
-			<title>Comparative effectiveness of remote perioperative telemonitoring in cancer surgery: a randomized trial</title>
-			<link>https://doi.org/10.1038/s41746-025-01961-z</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 315
-Autoren: Virginia Sun, Yi Xiao, Shanpeng Li, Joycelynne Palmer, Calvin P. Tribby, Tracy E. Crane, Laleh Melstrom, Thanh Dellinger, Bertram Yuh, Dan Raz, Enrique Cota-Robles, Linda Cota-Robles, Margaret Nolde, Betty Ferrell, Yuman Fong
-Journal: npj Digital Medicine
-Veröffentlicht: 2025-08-28
-DOI: 10.1038/s41746-025-01961-z
-ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-09-29</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01961-z-2025-09-29-1</guid>
-			<pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-		</item>
+		<pubDate>Tue, 30 Sep 2025 01:01:30 GMT</pubDate>
+		<lastBuildDate>Tue, 30 Sep 2025 01:01:30 GMT</lastBuildDate>
 		<item>
 			<title>Detecting, Characterizing, and Mitigating Implicit and Explicit Racial Biases in Health Care Datasets With Subgroup Learnability: Algorithm Development and Validation Study</title>
 			<link>https://doi.org/10.2196/71757</link>
@@ -54,26 +39,9 @@ Abstract: Abstract
           
 DOI: 10.2196/71757
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-09-29</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/71757-2025-09-29-2</guid>
+Tag der Erhebung (OOIR): 2025-09-30</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/71757-2025-09-30-1</guid>
 			<pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Culture-free detection of bacteria from blood for rapid sepsis diagnosis</title>
-			<link>https://doi.org/10.1038/s41746-025-01948-w</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 75
-Autoren: M. Henar Marino Miguélez, Mohammad Osaid, Erik Hallström, Kerem Kaya, Jimmy Larsson, Vinodh Kandavalli, Carolina Wählby, Johan Elf, Wouter van der Wijngaart
-Journal: npj Digital Medicine
-Veröffentlicht: 2025-08-25
-Abstract: Abstract
-          Approximately 50 million people suffer from sepsis yearly, and 13 million die from it. For every hour a patient with septic shock is untreated, their survival rate decreases by 8%. Therefore, rapid detection and antibiotic susceptibility profiling of bacterial agents in the blood of sepsis patients are crucial for determining appropriate treatment. Here, we introduce a method to isolate bacteria from whole blood with high separation efficiency through Smart centrifugation, followed by microfluidic trapping and subsequent detection using deep learning applied to microscopy images. We detected, within 2 h, E. coli, K. pneumoniae, or E. faecalis from spiked samples of healthy human donor blood at clinically relevant concentrations as low as 9, 7 and 32 colony-forming units per ml of blood, respectively. However, the detection of S. aureus remains a challenge. This rapid isolation and detection represents a significant advancement towards culture-free detection of bloodstream infections.
-DOI: 10.1038/s41746-025-01948-w
-ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-09-29</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01948-w-2025-09-29-3</guid>
-			<pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Video and Telephone Telehealth Use and Web-Based Patient Portal Activation Among Rural-Dwelling Patients: Retrospective Medical Record Review and Policy Implications</title>
@@ -107,8 +75,8 @@ Abstract: Abstract
           
 DOI: 10.2196/67226
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-09-29</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/67226-2025-09-29-4</guid>
+Tag der Erhebung (OOIR): 2025-09-30</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/67226-2025-09-30-2</guid>
 			<pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -143,9 +111,82 @@ Abstract: Abstract
           
 DOI: 10.2196/73113
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-09-29</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/73113-2025-09-29-5</guid>
+Tag der Erhebung (OOIR): 2025-09-30</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/73113-2025-09-30-3</guid>
 			<pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Virtual Transition of Care Clinics and Associated Readmission Rates: 3-Year Retrospective Cohort Study</title>
+			<link>https://doi.org/10.2196/73495</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 31
+Autoren: Sarah F Horman, Milla Kviatkovsky, Edward Castillo, Patricia Maysent, Chad VanDenBerg, John Bell, Christopher A Longhurst
+Journal: JMIR Medical Informatics
+Veröffentlicht: 2025-09-23
+Abstract: 
+            Background
+            Hospital readmissions pose a significant burden on patients, health care providers, and systems, with an estimated annual cost of $17 billion. Timely follow-up within 7 days postdischarge is known to reduce readmissions but is often limited by access constraints. While transitions of care clinics have demonstrated benefits in reducing unplanned readmissions, physical space requirements can be logistically and financially challenging.
+          
+          
+            Objective
+            This study aimed to evaluate the effectiveness of a virtual transitions of care (VToC) clinic in reducing 30-day hospital readmissions and improving postdischarge care coordination.
+          
+          
+            Methods
+            University of California, San Diego Health implemented a hospitalist-led VToC clinic designed to support clinical management, medication reconciliation, primary care provider repatriation, and specialty care navigation. The study included 2314 patients seen in the VToC clinic between September 2021 and September 2024. Outcomes were compared to a benchmark group using regression analysis to assess the impact on 30-day readmission rates.
+          
+          
+            Results
+            The 30-day readmission rate for VToC patients was 14.9% (344/2314), significantly lower than the 20.1% (4659/23,129) observed in the benchmark group (P&amp;lt;.001). Regression analysis indicated that patients not participating in the VToC clinic had a higher likelihood of readmission (odds ratio=1.37; 95% CI=1.21-1.54; P&amp;lt;.001). The most substantial reduction in readmissions was observed among patients with moderate readmission risk (LACE+ score of 50-75).
+          
+          
+            Conclusions
+            VToC clinics are a feasible and effective strategy for enhancing postdischarge care, reducing hospital readmissions, and improving care coordination. This model supports the quadruple aim by promoting better health outcomes, improved patient experience, cost-efficiency, and care equity.
+          
+DOI: 10.2196/73495
+ISSN: 2291-9694
+Tag der Erhebung (OOIR): 2025-09-30</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/73495-2025-09-30-4</guid>
+			<pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Effects of Tai Chi on Cognitive Function in Older Adults With Type 2 Diabetes Mellitus: Randomized Controlled Trial Using Wearable Devices in a Mobile Health Model</title>
+			<link>https://doi.org/10.2196/77014</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 22
+Autoren: Xi-Shuang Chen, Hui-Zhen Liu, Jingxian Fang, Sui-Jun Wang, Yue-Xia Han, Jian Meng, Yu Han, Hui-Ming Zou, Qing Gu, Xue Hu, Qian-Wen Ma, Fang Huang
+Journal: Journal of Medical Internet Research
+Veröffentlicht: 2025-09-16
+Abstract: Abstract
+          
+            Background
+            Telemedicine is an effective and promising strategy, especially for the initial stages of a home-based therapeutic exercise program.
+          
+          
+            
+              Objective
+            
+            The objectives of this study were 2-fold: first, to assess whether Tai Chi practice combined with wearable device-based monitoring improves cognitive function in this population, and second, to explore the underlying mechanisms for any improvements observed, including changes in physical activity levels and sleep patterns.
+          
+          
+            Methods
+            The study was a randomized controlled trial in which participants were randomized (1:1:1) to receive usual care, fitness walking, or Tai Chi exercise. All indicators were assessed at baseline and 12-week follow-up. The usual care includes traditional diabetes education. Participants in the fitness walking group performed walking exercises on a treadmill under the supervision of a researcher 3 times a week for 12 weeks. Participants in the Tai Chi group practiced 24-style Simplified Tai Chi through live video streaming under the guidance of professors and professionals. In this 12-week program, participants underwent continuous glucose monitoring (CGM) using Guardian Sensors 3, CGM sensors attached to the upper arm. All participants carried bracelets to record their heart rate, sleep parameters, and steps. The primary outcome was the Montreal Cognitive Assessment (MoCA) at 12 weeks. Secondary outcomes included other cognitive subdomain tests and blood metabolic indices. The MoCA is a tool designed for rapid screening for mild cognitive impairment (MCI) and early dementia, with the core advantage of being more sensitive to early cognitive problems. The MoCA has a total score of 30. Lower scores may indicate the presence of cognitive dysfunction.
+          
+          
+            Results
+            After 12 weeks of intervention, the Tai Chi exercise group showed a significant improvement in MoCA scores from baseline (mean difference 23.83, 95% CI 17.79-25.66 vs 21.42, 95% CI 17.11-24.74; P=.03). The fitness walking exercise group showed an improvement in MoCA scores (22.94, 95% CI 18.05-23.98 vs 21.58, 95% CI 17.35-24.12; P.08), but this did not reach statistical significance. Furthermore, there was a statistical difference in the improvement of MoCA scores between the Tai Chi and fitness walking groups (2.65, 95% CI 0.34-4.41 vs 1.44, 95% CI 0.89-2.87; P&amp;lt;.05). The usual care group showed the least change in score at both points (0.23, 95% CI −0.02 to 1.39; P=.83). Compared with the MQ in the fitness walking group (91.93, 95% CI 77.83-97.47) vs 88.62, 95% CI 77.14-95.84; P=.45), Trail Making Test Part B (TMT-B) (220.81, 95% CI 210.03-233.49 vs 223.66, 95% CI 215.04-230.27; P=.33), the Tai Chi group was more effective in improving the MQ (99.23, 95% CI 80.55-107.69 vs 89.23, 95% CI 78.16-96.08; P=.001), TMT-B (207.33, 95% CI 200.26-220.82 vs 225.58, 95% CI 214.12-234.94; P=.001) scores, and there were significant differences between the two groups.
+          
+          
+            Conclusions
+            In summary, this study demonstrated that web-based exercise therapy for patients may enhance the effectiveness of exercise therapy in improving cognitive function among older individuals with type 2 diabetes mellitus. Tai Chi has significant advantages in improving cognitive function and sleep quality, while fitness walking, although also beneficial, is relatively weak in these areas.
+          
+DOI: 10.2196/77014
+ISSN: 1438-8871
+Tag der Erhebung (OOIR): 2025-09-30</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/77014-2025-09-30-5</guid>
+			<pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
