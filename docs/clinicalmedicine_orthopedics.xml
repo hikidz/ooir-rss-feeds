@@ -5,14 +5,128 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Orthopedics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 30 Sep 2025 01:02:03 GMT</pubDate>
-		<lastBuildDate>Tue, 30 Sep 2025 01:02:03 GMT</lastBuildDate>
+		<pubDate>Wed, 01 Oct 2025 01:07:52 GMT</pubDate>
+		<lastBuildDate>Wed, 01 Oct 2025 01:07:52 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Orthopedics) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-orthopedics-20250930010203</guid>
-			<pubDate>Tue, 30 Sep 2025 01:02:03 GMT</pubDate>
+			<title>Is a Response to Intraoperative Electrical Nerve Stimulation Associated With Recovery After Stretch Injury in the Rat Median Nerve?</title>
+			<link>https://doi.org/10.1097/corr.0000000000003672</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 57
+Autoren: Christoph A. Schroen, Michael R. Hausman, Paul J. Cagle
+Journal: Clinical Orthopaedics &amp;amp; Related Research
+Veröffentlicht: 2025-09-03
+Abstract: 
+            Background
+            Peripheral nerve injury commonly results in pain and long-term disability for patients. Recovery after in-continuity stretch or crush injury remains inherently unpredictable. However, surgical intervention yields the most favorable outcomes when performed shortly after injury. Our inability to accurately distinguish injuries that will recover naturally from those needing immediate surgical intervention makes surgical decision-making highly challenging and often results in delayed surgery with unsatisfying outcomes. A prognostic tool with the ability to distinguish different degrees of nerve injury and to predict recovery in the acute clinical setting could thus be very useful.
+          
+          
+            Questions/purposes
+            Using a previously validated in vivo rat model, we asked: (1) Can intraoperative electrical stimulation be used to distinguish two distinct degrees of acute stretch injury in the rat median nerve? (2) Is a response to intraoperative stimulation associated with functional recovery after stretch injury in the rat median nerve?
+          
+          
+            Methods
+            To answer our first research question, we included 22 male Sprague-Dawley rats, all 12 months of age, in a sham control (6 rats), an epineuroclasis (8 rats), and an endoneuroclasis (8 rats) group. Epineuroclasis and endoneuroclasis describe the first and second degree of mechanical and structural failure during stretching in the rat median nerve and serve as the first and second (more severe) stretch injury levels in this study. Under anesthesia, the median nerves of both forelimbs were surgically exposed and probed with a handheld electrical stimulator to identify the stimulation threshold required to induce digit flexion. In both injury groups, nerves were then stretched to their respective injury levels using a hook attached to a load cell that generated the load-deformation curve of the nerve in real time. Nerves were secured under two metal pins 1 cm apart and stretched at a speed of 0.2 mm per second until a first (epineuroclasis) or second (endoneuroclasis) sudden force reduction was observed on load-deformation curves. After the stretch injury, rats in both injury groups were again probed with the stimulator to identify differences in stimulation thresholds between both injury levels. To answer our second question, the grip strength of all rats was assessed using the grasping test at 1 week preoperatively, as well as at 1, 3, 6, 9, and 12 weeks postoperatively. Twelve weeks served as the final follow-up, after which the rats were euthanized. Stimulation thresholds at time 0 were compared using Wilcoxon tests (within one group) and Mann-Whitney tests (between groups). Grip strength test data were compared using a two-way mixed-effects model and Tukey multiple comparisons test. Recovery was defined as rats reaching a grip strength similar to sham control rats at 12 weeks, and lack of recovery was defined as similar grip strength at 1 and 12 weeks after injury within the same group. An association between response to stimulation and recovery was tested for using a chi-square test. From the corresponding 2 × 2 contingency table (motor response present/absent versus recovery/no recovery), an OR was calculated, as well as a positive predictive value (defined as the fraction of nerves without a response that actually did not recover).
+          
+          
+            Results
+            Intraoperative electrical stimulation allowed for differentiation of both injury levels based on the nerve’s overall responsiveness to stimulation. Both injury levels required similarly high stimulation thresholds to induce digit flexion after stretch injury, with a median (range) of 200 nanocoulombs (nC) (100 to 1600) after epineuroclasis and 200 nC (100 to 400) after endoneuroclasis (median difference 0 nC; p = 0.74). However, 15 of 16 nerves induced digit movement after epineuroclasis, whereas only 5 of 16 nerves in the endoneuroclasis group induced a response at any stimulation threshold (OR 33 [95% confidence interval (CI) 3.91 to 373.0]; p &amp;lt; 0.001). These results demonstrate that lack of responsiveness at time 0 was strongly associated with a lack of functional recovery. Both injury levels exhibited an acute loss of grip strength 1 week after injury. However, at 12 weeks, rats in the sham control and epineuroclasis groups demonstrated a similar grip strength, with a mean ± SD of 12.97 ± 2.88 N and 13.18 ± 2.59 N, respectively (mean difference -0.21 N [95% CI -3.85 to 3.43]; p = 0.99). Endoneuroclasis resulted in a sustained loss of function compared with rats in the control group, with 2.51 ± 1.06 N at 12 weeks (mean difference 10.46 N [95% CI 6.81 to 14.1]; p &amp;lt; 0.001). Based on a retrospective contingency table analysis, nerves that were unresponsive to stimulation had a 92% likelihood of no functional recovery (negative predictive value 0.92 [95% CI 0.64 to 1]). Conversely, nerves that responded to simulation had a 75% probability of recovery (positive predictive value 0.75 [95% CI 0.53 to 0.89]).
+          
+          
+            Conclusion
+            Two distinct degrees of acute stretch injury in the rat median nerve can be distinguished based on the ability to induce digit movement using a handheld electrical stimulator. In the rat median nerve, responsiveness to stimulation is indicative of long-term recovery after stretch injury and vice versa.
+          
+          
+            Clinical Relevance
+            The ability to predict recovery using intraoperative nerve stimulation could allow surgeons to distinguish injuries that will likely recover naturally from those likely to benefit from immediate surgical intervention. To identify the clinical scenarios in which patients may benefit from the use of intraoperative stimulation as a prognostic tool, future prospective preclinical studies using larger animal models such as rabbits should evaluate the prognostic abilities of handheld stimulators for multiple types of nerve injury, including crush injury.
+          
+DOI: 10.1097/corr.0000000000003672
+ISSN: 0009-921X
+Tag der Erhebung (OOIR): 2025-10-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1097/corr.0000000000003672-2025-10-01-1</guid>
+			<pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Risk factors for the development of knee osteoarthritis across the lifespan: A systematic review and meta-analysis</title>
+			<link>https://doi.org/10.1016/j.joca.2025.03.003</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 30
+Autoren: Vicky Duong, Christina Abdel Shaheed, Manuela L. Ferreira, Sujita W. Narayan, Venkatesha Venkatesha, David J. Hunter, Jimmy Zhu, Inoshi Atukorala, Sarah Kobayashi, Siew Li Goh, Andrew M. Briggs, Marita Cross, Rolando Espinosa-Morales, Kai Fu, Francis Guillemin, Francis Keefe, L. Stefan Lohmander, Lyn March, George J. Milne, Yifang Mei, Ali Mobasheri, Mosedi Namane, George Peat, May Arna Risberg, Saurab Sharma, Regina Sit, Rosa Weiss Telles, Yuqing Zhang, Cyrus Cooper
+Journal: Osteoarthritis and Cartilage
+Veröffentlicht: 2025-10-01
+DOI: 10.1016/j.joca.2025.03.003
+ISSN: 1063-4584
+Tag der Erhebung (OOIR): 2025-10-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.joca.2025.03.003-2025-10-01-2</guid>
+			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>The Broken Wing Sign: A New Clinical Test to Detect Gluteus Medius Pathology with and without Fatty Infiltration</title>
+			<link>https://doi.org/10.2106/jbjs.25.00427</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 28
+Autoren: Rafael J. Sierra, Sergio F. Guarin Perez, Diego J. Restrepo, Benjamin M. Howe, Ta-Wei Tai
+Journal: Journal of Bone and Joint Surgery
+Veröffentlicht: 2025-09-12
+Abstract: 
+            Background:
+            Gluteus medius tears and atrophy cause lateral hip pain, limp, and functional impairment. We developed the “broken wing sign,” a novel physical examination test for detecting gluteus medius tendon tears and muscle degeneration. This study evaluated its diagnostic accuracy and clinical utility against magnetic resonance imaging (MRI) and intraoperative findings.
+          
+          
+            Methods:
+            We prospectively examined 59 patients (75 hips; mean age, 69.5 ± 10.8 years; 48 women) with suspected hip abductor insufficiency. The broken wing sign was tested with patients prone, the knee flexed at 90°, and the hip actively extended. A positive sign involved ≥10° of compensatory external hip rotation, visible as an inward drift of the foot, indicating gluteus medius (and resulting internal rotation) weakness. MRI served as the reference standard for classifying gluteus medius integrity as no tear, partial, full-thickness, or massive. Fatty infiltration was graded (Goutallier grades 0 to 4), quantified, and analyzed for a correlation with the examination findings. Diagnostic accuracy metrics were calculated.
+          
+          
+            Results:
+            The broken wing sign demonstrated high accuracy (sensitivity, 81.8%; specificity, 80.0%; positive predictive value [PPV], 91.8%; negative predictive value, 61.5%; diagnostic odds ratio, 17.8). An external rotation threshold of ≥30° yielded 100% specificity and 100% PPV for a tear. The sign detected acute tears with no or minimal fatty infiltration (100% sensitivity for massive tears). The degree of the external rotation angle was strongly correlated with muscle atrophy with fatty infiltration, showing 88.0% sensitivity for Goutallier grade ≥3 and 100% sensitivity for grade 4.
+          
+          
+            Conclusions:
+            The broken wing sign is clinically useful for diagnosing gluteus medius tendon tears and muscle atrophy, particularly massive tears and advanced fatty degeneration. It effectively guides MRI utilization and surgical planning, serving as a valuable initial diagnostic tool in the clinical setting.
+          
+          
+            Level of Evidence:
+            Diagnostic Level II. See Instructions for Authors for a complete description of levels of evidence.
+          
+DOI: 10.2106/jbjs.25.00427
+ISSN: 0021-9355
+Tag der Erhebung (OOIR): 2025-10-01</description>
+			<guid isPermaLink="false">ooir-trend-10.2106/jbjs.25.00427-2025-10-01-3</guid>
+			<pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Medial Tibial Stress Syndrome Needs a New Name—Make No Bones About It</title>
+			<link>https://doi.org/10.2519/jospt.2025.13411</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 22
+Autoren: Laura M. Anderson, Stuart J. Warden, Richard W. Willy, Daniel R. Bonanno, Hylton B. Menz
+Journal: Journal of Orthopaedic &amp;amp; Sports Physical Therapy
+Veröffentlicht: 2025-10-01
+Abstract:  SYNOPSIS: Pain near the posteromedial tibia is common in running and jumping athletes. This problem has had many names, with “shin splints” and “medial tibial stress syndrome” (MTSS) the most common. The term shin splints is nonspecific and nondescript, and has never gained clinical traction. Similarly, the clinical use of MTSS with athletes and coaches is often met with confusion as “tibial stress” is frequently misinterpreted as indicating a bone stress injury. With no conclusive evidence regarding the pathophysiology of MTSS, we advocate renaming it “Load Induced Medial-Leg Pain” (LIMP). LIMP avoids the use of “tibial stress,” which is problematic due to the unknown pathology of the condition and its confusion with bone stress injury. Using the term LIMP instead of MTSS gives clinicians, researchers, and athletes a clearer, more accurate way to approach managing exercise-related lower leg pain. J Orthop Sports Phys Ther 2025;55(10):1-2. Epub 18 August 2025. doi:10.2519/jospt.2025.13411 
+DOI: 10.2519/jospt.2025.13411
+ISSN: 0190-6011
+Tag der Erhebung (OOIR): 2025-10-01</description>
+			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2025.13411-2025-10-01-4</guid>
+			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Effects of landing instructions on Achilles tendon load: Emphasising hip flexion as the optimal strategy</title>
+			<link>https://doi.org/10.1002/ksa.70006</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 13
+Autoren: Yuta Koshino, Mina Samukawa, Tomoya Ishida, Harukazu Tohyama
+Journal: Knee Surgery, Sports Traumatology, Arthroscopy
+Veröffentlicht: 2025-08-29
+Abstract: AbstractPurposeManaging Achilles tendon (AT) load during dynamic activities is essential for preventing and rehabilitating Achilles tendinopathy. While various exercises have been studied, the impact of verbal instructions on landing mechanics remains unclear. This study aimed to identify instructional methods that effectively reduce AT load during drop vertical jumps (DVJs).MethodsTwenty‐three healthy participants performed DVJs under five instructional conditions: (1) natural: no instruction; (2) posterior‐centre of pressure (COP): shifting the COP posteriorly; (3) hip‐flexion: increasing hip flexion; (4) knee‐flexion: increasing knee flexion; and (5) quiet‐landing: minimising landing sound. A three‐dimensional motion analysis system recorded peak AT force, loading rate, joint angles, ground reaction force (GRF) and COP position. Data were analysed using the Friedman test, the Wilcoxon signed‐rank test with Holm's correction and effect size (ES).ResultsPeak AT force was significantly lower in hip‐flexion and posterior‐COP compared to natural (p &amp;lt; 0.001, ES = −0.87 and −0.82, respectively). Hip‐flexion also showed lower AT force than the knee‐flexion and quiet‐landing (p &amp;lt; 0.01). Loading rates were lower in hip‐flexion (ES = −0.73) and quiet‐landing (ES = −0.64) than in natural (p &amp;lt; 0.01) but were higher in posterior‐COP than hip‐flexion (p = 0.042). Hip‐flexion, knee‐flexion and quiet‐landing increased hip flexion (p &amp;lt; 0.001), while knee‐flexion and quiet‐landing increased knee flexion (p &amp;lt; 0.001) compared to natural. Posterior‐COP resulted in decreased hip, knee and ankle flexion, increased vertical GRF and a more posterior COP position compared to the other conditions (p &amp;lt; 0.05). Vertical GRF was lower in hip‐flexion, knee‐flexion and quiet‐landing than in natural (p &amp;lt; 0.005).ConclusionsIncreasing hip flexion is the most effective strategy for reducing AT force during landing, and may aid in the prevention and rehabilitation of Achilles tendinopathy. Although a posterior COP shift lowers AT force, it increases AT loading rate and GRF, potentially elevating injury risk.Level of EvidenceLevel III.
+DOI: 10.1002/ksa.70006
+ISSN: 0942-2056
+Tag der Erhebung (OOIR): 2025-10-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/ksa.70006-2025-10-01-5</guid>
+			<pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

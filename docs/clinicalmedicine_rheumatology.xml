@@ -5,14 +5,84 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rheumatology) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 30 Sep 2025 01:02:05 GMT</pubDate>
-		<lastBuildDate>Tue, 30 Sep 2025 01:02:05 GMT</lastBuildDate>
+		<pubDate>Wed, 01 Oct 2025 01:08:06 GMT</pubDate>
+		<lastBuildDate>Wed, 01 Oct 2025 01:08:06 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Rheumatology) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-rheumatology-20250930010205</guid>
-			<pubDate>Tue, 30 Sep 2025 01:02:05 GMT</pubDate>
+			<title>The impact of population ageing on musculoskeletal disorders in 204 countries and territories, 1990-2021: global burden and healthcare costs</title>
+			<link>https://doi.org/10.1016/j.ard.2025.08.002</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 119
+Autoren: Shi-Yang Guan, Jin-Xin Zheng, Xin-Yu Feng, Shun-Xian Zhang, Shu-Zhen Xu, Peng Wang, Hong-Yan Cai, Hai-Feng Pan
+Journal: Annals of the Rheumatic Diseases
+Veröffentlicht: 2025-09-01
+DOI: 10.1016/j.ard.2025.08.002
+ISSN: 0003-4967
+Tag der Erhebung (OOIR): 2025-10-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2025.08.002-2025-10-01-1</guid>
+			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>A phase 2 trial of hydroxychloroquine in individuals at risk for rheumatoid arthritis</title>
+			<link>https://doi.org/10.1002/art.43366</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 38
+Autoren: Kevin D. Deane, Christopher C. Striebich, Marie L. Feser, James R. O'Dell, Judith A. James, Jeffrey A. Sparks, John M. Davis, Jonathan Graf, Maureen A. McMahon, Elizabeth B. Solow, Lindsy Forbess, Athan Tiliakos, Elena Schiopu, Maria I. Danila, Diane L. Horowitz, Jonathan Kay, Colin D. Strickland, Joel M. Guthridge, Cristina Arriens, Jennifer M. Grossman, M. Kristen Demoruelle, Elizabeth A. Bemis, Ashley Frazer‐Abel, Chelsie L. Fleischer, David A. Fox, Ted R. Mikuls, Melissa Greenleaf, Kate York, Sarah Walker, Lynette Keyes‐Elstein, Margie Byron, Janel Fedler, Ellen A. Goldmuntz, V. Michael Holers
+Journal: Arthritis &amp;amp; Rheumatology
+Veröffentlicht: 2025-08-29
+Abstract: BackgroundIndividuals with serum elevations of anti‐cyclic citrullinated peptide (anti‐CCP) antibodies are at increased risk for future rheumatoid arthritis (RA). No pharmacologic interventions have been approved for the prevention of RA in such ‘at‐risk’ individuals. However, hydroxychloroquine (HCQ) is used without supporting clinical trial evidence.MethodsIn this phase 2 randomized trial, individuals at‐risk for RA with anti‐CCP ≥2 times the upper limit of normal (ULN) were assigned to receive HCQ or placebo for 12 months, with up to 24 months of post‐drug follow‐up. The primary outcome was the development of clinical RA, as defined in the protocol, at 36 months. Secondary outcomes included safety, development of inflammatory arthritis (IA), and participant‐reported joint symptoms.ResultsOf 144 randomized participants, 71 were assigned to HCQ and 73 to placebo. In the modified intent‐to‐treat population, clinical RA occurred in 21 of 69 (30.4%) participants in the HCQ group and 24 of 73 (32.9%) in the placebo group. The risk of clinical RA at 36 months was 0.336 with HCQ and 0.394 with placebo (difference ‐0.058; 95% confidence interval ‐0.336 to 0.220; P=0.52). Results for IA were similar. The occurrence and severity of joint symptoms were not observed to differ between groups. Adverse event incidence was similar between groups.ConclusionsIn this trial involving individuals with anti‐CCP levels ≥2 times the ULN, 12 months of HCQ did not prevent the development of clinical RA at 36 months. (Funded by the National Institute of Allergy and Infectious Diseases; ClinicalTrials.gov number, NCT02603146.)image
+DOI: 10.1002/art.43366
+ISSN: 2326-5191
+Tag der Erhebung (OOIR): 2025-10-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/art.43366-2025-10-01-2</guid>
+			<pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Risk factors for the development of knee osteoarthritis across the lifespan: A systematic review and meta-analysis</title>
+			<link>https://doi.org/10.1016/j.joca.2025.03.003</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 30
+Autoren: Vicky Duong, Christina Abdel Shaheed, Manuela L. Ferreira, Sujita W. Narayan, Venkatesha Venkatesha, David J. Hunter, Jimmy Zhu, Inoshi Atukorala, Sarah Kobayashi, Siew Li Goh, Andrew M. Briggs, Marita Cross, Rolando Espinosa-Morales, Kai Fu, Francis Guillemin, Francis Keefe, L. Stefan Lohmander, Lyn March, George J. Milne, Yifang Mei, Ali Mobasheri, Mosedi Namane, George Peat, May Arna Risberg, Saurab Sharma, Regina Sit, Rosa Weiss Telles, Yuqing Zhang, Cyrus Cooper
+Journal: Osteoarthritis and Cartilage
+Veröffentlicht: 2025-10-01
+DOI: 10.1016/j.joca.2025.03.003
+ISSN: 1063-4584
+Tag der Erhebung (OOIR): 2025-10-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.joca.2025.03.003-2025-10-01-3</guid>
+			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>ERS/EULAR clinical practice guidelines for connective tissue disease-associated interstitial lung disease developed by the task force for connective tissue disease-associated interstitial lung disease of the European Respiratory Society (ERS) and the European Alliance of Associations for Rheumatology (EULAR) Endorsed by the European Reference Network on rare respiratory diseases (ERN-LUNG)</title>
+			<link>https://doi.org/10.1016/j.ard.2025.08.021</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 27
+Autoren: Katerina M. Antoniou, Oliver Distler, Ana-Maria Gheorghiu, Catharina C. Moor, Jens Vikse, Nikoleta Bizymi, Ilaria Galetti, Graham Brown, Elena Bargagli, Yannick Allanore, Tamera J. Corte, Philippe Dieudé, Vincent Cottin, Benjamin A. Fisher, Aurelie Fabre, Jon T. Giles, Michael Kreuter, Ingrid E. Lundberg, Venerino Poletti, Britta Maurer, Elisabetta A. Renzoni, Ulf Müller-Ladner, Mary E. Strek, Nicola Sverzellati, Paul Studenic, Jibril Mohammed, Blin Nagavci, Tanja Stamm, Thomy Tonia, Bruno Crestani, Anna-Maria Hoffmann-Vold
+Journal: Annals of the Rheumatic Diseases
+Veröffentlicht: 2025-09-01
+DOI: 10.1016/j.ard.2025.08.021
+ISSN: 0003-4967
+Tag der Erhebung (OOIR): 2025-10-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2025.08.021-2025-10-01-4</guid>
+			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Effect of Nonsteroidal Anti‐Inflammatory Drugs on Sacroiliac Joint Inflammation, as Seen on Magnetic Resonance Imaging, in Axial Spondyloarthritis</title>
+			<link>https://doi.org/10.1002/acr.25581</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 27
+Autoren: Gareth T. Jones, Alexander N. Bennett, Raj Sengupta, Pedro M. Machado, Helena Marzo‐Ortega, Lorna Aucott, Margaret A. Hall‐Craggs, Timothy J. P. Bray, Alan Bainbridge, Ruaridh M. Gollifer, Gary J. Macfarlane
+Journal: Arthritis Care &amp;amp; Research
+Veröffentlicht: 2025-09-10
+Abstract: ObjectiveImaging evidence of active sacroiliitis is important for diagnosis, classification, and monitoring of axial spondyloarthritis (axSpA). However, there is no consistent guidance on whether patients should temporarily stop nonsteroidal anti‐inflammatory drugs (NSAIDs) before magnetic resonance imaging (MRI). The aim of this study was to determine whether NSAIDs lead to an underestimation of active sacroiliitis, as observed using MRI.MethodsAdults with axSpA were recruited from rheumatology clinics and undertook NSAID washout for one to two weeks before a sacroiliac joint MRI scan. Images were read by two independent readers and adjudicated by a third if required. Those who had a positive result for active sacroiliitis, as per internationally recognized criteria, underwent a second scan six weeks after recommencing daily NSAIDs. We determined the proportion of participants who had a negative scanning result while taking NSAIDs after a previous positive result when NSAID‐free. Images were also scored using semiquantitative methods comprising lesion size and intensity, and a subset of participants underwent quantitative MRI (qMRI) to provide an objective evaluation of any inflammatory changes.ResultsFrom 34 centers across the United Kingdom, 311 participants (median age 42 years; 62% male) were recruited; 286 (92%) completed the NSAID washout and underwent the first MRI scan. From 146 participants with active sacroiliitis, follow‐up scans (while taking NSAIDs) were obtained from 124 (85%), at which point 25 participants had a negative result (20.2%; 95% confidence interval 13.5%–28.3%). Semiquantitative and qMRI methods supported these findings.ConclusionOne‐fifth of patients showed full resolution of active sacroiliitis lesions when NSAIDs were present. In clinical practice, if patients with axSpA are willing to attempt a one‐ to two‐week NSAID washout before MRI, this should be considered.
+DOI: 10.1002/acr.25581
+ISSN: 2151-464X
+Tag der Erhebung (OOIR): 2025-10-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/acr.25581-2025-10-01-5</guid>
+			<pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
