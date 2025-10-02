@@ -5,22 +5,35 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Pharmacology &amp; Pharmacy) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 01 Oct 2025 01:07:57 GMT</pubDate>
-		<lastBuildDate>Wed, 01 Oct 2025 01:07:57 GMT</lastBuildDate>
+		<pubDate>Thu, 02 Oct 2025 00:59:45 GMT</pubDate>
+		<lastBuildDate>Thu, 02 Oct 2025 00:59:45 GMT</lastBuildDate>
 		<item>
-			<title>PEPITEM and its tripeptide pharmacophores: Mechanisms of bone regulation and therapeutic potential in health and disease</title>
-			<link>https://doi.org/10.1016/j.biopha.2025.118489</link>
+			<title>Mass balance, pharmacokinetics, metabolism, and excretion of radiolabeled acoziborole, a potential novel treatment for human African trypanosomiasis, following single microtracer oral dose to humans</title>
+			<link>https://doi.org/10.1128/aac.00580-25</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Pharmacology &amp; Pharmacy
-Score: 117
-Autoren: Kathryn Frost, Alyssa Urbanowski, Georgiana Neag, Jonathan W. Lewis, Ellie Northall, Samuel Kemble, Emily Powell, Adam P. Croft, Asif J. Iqbal, G. Ed Rainger, James R. Edwards, Amy J. Naylor, Helen M. McGettrick
-Journal: Biomedicine &amp;amp; Pharmacotherapy
-Veröffentlicht: 2025-10-01
-DOI: 10.1016/j.biopha.2025.118489
-ISSN: 0753-3322
-Tag der Erhebung (OOIR): 2025-10-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.biopha.2025.118489-2025-10-01-1</guid>
-			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+Score: 147
+Autoren: Jean-Yves Gillon, François Simon, Sharan Sidhu, Mathieu Louis, Delphine Launay, Valérie Wauthier, Marta Pelay-Gimeno, Lotte van Andel, Sabrina Loyau, Sandra Rembry, Estelle Weinling, Antoine Tarral
+Journal: Antimicrobial Agents and Chemotherapy
+Veröffentlicht: 2025-09-22
+Abstract: ABSTRACT
+          
+            
+            
+              Acoziborole is an oxaborole 6-carboxamide active against
+              Trypanosoma brucei gambiense
+              and
+              rhodesiense
+              , the parasites responsible for human African trypanosomiasis. This open-label, phase I study in six healthy male participants evaluated the mass balance, pharmacokinetics, metabolism pathways, and excretion of a single oral 960 mg dose of [
+              14
+              C]-acoziborole. Blood, plasma, and feces were collected for 120 days and urine for 16 days. The excretion balance and systemic exposure of total circulating radioactivity were determined using accelerator mass spectrometry. Metabolism profiling was performed in pools of plasma, urine, and feces. Liquid chromatography coupled with tandem mass spectrometry quantified acoziborole and its metabolite SCYX-3109 in plasma and urine. By Day 60, 87.3% of the total radioactivity had been recovered (10.9% and 74.2% of the total dose in urine and in feces, respectively), with an excretion increment of &amp;lt;1% between Days 59 and 61. Mean ratios of total radioactivity indicated an equivalent distribution between blood cells and plasma. The concentration-time profiles of total radioactivity and acoziborole in plasma were similar. In plasma, acoziborole accounted for 95.1%, an oxidized form of acoziborole for 2.3% of the total radioactivity, while SCYX-3109 was not detected. Seven metabolites (oxidative deboronation, glucuronidation, and mono-oxidation) were detected in urine with individual abundances relative to the dose of 0.1–2.1%; unchanged acoziborole accounted for 0.6%. In feces, acoziborole, SCYX-3109, and two other oxidized or deboronated forms of acoziborole represented 33.6%, 12.3%, and 2.3% of the dose, respectively. Acoziborole showed good absorption, limited metabolism, minimal urinary elimination, and predominant but slow biliary-fecal elimination.
+            
+          
+DOI: 10.1128/aac.00580-25
+ISSN: 0066-4804
+Tag der Erhebung (OOIR): 2025-10-02</description>
+			<guid isPermaLink="false">ooir-trend-10.1128/aac.00580-25-2025-10-02-1</guid>
+			<pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Coffee for the liver: a mechanistic approach</title>
@@ -33,9 +46,26 @@ Journal: Biochemical Pharmacology
 Veröffentlicht: 2025-12-01
 DOI: 10.1016/j.bcp.2025.117338
 ISSN: 0006-2952
-Tag der Erhebung (OOIR): 2025-10-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.bcp.2025.117338-2025-10-01-2</guid>
+Tag der Erhebung (OOIR): 2025-10-02</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.bcp.2025.117338-2025-10-02-2</guid>
 			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Chronic treatment with fluoxetine regulates mitochondrial features and plasticity-associated transcriptomic pathways in parvalbumin-positive interneurons of prefrontal cortex</title>
+			<link>https://doi.org/10.1038/s41386-025-02219-8</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 70
+Autoren: Elias Jetsonen, Giuliano Didio, Ilida Suleymanova, Indrek Teino, Eero Castrén, Juzoh Umemori
+Journal: Neuropsychopharmacology
+Veröffentlicht: 2025-09-08
+Abstract: Abstract
+          Chronic treatment with fluoxetine, a widely prescribed selective serotonin reuptake inhibitor (SSRI), is known to promote neural plasticity. The role of fluoxetine in plasticity has been particularly tied to parvalbumin-positive interneurons, a key population of GABAergic neurons that regulate inhibitory tone and network stability. While our previous studies have highlighted fluoxetine-induced plasticity in the visual cortex and hippocampus, its cell-type-specific effects in the prefrontal cortex (PFC) remain unclear. This study aims to investigate the effects of chronic fluoxetine treatment on PV-positive (PV+) cells, identified using PV-IRES-Cre-driven reporter expression in the PFC. Using Translating Ribosome Affinity Purification (TRAP), we found that fluoxetine treatment altered the expression of 50 distinct biological pathways. Downregulated pathways are involved in mitochondrial ATP production, including components of the electron transport chain, and ribosomes. Upregulated pathways were associated with phosphatase activity, ion channel function, and cytoskeletal remodeling —molecules broadly implicated in synaptic signaling and plasticity-related processes. In FACS-sorted cells, mitochondrial DNA (mtDNA) expression was significantly increased in PV+ cells of the PFC, while intracellular ATP levels remained unchanged. Immunohistochemical analyses demonstrated reduced PV expression and weakened perineuronal nets in specific PFC subregions, suggesting a plasticity-permissive state in PV+ cells. TOMM22 signal intensity in PV+ cells showed a slight but significant increase in the prelimbic region, suggesting potential compensatory mitochondrial biogenesis despite transcriptomic downregulation of mitochondrial genes. Our findings reveal that chronic fluoxetine induces coordinated transcriptional, structural alterations in PV+ cells of the PFC, including shifts in mitochondrial-related gene expression and plasticity-associated pathways. These changes may contribute to region-specific shifts in cortical inhibition and plasticity, complementing previous reports of fluoxetine-mediated behavioral modulation.
+DOI: 10.1038/s41386-025-02219-8
+ISSN: 0893-133X
+Tag der Erhebung (OOIR): 2025-10-02</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41386-025-02219-8-2025-10-02-3</guid>
+			<pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Short-term residual effects of smoked cannabis on simulated driving performance</title>
@@ -69,24 +99,9 @@ Abstract: Abstract
           
 DOI: 10.1007/s00213-025-06880-1
 ISSN: 0033-3158
-Tag der Erhebung (OOIR): 2025-10-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s00213-025-06880-1-2025-10-01-3</guid>
+Tag der Erhebung (OOIR): 2025-10-02</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s00213-025-06880-1-2025-10-02-4</guid>
 			<pubDate>Sat, 06 Sep 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>A New Ashwagandha Formulation (Zenroot™) Alleviates Stress and Anxiety Symptoms While Improving Mood and Sleep Quality: A Randomized, Double-Blind, Placebo-Controlled Clinical Study</title>
-			<link>https://doi.org/10.1007/s12325-025-03327-z</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Pharmacology &amp; Pharmacy
-Score: 65
-Autoren: Manasvi Mahadevan, Kumarpillai Gopukumar, Ruchi Gupta, Abhijeet Morde, Paras Patni, Sahitya Sarvamangala Srinivas, Arun Bhuvanendran, Abhijith Phanindra
-Journal: Advances in Therapy
-Veröffentlicht: 2025-08-28
-DOI: 10.1007/s12325-025-03327-z
-ISSN: 0741-238X
-Tag der Erhebung (OOIR): 2025-10-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s12325-025-03327-z-2025-10-01-4</guid>
-			<pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Population Pharmacokinetic Modeling and Pediatric Exposure of Dexamethasone Sodium Phosphate Encapsulated in Erythrocytes (eDSP) Administered Monthly for Treatment of Neurological Symptoms of Patients With Ataxia Telangiectasia</title>
@@ -100,8 +115,8 @@ Veröffentlicht: 2025-09-22
 Abstract: ABSTRACTThe EryDex System (EDS) is a drug/device combination, which has been tested in clinical trials for ataxia telangiectasia (AT). EDS encapsulates dexamethasone sodium phosphate (DSP) solution in autologous erythrocytes at the point of care, and encapsulated DSP (eDSP) is infused back into the patient. Low doses of dexamethasone are released from erythrocytes over a 30‐day period. This study aimed to (1) characterize the pharmacokinetics (PK) of dexamethasone released from intravenously infused eDSP based on data collected in clinical trials of healthy adults and pediatric AT patients, and to (2) simulate and extrapolate exposure measures of dexamethasone following intravenous infusion of eDSP administered once per month over 6 months in a pediatric population. The population PK model was developed using dense PK data from a phase 1 study in healthy adults and sparse PK data from a phase 3 study in pediatric AT patients. Three dose levels were studied, and the overall PK population included 24 healthy adults and 109 AT patients. The PK of dexamethasone released from eDSP was described using a simplified two‐compartment model, adequate for estimating systemic exposure despite not fully capturing RBC release kinetics indicative of a triphasic pattern. The model showed a good fit, and future refinement will include mechanistic release modeling as more in vitro and in vivo data become available. Monte Carlo simulations of eDSP showed a rapid peak at 0.67 h, followed by sustained dexamethasone release; faster in the first 24 h, then slower over 20–30 days. No accumulation occurred with once‐monthly dosing.
 DOI: 10.1002/psp4.70103
 ISSN: 2163-8306
-Tag der Erhebung (OOIR): 2025-10-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/psp4.70103-2025-10-01-5</guid>
+Tag der Erhebung (OOIR): 2025-10-02</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/psp4.70103-2025-10-02-5</guid>
 			<pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>

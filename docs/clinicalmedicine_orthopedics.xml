@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Orthopedics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 01 Oct 2025 01:07:52 GMT</pubDate>
-		<lastBuildDate>Wed, 01 Oct 2025 01:07:52 GMT</lastBuildDate>
+		<pubDate>Thu, 02 Oct 2025 00:59:41 GMT</pubDate>
+		<lastBuildDate>Thu, 02 Oct 2025 00:59:41 GMT</lastBuildDate>
 		<item>
 			<title>Is a Response to Intraoperative Electrical Nerve Stimulation Associated With Recovery After Stretch Injury in the Rat Median Nerve?</title>
 			<link>https://doi.org/10.1097/corr.0000000000003672</link>
@@ -42,31 +42,16 @@ Abstract:
           
 DOI: 10.1097/corr.0000000000003672
 ISSN: 0009-921X
-Tag der Erhebung (OOIR): 2025-10-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1097/corr.0000000000003672-2025-10-01-1</guid>
+Tag der Erhebung (OOIR): 2025-10-02</description>
+			<guid isPermaLink="false">ooir-trend-10.1097/corr.0000000000003672-2025-10-02-1</guid>
 			<pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Risk factors for the development of knee osteoarthritis across the lifespan: A systematic review and meta-analysis</title>
-			<link>https://doi.org/10.1016/j.joca.2025.03.003</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Orthopedics
-Score: 30
-Autoren: Vicky Duong, Christina Abdel Shaheed, Manuela L. Ferreira, Sujita W. Narayan, Venkatesha Venkatesha, David J. Hunter, Jimmy Zhu, Inoshi Atukorala, Sarah Kobayashi, Siew Li Goh, Andrew M. Briggs, Marita Cross, Rolando Espinosa-Morales, Kai Fu, Francis Guillemin, Francis Keefe, L. Stefan Lohmander, Lyn March, George J. Milne, Yifang Mei, Ali Mobasheri, Mosedi Namane, George Peat, May Arna Risberg, Saurab Sharma, Regina Sit, Rosa Weiss Telles, Yuqing Zhang, Cyrus Cooper
-Journal: Osteoarthritis and Cartilage
-Veröffentlicht: 2025-10-01
-DOI: 10.1016/j.joca.2025.03.003
-ISSN: 1063-4584
-Tag der Erhebung (OOIR): 2025-10-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.joca.2025.03.003-2025-10-01-2</guid>
-			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>The Broken Wing Sign: A New Clinical Test to Detect Gluteus Medius Pathology with and without Fatty Infiltration</title>
 			<link>https://doi.org/10.2106/jbjs.25.00427</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Orthopedics
-Score: 28
+Score: 31
 Autoren: Rafael J. Sierra, Sergio F. Guarin Perez, Diego J. Restrepo, Benjamin M. Howe, Ta-Wei Tai
 Journal: Journal of Bone and Joint Surgery
 Veröffentlicht: 2025-09-12
@@ -92,9 +77,24 @@ Abstract:
           
 DOI: 10.2106/jbjs.25.00427
 ISSN: 0021-9355
-Tag der Erhebung (OOIR): 2025-10-01</description>
-			<guid isPermaLink="false">ooir-trend-10.2106/jbjs.25.00427-2025-10-01-3</guid>
+Tag der Erhebung (OOIR): 2025-10-02</description>
+			<guid isPermaLink="false">ooir-trend-10.2106/jbjs.25.00427-2025-10-02-2</guid>
 			<pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Risk factors for the development of knee osteoarthritis across the lifespan: A systematic review and meta-analysis</title>
+			<link>https://doi.org/10.1016/j.joca.2025.03.003</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 30
+Autoren: Vicky Duong, Christina Abdel Shaheed, Manuela L. Ferreira, Sujita W. Narayan, Venkatesha Venkatesha, David J. Hunter, Jimmy Zhu, Inoshi Atukorala, Sarah Kobayashi, Siew Li Goh, Andrew M. Briggs, Marita Cross, Rolando Espinosa-Morales, Kai Fu, Francis Guillemin, Francis Keefe, L. Stefan Lohmander, Lyn March, George J. Milne, Yifang Mei, Ali Mobasheri, Mosedi Namane, George Peat, May Arna Risberg, Saurab Sharma, Regina Sit, Rosa Weiss Telles, Yuqing Zhang, Cyrus Cooper
+Journal: Osteoarthritis and Cartilage
+Veröffentlicht: 2025-10-01
+DOI: 10.1016/j.joca.2025.03.003
+ISSN: 1063-4584
+Tag der Erhebung (OOIR): 2025-10-02</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.joca.2025.03.003-2025-10-02-3</guid>
+			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Medial Tibial Stress Syndrome Needs a New Name—Make No Bones About It</title>
@@ -105,28 +105,28 @@ Score: 22
 Autoren: Laura M. Anderson, Stuart J. Warden, Richard W. Willy, Daniel R. Bonanno, Hylton B. Menz
 Journal: Journal of Orthopaedic &amp;amp; Sports Physical Therapy
 Veröffentlicht: 2025-10-01
-Abstract:  SYNOPSIS: Pain near the posteromedial tibia is common in running and jumping athletes. This problem has had many names, with “shin splints” and “medial tibial stress syndrome” (MTSS) the most common. The term shin splints is nonspecific and nondescript, and has never gained clinical traction. Similarly, the clinical use of MTSS with athletes and coaches is often met with confusion as “tibial stress” is frequently misinterpreted as indicating a bone stress injury. With no conclusive evidence regarding the pathophysiology of MTSS, we advocate renaming it “Load Induced Medial-Leg Pain” (LIMP). LIMP avoids the use of “tibial stress,” which is problematic due to the unknown pathology of the condition and its confusion with bone stress injury. Using the term LIMP instead of MTSS gives clinicians, researchers, and athletes a clearer, more accurate way to approach managing exercise-related lower leg pain. J Orthop Sports Phys Ther 2025;55(10):1-2. Epub 18 August 2025. doi:10.2519/jospt.2025.13411 
+Abstract:  SYNOPSIS: Pain near the posteromedial tibia is common in running and jumping athletes. This problem has had many names, with “shin splints” and “medial tibial stress syndrome” (MTSS) the most common. The term shin splints is nonspecific and nondescript, and has never gained clinical traction. Similarly, the clinical use of MTSS with athletes and coaches is often met with confusion as “tibial stress” is frequently misinterpreted as indicating a bone stress injury. With no conclusive evidence regarding the pathophysiology of MTSS, we advocate renaming it “Load Induced Medial-Leg Pain” (LIMP). LIMP avoids the use of “tibial stress,” which is problematic due to the unknown pathology of the condition and its confusion with bone stress injury. Using the term LIMP instead of MTSS gives clinicians, researchers, and athletes a clearer, more accurate way to approach managing exercise-related lower leg pain. J Orthop Sports Phys Ther 2025;55(10):621-622. Epub 18 August 2025. doi:10.2519/jospt.2025.13411 
 DOI: 10.2519/jospt.2025.13411
 ISSN: 0190-6011
-Tag der Erhebung (OOIR): 2025-10-01</description>
-			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2025.13411-2025-10-01-4</guid>
+Tag der Erhebung (OOIR): 2025-10-02</description>
+			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2025.13411-2025-10-02-4</guid>
 			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Effects of landing instructions on Achilles tendon load: Emphasising hip flexion as the optimal strategy</title>
-			<link>https://doi.org/10.1002/ksa.70006</link>
+			<title>Efficacy of Therapeutic Patient Education for Managing Subacute and Chronic Musculoskeletal Conditions: A Systematic Review With Meta-Analysis</title>
+			<link>https://doi.org/10.2519/jospt.2025.13247</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Orthopedics
-Score: 13
-Autoren: Yuta Koshino, Mina Samukawa, Tomoya Ishida, Harukazu Tohyama
-Journal: Knee Surgery, Sports Traumatology, Arthroscopy
-Veröffentlicht: 2025-08-29
-Abstract: AbstractPurposeManaging Achilles tendon (AT) load during dynamic activities is essential for preventing and rehabilitating Achilles tendinopathy. While various exercises have been studied, the impact of verbal instructions on landing mechanics remains unclear. This study aimed to identify instructional methods that effectively reduce AT load during drop vertical jumps (DVJs).MethodsTwenty‐three healthy participants performed DVJs under five instructional conditions: (1) natural: no instruction; (2) posterior‐centre of pressure (COP): shifting the COP posteriorly; (3) hip‐flexion: increasing hip flexion; (4) knee‐flexion: increasing knee flexion; and (5) quiet‐landing: minimising landing sound. A three‐dimensional motion analysis system recorded peak AT force, loading rate, joint angles, ground reaction force (GRF) and COP position. Data were analysed using the Friedman test, the Wilcoxon signed‐rank test with Holm's correction and effect size (ES).ResultsPeak AT force was significantly lower in hip‐flexion and posterior‐COP compared to natural (p &amp;lt; 0.001, ES = −0.87 and −0.82, respectively). Hip‐flexion also showed lower AT force than the knee‐flexion and quiet‐landing (p &amp;lt; 0.01). Loading rates were lower in hip‐flexion (ES = −0.73) and quiet‐landing (ES = −0.64) than in natural (p &amp;lt; 0.01) but were higher in posterior‐COP than hip‐flexion (p = 0.042). Hip‐flexion, knee‐flexion and quiet‐landing increased hip flexion (p &amp;lt; 0.001), while knee‐flexion and quiet‐landing increased knee flexion (p &amp;lt; 0.001) compared to natural. Posterior‐COP resulted in decreased hip, knee and ankle flexion, increased vertical GRF and a more posterior COP position compared to the other conditions (p &amp;lt; 0.05). Vertical GRF was lower in hip‐flexion, knee‐flexion and quiet‐landing than in natural (p &amp;lt; 0.005).ConclusionsIncreasing hip flexion is the most effective strategy for reducing AT force during landing, and may aid in the prevention and rehabilitation of Achilles tendinopathy. Although a posterior COP shift lowers AT force, it increases AT loading rate and GRF, potentially elevating injury risk.Level of EvidenceLevel III.
-DOI: 10.1002/ksa.70006
-ISSN: 0942-2056
-Tag der Erhebung (OOIR): 2025-10-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/ksa.70006-2025-10-01-5</guid>
-			<pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+Score: 12
+Autoren: Audrey-Anne Cormier, François Desmeules, Frédérique Dupuis, Simon Lafrance, Jean-Sébastien Côté, Marc-Olivier Dubé, Lori Michener, Peter Malliaras, Marie Désilets, Hugo Masse-Alarie, Jean-Sébastien Roy
+Journal: Journal of Orthopaedic &amp;amp; Sports Physical Therapy
+Veröffentlicht: 2025-10-01
+Abstract:  OBJECTIVE: To evaluate the efficacy of therapeutic patient education delivered by a health care provider, either alone or in combination with other rehabilitation interventions, for reducing pain and disability in adults with subacute and chronic musculoskeletal conditions.  DESIGN: Intervention systematic review with meta-analysis.  LITERATURE SEARCH: Five databases were searched from 2005 to 2025.  STUDY SELECTION CRITERIA: Randomized clinical trials (RCTs) evaluating the efficacy of therapeutic patient education in adults with subacute and chronic musculoskeletal conditions, compared to other interventions such as exercise programs. Outcomes included pain, disability, quality of life, kinesiophobia, and catastrophizing.  DATA SYNTHESIS: Treatment effects were estimated using random-effects models with standardized mean differences. Risk of bias was assessed using the Cochrane RoB 2.0 tool. Certainty of evidence was evaluated using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) framework.  RESULTS: Sixty-nine RCTs were included, and 56 contributed data to meta-analyses (n = 6773 participants; mean age, 43.1 ± 10.3 years; 63% female). Adding therapeutic patient education to other interventions likely reduced pain, disability, and catastrophizing in the short term (moderate-certainty evidence), may reduce pain and disability in the medium term (low-certainty evidence), and likely resulted in a large reduction in kinesiophobia in the short and medium terms (moderate-certainty evidence). The efficacy of therapeutic patient education as a stand-alone intervention was uncertain.  CONCLUSION: Evidence supports using therapeutic patient education, in combination with other rehabilitation interventions, to reduce pain, disability, kinesiophobia, and catastrophizing in adults with subacute and chronic musculoskeletal conditions. The magnitude of the effects may vary from small to large. J Orthop Sports Phys Ther 2025;55(10):623-648. Epub 20 August 2025. doi:10.2519/jospt.2025.13247 
+DOI: 10.2519/jospt.2025.13247
+ISSN: 0190-6011
+Tag der Erhebung (OOIR): 2025-10-02</description>
+			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2025.13247-2025-10-02-5</guid>
+			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
