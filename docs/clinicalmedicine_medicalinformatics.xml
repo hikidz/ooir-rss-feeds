@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Fri, 03 Oct 2025 00:59:18 GMT</pubDate>
-		<lastBuildDate>Fri, 03 Oct 2025 00:59:18 GMT</lastBuildDate>
+		<pubDate>Sat, 04 Oct 2025 00:56:59 GMT</pubDate>
+		<lastBuildDate>Sat, 04 Oct 2025 00:56:59 GMT</lastBuildDate>
 		<item>
 			<title>Detecting, Characterizing, and Mitigating Implicit and Explicit Racial Biases in Health Care Datasets With Subgroup Learnability: Algorithm Development and Validation Study</title>
 			<link>https://doi.org/10.2196/71757</link>
@@ -39,8 +39,8 @@ Abstract: Abstract
           
 DOI: 10.2196/71757
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-10-03</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/71757-2025-10-03-1</guid>
+Tag der Erhebung (OOIR): 2025-10-04</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/71757-2025-10-04-1</guid>
 			<pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -54,45 +54,48 @@ Journal: Journal of Medical Internet Research
 Veröffentlicht: 2025-09-19
 DOI: 10.2196/83499
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-10-03</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/83499-2025-10-03-2</guid>
+Tag der Erhebung (OOIR): 2025-10-04</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/83499-2025-10-04-2</guid>
 			<pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Video and Telephone Telehealth Use and Web-Based Patient Portal Activation Among Rural-Dwelling Patients: Retrospective Medical Record Review and Policy Implications</title>
-			<link>https://doi.org/10.2196/67226</link>
+			<title>New Doc on the Block: Scoping Review of AI Systems Delivering Motivational Interviewing for Health Behavior Change</title>
+			<link>https://doi.org/10.2196/78417</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 41
-Autoren: Meghan Rowe Ferrara, Gina Intinarelli-Shuler, Susan A Chapman
+Score: 43
+Autoren: Zev Karve, Jacob Calpey, Christopher Machado, Michelle Knecht, Maria Carmenza Mejia
 Journal: Journal of Medical Internet Research
-Veröffentlicht: 2025-08-29
-Abstract: Abstract
-          
+Veröffentlicht: 2025-09-16
+Abstract: 
             Background
-            Telehealth may redress rural health care shortages in the United States and improve related rural health disparities. However, following the expansion of telehealth related to the COVID-19 pandemic, telehealth use has been lower among rural populations compared to urban populations. Certain populations are also more likely to use audio-only telehealth, with implications for care quality.
+            Artificial intelligence (AI) is increasingly used in digital health, particularly through large language models (LLMs), to support patient engagement and behavior change. One novel application is the delivery of motivational interviewing (MI), an evidence-based, patient-centered counseling technique designed to enhance motivation and resolve ambivalence around health behaviors. AI tools, including chatbots, mobile apps, and web-based agents, are being developed to simulate MI techniques at scale. While these innovations are promising, important questions remain about how faithfully AI systems can replicate MI principles or achieve meaningful behavioral impact.
           
           
             Objective
-            The aim of this study is to describe demographic and telehealth use characteristics of a population of rural-dwelling adult patients and explore relationships of these characteristics with patients’ level of rurality and with modality of patients’ most recent telehealth encounter.
+            This scoping review aimed to summarize existing empirical studies evaluating AI-driven systems that apply MI techniques to support health behavior change. Specifically, we examined the feasibility of these systems; their fidelity to MI principles; and their reported behavioral, psychological, or engagement outcomes.
           
           
             Methods
-            We conducted a retrospective medical record review of adults who lived in rural California zip codes and used telehealth at an urban medical center from December 2021 to December 2022. Rural-Urban Commuting Area codes were used to assign rurality and group patients by 3 levels of rurality. Telehealth visits were defined as video-enabled and telephone encounters. Variables included age, race or ethnicity, preferred language, payer, web-based patient portal activation status (as proxy for digital health literacy), video or telephone modality, and visit provider. Chi-square and Fisher exact tested associations of demographic and encounter characteristics with patient level of rurality and telehealth encounter modality.
+            We systematically searched PubMed, Embase, Scopus, Web of Science, and Cochrane Library for empirical studies published between January 1, 2018, and February 25, 2025. Eligible studies involved AI-driven systems using natural language generation, understanding, or computational logic to deliver MI techniques to users targeting a specific health behavior. We excluded studies using AI solely for training clinicians in MI. Three independent reviewers screened and extracted data on study design, AI modality and type, MI components, health behavior focus, MI fidelity assessment, and outcome domains.
           
           
             Results
-            A total of 9359 patients were included. Telehealth patients living in the most rural zip codes were older, and a higher proportion were White compared to those in less rural zip codes. Patients who were American Indian, Asian, Black, and Latino together comprised 18.8% (n=1760) of the sample, lower than that in rural California counties. Video visit use was significantly lower among patients who were 65 years of age or older (n=3183, 91.3% vs n=5507, 93.8% for younger than 65 years; χ21=19.3; P&amp;lt;.001), Latino race or ethnicity (n=1229, 90.9% vs n=6078, 93.4% among White patients; χ23=12.0; P=.008), primary Spanish speakers (n=336, 87.7% vs n=8305, 93% among English speakers; Fisher exact, P&amp;lt;.001), and publicly insured (Medicare: n=3843, 91.7%; Medicaid: n=1717, 92.2%; privately insured: n=3130, 94.7%; χ22=27.9; P&amp;lt;.001). Patient portal activation was lower among Latinx patients (n=1183, 87.5% vs n=6099, 93.7% among White patients), Spanish speakers (n=295, 77% vs n=8241, 92.3% among English speakers; Fisher exact: P&amp;lt;.001), and Medicaid patients (n=1635, 87.8%; Medicare: n=3802, 90.7%; privately insured: n=3140, 95%; χ24=106.3; P&amp;lt;.001).
+            Of the 1001 records identified, 15 (1.5%) met the inclusion criteria. Of these 15 studies, 6 (40%) were exploratory feasibility or pilot studies, and 3 (20%) were randomized controlled trials. AI modalities included rule-based chatbots (9/15, 60%), LLM-based systems (4/15, 27%), and virtual or mobile agents (2/15, 13%). Targeted behaviors included smoking cessation (6/15, 40%), substance use (3/15, 20%), COVID-19 vaccine hesitancy, type 2 diabetes self-management, stress, mental health service use, and opioid use during pregnancy. Of the 15 studies, 13 (87%) reported positive findings on feasibility or user acceptability, while 6 (40%) assessed MI fidelity using expert review or structured coding, with moderate to high alignment reported. Several studies found that users perceived the AI systems as judgment free, supportive, and easier to engage with than human counselors, particularly in stigmatized contexts. However, limitations in empathy, safety transparency, and emotional nuance were commonly noted. Only 3 (20%) of the 15 studies reported substantially significant behavioral changes.
           
           
             Conclusions
-            Findings substantiate concerns of rural telehealth access disparities, particularly among patients who are older, of minoritized race or ethnicity, and Spanish-speaking. Ongoing research is needed to understand how underserved rural populations use telehealth. To address telehealth use disparities, policy should address patient-level barriers by supporting measures such as health care navigation resources, culturally tailored telehealth patient outreach, digital access assessment, and patient digital education. Evidence-based telehealth reimbursement policy is essential to support access and address provider-side barriers.
+            AI systems delivering MI show promise for enhancing patient engagement and scaling behavior change interventions. Early evidence supports their usability and partial fidelity to MI principles, especially in sensitive domains. However, most systems remain in early development, and few have been rigorously tested. Future research should prioritize randomized evaluations; standardized fidelity measures; and safeguards for LLM safety, empathy, and accuracy in health-related dialogue.
           
-DOI: 10.2196/67226
+          
+            Trial Registration
+            OSF Registries 10.17605/OSF.IO/G9N7E; https://osf.io/g9n7e
+          
+DOI: 10.2196/78417
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-10-03</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/67226-2025-10-03-3</guid>
-			<pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+Tag der Erhebung (OOIR): 2025-10-04</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/78417-2025-10-04-3</guid>
+			<pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Demographic and Socioeconomic Disparities in Telemedicine Use Among Individuals With Type 2 Diabetes in Primary Care: Systematic Review and Meta-Analysis</title>
@@ -126,8 +129,8 @@ Abstract: Abstract
           
 DOI: 10.2196/73113
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-10-03</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/73113-2025-10-03-4</guid>
+Tag der Erhebung (OOIR): 2025-10-04</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/73113-2025-10-04-4</guid>
 			<pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -161,8 +164,8 @@ Abstract:
           
 DOI: 10.2196/73495
 ISSN: 2291-9694
-Tag der Erhebung (OOIR): 2025-10-03</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/73495-2025-10-03-5</guid>
+Tag der Erhebung (OOIR): 2025-10-04</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/73495-2025-10-04-5</guid>
 			<pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
