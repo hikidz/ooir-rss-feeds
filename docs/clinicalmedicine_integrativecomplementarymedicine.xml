@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Integrative &amp; Complementary Medicine) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 04 Oct 2025 00:56:54 GMT</pubDate>
-		<lastBuildDate>Sat, 04 Oct 2025 00:56:54 GMT</lastBuildDate>
+		<pubDate>Sun, 05 Oct 2025 01:05:57 GMT</pubDate>
+		<lastBuildDate>Sun, 05 Oct 2025 01:05:57 GMT</lastBuildDate>
 		<item>
 			<title>Baseline individual factors associated with clinical outcomes in adults with non-specific low back pain following manual therapy: a systematic review</title>
 			<link>https://doi.org/10.1186/s12906-025-04975-y</link>
@@ -18,86 +18,69 @@ Journal: BMC Complementary Medicine and Therapies
 Veröffentlicht: 2025-09-18
 DOI: 10.1186/s12906-025-04975-y
 ISSN: 2662-7671
-Tag der Erhebung (OOIR): 2025-10-04</description>
-			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-04975-y-2025-10-04-1</guid>
+Tag der Erhebung (OOIR): 2025-10-05</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-04975-y-2025-10-05-1</guid>
 			<pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Systematic review of clinical practice guidelines on acupuncture for chronic musculoskeletal pain</title>
-			<link>https://doi.org/10.1186/s12906-025-05070-y</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Integrative &amp; Complementary Medicine
-Score: 19
-Autoren: Leonard Ho, Cyrus Ngo Tin Lai, Haiyong Chen, Sheung Wai Law, Edwin Chau Leung Yu, Fiona Pui Yan Lam, Yi Chung Cheung, Irene Xinyin Wu, Samuel Yeung Shan Wong, Regina Wing Shan Sit
-Journal: BMC Complementary Medicine and Therapies
-Veröffentlicht: 2025-09-01
-Abstract: Abstract
-          
-            Introduction
-            Acupuncture is increasingly utilised in primary care to manage chronic musculoskeletal pain, supported by a growing body of evidence. This rising adoption has driven demand for clinical practice guidelines (CPGs). We summarised the characteristics of recent acupuncture CPGs for osteoarthritis, low back pain, neck pain, and shoulder pain, and critically appraised their methodological quality.
-          
-          
-            Methods
-            We searched nine databases to identify acupuncture CPGs published from January 2014 to November 2024. Eligible CPGs were required to be developed by guideline committees and to include evidence-informed recommendations linked to clearly defined levels of evidence. Two independent reviewers extracted CPG characteristics and assessed methodological quality using the Appraisal of Guidelines for Research and Evaluation II (AGREE II) instrument.
-          
-          
-            Results
-            Of the 1,999 records screened, 17 CPGs were included, encompassing 35 recommendations. Shoulder pain was the most addressed condition (n = 14), followed by low back pain (n = 11), osteoarthritis (n = 8), and neck pain (n = 2). Various types of acupuncture were considered, with manual acupuncture featuring in most (n = 26) recommendations. Overall, 60% of the recommendations supported the use of acupuncture, comprising 5.7% strong recommendations and 54.3% weak or conditional recommendations. In contrast, 22.9% of recommendations offered no explicit guidance, while 17.1% advised against its use. Methodological assessment classified 10 CPGs as high quality, while seven were of moderate quality.
-          
-          
-            Conclusions
-            Contradictions exist among the included CPGs regarding whether acupuncture should be recommended for routine practice, potentially reflecting differences in clinical and cultural contexts. Local CPGs should be developed using rigorous methodology, ensuring the involvement of local stakeholders. An AGREE II extension should be developed for the methodological quality assessment of acupuncture CPGs.
-          
-DOI: 10.1186/s12906-025-05070-y
-ISSN: 2662-7671
-Tag der Erhebung (OOIR): 2025-10-04</description>
-			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05070-y-2025-10-04-2</guid>
-			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Comprehensive Network pharmacology and in vitro investigation of L-mimosine: unveiling multi-targeted therapeutic potential against breast cancer</title>
-			<link>https://doi.org/10.1186/s12906-025-04905-y</link>
+			<title>Aqueous extract of Peristrophe bivalvis leaf alleviates oxidative stress in L-NAME-induced hypertensive rats</title>
+			<link>https://doi.org/10.1186/s12906-025-05071-x</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Integrative &amp; Complementary Medicine
 Score: 15
-Autoren: Jyoti Kumari Yadav, Krupa Shah, Mohammadfesal Ghanchi, Gaurang sindhav, Saumya Patel, Rakesh Rawal
+Autoren: Esther Oluwasola Aluko, Wahab Adekunle Oyeyemi, Adesoji Adedipe Fasanmade
 Journal: BMC Complementary Medicine and Therapies
-Veröffentlicht: 2025-09-01
-DOI: 10.1186/s12906-025-04905-y
+Veröffentlicht: 2025-09-24
+DOI: 10.1186/s12906-025-05071-x
 ISSN: 2662-7671
-Tag der Erhebung (OOIR): 2025-10-04</description>
-			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-04905-y-2025-10-04-3</guid>
-			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+Tag der Erhebung (OOIR): 2025-10-05</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05071-x-2025-10-05-2</guid>
+			<pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Drug counseling for herbal medicines: patients’ perspectives on the professional performance of pharmacists in urban pharmacies</title>
-			<link>https://doi.org/10.1186/s12906-025-05079-3</link>
+			<title>Effect of fennel extract on Anti-Müllerian Hormone and sonographic indices in infertile women with occult premature ovarian insufficiency: a randomized controlled clinical trial</title>
+			<link>https://doi.org/10.1186/s12906-025-05078-4</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Integrative &amp; Complementary Medicine
 Score: 15
-Autoren: Mohammad Javad Khoshnoud, Afsaneh Hajian, Omid Asemani
+Autoren: Maryam Banaei, Shirin Hasanpour, Reyhaneh Ivanbaga, Laya Farzadi, Sakineh Mohammad-Alizadeh-Charandabi, Elnaz Shaseb, Elham Egbali, Vahideh Rahmani
 Journal: BMC Complementary Medicine and Therapies
 Veröffentlicht: 2025-09-30
-DOI: 10.1186/s12906-025-05079-3
+DOI: 10.1186/s12906-025-05078-4
 ISSN: 2662-7671
-Tag der Erhebung (OOIR): 2025-10-04</description>
-			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05079-3-2025-10-04-4</guid>
+Tag der Erhebung (OOIR): 2025-10-05</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05078-4-2025-10-05-3</guid>
 			<pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Synergistic overcoming of cisplatin resistance in ovarian cancer by combined Astragalus Membranaceus and cisplatin treatment: network pharmacology and experimental validation</title>
-			<link>https://doi.org/10.1186/s12906-025-05066-8</link>
+			<title>Multiform-based Yi Jin Jing exercise against osteoarthritis of the knee: study protocol for a randomised controlled trial</title>
+			<link>https://doi.org/10.1186/s12906-025-05105-4</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Integrative &amp; Complementary Medicine
 Score: 15
-Autoren: Fei Wang, Qing-fang Yue, Yu Zhang, Fang-liang Lei
+Autoren: Zehao Hu, Guohua Chen, Qiuxuan Huang, Zhanxin Li, Peixin Huang, Xiangmin Li, Wenyon Lv, Chuangjian Lin, Danzi Chen, Zenan Wu
 Journal: BMC Complementary Medicine and Therapies
-Veröffentlicht: 2025-09-30
-DOI: 10.1186/s12906-025-05066-8
+Veröffentlicht: 2025-10-02
+DOI: 10.1186/s12906-025-05105-4
 ISSN: 2662-7671
-Tag der Erhebung (OOIR): 2025-10-04</description>
-			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05066-8-2025-10-04-5</guid>
-			<pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+Tag der Erhebung (OOIR): 2025-10-05</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05105-4-2025-10-05-4</guid>
+			<pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>TriCAM (NCT02976558) – a randomized controlled pilot study of complementary medicine in allogeneic stem cell transplantation to improve quality of life</title>
+			<link>https://doi.org/10.1186/s12906-025-05058-8</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Integrative &amp; Complementary Medicine
+Score: 15
+Autoren: Ali Behzad, Stefan W. Krause, Andreas Mackensen, Fabian Müller, Anja Stark, Simon Völkl, Wolf Rösler
+Journal: BMC Complementary Medicine and Therapies
+Veröffentlicht: 2025-09-08
+DOI: 10.1186/s12906-025-05058-8
+ISSN: 2662-7671
+Tag der Erhebung (OOIR): 2025-10-05</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12906-025-05058-8-2025-10-05-5</guid>
+			<pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
