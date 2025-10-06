@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sun, 05 Oct 2025 01:06:01 GMT</pubDate>
-		<lastBuildDate>Sun, 05 Oct 2025 01:06:01 GMT</lastBuildDate>
+		<pubDate>Mon, 06 Oct 2025 01:01:21 GMT</pubDate>
+		<lastBuildDate>Mon, 06 Oct 2025 01:01:21 GMT</lastBuildDate>
 		<item>
 			<title>Detecting, Characterizing, and Mitigating Implicit and Explicit Racial Biases in Health Care Datasets With Subgroup Learnability: Algorithm Development and Validation Study</title>
 			<link>https://doi.org/10.2196/71757</link>
@@ -39,8 +39,8 @@ Abstract: Abstract
           
 DOI: 10.2196/71757
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-10-05</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/71757-2025-10-05-1</guid>
+Tag der Erhebung (OOIR): 2025-10-06</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/71757-2025-10-06-1</guid>
 			<pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -54,9 +54,44 @@ Journal: Journal of Medical Internet Research
 Veröffentlicht: 2025-09-19
 DOI: 10.2196/83499
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-10-05</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/83499-2025-10-05-2</guid>
+Tag der Erhebung (OOIR): 2025-10-06</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/83499-2025-10-06-2</guid>
 			<pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Virtual Transition of Care Clinics and Associated Readmission Rates: 3-Year Retrospective Cohort Study</title>
+			<link>https://doi.org/10.2196/73495</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 44
+Autoren: Sarah F Horman, Milla Kviatkovsky, Edward Castillo, Patricia Maysent, Chad VanDenBerg, John Bell, Christopher A Longhurst
+Journal: JMIR Medical Informatics
+Veröffentlicht: 2025-09-23
+Abstract: 
+            Background
+            Hospital readmissions pose a significant burden on patients, health care providers, and systems, with an estimated annual cost of $17 billion. Timely follow-up within 7 days postdischarge is known to reduce readmissions but is often limited by access constraints. While transitions of care clinics have demonstrated benefits in reducing unplanned readmissions, physical space requirements can be logistically and financially challenging.
+          
+          
+            Objective
+            This study aimed to evaluate the effectiveness of a virtual transitions of care (VToC) clinic in reducing 30-day hospital readmissions and improving postdischarge care coordination.
+          
+          
+            Methods
+            University of California, San Diego Health implemented a hospitalist-led VToC clinic designed to support clinical management, medication reconciliation, primary care provider repatriation, and specialty care navigation. The study included 2314 patients seen in the VToC clinic between September 2021 and September 2024. Outcomes were compared to a benchmark group using regression analysis to assess the impact on 30-day readmission rates.
+          
+          
+            Results
+            The 30-day readmission rate for VToC patients was 14.9% (344/2314), significantly lower than the 20.1% (4659/23,129) observed in the benchmark group (P&amp;lt;.001). Regression analysis indicated that patients not participating in the VToC clinic had a higher likelihood of readmission (odds ratio=1.37; 95% CI=1.21-1.54; P&amp;lt;.001). The most substantial reduction in readmissions was observed among patients with moderate readmission risk (LACE+ score of 50-75).
+          
+          
+            Conclusions
+            VToC clinics are a feasible and effective strategy for enhancing postdischarge care, reducing hospital readmissions, and improving care coordination. This model supports the quadruple aim by promoting better health outcomes, improved patient experience, cost-efficiency, and care equity.
+          
+DOI: 10.2196/73495
+ISSN: 2291-9694
+Tag der Erhebung (OOIR): 2025-10-06</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/73495-2025-10-06-3</guid>
+			<pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>New Doc on the Block: Scoping Review of AI Systems Delivering Motivational Interviewing for Health Behavior Change</title>
@@ -93,8 +128,8 @@ Abstract:
           
 DOI: 10.2196/78417
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-10-05</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/78417-2025-10-05-3</guid>
+Tag der Erhebung (OOIR): 2025-10-06</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/78417-2025-10-06-4</guid>
 			<pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -129,44 +164,9 @@ Abstract: Abstract
           
 DOI: 10.2196/73113
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-10-05</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/73113-2025-10-05-4</guid>
+Tag der Erhebung (OOIR): 2025-10-06</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/73113-2025-10-06-5</guid>
 			<pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Virtual Transition of Care Clinics and Associated Readmission Rates: 3-Year Retrospective Cohort Study</title>
-			<link>https://doi.org/10.2196/73495</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 31
-Autoren: Sarah F Horman, Milla Kviatkovsky, Edward Castillo, Patricia Maysent, Chad VanDenBerg, John Bell, Christopher A Longhurst
-Journal: JMIR Medical Informatics
-Veröffentlicht: 2025-09-23
-Abstract: 
-            Background
-            Hospital readmissions pose a significant burden on patients, health care providers, and systems, with an estimated annual cost of $17 billion. Timely follow-up within 7 days postdischarge is known to reduce readmissions but is often limited by access constraints. While transitions of care clinics have demonstrated benefits in reducing unplanned readmissions, physical space requirements can be logistically and financially challenging.
-          
-          
-            Objective
-            This study aimed to evaluate the effectiveness of a virtual transitions of care (VToC) clinic in reducing 30-day hospital readmissions and improving postdischarge care coordination.
-          
-          
-            Methods
-            University of California, San Diego Health implemented a hospitalist-led VToC clinic designed to support clinical management, medication reconciliation, primary care provider repatriation, and specialty care navigation. The study included 2314 patients seen in the VToC clinic between September 2021 and September 2024. Outcomes were compared to a benchmark group using regression analysis to assess the impact on 30-day readmission rates.
-          
-          
-            Results
-            The 30-day readmission rate for VToC patients was 14.9% (344/2314), significantly lower than the 20.1% (4659/23,129) observed in the benchmark group (P&amp;lt;.001). Regression analysis indicated that patients not participating in the VToC clinic had a higher likelihood of readmission (odds ratio=1.37; 95% CI=1.21-1.54; P&amp;lt;.001). The most substantial reduction in readmissions was observed among patients with moderate readmission risk (LACE+ score of 50-75).
-          
-          
-            Conclusions
-            VToC clinics are a feasible and effective strategy for enhancing postdischarge care, reducing hospital readmissions, and improving care coordination. This model supports the quadruple aim by promoting better health outcomes, improved patient experience, cost-efficiency, and care equity.
-          
-DOI: 10.2196/73495
-ISSN: 2291-9694
-Tag der Erhebung (OOIR): 2025-10-05</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/73495-2025-10-05-5</guid>
-			<pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

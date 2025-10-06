@@ -5,14 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, General &amp; Internal) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sun, 05 Oct 2025 01:06:05 GMT</pubDate>
-		<lastBuildDate>Sun, 05 Oct 2025 01:06:05 GMT</lastBuildDate>
+		<pubDate>Mon, 06 Oct 2025 01:01:25 GMT</pubDate>
+		<lastBuildDate>Mon, 06 Oct 2025 01:01:25 GMT</lastBuildDate>
 		<item>
 			<title>Alcohol use and risk of dementia in diverse populations: evidence from cohort, case–control and Mendelian randomisation approaches</title>
 			<link>https://doi.org/10.1136/bmjebm-2025-113913</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medicine, General &amp; Internal
-Score: 2941
+Score: 2949
 Autoren: Anya Topiwala, Daniel F Levey, Hang Zhou, Joseph D Deak, Keyrun Adhikari, Klaus P Ebmeier, Steven Bell, Stephen Burgess, Thomas E Nichols, Michael Gaziano, Murray Stein, Joel Gelernter
 Journal: BMJ Evidence-Based Medicine
 Veröffentlicht: 2025-09-23
@@ -46,25 +46,9 @@ Abstract:
                
 DOI: 10.1136/bmjebm-2025-113913
 ISSN: 2515-446X
-Tag der Erhebung (OOIR): 2025-10-05</description>
-			<guid isPermaLink="false">ooir-trend-10.1136/bmjebm-2025-113913-2025-10-05-1</guid>
+Tag der Erhebung (OOIR): 2025-10-06</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bmjebm-2025-113913-2025-10-06-1</guid>
 			<pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Single Treatment With MM120 (Lysergide) in Generalized Anxiety Disorder</title>
-			<link>https://doi.org/10.1001/jama.2025.13481</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, General &amp; Internal
-Score: 2852
-Autoren: Reid Robison, Robert Barrow, Craig Conant, Eric Foster, Jamie M. Freedman, Paula L. Jacobsen, Jamileh Jemison, Sarah M. Karas, Daniel R. Karlin, Todd M. Solomon, Miri Halperin Wernli, Maurizio Fava
-Journal: JAMA
-Veröffentlicht: 2025-09-04
-Abstract: ImportanceEffective and well-tolerated pharmacotherapies for generalized anxiety disorder (GAD), which is one of the most common psychiatric disorders, are needed.ObjectiveTo determine the dose-response relationship of MM120 (lysergide D-tartrate) in adults with moderate to severe GAD.Design, Settings, and ParticipantsThis phase 2b, multicenter, randomized, double-blind, placebo-controlled study enrolled 198 adults aged 18 to 74 years with a primary GAD diagnosis who presented with moderate to severe symptoms (defined by a Hamilton Anxiety Rating Scale [HAM-A] score ≥20) and was conducted at 22 outpatient psychiatric research sites in the US from August 2022 to August 2023. The anxiety and depression end point assessments were conducted by independent central raters who were blinded to the trial protocol, treatment allocation, and study visit date. The last date of follow-up was November 27, 2023.InterventionsParticipants were randomized to receive a single (freebase equivalent) treatment dose with 25 µg (n = 39), 50 µg (n = 40), 100 µg (n = 40), or 200 µg (n = 40) of MM120 or placebo (n = 39).Main Outcome and MeasuresThe primary outcome was a dose-response relationship assessed using the multiple comparison procedure modeling (MCP-Mod) method for change in HAM-A score at 4 weeks (score range, 0-56; higher scores indicate greater severity; ≤7 indicates no or minimal anxiety; 8-14, mild; 15-23, moderate; and ≥24, severe). The minimal clinically important difference was 2.5 points.ResultsOf the 198 participants randomized, 194 were included in the full analysis set (mean age, 41.3 [SD, 13.6] years; 56.7% were female; and 3.6% were Asian, 7.7% were Black or African American, and 83.0% were White). The dose-response relationship assessed using the MCP-Mod method for change in HAM-A score at week 4 was statistically significant for the 100-µg and the 200-µg dose groups vs placebo (least-squares mean difference, −5.0 points [95% CI, −9.6 to −0.4 points] with 100 µg of MM120 and −6.0 points [95% CI, −9.8 to −2.0 points] with 200 µg of MM120) but the 25-µg and 50-µg dose groups did not reach significance vs placebo (least-squares mean difference, −1.2 points [95% CI, −6.0 to 3.5 points] with 25 µg of MM120 and −1.8 points [95% CI, −7.6 to 4.0 points] with 50 µg of MM120). The adverse events were consistent with the expected effects of MM120. The most common adverse events were visual perceptual changes (illusion, pseudo-hallucination, and visual hallucination), which occurred in 46.2% of participants who received 25 µg of MM120, in 75.0% who received 50 µg, in 92.5% who received 100 µg, in 100% who received 200 µg, and in 10.3% who received placebo; nausea occurred in 7.7%, 27.5%, 40.0%, 60.0%, and 7.7%, respectively; and headache occurred in 12.8%, 22.5%, 35.0%, 27.5%, and 23.1%.Conclusions and RelevanceIn participants with moderate to severe GAD, a single dose of MM120 produced a dose-dependent reduction in anxiety. These results support the dose-dependent efficacy of MM120 and inform the dose selection for phase 3 pivotal trials.Trial RegistrationClinicalTrials.gov Identifier: NCT05407064
-DOI: 10.1001/jama.2025.13481
-ISSN: 0098-7484
-Tag der Erhebung (OOIR): 2025-10-05</description>
-			<guid isPermaLink="false">ooir-trend-10.1001/jama.2025.13481-2025-10-05-2</guid>
-			<pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Changes in Carbapenemase-Producing Carbapenem-Resistant Enterobacterales, 2019 to 2023</title>
@@ -77,8 +61,8 @@ Journal: Annals of Internal Medicine
 Veröffentlicht: 2025-09-23
 DOI: 10.7326/annals-25-02404
 ISSN: 0003-4819
-Tag der Erhebung (OOIR): 2025-10-05</description>
-			<guid isPermaLink="false">ooir-trend-10.7326/annals-25-02404-2025-10-05-3</guid>
+Tag der Erhebung (OOIR): 2025-10-06</description>
+			<guid isPermaLink="false">ooir-trend-10.7326/annals-25-02404-2025-10-06-2</guid>
 			<pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -93,8 +77,8 @@ Veröffentlicht: 2025-09-16
 Abstract: This study aims to estimate the number of excess deaths attributable to the Los Angeles wildfires using an interrupted time series design.
 DOI: 10.1001/jama.2025.10556
 ISSN: 0098-7484
-Tag der Erhebung (OOIR): 2025-10-05</description>
-			<guid isPermaLink="false">ooir-trend-10.1001/jama.2025.10556-2025-10-05-4</guid>
+Tag der Erhebung (OOIR): 2025-10-06</description>
+			<guid isPermaLink="false">ooir-trend-10.1001/jama.2025.10556-2025-10-06-3</guid>
 			<pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -108,9 +92,24 @@ Journal: Annals of Internal Medicine
 Veröffentlicht: 2025-09-01
 DOI: 10.7326/annals-25-00716
 ISSN: 0003-4819
-Tag der Erhebung (OOIR): 2025-10-05</description>
-			<guid isPermaLink="false">ooir-trend-10.7326/annals-25-00716-2025-10-05-5</guid>
+Tag der Erhebung (OOIR): 2025-10-06</description>
+			<guid isPermaLink="false">ooir-trend-10.7326/annals-25-00716-2025-10-06-4</guid>
 			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Low-Dose Aspirin for PI3K-Altered Localized Colorectal Cancer</title>
+			<link>https://doi.org/10.1056/nejmoa2504650</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, General &amp; Internal
+Score: 1684
+Autoren: Anna Martling, Ida Hed Myrberg, Mef Nilbert, Henrik Grönberg, Fredrik Granath, Martin Eklund, Tom Öresland, Lene H. Iversen, Carola Haapamäki, Martin Janson, Karin Westberg, Josefin Segelman, Urban Ersson, Mattias Prytz, Eva Angenete, Rebecka Bergström, Markus Mayrhofer, Bengt Glimelius, Johan Lindberg
+Journal: New England Journal of Medicine
+Veröffentlicht: 2025-09-18
+DOI: 10.1056/nejmoa2504650
+ISSN: 0028-4793
+Tag der Erhebung (OOIR): 2025-10-06</description>
+			<guid isPermaLink="false">ooir-trend-10.1056/nejmoa2504650-2025-10-06-5</guid>
+			<pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
