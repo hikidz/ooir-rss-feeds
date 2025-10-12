@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 11 Oct 2025 00:58:08 GMT</pubDate>
-		<lastBuildDate>Sat, 11 Oct 2025 00:58:08 GMT</lastBuildDate>
+		<pubDate>Sun, 12 Oct 2025 01:04:01 GMT</pubDate>
+		<lastBuildDate>Sun, 12 Oct 2025 01:04:01 GMT</lastBuildDate>
 		<item>
 			<title>Research Implications of Increased Political Oversight in the United States</title>
 			<link>https://doi.org/10.2196/83499</link>
@@ -18,8 +18,8 @@ Journal: Journal of Medical Internet Research
 Veröffentlicht: 2025-09-19
 DOI: 10.2196/83499
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-10-11</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/83499-2025-10-11-1</guid>
+Tag der Erhebung (OOIR): 2025-10-12</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/83499-2025-10-12-1</guid>
 			<pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -53,8 +53,8 @@ Abstract:
           
 DOI: 10.2196/73495
 ISSN: 2291-9694
-Tag der Erhebung (OOIR): 2025-10-11</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/73495-2025-10-11-2</guid>
+Tag der Erhebung (OOIR): 2025-10-12</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/73495-2025-10-12-2</guid>
 			<pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -92,9 +92,47 @@ Abstract:
           
 DOI: 10.2196/78417
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-10-11</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/78417-2025-10-11-3</guid>
+Tag der Erhebung (OOIR): 2025-10-12</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/78417-2025-10-12-3</guid>
 			<pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Effects of a Smartphone-Based Positive Reflection Diary on Work Engagement Among Japanese Workers: Randomized Controlled Trial</title>
+			<link>https://doi.org/10.2196/55664</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 41
+Autoren: Masahito Tokita, Shuichiro Kobayashi, Daisuke Miyanaka, Nobuyuki Takate, Hiroyuki Nakano, Kazuki Takeuchi, Akihito Shimazu
+Journal: JMIR mHealth and uHealth
+Veröffentlicht: 2025-09-25
+Abstract: 
+            Abstract 
+          
+          
+            Background
+            Work engagement is an important determinant of workers’ well-being. According to the job demands–resources model, personal resources are one of the key antecedents of work engagement. Enhancing personal resources leads to improved work engagement. Furthermore, reflecting positively on one’s achievements at work may enhance personal resources. Hence, there is a need for a simple, self-guided tool such as a smartphone app that can be used by employees to record and reflect on their work accomplishments.
+          
+          
+            Objective
+            This study aimed to evaluate the effect of a smartphone-based diary (ie, Work Engagement Diary) that promotes positive reflection in daily working life on work engagement among Japanese workers in a randomized controlled trial.
+          
+          
+            Methods
+            Six hundred Japanese workers who met the inclusion criteria were randomly allocated to either the intervention group or the wait-list control group (300 participants each) via a web survey company. Participants in the intervention group kept the Work Engagement Diary for 2 weeks, whereby they were required to set a weekly goal at the beginning of the week and fill in their work achievements at the end of the day. Those in the waitlist control group did not receive any interventions until they completed a follow-up survey. Work engagement was assessed at preintervention (T1), postintervention (T2), and 3 weeks after intervention (T3) in both groups.
+          
+          
+            Results
+            A mixed model for repeated measures conditional growth model analysis using intention-to-treat revealed a significant improvement in work engagement for the intervention group compared to the wait-list control group throughout the study period (P=.04). Effect sizes were small in work engagement for T1 versus T2 (Cohen d=0.11 [95% CI −0.06 to 0.28]) and for T1 versus T3 (Cohen d=0.12 [95% CI −0.06 to 0.28]).
+          
+          
+            Conclusions
+            This randomized controlled trial demonstrated that our newly developed smartphone-based positive reflection diary at work effectively improved work engagement among Japanese workers. Future research needs to clarify longer-term intervention effects and detailed mechanisms of the intervention effects.
+          
+DOI: 10.2196/55664
+ISSN: 2291-5222
+Tag der Erhebung (OOIR): 2025-10-12</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/55664-2025-10-12-4</guid>
+			<pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Quality safety and disparity of an AI chatbot in managing chronic diseases: simulated patient experiments</title>
@@ -107,45 +145,9 @@ Journal: npj Digital Medicine
 Veröffentlicht: 2025-09-25
 DOI: 10.1038/s41746-025-01956-w
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-10-11</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01956-w-2025-10-11-4</guid>
+Tag der Erhebung (OOIR): 2025-10-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01956-w-2025-10-12-5</guid>
 			<pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Demographic and Socioeconomic Disparities in Telemedicine Use Among Individuals With Type 2 Diabetes in Primary Care: Systematic Review and Meta-Analysis</title>
-			<link>https://doi.org/10.2196/73113</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 34
-Autoren: Nawwarah Alfarwan, Maria Panagioti, Alexander Hodkinson, Lamiece Hassan, Salwa S Zghebi, Evangelos Kontopantelis
-Journal: Journal of Medical Internet Research
-Veröffentlicht: 2025-09-09
-Abstract: Abstract
-          
-            Background
-            Telemedicine has revolutionized the management of type 2 diabetes mellitus (T2DM) in primary care by improving access to health care services and enhancing health outcomes. Despite these advancements, it remains unclear whether telemedicine has reduced access inequalities among different demographic and socioeconomic groups.
-          
-          
-            Objective
-            This study aimed to investigate the most important demographic and socioeconomic factors associated with telemedicine use among individuals with T2DM in primary care.
-          
-          
-            Methods
-            We conducted a systematic review and meta-analysis. Databases including MEDLINE, Embase, PsycINFO, Google Scholar, Scopus, and CINAHL were searched from inception to December 2023. The reference lists of eligible studies and other relevant systematic reviews were also searched. We included observational and cohort studies that assessed the effects of telemedicine interventions on individuals with T2DM in primary care. The core outcomes were the factors associated with telemedicine use, reported as adjusted odds ratios and 95% CIs for each factor, using a random-effects model. Heterogeneity was quantified using the I² statistic, and publication bias was assessed. The protocol for this review was registered with PROSPERO (CRD42024550410).
-          
-          
-            Results
-            Of the 3006 records identified, 16 studies involving 71,336 patients were included in the meta-analysis. Female patients had higher odds of using telemedicine than males (pooled adjusted odds ratio [OR] 1.05, 95% CI 1.02-1.09). Older patients were significantly less likely to use telemedicine than younger patients (pooled OR 0.979, 95% CI 0.98-0.98). Compared with White patients, Black patients were less likely to use telemedicine (pooled OR 0.55, 95% CI 0.32-0.94), while no statistically significant differences were observed for Hispanic (pooled OR 1.075, 95% CI 0.36-3.24) or Asian participants (pooled OR 0.56, 95% CI 0.29-1.06). Patients with higher education levels had greater odds of using telemedicine than those with lower education levels (pooled OR 1.681, 95% CI 1.48-1.91).
-          
-          
-            Conclusions
-            This systematic review and meta-analysis provide evidence of significant disparities in telemedicine use among men, older adults, Black individuals, and those with lower levels of education who have T2DM in primary care. Given that these groups are among the most vulnerable to T2DM, these disparities highlight the critical need for strategic interventions and robust policies that ensure telemedicine fosters equitable access to health care while preventing further exacerbation of existing health inequalities.
-          
-DOI: 10.2196/73113
-ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-10-11</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/73113-2025-10-11-5</guid>
-			<pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
