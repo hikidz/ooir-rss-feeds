@@ -5,111 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, General &amp; Internal) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Mon, 13 Oct 2025 01:05:13 GMT</pubDate>
-		<lastBuildDate>Mon, 13 Oct 2025 01:05:13 GMT</lastBuildDate>
+		<pubDate>Tue, 14 Oct 2025 01:00:21 GMT</pubDate>
+		<lastBuildDate>Tue, 14 Oct 2025 01:00:21 GMT</lastBuildDate>
 		<item>
-			<title>Alcohol use and risk of dementia in diverse populations: evidence from cohort, case–control and Mendelian randomisation approaches</title>
-			<link>https://doi.org/10.1136/bmjebm-2025-113913</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, General &amp; Internal
-Score: 3006
-Autoren: Anya Topiwala, Daniel F Levey, Hang Zhou, Joseph D Deak, Keyrun Adhikari, Klaus P Ebmeier, Steven Bell, Stephen Burgess, Thomas E Nichols, Michael Gaziano, Murray Stein, Joel Gelernter
-Journal: BMJ Evidence-Based Medicine
-Veröffentlicht: 2025-09-23
-Abstract: 
-                  Objectives
-                  To investigate the relationship between alcohol consumption and dementia.
-               
-               
-                  Design
-                  Prospective cohort and case–control analyses combined with linear and non-linear Mendelian randomisation.
-               
-               
-                  Setting
-                  Two large-scale population-based cohorts: the US Million Veteran Programme and the UK Biobank. Genetic analyses used summary statistics from genome-wide association studies (GWAS).
-               
-               
-                  Participants
-                  559 559 adults aged 56–72 years at baseline were included in observational analyses (mean follow-up: 4 years in the US cohort; 12 years in the UK cohort). Genetic analyses used summary data from multiple large GWAS consortia (2.4 million participants).
-               
-               
-                  Main outcome measures
-                  Incident all-cause dementia, determined through health record linkage, and genetic proxies.
-               
-               
-                  Results
-                  During follow-up, 14 540 participants developed dementia and 48 034 died. Observational phenotype-only analyses revealed U-shaped associations between alcohol and dementia risk: higher risk was observed among non-drinkers, heavy drinkers (&amp;gt;40 drinks per week; HR 1.41, 95% CI 1.15 to 1.74), and those with alcohol use disorder (AUD) (HR 1.51, 95% CI 1.42 to 1.60) compared with light drinkers. In contrast, Mendelian randomisation genetic analysis identified a monotonic increase in dementia risk with greater alcohol consumption. A 1 SD increase in log-transformed drinks per week was associated with a 15% dementia increase (inverse-variance weighted (IVW) OR 1.15, 95% CI 1.03 to 1.27). A twofold increase in AUD prevalence was associated with a 16% increase in dementia risk (IVW OR 1.16, 95% CI 1.03 to 1.30). Alcohol intake increased dementia, but individuals who developed dementia also experienced a decline in alcohol intake over time, suggesting reverse causation—where early cognitive decline leads to reduced alcohol consumption—underlies the supposed protective alcohol effects in observational studies.
-               
-               
-                  Conclusions
-                  These findings provide evidence for a relationship between all types of alcohol use and increased dementia risk. While correlational observational data suggested a protective effect of light drinking, this could be in part attributable to reduced drinking seen in early dementia; genetic analyses did not support any protective effect, suggesting that any level of alcohol consumption may contribute to dementia risk. Public health strategies that reduce the prevalence of alcohol use disorder could potentially lower the incidence of dementia by up to 16%.
-               
-DOI: 10.1136/bmjebm-2025-113913
-ISSN: 2515-446X
-Tag der Erhebung (OOIR): 2025-10-13</description>
-			<guid isPermaLink="false">ooir-trend-10.1136/bmjebm-2025-113913-2025-10-13-1</guid>
-			<pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>The EAT–Lancet Commission on healthy, sustainable, and just food systems</title>
-			<link>https://doi.org/10.1016/s0140-6736(25)01201-2</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, General &amp; Internal
-Score: 2720
-Autoren: Johan Rockström, Shakuntala Haraksingh Thilsted, Walter C Willett, Line J Gordon, Mario Herrero, Christina C Hicks, Daniel Mason-D'Croz, Nitya Rao, Marco Springmann, Ellen Cecilie Wright, Rina Agustina, Sumati Bajaj, Anne Charlotte Bunge, Bianca Carducci, Costanza Conti, Namukolo Covic, Jessica Fanzo, Nita G Forouhi, Matthew F Gibson, Xiao Gu, Ermias Kebreab, Claire Kremen, Amar Laila, Ramanan Laxminarayan, Theresa M Marteau, Carlos A Monteiro, Anna Norberg, Jemimah Njuki, Thais Diniz Oliveira, Wen-Harn Pan, Juan A Rivera, James P W Robinson, Marina Sundiang, Sofie te Wierik, Detlef P van Vuuren, Sonja Vermeulen, Patrick Webb, Lujain Alqodmani, Ramya Ambikapathi, Anne Barnhill, Isabel Baudish, Felicitas Beier, Damien Beillouin, Arthur H W Beusen, Jannes Breier, Charlotte Chemarin, Maksym Chepeliev, Jennifer Clapp, Wim de Vries, Ignacio Pérez-Domínguez, Natalia Estrada-Carmona, Dieter Gerten, Christopher D Golden, Sarah K Jones, Peter Søgaard Jørgensen, Marta Kozicka, Hermann Lotze-Campen, Federico Maggi, Emma Marzi, Abhijeet Mishra, Fernando Orduna-Cabrera, Alexander Popp, Lena Schulte-Uebbing, Elke Stehfest, Fiona H M Tang, Kazuaki Tsuchiya, Hannah H E Van Zanten, Willem-Jan van Zeist, Xin Zhao, Fabrice DeClerck
-Journal: The Lancet
-Veröffentlicht: 2025-10-01
-DOI: 10.1016/s0140-6736(25)01201-2
-ISSN: 0140-6736
-Tag der Erhebung (OOIR): 2025-10-13</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/s0140-6736(25)01201-2-2025-10-13-2</guid>
-			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Efficacy and Safety of Baxdrostat in Uncontrolled and Resistant Hypertension</title>
-			<link>https://doi.org/10.1056/nejmoa2507109</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, General &amp; Internal
-Score: 2540
-Autoren: John M. Flack, Michel Azizi, Jenifer M. Brown, Jamie P. Dwyer, Jakub Fronczek, Erika S.W. Jones, Daniel S. Olsson, Shira Perl, Hirotaka Shibata, Ji-Guang Wang, Ulrica Wilderäng, Janet Wittes, Bryan Williams
-Journal: New England Journal of Medicine
-Veröffentlicht: 2025-10-09
-DOI: 10.1056/nejmoa2507109
-ISSN: 0028-4793
-Tag der Erhebung (OOIR): 2025-10-13</description>
-			<guid isPermaLink="false">ooir-trend-10.1056/nejmoa2507109-2025-10-13-3</guid>
-			<pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Changes in Carbapenemase-Producing Carbapenem-Resistant Enterobacterales, 2019 to 2023</title>
-			<link>https://doi.org/10.7326/annals-25-02404</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, General &amp; Internal
-Score: 2452
-Autoren: Danielle A. Rankin, Anna Stahl, Sarah Sabour, Mohammed A. Khan, Tiana Armstrong, Jennifer Y. Huang, James Baggs, Maroya Spalding Walters
-Journal: Annals of Internal Medicine
-Veröffentlicht: 2025-09-23
-DOI: 10.7326/annals-25-02404
-ISSN: 0003-4819
-Tag der Erhebung (OOIR): 2025-10-13</description>
-			<guid isPermaLink="false">ooir-trend-10.7326/annals-25-02404-2025-10-13-4</guid>
-			<pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Excess Deaths Attributable to the Los Angeles Wildfires From January 5 to February 1, 2025</title>
-			<link>https://doi.org/10.1001/jama.2025.10556</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, General &amp; Internal
-Score: 1949
-Autoren: Eugenio Paglino, Rafeya V. Raquib, Andrew C. Stokes
-Journal: JAMA
-Veröffentlicht: 2025-09-16
-Abstract: This study aims to estimate the number of excess deaths attributable to the Los Angeles wildfires using an interrupted time series design.
-DOI: 10.1001/jama.2025.10556
-ISSN: 0098-7484
-Tag der Erhebung (OOIR): 2025-10-13</description>
-			<guid isPermaLink="false">ooir-trend-10.1001/jama.2025.10556-2025-10-13-5</guid>
-			<pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
+			<title>⚠️ Keine Trends für Clinical Medicine (Medicine, General &amp; Internal) verfügbar</title>
+			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
+			<link>https://ooir.org</link>
+			<guid>ooir-no-trends-clinicalmedicine-medicinegeneralinternal-20251014010021</guid>
+			<pubDate>Tue, 14 Oct 2025 01:00:21 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
