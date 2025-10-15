@@ -5,14 +5,101 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rheumatology) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 14 Oct 2025 01:00:24 GMT</pubDate>
-		<lastBuildDate>Tue, 14 Oct 2025 01:00:24 GMT</lastBuildDate>
+		<pubDate>Wed, 15 Oct 2025 01:03:22 GMT</pubDate>
+		<lastBuildDate>Wed, 15 Oct 2025 01:03:22 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Rheumatology) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-rheumatology-20251014010024</guid>
-			<pubDate>Tue, 14 Oct 2025 01:00:24 GMT</pubDate>
+			<title>The impact of population ageing on musculoskeletal disorders in 204 countries and territories, 1990-2021: global burden and healthcare costs</title>
+			<link>https://doi.org/10.1016/j.ard.2025.08.002</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 119
+Autoren: Shi-Yang Guan, Jin-Xin Zheng, Xin-Yu Feng, Shun-Xian Zhang, Shu-Zhen Xu, Peng Wang, Hong-Yan Cai, Hai-Feng Pan
+Journal: Annals of the Rheumatic Diseases
+Veröffentlicht: 2025-09-01
+DOI: 10.1016/j.ard.2025.08.002
+ISSN: 0003-4967
+Tag der Erhebung (OOIR): 2025-10-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2025.08.002-2025-10-15-1</guid>
+			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>STING-driven necroptosis linked to autoinflammatory disease</title>
+			<link>https://doi.org/10.1038/s41584-025-01315-9</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 70
+Autoren: Sarah Onuora
+Journal: Nature Reviews Rheumatology
+Veröffentlicht: 2025-10-02
+DOI: 10.1038/s41584-025-01315-9
+ISSN: 1759-4790
+Tag der Erhebung (OOIR): 2025-10-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41584-025-01315-9-2025-10-15-2</guid>
+			<pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Comparative efficacy and safety of anakinra and canakinumab in patients with VEXAS syndrome – an international multicenter study</title>
+			<link>https://doi.org/10.1002/art.43384</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 30
+Autoren: Tali Eviatar, Dafne Capelusnik, Corrado Campochiaro, Valentin Lacombe, Vincent Jachiet, Michael Zisapel, Iftach Sagy, Oshrat E. Tayer‐Shifman, David Ozeri, Shaye Kivity, Alessandro Tomelleri, Benjamin Terrier, Hagit Peleg, Thibault Comont, Karim Sacre, Pascal Woaye‐Hune, Laurent Arnaud, Estibaliz Lazaro, Vincent Grobost, Francois Lifermann, Maxime Samson, Samuel Ardois, Alice Garnier, Alexandre Maria, Alain Cantagrel, Aurore Meyer, Jean‐David Bouaziz, Mael Heiblig, Lorenzo Dagna, Elisa Diral, Olivier Kosmider, Ori Elkayam, Jérôme Hadjadj, Sophie Georgin‐Lavialle, Olivier Fain, Arsene Mekinian
+Journal: Arthritis &amp;amp; Rheumatology
+Veröffentlicht: 2025-09-22
+Abstract: ObjectivesThe aim of this study was to compare differences in clinical response, drug survival, and adverse event rates between anakinra and canakinumab in VEXAS syndrome.MethodsThis multicenter international study includes VEXAS patients from France, Israel, and Italy treated with IL1 inhibition (IL1i). Global response (GR) was defined as the absence of inflammatory symptoms, 50% or greater decrease in steroid dose and C‐reactive protein. Multiple regression analysis was performed to identify associated variables. Drug survival was analyzed using Kaplan‐Meier plots and log‐rank test, with Cox‐regression models for associated factors.ResultsWe included 47 male VEXAS patients; 44 received anakinra, and 9 received canakinumab, with 6 patients using both at different time points. GR at 1 month was 34% for anakinra and 100% for canakinumab (p&amp;lt;0.001), 22% and 78% at 3 months, respectively (p=0.001).Treatment with canakinumab was associated with higher odds ratio (OR) of achieving GR at 3 months (OR 28.8, 95%CI 3·0‐273·9, p=0.004) in a multivariable analysis. Median drug survival was 54 (30‐56) months for canakinumab at 300 mg/month, compared to 7 (4‐8) months for canakinumab 150 mg/month and 1 (1‐2.5) months for anakinra (p=0.01). Injection site reactions were only recorded for the anakinra group (47 vs 0%; p=0.006), whereas infections were more frequent in the anakinra group (31% and 11%; p=0·3).ConclusionsCanakinumab demonstrated superior clinical response and drug survival with fewer adverse events compared to anakinra. Monthly Canakinumab 300 mg may be considered as an effective steroid‐sparing therapeutic option for VEXAS patients.image
+DOI: 10.1002/art.43384
+ISSN: 2326-5191
+Tag der Erhebung (OOIR): 2025-10-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/art.43384-2025-10-15-3</guid>
+			<pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Effect of Nonsteroidal Anti‐Inflammatory Drugs on Sacroiliac Joint Inflammation, as Seen on Magnetic Resonance Imaging, in Axial Spondyloarthritis</title>
+			<link>https://doi.org/10.1002/acr.25581</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 26
+Autoren: Gareth T. Jones, Alexander N. Bennett, Raj Sengupta, Pedro M. Machado, Helena Marzo‐Ortega, Lorna Aucott, Margaret A. Hall‐Craggs, Timothy J. P. Bray, Alan Bainbridge, Ruaridh M. Gollifer, Gary J. Macfarlane
+Journal: Arthritis Care &amp;amp; Research
+Veröffentlicht: 2025-09-10
+Abstract: ObjectiveImaging evidence of active sacroiliitis is important for diagnosis, classification, and monitoring of axial spondyloarthritis (axSpA). However, there is no consistent guidance on whether patients should temporarily stop nonsteroidal anti‐inflammatory drugs (NSAIDs) before magnetic resonance imaging (MRI). The aim of this study was to determine whether NSAIDs lead to an underestimation of active sacroiliitis, as observed using MRI.MethodsAdults with axSpA were recruited from rheumatology clinics and undertook NSAID washout for one to two weeks before a sacroiliac joint MRI scan. Images were read by two independent readers and adjudicated by a third if required. Those who had a positive result for active sacroiliitis, as per internationally recognized criteria, underwent a second scan six weeks after recommencing daily NSAIDs. We determined the proportion of participants who had a negative scanning result while taking NSAIDs after a previous positive result when NSAID‐free. Images were also scored using semiquantitative methods comprising lesion size and intensity, and a subset of participants underwent quantitative MRI (qMRI) to provide an objective evaluation of any inflammatory changes.ResultsFrom 34 centers across the United Kingdom, 311 participants (median age 42 years; 62% male) were recruited; 286 (92%) completed the NSAID washout and underwent the first MRI scan. From 146 participants with active sacroiliitis, follow‐up scans (while taking NSAIDs) were obtained from 124 (85%), at which point 25 participants had a negative result (20.2%; 95% confidence interval 13.5%–28.3%). Semiquantitative and qMRI methods supported these findings.ConclusionOne‐fifth of patients showed full resolution of active sacroiliitis lesions when NSAIDs were present. In clinical practice, if patients with axSpA are willing to attempt a one‐ to two‐week NSAID washout before MRI, this should be considered.
+DOI: 10.1002/acr.25581
+ISSN: 2151-464X
+Tag der Erhebung (OOIR): 2025-10-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/acr.25581-2025-10-15-4</guid>
+			<pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Methylprednisolone plus MTX-based regime vs prednisone-based standard of care for GCA: a propensity score study</title>
+			<link>https://doi.org/10.1093/rheumatology/keaf499</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 25
+Autoren: Adriana Soto-Peleteiro, José Hernández-Rodríguez, Fátima Raad, Borja de Miguel, Leonor Acha, Marina Torio, Halbert Hernandez-Negrin, Verónica Gómez-Caverzaschi, Ioana Ruiz-Arruza, Olga Araujo, Sergio Prieto-González, Georgina Espígol-Frigolé, Maria C Cid, Guillermo Ruiz-Irastorza
+Journal: Rheumatology
+Veröffentlicht: 2025-09-16
+Abstract: Abstract
+               
+                  Objectives
+                  Treatment of GCA still requires substantial exposure to glucocorticoids (GCs), which are associated with significant toxicity. This study compares the efficacy and safety of the GC-only standard of care (SOC) with a regimen combining intravenous methylprednisolone (IVMP) pulses, MTX and lower doses of prednisone, in newly diagnosed patients with GCA.
+               
+               
+                  Methods
+                  A usual clinical practice study was conducted in three Spanish academic hospitals. One hundred and fifty-one patients diagnosed with GCA were treated with SOC prednisone (40–60 mg/d) or with IVMP (125–500 mg/d ×3) followed by lower-dose prednisone (≤30 mg/d) and MTX (IVMP/MTX), with a follow-up of 2 years. A propensity score was used to adjust for baseline differences in the multivariate analyses.
+               
+               
+                  Results
+                  Seventy-nine (52.3%) patients received SOC prednisone and 72 (47.7%) IVMP/MTX. The clinical characteristics at baseline were similar in both the groups. Hundred percent patients achieved remission after a median time of 4 weeks, without differences between the groups. Relapse rates were also similar. Patients receiving IVMP/MTX had significantly lower cumulative GC doses and reached prednisone ≤5 mg/d faster than SOC patients (mean 13.8 vs 56.5 weeks; P &amp;amp;lt; 0.001). Patients in the IVMP/MTX group were less likely to suffer any GC-related adverse effect (adjusted OR 0.35, 95% CI 0.14–0.85; P = 0.021).
+               
+               
+                  Conclusions
+                  The combination IVMP/MTX with lower-dose prednisone is as effective as the SOC in inducing remission and preventing relapses in GCA. The IVMP/MTX scheme significantly reduces GC exposure and GC-associated adverse effects. IVMP/MTX could be a potential GC-sparing strategy, especially in patients with GCA at higher risk of GC toxicity.
+               
+DOI: 10.1093/rheumatology/keaf499
+ISSN: 1462-0324
+Tag der Erhebung (OOIR): 2025-10-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1093/rheumatology/keaf499-2025-10-15-5</guid>
+			<pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
