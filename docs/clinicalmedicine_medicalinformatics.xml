@@ -5,8 +5,51 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sun, 19 Oct 2025 01:09:20 GMT</pubDate>
-		<lastBuildDate>Sun, 19 Oct 2025 01:09:20 GMT</lastBuildDate>
+		<pubDate>Mon, 20 Oct 2025 01:07:08 GMT</pubDate>
+		<lastBuildDate>Mon, 20 Oct 2025 01:07:08 GMT</lastBuildDate>
+		<item>
+			<title>Effects of Computerized Cognitive Training on Vesicular Acetylcholine Transporter Levels using [18F]Fluoroethoxybenzovesamicol Positron Emission Tomography in Healthy Older Adults: Results from the Improving Neurological Health in Aging via Neuroplasticity-based Computerized Exercise (INHANCE) Randomized Clinical Trial</title>
+			<link>https://doi.org/10.2196/75161</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 303
+Autoren: Mouna Attarha, Ana de Figueiredo Pelegrino, Lydia Ouellet, Paule-Joanne Toussaint, Sarah-Jane Grant, Thomas Van Vleet, Etienne de Villers-Sidani
+Journal: JMIR Serious Games
+Veröffentlicht: 2025-10-13
+Abstract: 
+            Background
+            The cholinergic system mediates essential aspects of cognitive function, yet its structure and function decline progressively with age, by an estimated 2.5% per decade across the lifespan. Cognitive training may help counteract age-related declines in cholinergic functioning and slow associated deficits in cognitive performance.
+          
+          
+            Objective
+            This study aims to evaluate whether cognitive training modifies cholinergic binding in older adults.
+          
+          
+            Methods
+            The Improving Neurological Health in Aging via Neuroplasticity-based Computerized Exercise (INHANCE) trial is a double-blind randomized controlled trial assessing whether 2 computerized cognitive training programs modify cholinergic expression. The intent-to-treat (ITT) population included 92 community-dwelling healthy older adults aged 65 and above (enrolled July 2021-December 2023; final follow-up June 2024). Participants were randomized at McGill University to either an intervention of speed-based cognitive training exercises designed to improve the speed and accuracy of information processing or an active control of nonspeeded games designed for entertainment (eg, similar in design to Solitaire). Participants completed 35 hours of training on their assigned program at home over a 10-week period using a loaned or personal internet-connected device. Cholinergic binding was measured with the vesicular acetylcholine transporter ligand [18F]fluoroethoxybenzovesamicol (FEOBV) and positron emission tomography (PET). The primary outcome was mean FEOBV binding (standard uptake value ratios [SUVRs]) within the anterior cingulate cortex from baseline to posttest in the ITT population. All other end points were exploratory.
+          
+          
+            Results
+            Among the 92 participants in the ITT population (mean age 71.9 years; mean education 16.5 years; 61/92, 66%, women; 88/92, 96%, White), 82 (89%) completed all study activities. The speed-based intervention showed a significant within-group increase in FEOBV binding in the primary region of interest, the anterior cingulate cortex (SUVR change mean +0.044, 95% CI 0.006-0.082, P=.03, medium effect size, ω²=0.09). The p24c subregion demonstrated a significant between-groups effect favoring speed training (speeded vs nonspeeded SUVR change difference +0.058, 95% CI 0.007-0.110, P=.03, small effect size, ω²=0.05). Prespecified exploratory analyses revealed significant within-group effects for speed training in the hippocampus (P=.02) and parahippocampal gyrus (P=.04). No effects on FEOBV binding were observed in the active control group.
+          
+          
+            Conclusions
+            INHANCE is the largest FEOBV-PET trial to date and demonstrates, for the first time in humans, that speed training can reverse losses in cholinergic terminal densities in brain regions vulnerable to age-related cognitive decline. The 2.3% gain in FEOBV binding in the anterior cingulate achieved over a 10-week intervention may offset the estimated 2.5% decline typically observed over a decade of natural aging. These findings clarify the neurochemical basis of cognitive training benefits, showing that speed training upregulates binding in networks that support attention, memory, and executive function.
+          
+          
+            Trial Registration
+            ClinicalTrials.gov NCT04149457; https://clinicaltrials.gov/study/NCT04149457
+          
+          
+            International Registered Report Identifier (IRRID)
+            RR2-10.2196/59705
+          
+DOI: 10.2196/75161
+ISSN: 2291-9279
+Tag der Erhebung (OOIR): 2025-10-20</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/75161-2025-10-20-1</guid>
+			<pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Effects of a Smartphone-Based Positive Reflection Diary on Work Engagement Among Japanese Workers: Randomized Controlled Trial</title>
 			<link>https://doi.org/10.2196/55664</link>
@@ -41,48 +84,9 @@ Abstract:
           
 DOI: 10.2196/55664
 ISSN: 2291-5222
-Tag der Erhebung (OOIR): 2025-10-19</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/55664-2025-10-19-1</guid>
+Tag der Erhebung (OOIR): 2025-10-20</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/55664-2025-10-20-2</guid>
 			<pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>New Doc on the Block: Scoping Review of AI Systems Delivering Motivational Interviewing for Health Behavior Change</title>
-			<link>https://doi.org/10.2196/78417</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 48
-Autoren: Zev Karve, Jacob Calpey, Christopher Machado, Michelle Knecht, Maria Carmenza Mejia
-Journal: Journal of Medical Internet Research
-Veröffentlicht: 2025-09-16
-Abstract: 
-            Background
-            Artificial intelligence (AI) is increasingly used in digital health, particularly through large language models (LLMs), to support patient engagement and behavior change. One novel application is the delivery of motivational interviewing (MI), an evidence-based, patient-centered counseling technique designed to enhance motivation and resolve ambivalence around health behaviors. AI tools, including chatbots, mobile apps, and web-based agents, are being developed to simulate MI techniques at scale. While these innovations are promising, important questions remain about how faithfully AI systems can replicate MI principles or achieve meaningful behavioral impact.
-          
-          
-            Objective
-            This scoping review aimed to summarize existing empirical studies evaluating AI-driven systems that apply MI techniques to support health behavior change. Specifically, we examined the feasibility of these systems; their fidelity to MI principles; and their reported behavioral, psychological, or engagement outcomes.
-          
-          
-            Methods
-            We systematically searched PubMed, Embase, Scopus, Web of Science, and Cochrane Library for empirical studies published between January 1, 2018, and February 25, 2025. Eligible studies involved AI-driven systems using natural language generation, understanding, or computational logic to deliver MI techniques to users targeting a specific health behavior. We excluded studies using AI solely for training clinicians in MI. Three independent reviewers screened and extracted data on study design, AI modality and type, MI components, health behavior focus, MI fidelity assessment, and outcome domains.
-          
-          
-            Results
-            Of the 1001 records identified, 15 (1.5%) met the inclusion criteria. Of these 15 studies, 6 (40%) were exploratory feasibility or pilot studies, and 3 (20%) were randomized controlled trials. AI modalities included rule-based chatbots (9/15, 60%), LLM-based systems (4/15, 27%), and virtual or mobile agents (2/15, 13%). Targeted behaviors included smoking cessation (6/15, 40%), substance use (3/15, 20%), COVID-19 vaccine hesitancy, type 2 diabetes self-management, stress, mental health service use, and opioid use during pregnancy. Of the 15 studies, 13 (87%) reported positive findings on feasibility or user acceptability, while 6 (40%) assessed MI fidelity using expert review or structured coding, with moderate to high alignment reported. Several studies found that users perceived the AI systems as judgment free, supportive, and easier to engage with than human counselors, particularly in stigmatized contexts. However, limitations in empathy, safety transparency, and emotional nuance were commonly noted. Only 3 (20%) of the 15 studies reported substantially significant behavioral changes.
-          
-          
-            Conclusions
-            AI systems delivering MI show promise for enhancing patient engagement and scaling behavior change interventions. Early evidence supports their usability and partial fidelity to MI principles, especially in sensitive domains. However, most systems remain in early development, and few have been rigorously tested. Future research should prioritize randomized evaluations; standardized fidelity measures; and safeguards for LLM safety, empathy, and accuracy in health-related dialogue.
-          
-          
-            Trial Registration
-            OSF Registries 10.17605/OSF.IO/G9N7E; https://osf.io/g9n7e
-          
-DOI: 10.2196/78417
-ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-10-19</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/78417-2025-10-19-2</guid>
-			<pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Research Implications of Increased Political Oversight in the United States</title>
@@ -95,8 +99,8 @@ Journal: Journal of Medical Internet Research
 Veröffentlicht: 2025-09-19
 DOI: 10.2196/83499
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-10-19</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/83499-2025-10-19-3</guid>
+Tag der Erhebung (OOIR): 2025-10-20</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/83499-2025-10-20-3</guid>
 			<pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -130,8 +134,8 @@ Abstract:
           
 DOI: 10.2196/73495
 ISSN: 2291-9694
-Tag der Erhebung (OOIR): 2025-10-19</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/73495-2025-10-19-4</guid>
+Tag der Erhebung (OOIR): 2025-10-20</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/73495-2025-10-20-4</guid>
 			<pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -145,8 +149,8 @@ Journal: npj Digital Medicine
 Veröffentlicht: 2025-09-25
 DOI: 10.1038/s41746-025-01956-w
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-10-19</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01956-w-2025-10-19-5</guid>
+Tag der Erhebung (OOIR): 2025-10-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01956-w-2025-10-20-5</guid>
 			<pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
