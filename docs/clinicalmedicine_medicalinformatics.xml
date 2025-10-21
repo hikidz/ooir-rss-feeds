@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Mon, 20 Oct 2025 01:07:08 GMT</pubDate>
-		<lastBuildDate>Mon, 20 Oct 2025 01:07:08 GMT</lastBuildDate>
+		<pubDate>Tue, 21 Oct 2025 01:03:53 GMT</pubDate>
+		<lastBuildDate>Tue, 21 Oct 2025 01:03:53 GMT</lastBuildDate>
 		<item>
 			<title>Effects of Computerized Cognitive Training on Vesicular Acetylcholine Transporter Levels using [18F]Fluoroethoxybenzovesamicol Positron Emission Tomography in Healthy Older Adults: Results from the Improving Neurological Health in Aging via Neuroplasticity-based Computerized Exercise (INHANCE) Randomized Clinical Trial</title>
 			<link>https://doi.org/10.2196/75161</link>
@@ -46,9 +46,24 @@ Abstract:
           
 DOI: 10.2196/75161
 ISSN: 2291-9279
-Tag der Erhebung (OOIR): 2025-10-20</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/75161-2025-10-20-1</guid>
+Tag der Erhebung (OOIR): 2025-10-21</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/75161-2025-10-21-1</guid>
 			<pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Extension of the GRACE score for non-ST-elevation acute coronary syndrome: a development and validation study in ten countries</title>
+			<link>https://doi.org/10.1016/j.landig.2025.100907</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 90
+Autoren: Florian A Wenzl, Klaus F Kofoed, Moa Simonsson, Gareth Ambler, Niels M R van der Sangen, Erik Lampa, Francesco Bruno, Mark A de Belder, Jiri Hlasensky, Matthias Mueller-Hennessen, Maria A Smolle, Peizhi Wang, José P S Henriques, Wouter J Kikkert, Henning Kelbæk, Luboš Bouček, Sergio Raposeiras-Roubín, Emad Abu-Assi, Jaouad Azzahhafi, Matthijs A Velders, Konstantinos Stellos, Thomas Engstrøm, Dean R P P Chan Pin Yin, Clive Weston, David Adlam, Hans Rickli, Evangelos Giannitsis, Dragana Radovanovic, Jiri Parenica, Charalambos A Antoniades, Keith A A Fox, Fabrizio D'Ascenzo, Jurriën M ten Berg, Lars V Køber, Stefan James, John Deanfield, Thomas F Lüscher
+Journal: The Lancet Digital Health
+Veröffentlicht: 2025-10-01
+DOI: 10.1016/j.landig.2025.100907
+ISSN: 2589-7500
+Tag der Erhebung (OOIR): 2025-10-21</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100907-2025-10-21-2</guid>
+			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Effects of a Smartphone-Based Positive Reflection Diary on Work Engagement Among Japanese Workers: Randomized Controlled Trial</title>
@@ -84,8 +99,8 @@ Abstract:
           
 DOI: 10.2196/55664
 ISSN: 2291-5222
-Tag der Erhebung (OOIR): 2025-10-20</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/55664-2025-10-20-2</guid>
+Tag der Erhebung (OOIR): 2025-10-21</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/55664-2025-10-21-3</guid>
 			<pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -99,8 +114,8 @@ Journal: Journal of Medical Internet Research
 Veröffentlicht: 2025-09-19
 DOI: 10.2196/83499
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-10-20</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/83499-2025-10-20-3</guid>
+Tag der Erhebung (OOIR): 2025-10-21</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/83499-2025-10-21-4</guid>
 			<pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -134,24 +149,9 @@ Abstract:
           
 DOI: 10.2196/73495
 ISSN: 2291-9694
-Tag der Erhebung (OOIR): 2025-10-20</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/73495-2025-10-20-4</guid>
+Tag der Erhebung (OOIR): 2025-10-21</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/73495-2025-10-21-5</guid>
 			<pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Quality safety and disparity of an AI chatbot in managing chronic diseases: simulated patient experiments</title>
-			<link>https://doi.org/10.1038/s41746-025-01956-w</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 43
-Autoren: Yafei Si, Yurun Meng, Xi Chen, Ruopeng An, Limin Mao, Bingqin Li, Hazel Bateman, Han Zhang, Hongbin Fan, Jiaqi Zu, Shaoqing Gong, Zhongliang Zhou, Yudong Miao, Xiaojing Fan, Gang Chen
-Journal: npj Digital Medicine
-Veröffentlicht: 2025-09-25
-DOI: 10.1038/s41746-025-01956-w
-ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-10-20</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01956-w-2025-10-20-5</guid>
-			<pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
