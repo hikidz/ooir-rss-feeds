@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Endocrinology &amp; Metabolism) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Oct 2025 01:03:37 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Oct 2025 01:03:37 GMT</lastBuildDate>
+		<pubDate>Wed, 22 Oct 2025 01:04:03 GMT</pubDate>
+		<lastBuildDate>Wed, 22 Oct 2025 01:04:03 GMT</lastBuildDate>
 		<item>
 			<title>Undiagnosed G6PD Deficiency in Black and Asian Individuals Is Prevalent and Contributes to Health Inequalities in Type 2 Diabetes Diagnosis and Complications</title>
 			<link>https://doi.org/10.2337/dc25-0556</link>
@@ -34,8 +34,8 @@ Abstract:
                
 DOI: 10.2337/dc25-0556
 ISSN: 0149-5992
-Tag der Erhebung (OOIR): 2025-10-21</description>
-			<guid isPermaLink="false">ooir-trend-10.2337/dc25-0556-2025-10-21-1</guid>
+Tag der Erhebung (OOIR): 2025-10-22</description>
+			<guid isPermaLink="false">ooir-trend-10.2337/dc25-0556-2025-10-22-1</guid>
 			<pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -49,41 +49,41 @@ Journal: Cell Metabolism
 Veröffentlicht: 2025-10-01
 DOI: 10.1016/j.cmet.2025.08.004
 ISSN: 1550-4131
-Tag der Erhebung (OOIR): 2025-10-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2025.08.004-2025-10-21-2</guid>
+Tag der Erhebung (OOIR): 2025-10-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2025.08.004-2025-10-22-2</guid>
 			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Fructose and glucose from sugary drinks enhance colorectal cancer metastasis via SORD</title>
-			<link>https://doi.org/10.1038/s42255-025-01368-w</link>
+			<title>Handgrip Strength and Trajectories of Preclinical Obesity Progression: A Multistate Model Analysis Using the UK Biobank</title>
+			<link>https://doi.org/10.1210/clinem/dgaf521</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Endocrinology &amp; Metabolism
-Score: 596
-Autoren: Tianshi Feng, Qin Luo, Yanlin Liu, Zeyu Jin, David Skwarchuk, Rumi Lee, Miso Nam, John M. Asara, Daya R. Adye, Philip L. Lorenzi, Lin Tan, Guangsheng Pei, Zhongming Zhao, Neda Zarrin-Khameh, Adriana Paulucci-Holthauzen, Brian W. Simons, Ju-Seog Lee, Scott Kopetz, Jihye Yun
-Journal: Nature Metabolism
-Veröffentlicht: 2025-09-19
+Score: 468
+Autoren: Manrong Xu, Menghan Li, Yawen Zhang, Lianxi Li, Yun Shen, Gang Hu
+Journal: The Journal of Clinical Endocrinology &amp;amp; Metabolism
+Veröffentlicht: 2025-10-15
 Abstract: Abstract
-          The consumption of sugar-sweetened beverages (SSBs), which contain high levels of fructose and glucose, has been causally and mechanistically linked to an increased risk of colorectal cancer (CRC). However, the effects of SSB consumption on advanced stages of disease progression, including metastasis, remain poorly understood. Here we show that exposure of CRC cells to a glucose and fructose formulation—reflecting the composition of both high-fructose corn syrup and sucrose found in SSBs—enhances cellular motility and metastatic potential compared to glucose alone. Given that CRC cells grow poorly in fructose alone, and cells in vivo are not physiologically exposed to fructose without glucose, we excluded the fructose-only condition from our studies unless needed as a control. Mechanistically, the combination of glucose and fructose elevates the NAD⁺/NADH ratio by activation of the reverse reaction of sorbitol dehydrogenase in the polyol pathway. This redox shift relieves NAD⁺ limitations and accelerates glycolytic activity, which in turn fuels activation of the mevalonate pathway, ultimately promoting CRC cell motility and metastasis. Our findings highlight the detrimental impact of SSBs on CRC progression and suggest potential dietary and therapeutic strategies to mitigate metastasis in patients with CRC.
-DOI: 10.1038/s42255-025-01368-w
-ISSN: 2522-5812
-Tag der Erhebung (OOIR): 2025-10-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s42255-025-01368-w-2025-10-21-3</guid>
-			<pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Once-weekly semaglutide 7·2 mg in adults with obesity (STEP UP): a randomised, controlled, phase 3b trial</title>
-			<link>https://doi.org/10.1016/s2213-8587(25)00226-8</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Endocrinology &amp; Metabolism
-Score: 587
-Autoren: Sean Wharton, Paula Freitas, Jøran Hjelmesæth, Maria Kabisch, Kristian Kandler, Ildiko Lingvay, Maria Quiroga, Julio Rosenstock, W Timothy Garvey
-Journal: The Lancet Diabetes &amp;amp; Endocrinology
-Veröffentlicht: 2025-11-01
-DOI: 10.1016/s2213-8587(25)00226-8
-ISSN: 2213-8587
-Tag der Erhebung (OOIR): 2025-10-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/s2213-8587(25)00226-8-2025-10-21-4</guid>
-			<pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+               
+                  Purpose
+                  Grip strength has been increasingly recognized as a predictor of chronic disease risk and mortality. The aim of our study was to investigate the association of grip strength and the trajectories of preclinical obesity progression.
+               
+               
+                  Methods
+                  Data were collected from 93 275 participants in the UK Biobank. Preclinical obesity was diagnosed based on an excess of anthropometric parameters, defined as elevated body mass index combined with at least 1 abnormal measure among waist circumference, waist-to-hip ratio, waist-to-height ratio, or percentage body fat, in the absence of obesity-induced dysfunctions. Three models captured different trajectories from baseline to dysfunctions and death, with or without intermediate progression. A multistate model was used to investigate the association between grip strength and the preclinical obesity progression and multiple-cause mortality risk. Sensitivity analyses were performed using free muscle volume, total lean mass, and muscle-to-weight ratio as exposures.
+               
+               
+                  Results
+                  Among 8163 death events over a mean follow-up of 13.4 years, each SD increase in grip strength was associated with a significantly reduced risk of preclinical obesity progression at each stage, with the strongest inverse association observed in baseline to first dysfunction [fully adjusted hazard ratio (HR): 0.86, 95% confidence interval (CI): 0.85-0.88]. Compared to the lowest tertile, the highest grip strength significantly showed protective effects across all trajectory models, with double dysfunctions to all-cause death yielding the most pronounced associations (fully adjusted HR: 0.77, 95% CI: 0.70-0.84). Further subgroup and sensitivity analysis showed consistent results.
+               
+               
+                  Conclusion
+                  Increased grip strength was significantly associated with a decreased risk of obesity-induced dysfunctions progression and multiple-cause mortality. These findings underscore the importance of improving muscle mass and strength in preclinical obesity.
+               
+DOI: 10.1210/clinem/dgaf521
+ISSN: 0021-972X
+Tag der Erhebung (OOIR): 2025-10-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1210/clinem/dgaf521-2025-10-22-3</guid>
+			<pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Paternal exercise confers endurance capacity to offspring through sperm microRNAs</title>
@@ -96,8 +96,23 @@ Journal: Cell Metabolism
 Veröffentlicht: 2025-10-01
 DOI: 10.1016/j.cmet.2025.09.003
 ISSN: 1550-4131
-Tag der Erhebung (OOIR): 2025-10-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2025.09.003-2025-10-21-5</guid>
+Tag der Erhebung (OOIR): 2025-10-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2025.09.003-2025-10-22-4</guid>
+			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Emotion regulation strategies differentially impact memory in hormonal contraceptive users</title>
+			<link>https://doi.org/10.1016/j.yhbeh.2025.105805</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 325
+Autoren: Beatriz M. Brandao, Madelyn Castro, Jacob B. Buergler, Kayla R. Clark, Bryan T. Denny, Stephanie L. Leal
+Journal: Hormones and Behavior
+Veröffentlicht: 2025-10-01
+DOI: 10.1016/j.yhbeh.2025.105805
+ISSN: 0018-506X
+Tag der Erhebung (OOIR): 2025-10-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.yhbeh.2025.105805-2025-10-22-5</guid>
 			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>

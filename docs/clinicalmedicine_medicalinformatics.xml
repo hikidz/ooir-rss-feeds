@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Oct 2025 01:03:53 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Oct 2025 01:03:53 GMT</lastBuildDate>
+		<pubDate>Wed, 22 Oct 2025 01:04:19 GMT</pubDate>
+		<lastBuildDate>Wed, 22 Oct 2025 01:04:19 GMT</lastBuildDate>
 		<item>
 			<title>Effects of Computerized Cognitive Training on Vesicular Acetylcholine Transporter Levels using [18F]Fluoroethoxybenzovesamicol Positron Emission Tomography in Healthy Older Adults: Results from the Improving Neurological Health in Aging via Neuroplasticity-based Computerized Exercise (INHANCE) Randomized Clinical Trial</title>
 			<link>https://doi.org/10.2196/75161</link>
@@ -46,9 +46,26 @@ Abstract:
           
 DOI: 10.2196/75161
 ISSN: 2291-9279
-Tag der Erhebung (OOIR): 2025-10-21</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/75161-2025-10-21-1</guid>
+Tag der Erhebung (OOIR): 2025-10-22</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/75161-2025-10-22-1</guid>
 			<pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>When helpfulness backfires: LLMs and the risk of false medical information due to sycophantic behavior</title>
+			<link>https://doi.org/10.1038/s41746-025-02008-z</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 140
+Autoren: Shan Chen, Mingye Gao, Kuleen Sasse, Thomas Hartvigsen, Brian Anthony, Lizhou Fan, Hugo Aerts, Jack Gallifant, Danielle S. Bitterman
+Journal: npj Digital Medicine
+Veröffentlicht: 2025-10-17
+Abstract: Abstract
+          Large language models (LLMs) exhibit a vulnerability arising from being trained to be helpful: a tendency to comply with illogical requests that would generate false information, even when they have the knowledge to identify the request as illogical. This study investigated this vulnerability in the medical domain, evaluating five frontier LLMs using prompts that misrepresent equivalent drug relationships. We tested baseline sycophancy, the impact of prompts allowing rejection and emphasizing factual recall, and the effects of fine-tuning on a dataset of illogical requests, including out-of-distribution generalization. Results showed high initial compliance (up to 100%) across all models, prioritizing helpfulness over logical consistency. Prompt engineering and fine-tuning improved performance, improving rejection rates on illogical requests while maintaining general benchmark performance. This demonstrates that prioritizing logical consistency through targeted training and prompting is crucial for mitigating the risk of generating false medical information and ensuring the safe deployment of LLMs in healthcare.
+DOI: 10.1038/s41746-025-02008-z
+ISSN: 2398-6352
+Tag der Erhebung (OOIR): 2025-10-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-02008-z-2025-10-22-2</guid>
+			<pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Extension of the GRACE score for non-ST-elevation acute coronary syndrome: a development and validation study in ten countries</title>
@@ -61,8 +78,8 @@ Journal: The Lancet Digital Health
 Veröffentlicht: 2025-10-01
 DOI: 10.1016/j.landig.2025.100907
 ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2025-10-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100907-2025-10-21-2</guid>
+Tag der Erhebung (OOIR): 2025-10-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100907-2025-10-22-3</guid>
 			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -99,8 +116,8 @@ Abstract:
           
 DOI: 10.2196/55664
 ISSN: 2291-5222
-Tag der Erhebung (OOIR): 2025-10-21</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/55664-2025-10-21-3</guid>
+Tag der Erhebung (OOIR): 2025-10-22</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/55664-2025-10-22-4</guid>
 			<pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -114,44 +131,9 @@ Journal: Journal of Medical Internet Research
 Veröffentlicht: 2025-09-19
 DOI: 10.2196/83499
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-10-21</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/83499-2025-10-21-4</guid>
+Tag der Erhebung (OOIR): 2025-10-22</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/83499-2025-10-22-5</guid>
 			<pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Virtual Transition of Care Clinics and Associated Readmission Rates: 3-Year Retrospective Cohort Study</title>
-			<link>https://doi.org/10.2196/73495</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 44
-Autoren: Sarah F Horman, Milla Kviatkovsky, Edward Castillo, Patricia Maysent, Chad VanDenBerg, John Bell, Christopher A Longhurst
-Journal: JMIR Medical Informatics
-Veröffentlicht: 2025-09-23
-Abstract: 
-            Background
-            Hospital readmissions pose a significant burden on patients, health care providers, and systems, with an estimated annual cost of $17 billion. Timely follow-up within 7 days postdischarge is known to reduce readmissions but is often limited by access constraints. While transitions of care clinics have demonstrated benefits in reducing unplanned readmissions, physical space requirements can be logistically and financially challenging.
-          
-          
-            Objective
-            This study aimed to evaluate the effectiveness of a virtual transitions of care (VToC) clinic in reducing 30-day hospital readmissions and improving postdischarge care coordination.
-          
-          
-            Methods
-            University of California, San Diego Health implemented a hospitalist-led VToC clinic designed to support clinical management, medication reconciliation, primary care provider repatriation, and specialty care navigation. The study included 2314 patients seen in the VToC clinic between September 2021 and September 2024. Outcomes were compared to a benchmark group using regression analysis to assess the impact on 30-day readmission rates.
-          
-          
-            Results
-            The 30-day readmission rate for VToC patients was 14.9% (344/2314), significantly lower than the 20.1% (4659/23,129) observed in the benchmark group (P&amp;lt;.001). Regression analysis indicated that patients not participating in the VToC clinic had a higher likelihood of readmission (odds ratio=1.37; 95% CI=1.21-1.54; P&amp;lt;.001). The most substantial reduction in readmissions was observed among patients with moderate readmission risk (LACE+ score of 50-75).
-          
-          
-            Conclusions
-            VToC clinics are a feasible and effective strategy for enhancing postdischarge care, reducing hospital readmissions, and improving care coordination. This model supports the quadruple aim by promoting better health outcomes, improved patient experience, cost-efficiency, and care equity.
-          
-DOI: 10.2196/73495
-ISSN: 2291-9694
-Tag der Erhebung (OOIR): 2025-10-21</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/73495-2025-10-21-5</guid>
-			<pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

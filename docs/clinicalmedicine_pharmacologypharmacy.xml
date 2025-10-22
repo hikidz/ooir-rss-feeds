@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Pharmacology &amp; Pharmacy) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Oct 2025 01:04:32 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Oct 2025 01:04:32 GMT</lastBuildDate>
+		<pubDate>Wed, 22 Oct 2025 01:04:49 GMT</pubDate>
+		<lastBuildDate>Wed, 22 Oct 2025 01:04:49 GMT</lastBuildDate>
 		<item>
 			<title>Deaths following illicit ketamine use in England, Wales and Northern Ireland 1999–2024: An update report to inform the reclassification debate</title>
 			<link>https://doi.org/10.1177/02698811251373058</link>
@@ -38,8 +38,8 @@ Abstract:
           
 DOI: 10.1177/02698811251373058
 ISSN: 0269-8811
-Tag der Erhebung (OOIR): 2025-10-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1177/02698811251373058-2025-10-21-1</guid>
+Tag der Erhebung (OOIR): 2025-10-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1177/02698811251373058-2025-10-22-1</guid>
 			<pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -66,24 +66,9 @@ Abstract: ABSTRACT
           
 DOI: 10.1128/aac.00580-25
 ISSN: 0066-4804
-Tag der Erhebung (OOIR): 2025-10-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1128/aac.00580-25-2025-10-21-2</guid>
+Tag der Erhebung (OOIR): 2025-10-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1128/aac.00580-25-2025-10-22-2</guid>
 			<pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Coffee for the liver: a mechanistic approach</title>
-			<link>https://doi.org/10.1016/j.bcp.2025.117338</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Pharmacology &amp; Pharmacy
-Score: 127
-Autoren: Eduardo E. Vargas-Pozada, Erika Ramos-Tovar, Linda Vanessa Márquez-Quiroga, Karla Jocelyn Ortega-Carballo, Pablo Muriel
-Journal: Biochemical Pharmacology
-Veröffentlicht: 2025-12-01
-DOI: 10.1016/j.bcp.2025.117338
-ISSN: 0006-2952
-Tag der Erhebung (OOIR): 2025-10-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.bcp.2025.117338-2025-10-21-3</guid>
-			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>In vivo chimeric antigen receptor (CAR)-T cell therapy</title>
@@ -96,8 +81,8 @@ Journal: Nature Reviews Drug Discovery
 Veröffentlicht: 2025-09-30
 DOI: 10.1038/s41573-025-01291-5
 ISSN: 1474-1776
-Tag der Erhebung (OOIR): 2025-10-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41573-025-01291-5-2025-10-21-4</guid>
+Tag der Erhebung (OOIR): 2025-10-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41573-025-01291-5-2025-10-22-3</guid>
 			<pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -112,9 +97,24 @@ Veröffentlicht: 2025-09-22
 Abstract: ABSTRACTThe EryDex System (EDS) is a drug/device combination, which has been tested in clinical trials for ataxia telangiectasia (AT). EDS encapsulates dexamethasone sodium phosphate (DSP) solution in autologous erythrocytes at the point of care, and encapsulated DSP (eDSP) is infused back into the patient. Low doses of dexamethasone are released from erythrocytes over a 30‐day period. This study aimed to (1) characterize the pharmacokinetics (PK) of dexamethasone released from intravenously infused eDSP based on data collected in clinical trials of healthy adults and pediatric AT patients, and to (2) simulate and extrapolate exposure measures of dexamethasone following intravenous infusion of eDSP administered once per month over 6 months in a pediatric population. The population PK model was developed using dense PK data from a phase 1 study in healthy adults and sparse PK data from a phase 3 study in pediatric AT patients. Three dose levels were studied, and the overall PK population included 24 healthy adults and 109 AT patients. The PK of dexamethasone released from eDSP was described using a simplified two‐compartment model, adequate for estimating systemic exposure despite not fully capturing RBC release kinetics indicative of a triphasic pattern. The model showed a good fit, and future refinement will include mechanistic release modeling as more in vitro and in vivo data become available. Monte Carlo simulations of eDSP showed a rapid peak at 0.67 h, followed by sustained dexamethasone release; faster in the first 24 h, then slower over 20–30 days. No accumulation occurred with once‐monthly dosing.
 DOI: 10.1002/psp4.70103
 ISSN: 2163-8306
-Tag der Erhebung (OOIR): 2025-10-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/psp4.70103-2025-10-21-5</guid>
+Tag der Erhebung (OOIR): 2025-10-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/psp4.70103-2025-10-22-4</guid>
 			<pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Clinical Efficacy, Safety and Imaging Effects of Oral Valiltramiprosate in APOEε4/ε4 Homozygotes with Early Alzheimer’s Disease: Results of the Phase III, Randomized, Double-Blind, Placebo-Controlled, 78-Week APOLLOE4 Trial</title>
+			<link>https://doi.org/10.1007/s40265-025-02250-5</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 56
+Autoren: Susan Abushakra, Aidan Power, David Watson, Anton Porsteinsson, Marwan Sabbagh, Emer MacSweeney, Sharon Cohen, Mercè Boada Rovira, P. Murali Doraiswamy, Earvin Liang, Susan Flint, J. Patrick Kesslak, Rosalind McLaine, Adem Albayrak, Jean Schaefer, Jeremy Yu, Luke Tolar, Sam Dickson, John A. Hey, Martin Tolar
+Journal: Drugs
+Veröffentlicht: 2025-09-28
+DOI: 10.1007/s40265-025-02250-5
+ISSN: 0012-6667
+Tag der Erhebung (OOIR): 2025-10-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s40265-025-02250-5-2025-10-22-5</guid>
+			<pubDate>Sun, 28 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
