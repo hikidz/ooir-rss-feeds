@@ -5,21 +5,21 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rheumatology) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 22 Oct 2025 01:04:59 GMT</pubDate>
-		<lastBuildDate>Wed, 22 Oct 2025 01:04:59 GMT</lastBuildDate>
+		<pubDate>Thu, 23 Oct 2025 01:03:59 GMT</pubDate>
+		<lastBuildDate>Thu, 23 Oct 2025 01:03:59 GMT</lastBuildDate>
 		<item>
 			<title>EULAR recommendations for the management of systemic lupus erythematosus with kidney involvement: 2025 update</title>
 			<link>https://doi.org/10.1016/j.ard.2025.09.007</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Rheumatology
-Score: 72
+Score: 83
 Autoren: Antonis Fanouriakis, Myrto Kostopoulou, Hans-Joachim Anders, Jeanette Andersen, Martin Aringer, Michael W. Beresford, Andrea Doria, Eleni Frangou, Richard Furie, Dafna D. Gladman, Frederic Houssiau, Alexandre Karras, Marios Kouloumas, Anastasia-Vasiliki Madenidou, Ana Malvar, Smaragdi Marinaki, Chi Chiu Mok, Gabriella Moroni, Ioannis Parodis, Simona Rednic, Cristiana Sieiro Santos, Carlo Alberto Scire, Josef S. Smolen, Farah Tamirou, Yoshiya Tanaka, Y. K. Onno Teng, Elisabet Welin, George Bertsias, Dimitrios T. Boumpas
 Journal: Annals of the Rheumatic Diseases
 Veröffentlicht: 2025-10-01
 DOI: 10.1016/j.ard.2025.09.007
 ISSN: 0003-4967
-Tag der Erhebung (OOIR): 2025-10-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2025.09.007-2025-10-22-1</guid>
+Tag der Erhebung (OOIR): 2025-10-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2025.09.007-2025-10-23-1</guid>
 			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -33,8 +33,8 @@ Journal: Nature Reviews Rheumatology
 Veröffentlicht: 2025-10-02
 DOI: 10.1038/s41584-025-01315-9
 ISSN: 1759-4790
-Tag der Erhebung (OOIR): 2025-10-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41584-025-01315-9-2025-10-22-2</guid>
+Tag der Erhebung (OOIR): 2025-10-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41584-025-01315-9-2025-10-23-2</guid>
 			<pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -42,15 +42,15 @@ Tag der Erhebung (OOIR): 2025-10-22</description>
 			<link>https://doi.org/10.1002/acr.25682</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Rheumatology
-Score: 59
+Score: 61
 Autoren: Matthew Chung, John P. Shelley, Gul Karakoc, John Still, Xiaodi Ruan, Jonathan Mosley, C. Michael Stein, Vivian K. Kawai
 Journal: Arthritis Care &amp;amp; Research
 Veröffentlicht: 2025-10-15
 Abstract: ObjectiveAntinuclear antibodies (ANAs) are present at high titers in 2% of the general population but their clinical significance in individuals without an autoimmune (AI) disease is not known. We tested the hypothesis that the presence of a high ANA titer in non‐ AI conditions is associated with disease.MethodsWe conducted a retrospective case‐control study in the Vanderbilt University Medical Center's de‐identified electronic medical record system. Individuals without AI disease who had an ANA test were classified into 3 groups: high titer (HT, ANA≥1:640), low titer (LT, ANA≤1:80), and negative ANA (NG). The prevalence of diagnoses recorded within 90 days of the ANA test were compared among groups in a phenome‐wide association study (PheWAS) adjusting for age at ANA testing, sex, median body mass index (BMI), and reported race. A P‐value &amp;lt;5x10‐5 was considered significant.ResultsA total of 28,781 individuals qualified for the study: 3.1% in the HT, 12.3% in the LT, and 84.6% in the NG groups. BMI was similar between groups (P‐value=0.345), but individuals in the HT group were older (P=3.9x10‐73). A high ANA titer increased risk of 46 and 67 clinical diagnoses when comparing the HT group with the LT and the NG groups, respectively. The most significant associations in both comparisons included liver disorders/complications and risk factors for liver disease.ConclusionsA high ANA titer in the absence of an AI disease was associated with increased risk of liver disorders and related risk factors and complications.image
 DOI: 10.1002/acr.25682
 ISSN: 2151-464X
-Tag der Erhebung (OOIR): 2025-10-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/acr.25682-2025-10-22-3</guid>
+Tag der Erhebung (OOIR): 2025-10-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/acr.25682-2025-10-23-3</guid>
 			<pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -65,8 +65,8 @@ Veröffentlicht: 2025-09-22
 Abstract: ObjectivesThe aim of this study was to compare differences in clinical response, drug survival, and adverse event rates between anakinra and canakinumab in VEXAS syndrome.MethodsThis multicenter international study includes VEXAS patients from France, Israel, and Italy treated with IL1 inhibition (IL1i). Global response (GR) was defined as the absence of inflammatory symptoms, 50% or greater decrease in steroid dose and C‐reactive protein. Multiple regression analysis was performed to identify associated variables. Drug survival was analyzed using Kaplan‐Meier plots and log‐rank test, with Cox‐regression models for associated factors.ResultsWe included 47 male VEXAS patients; 44 received anakinra, and 9 received canakinumab, with 6 patients using both at different time points. GR at 1 month was 34% for anakinra and 100% for canakinumab (p&amp;lt;0.001), 22% and 78% at 3 months, respectively (p=0.001).Treatment with canakinumab was associated with higher odds ratio (OR) of achieving GR at 3 months (OR 28.8, 95%CI 3·0‐273·9, p=0.004) in a multivariable analysis. Median drug survival was 54 (30‐56) months for canakinumab at 300 mg/month, compared to 7 (4‐8) months for canakinumab 150 mg/month and 1 (1‐2.5) months for anakinra (p=0.01). Injection site reactions were only recorded for the anakinra group (47 vs 0%; p=0.006), whereas infections were more frequent in the anakinra group (31% and 11%; p=0·3).ConclusionsCanakinumab demonstrated superior clinical response and drug survival with fewer adverse events compared to anakinra. Monthly Canakinumab 300 mg may be considered as an effective steroid‐sparing therapeutic option for VEXAS patients.image
 DOI: 10.1002/art.43384
 ISSN: 2326-5191
-Tag der Erhebung (OOIR): 2025-10-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/art.43384-2025-10-22-4</guid>
+Tag der Erhebung (OOIR): 2025-10-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/art.43384-2025-10-23-4</guid>
 			<pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -97,8 +97,8 @@ Abstract: Abstract
                
 DOI: 10.1093/rheumatology/keaf499
 ISSN: 1462-0324
-Tag der Erhebung (OOIR): 2025-10-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1093/rheumatology/keaf499-2025-10-22-5</guid>
+Tag der Erhebung (OOIR): 2025-10-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1093/rheumatology/keaf499-2025-10-23-5</guid>
 			<pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>

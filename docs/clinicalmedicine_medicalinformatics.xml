@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 22 Oct 2025 01:04:19 GMT</pubDate>
-		<lastBuildDate>Wed, 22 Oct 2025 01:04:19 GMT</lastBuildDate>
+		<pubDate>Thu, 23 Oct 2025 01:03:06 GMT</pubDate>
+		<lastBuildDate>Thu, 23 Oct 2025 01:03:06 GMT</lastBuildDate>
 		<item>
 			<title>Effects of Computerized Cognitive Training on Vesicular Acetylcholine Transporter Levels using [18F]Fluoroethoxybenzovesamicol Positron Emission Tomography in Healthy Older Adults: Results from the Improving Neurological Health in Aging via Neuroplasticity-based Computerized Exercise (INHANCE) Randomized Clinical Trial</title>
 			<link>https://doi.org/10.2196/75161</link>
@@ -46,8 +46,8 @@ Abstract:
           
 DOI: 10.2196/75161
 ISSN: 2291-9279
-Tag der Erhebung (OOIR): 2025-10-22</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/75161-2025-10-22-1</guid>
+Tag der Erhebung (OOIR): 2025-10-23</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/75161-2025-10-23-1</guid>
 			<pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -63,8 +63,8 @@ Abstract: Abstract
           Large language models (LLMs) exhibit a vulnerability arising from being trained to be helpful: a tendency to comply with illogical requests that would generate false information, even when they have the knowledge to identify the request as illogical. This study investigated this vulnerability in the medical domain, evaluating five frontier LLMs using prompts that misrepresent equivalent drug relationships. We tested baseline sycophancy, the impact of prompts allowing rejection and emphasizing factual recall, and the effects of fine-tuning on a dataset of illogical requests, including out-of-distribution generalization. Results showed high initial compliance (up to 100%) across all models, prioritizing helpfulness over logical consistency. Prompt engineering and fine-tuning improved performance, improving rejection rates on illogical requests while maintaining general benchmark performance. This demonstrates that prioritizing logical consistency through targeted training and prompting is crucial for mitigating the risk of generating false medical information and ensuring the safe deployment of LLMs in healthcare.
 DOI: 10.1038/s41746-025-02008-z
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-10-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-02008-z-2025-10-22-2</guid>
+Tag der Erhebung (OOIR): 2025-10-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-02008-z-2025-10-23-2</guid>
 			<pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -72,14 +72,14 @@ Tag der Erhebung (OOIR): 2025-10-22</description>
 			<link>https://doi.org/10.1016/j.landig.2025.100907</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 90
+Score: 98
 Autoren: Florian A Wenzl, Klaus F Kofoed, Moa Simonsson, Gareth Ambler, Niels M R van der Sangen, Erik Lampa, Francesco Bruno, Mark A de Belder, Jiri Hlasensky, Matthias Mueller-Hennessen, Maria A Smolle, Peizhi Wang, José P S Henriques, Wouter J Kikkert, Henning Kelbæk, Luboš Bouček, Sergio Raposeiras-Roubín, Emad Abu-Assi, Jaouad Azzahhafi, Matthijs A Velders, Konstantinos Stellos, Thomas Engstrøm, Dean R P P Chan Pin Yin, Clive Weston, David Adlam, Hans Rickli, Evangelos Giannitsis, Dragana Radovanovic, Jiri Parenica, Charalambos A Antoniades, Keith A A Fox, Fabrizio D'Ascenzo, Jurriën M ten Berg, Lars V Køber, Stefan James, John Deanfield, Thomas F Lüscher
 Journal: The Lancet Digital Health
 Veröffentlicht: 2025-10-01
 DOI: 10.1016/j.landig.2025.100907
 ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2025-10-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100907-2025-10-22-3</guid>
+Tag der Erhebung (OOIR): 2025-10-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100907-2025-10-23-3</guid>
 			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -116,8 +116,8 @@ Abstract:
           
 DOI: 10.2196/55664
 ISSN: 2291-5222
-Tag der Erhebung (OOIR): 2025-10-22</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/55664-2025-10-22-4</guid>
+Tag der Erhebung (OOIR): 2025-10-23</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/55664-2025-10-23-4</guid>
 			<pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -131,8 +131,8 @@ Journal: Journal of Medical Internet Research
 Veröffentlicht: 2025-09-19
 DOI: 10.2196/83499
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-10-22</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/83499-2025-10-22-5</guid>
+Tag der Erhebung (OOIR): 2025-10-23</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/83499-2025-10-23-5</guid>
 			<pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
