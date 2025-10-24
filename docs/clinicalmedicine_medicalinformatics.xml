@@ -5,14 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 23 Oct 2025 01:03:06 GMT</pubDate>
-		<lastBuildDate>Thu, 23 Oct 2025 01:03:06 GMT</lastBuildDate>
+		<pubDate>Fri, 24 Oct 2025 00:59:16 GMT</pubDate>
+		<lastBuildDate>Fri, 24 Oct 2025 00:59:16 GMT</lastBuildDate>
 		<item>
 			<title>Effects of Computerized Cognitive Training on Vesicular Acetylcholine Transporter Levels using [18F]Fluoroethoxybenzovesamicol Positron Emission Tomography in Healthy Older Adults: Results from the Improving Neurological Health in Aging via Neuroplasticity-based Computerized Exercise (INHANCE) Randomized Clinical Trial</title>
 			<link>https://doi.org/10.2196/75161</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 303
+Score: 683
 Autoren: Mouna Attarha, Ana de Figueiredo Pelegrino, Lydia Ouellet, Paule-Joanne Toussaint, Sarah-Jane Grant, Thomas Van Vleet, Etienne de Villers-Sidani
 Journal: JMIR Serious Games
 Veröffentlicht: 2025-10-13
@@ -46,8 +46,8 @@ Abstract:
           
 DOI: 10.2196/75161
 ISSN: 2291-9279
-Tag der Erhebung (OOIR): 2025-10-23</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/75161-2025-10-23-1</guid>
+Tag der Erhebung (OOIR): 2025-10-24</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/75161-2025-10-24-1</guid>
 			<pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -55,7 +55,7 @@ Tag der Erhebung (OOIR): 2025-10-23</description>
 			<link>https://doi.org/10.1038/s41746-025-02008-z</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 140
+Score: 168
 Autoren: Shan Chen, Mingye Gao, Kuleen Sasse, Thomas Hartvigsen, Brian Anthony, Lizhou Fan, Hugo Aerts, Jack Gallifant, Danielle S. Bitterman
 Journal: npj Digital Medicine
 Veröffentlicht: 2025-10-17
@@ -63,8 +63,8 @@ Abstract: Abstract
           Large language models (LLMs) exhibit a vulnerability arising from being trained to be helpful: a tendency to comply with illogical requests that would generate false information, even when they have the knowledge to identify the request as illogical. This study investigated this vulnerability in the medical domain, evaluating five frontier LLMs using prompts that misrepresent equivalent drug relationships. We tested baseline sycophancy, the impact of prompts allowing rejection and emphasizing factual recall, and the effects of fine-tuning on a dataset of illogical requests, including out-of-distribution generalization. Results showed high initial compliance (up to 100%) across all models, prioritizing helpfulness over logical consistency. Prompt engineering and fine-tuning improved performance, improving rejection rates on illogical requests while maintaining general benchmark performance. This demonstrates that prioritizing logical consistency through targeted training and prompting is crucial for mitigating the risk of generating false medical information and ensuring the safe deployment of LLMs in healthcare.
 DOI: 10.1038/s41746-025-02008-z
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-10-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-02008-z-2025-10-23-2</guid>
+Tag der Erhebung (OOIR): 2025-10-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-02008-z-2025-10-24-2</guid>
 			<pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -78,8 +78,8 @@ Journal: The Lancet Digital Health
 Veröffentlicht: 2025-10-01
 DOI: 10.1016/j.landig.2025.100907
 ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2025-10-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100907-2025-10-23-3</guid>
+Tag der Erhebung (OOIR): 2025-10-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100907-2025-10-24-3</guid>
 			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -116,24 +116,44 @@ Abstract:
           
 DOI: 10.2196/55664
 ISSN: 2291-5222
-Tag der Erhebung (OOIR): 2025-10-23</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/55664-2025-10-23-4</guid>
+Tag der Erhebung (OOIR): 2025-10-24</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/55664-2025-10-24-4</guid>
 			<pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Research Implications of Increased Political Oversight in the United States</title>
-			<link>https://doi.org/10.2196/83499</link>
+			<title>An Exploration of How Functional Neurological Disorder Is Discussed on X (Twitter): Mixed Methods Study Using Social Network and Content Analysis</title>
+			<link>https://doi.org/10.2196/73439</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 47
-Autoren: Kayleigh-Ann Clegg
+Score: 63
+Autoren: Caoimhe McLoughlin, Jing-Yi Wang, Florence Do, Takamichi Kanbayashi, Anna Couturier, Alan Carson, Jon Stone
 Journal: Journal of Medical Internet Research
-Veröffentlicht: 2025-09-19
-DOI: 10.2196/83499
+Veröffentlicht: 2025-10-17
+Abstract: 
+            Background
+            Functional neurological disorder (FND) is one of the commonest conditions in neurological practice, describing symptoms like paralysis and seizures that can be severe and disabling. It is a diagnosis that is confirmed clinically rather than by scans or laboratory results. It is a stigmatized and widely misperceived condition, and since the emergence of long COVID, there has been some conflation of FND with other conditions, which has caused further misunderstanding. Social media has become increasingly popular for patients to learn and interact about their conditions, and the information that they seek and receive may be shaped by many factors. Prior to this study, the online discourse about FND had not been described in the literature.
+          
+          
+            Objective
+            We aimed to analyze and describe how FND is discussed on the social media platform X (formerly known as Twitter) using a mixed methods approach.
+          
+          
+            Methods
+            Using search terms related to FND, the authors collected data from 426 users and 1104 posts, generating a total of 7640 replies and reposts over a 2-month time frame in 2024. Quantitative descriptive and social network analyses were carried out to map key influential users and communities, in addition to measuring the influence of users. Content analysis was undertaken to describe the prevalent topics being discussed.
+          
+          
+            Results
+            More users overall associated with conditions outside FND (n=180, 42.3%), mostly long COVID and myalgic encephalomyelitis/chronic fatigue syndrome, compared with FND (n=148, 34.7%). Self-declared patients made up 40.8% (450/1104) of posts and 36.4% (n=155) of users. Social network analysis revealed 2 separate communities with little interaction. There was a prominence of myalgic encephalomyelitis/chronic fatigue syndrome and long COVID–associated users (nodes) over FND users (nodes). The former cluster showed stronger connections outwardly or peripherally than the FND cluster, suggesting that they may have a stronger impact on shaping the public narrative around FND than FND nodes. In total, 7 of the top 10 most influential users often displayed anti-FND views, while FND organizations and professionals had much less influence. There were 58 posts with at least 5000 views. Of these 58, 10 were from self-declared FND professionals, while 19 were from self-declared professionals associated with other conditions. Of these highly viewed posts, 38 of 58 were negatively predisposed toward FND. Content analysis showed themes of (1) conflict, (2) deception, (3) mistreatment and harm, (4) symptom experience, (5) knowledge, and (6) support.
+          
+          
+            Conclusions
+            A large proportion of the discourse around FND on X is shaped by users who are dismissive of the concept of FND and those associated with it. These findings have implications for individuals getting support for a condition that is already widely misunderstood. This study could provide a template for assessing how other stigmatized conditions are perceived on the web.
+          
+DOI: 10.2196/73439
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-10-23</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/83499-2025-10-23-5</guid>
-			<pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
+Tag der Erhebung (OOIR): 2025-10-24</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/73439-2025-10-24-5</guid>
+			<pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
