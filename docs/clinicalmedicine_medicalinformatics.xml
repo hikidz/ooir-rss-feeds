@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Fri, 24 Oct 2025 00:59:16 GMT</pubDate>
-		<lastBuildDate>Fri, 24 Oct 2025 00:59:16 GMT</lastBuildDate>
+		<pubDate>Sat, 25 Oct 2025 01:01:01 GMT</pubDate>
+		<lastBuildDate>Sat, 25 Oct 2025 01:01:01 GMT</lastBuildDate>
 		<item>
 			<title>Effects of Computerized Cognitive Training on Vesicular Acetylcholine Transporter Levels using [18F]Fluoroethoxybenzovesamicol Positron Emission Tomography in Healthy Older Adults: Results from the Improving Neurological Health in Aging via Neuroplasticity-based Computerized Exercise (INHANCE) Randomized Clinical Trial</title>
 			<link>https://doi.org/10.2196/75161</link>
@@ -46,8 +46,8 @@ Abstract:
           
 DOI: 10.2196/75161
 ISSN: 2291-9279
-Tag der Erhebung (OOIR): 2025-10-24</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/75161-2025-10-24-1</guid>
+Tag der Erhebung (OOIR): 2025-10-25</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/75161-2025-10-25-1</guid>
 			<pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -63,8 +63,8 @@ Abstract: Abstract
           Large language models (LLMs) exhibit a vulnerability arising from being trained to be helpful: a tendency to comply with illogical requests that would generate false information, even when they have the knowledge to identify the request as illogical. This study investigated this vulnerability in the medical domain, evaluating five frontier LLMs using prompts that misrepresent equivalent drug relationships. We tested baseline sycophancy, the impact of prompts allowing rejection and emphasizing factual recall, and the effects of fine-tuning on a dataset of illogical requests, including out-of-distribution generalization. Results showed high initial compliance (up to 100%) across all models, prioritizing helpfulness over logical consistency. Prompt engineering and fine-tuning improved performance, improving rejection rates on illogical requests while maintaining general benchmark performance. This demonstrates that prioritizing logical consistency through targeted training and prompting is crucial for mitigating the risk of generating false medical information and ensuring the safe deployment of LLMs in healthcare.
 DOI: 10.1038/s41746-025-02008-z
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-10-24</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-02008-z-2025-10-24-2</guid>
+Tag der Erhebung (OOIR): 2025-10-25</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-02008-z-2025-10-25-2</guid>
 			<pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -78,8 +78,8 @@ Journal: The Lancet Digital Health
 Veröffentlicht: 2025-10-01
 DOI: 10.1016/j.landig.2025.100907
 ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2025-10-24</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100907-2025-10-24-3</guid>
+Tag der Erhebung (OOIR): 2025-10-25</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100907-2025-10-25-3</guid>
 			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -116,8 +116,8 @@ Abstract:
           
 DOI: 10.2196/55664
 ISSN: 2291-5222
-Tag der Erhebung (OOIR): 2025-10-24</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/55664-2025-10-24-4</guid>
+Tag der Erhebung (OOIR): 2025-10-25</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/55664-2025-10-25-4</guid>
 			<pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -151,8 +151,8 @@ Abstract:
           
 DOI: 10.2196/73439
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-10-24</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/73439-2025-10-24-5</guid>
+Tag der Erhebung (OOIR): 2025-10-25</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/73439-2025-10-25-5</guid>
 			<pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>

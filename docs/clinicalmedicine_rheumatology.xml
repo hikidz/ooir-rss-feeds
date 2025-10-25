@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rheumatology) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Fri, 24 Oct 2025 01:00:01 GMT</pubDate>
-		<lastBuildDate>Fri, 24 Oct 2025 01:00:01 GMT</lastBuildDate>
+		<pubDate>Sat, 25 Oct 2025 01:02:59 GMT</pubDate>
+		<lastBuildDate>Sat, 25 Oct 2025 01:02:59 GMT</lastBuildDate>
 		<item>
 			<title>Injury and local injection and the risk of foot/ankle osteoarthritis: a case–control study in retired UK male professional footballers</title>
 			<link>https://doi.org/10.1093/rheumatology/keaf518</link>
@@ -35,9 +35,24 @@ Abstract: Abstract
                   
 DOI: 10.1093/rheumatology/keaf518
 ISSN: 1462-0324
-Tag der Erhebung (OOIR): 2025-10-24</description>
-			<guid isPermaLink="false">ooir-trend-10.1093/rheumatology/keaf518-2025-10-24-1</guid>
+Tag der Erhebung (OOIR): 2025-10-25</description>
+			<guid isPermaLink="false">ooir-trend-10.1093/rheumatology/keaf518-2025-10-25-1</guid>
 			<pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Blocking the neonatal Fc receptor as a novel approach to prevent cardiac neonatal lupus: a proof-of-concept study</title>
+			<link>https://doi.org/10.1016/j.ard.2025.09.011</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 120
+Autoren: Philip M. Carlucci, Mala Masson, Bettina F. Cuneo, Justin S. Brandt, Angus B. Worthing, Peter Izmirly, Nicola Fraser, Nalani Sachan, Mary T. Donofrio, Robert Clancy, Jill P. Buyon
+Journal: Annals of the Rheumatic Diseases
+Veröffentlicht: 2025-10-01
+DOI: 10.1016/j.ard.2025.09.011
+ISSN: 0003-4967
+Tag der Erhebung (OOIR): 2025-10-25</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2025.09.011-2025-10-25-2</guid>
+			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Challenges in the diagnosis, classification and prognosis of ANCA-associated vasculitis</title>
@@ -50,8 +65,8 @@ Journal: Nature Reviews Rheumatology
 Veröffentlicht: 2025-10-16
 DOI: 10.1038/s41584-025-01306-w
 ISSN: 1759-4790
-Tag der Erhebung (OOIR): 2025-10-24</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41584-025-01306-w-2025-10-24-2</guid>
+Tag der Erhebung (OOIR): 2025-10-25</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41584-025-01306-w-2025-10-25-3</guid>
 			<pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -65,8 +80,8 @@ Journal: Annals of the Rheumatic Diseases
 Veröffentlicht: 2025-10-01
 DOI: 10.1016/j.ard.2025.09.007
 ISSN: 0003-4967
-Tag der Erhebung (OOIR): 2025-10-24</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2025.09.007-2025-10-24-3</guid>
+Tag der Erhebung (OOIR): 2025-10-25</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2025.09.007-2025-10-25-4</guid>
 			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -80,25 +95,9 @@ Journal: Nature Reviews Rheumatology
 Veröffentlicht: 2025-10-02
 DOI: 10.1038/s41584-025-01315-9
 ISSN: 1759-4790
-Tag der Erhebung (OOIR): 2025-10-24</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41584-025-01315-9-2025-10-24-4</guid>
+Tag der Erhebung (OOIR): 2025-10-25</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41584-025-01315-9-2025-10-25-5</guid>
 			<pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Clinical conditions associated with a high antinuclear antibody titer in individuals without autoimmune disease</title>
-			<link>https://doi.org/10.1002/acr.25682</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rheumatology
-Score: 61
-Autoren: Matthew Chung, John P. Shelley, Gul Karakoc, John Still, Xiaodi Ruan, Jonathan Mosley, C. Michael Stein, Vivian K. Kawai
-Journal: Arthritis Care &amp;amp; Research
-Veröffentlicht: 2025-10-15
-Abstract: ObjectiveAntinuclear antibodies (ANAs) are present at high titers in 2% of the general population but their clinical significance in individuals without an autoimmune (AI) disease is not known. We tested the hypothesis that the presence of a high ANA titer in non‐ AI conditions is associated with disease.MethodsWe conducted a retrospective case‐control study in the Vanderbilt University Medical Center's de‐identified electronic medical record system. Individuals without AI disease who had an ANA test were classified into 3 groups: high titer (HT, ANA≥1:640), low titer (LT, ANA≤1:80), and negative ANA (NG). The prevalence of diagnoses recorded within 90 days of the ANA test were compared among groups in a phenome‐wide association study (PheWAS) adjusting for age at ANA testing, sex, median body mass index (BMI), and reported race. A P‐value &amp;lt;5x10‐5 was considered significant.ResultsA total of 28,781 individuals qualified for the study: 3.1% in the HT, 12.3% in the LT, and 84.6% in the NG groups. BMI was similar between groups (P‐value=0.345), but individuals in the HT group were older (P=3.9x10‐73). A high ANA titer increased risk of 46 and 67 clinical diagnoses when comparing the HT group with the LT and the NG groups, respectively. The most significant associations in both comparisons included liver disorders/complications and risk factors for liver disease.ConclusionsA high ANA titer in the absence of an AI disease was associated with increased risk of liver disorders and related risk factors and complications.image
-DOI: 10.1002/acr.25682
-ISSN: 2151-464X
-Tag der Erhebung (OOIR): 2025-10-24</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/acr.25682-2025-10-24-5</guid>
-			<pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
