@@ -5,111 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, General &amp; Internal) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 25 Oct 2025 01:01:21 GMT</pubDate>
-		<lastBuildDate>Sat, 25 Oct 2025 01:01:21 GMT</lastBuildDate>
+		<pubDate>Sun, 26 Oct 2025 01:07:12 GMT</pubDate>
+		<lastBuildDate>Sun, 26 Oct 2025 01:07:12 GMT</lastBuildDate>
 		<item>
-			<title>Alcohol use and risk of dementia in diverse populations: evidence from cohort, case–control and Mendelian randomisation approaches</title>
-			<link>https://doi.org/10.1136/bmjebm-2025-113913</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, General &amp; Internal
-Score: 3150
-Autoren: Anya Topiwala, Daniel F Levey, Hang Zhou, Joseph D Deak, Keyrun Adhikari, Klaus P Ebmeier, Steven Bell, Stephen Burgess, Thomas E Nichols, Michael Gaziano, Murray Stein, Joel Gelernter
-Journal: BMJ Evidence-Based Medicine
-Veröffentlicht: 2025-09-23
-Abstract: 
-                  Objectives
-                  To investigate the relationship between alcohol consumption and dementia.
-               
-               
-                  Design
-                  Prospective cohort and case–control analyses combined with linear and non-linear Mendelian randomisation.
-               
-               
-                  Setting
-                  Two large-scale population-based cohorts: the US Million Veteran Programme and the UK Biobank. Genetic analyses used summary statistics from genome-wide association studies (GWAS).
-               
-               
-                  Participants
-                  559 559 adults aged 56–72 years at baseline were included in observational analyses (mean follow-up: 4 years in the US cohort; 12 years in the UK cohort). Genetic analyses used summary data from multiple large GWAS consortia (2.4 million participants).
-               
-               
-                  Main outcome measures
-                  Incident all-cause dementia, determined through health record linkage, and genetic proxies.
-               
-               
-                  Results
-                  During follow-up, 14 540 participants developed dementia and 48 034 died. Observational phenotype-only analyses revealed U-shaped associations between alcohol and dementia risk: higher risk was observed among non-drinkers, heavy drinkers (&amp;gt;40 drinks per week; HR 1.41, 95% CI 1.15 to 1.74), and those with alcohol use disorder (AUD) (HR 1.51, 95% CI 1.42 to 1.60) compared with light drinkers. In contrast, Mendelian randomisation genetic analysis identified a monotonic increase in dementia risk with greater alcohol consumption. A 1 SD increase in log-transformed drinks per week was associated with a 15% dementia increase (inverse-variance weighted (IVW) OR 1.15, 95% CI 1.03 to 1.27). A twofold increase in AUD prevalence was associated with a 16% increase in dementia risk (IVW OR 1.16, 95% CI 1.03 to 1.30). Alcohol intake increased dementia, but individuals who developed dementia also experienced a decline in alcohol intake over time, suggesting reverse causation—where early cognitive decline leads to reduced alcohol consumption—underlies the supposed protective alcohol effects in observational studies.
-               
-               
-                  Conclusions
-                  These findings provide evidence for a relationship between all types of alcohol use and increased dementia risk. While correlational observational data suggested a protective effect of light drinking, this could be in part attributable to reduced drinking seen in early dementia; genetic analyses did not support any protective effect, suggesting that any level of alcohol consumption may contribute to dementia risk. Public health strategies that reduce the prevalence of alcohol use disorder could potentially lower the incidence of dementia by up to 16%.
-               
-DOI: 10.1136/bmjebm-2025-113913
-ISSN: 2515-446X
-Tag der Erhebung (OOIR): 2025-10-25</description>
-			<guid isPermaLink="false">ooir-trend-10.1136/bmjebm-2025-113913-2025-10-25-1</guid>
-			<pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>The EAT–Lancet Commission on healthy, sustainable, and just food systems</title>
-			<link>https://doi.org/10.1016/s0140-6736(25)01201-2</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, General &amp; Internal
-Score: 2721
-Autoren: Johan Rockström, Shakuntala Haraksingh Thilsted, Walter C Willett, Line J Gordon, Mario Herrero, Christina C Hicks, Daniel Mason-D'Croz, Nitya Rao, Marco Springmann, Ellen Cecilie Wright, Rina Agustina, Sumati Bajaj, Anne Charlotte Bunge, Bianca Carducci, Costanza Conti, Namukolo Covic, Jessica Fanzo, Nita G Forouhi, Matthew F Gibson, Xiao Gu, Ermias Kebreab, Claire Kremen, Amar Laila, Ramanan Laxminarayan, Theresa M Marteau, Carlos A Monteiro, Anna Norberg, Jemimah Njuki, Thais Diniz Oliveira, Wen-Harn Pan, Juan A Rivera, James P W Robinson, Marina Sundiang, Sofie te Wierik, Detlef P van Vuuren, Sonja Vermeulen, Patrick Webb, Lujain Alqodmani, Ramya Ambikapathi, Anne Barnhill, Isabel Baudish, Felicitas Beier, Damien Beillouin, Arthur H W Beusen, Jannes Breier, Charlotte Chemarin, Maksym Chepeliev, Jennifer Clapp, Wim de Vries, Ignacio Pérez-Domínguez, Natalia Estrada-Carmona, Dieter Gerten, Christopher D Golden, Sarah K Jones, Peter Søgaard Jørgensen, Marta Kozicka, Hermann Lotze-Campen, Federico Maggi, Emma Marzi, Abhijeet Mishra, Fernando Orduna-Cabrera, Alexander Popp, Lena Schulte-Uebbing, Elke Stehfest, Fiona H M Tang, Kazuaki Tsuchiya, Hannah H E Van Zanten, Willem-Jan van Zeist, Xin Zhao, Fabrice DeClerck
-Journal: The Lancet
-Veröffentlicht: 2025-10-01
-DOI: 10.1016/s0140-6736(25)01201-2
-ISSN: 0140-6736
-Tag der Erhebung (OOIR): 2025-10-25</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/s0140-6736(25)01201-2-2025-10-25-2</guid>
-			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Efficacy and Safety of Baxdrostat in Uncontrolled and Resistant Hypertension</title>
-			<link>https://doi.org/10.1056/nejmoa2507109</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, General &amp; Internal
-Score: 2559
-Autoren: John M. Flack, Michel Azizi, Jenifer M. Brown, Jamie P. Dwyer, Jakub Fronczek, Erika S.W. Jones, Daniel S. Olsson, Shira Perl, Hirotaka Shibata, Ji-Guang Wang, Ulrica Wilderäng, Janet Wittes, Bryan Williams
-Journal: New England Journal of Medicine
-Veröffentlicht: 2025-10-09
-DOI: 10.1056/nejmoa2507109
-ISSN: 0028-4793
-Tag der Erhebung (OOIR): 2025-10-25</description>
-			<guid isPermaLink="false">ooir-trend-10.1056/nejmoa2507109-2025-10-25-3</guid>
-			<pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Changes in Carbapenemase-Producing Carbapenem-Resistant Enterobacterales, 2019 to 2023</title>
-			<link>https://doi.org/10.7326/annals-25-02404</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, General &amp; Internal
-Score: 2476
-Autoren: Danielle A. Rankin, Anna Stahl, Sarah Sabour, Mohammed A. Khan, Tiana Armstrong, Jennifer Y. Huang, James Baggs, Maroya Spalding Walters
-Journal: Annals of Internal Medicine
-Veröffentlicht: 2025-09-23
-DOI: 10.7326/annals-25-02404
-ISSN: 0003-4819
-Tag der Erhebung (OOIR): 2025-10-25</description>
-			<guid isPermaLink="false">ooir-trend-10.7326/annals-25-02404-2025-10-25-4</guid>
-			<pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Biparametric vs Multiparametric MRI for Prostate Cancer Diagnosis</title>
-			<link>https://doi.org/10.1001/jama.2025.13722</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, General &amp; Internal
-Score: 1477
-Autoren: Alexander B.C.D. Ng, Aqua Asif, Ridhi Agarwal, Valeria Panebianco, Rossano Girometti, Sangeet Ghai, Enrique Gómez-Gómez, Lars Budäus, Tristan Barrett, Jan Philipp Radtke, Claudia Kesch, Francesco De Cobelli, Tho Pham, Samir S. Taneja, Jim C. Hu, Ash Tewari, Miguel Á. Rodríguez Cabello, Adriano B. Dias, Lance A. Mynderse, Marcelo Borghi, Lars Boesen, Paras Singh, Raphaële Renard-Penna, Jeffrey J. Leow, Fabian Falkenbach, Martina Pecoraro, Gianluca Giannarini, Nathan Perlis, Daniel López-Ruiz, Christof Kastner, Lars Schimmöller, Marimo Rossiter, Arjun Nathan, Pramit Khetrapal, Vinson Wai-Shun Chan, Aiman Haider, Caroline S. Clarke, Shonit Punwani, Chris Brew-Graves, Louise Dickinson, Anita Mitra, Giorgio Brembilla, Daniel J. A. Margolis, Yemisi Takwoingi, Mark Emberton, Clare Allen, Francesco Giganti, Caroline M. Moore, Veeru Kasivisvanathan, PRIME Study Group Collaborators, Antonella Borrelli, Alberto Briganti, Alessandro Crestani, Alessandro Sciarra, Alex Evangelista, Alex Freeman, Alex Kirkham, Alexandre Zlotta, Ana Blanca Pedregosa, Anders Bjartell, Andrew Ryan, Angela Tong, Anne Warren, Antonette Andrews, Antonio Finelli, Antonio Ciardi, Antti Rannikko, Armando Stabile, Arnauld Villers, Arturo Platas Sancho, Ashley Baring, Ashoke Roy, Balqiisa Issa, Bas Israël, Boris A Hadaschik, Carolina Aulló Gonzalez, Caroline L English, Chau Hung Lee, Chiara Zuiani, Christien Caris, Conrad Von Stempel, Cristina Amate, Daniel ZP Yong, Davide Rozze, Derek J Lomas, Donato Cannoletta, Eileen Wang Chang, Emanuele Messina, Gaia Zussino, Gerald Antoch, Giorgio Gandaglia, Gregoire Robert, Guido Sauter, Harini Thevarajah, Harriet Sorrell, Hazel McBain, Henning Reis, Hernando Rios Pita, Ingrid Potyka, Iztok Caglic, Jeanlou Collavino, Jens Theysohn, Jeremy Grummet, Jincy Koshy, Jing Yi (Jessica) Weng, John Wilkinson, Joke van Egmond, Jon Piper, Jonathan Deeks, Jonathan O'Brien, José Valero Rosa, Juan Luis Sanz Miguelañez, Juan Mesa Quesada, Kai Jannusch, Kateri Corr, Kenneth Haines, Lale Umutlu, Leonardo Quarta, Letizia Casarotto, Linda Gimeno, Luca Orecchia, Lucas Moretti, Ludovica Laschena, Lukas Drewes, Maarten de Rooij, Manuel Sanchez Ostos, Marco Bicchetti, Marco Gatti, María de los Desamparados Esteban Peris, Mariano Volpacchio, Mark Prentice, Markus Graefen, Matteo Soligo, Matthias Boschheidgen, Matthias C Roethke, Maurizio Del Monte, Mausam Singhera, Monali Fatterpekar, Mulham Al-Nader, Mykyta Kachanov, Nadeem Shaida, Naoki Takahashi, Neil Fleshner, Nicola Muirhead, Nikhil Vasdev, Nimalan Sanmugalingam, Nis Nørgaard, Peter Albers, Pete Vicente, Peter Incze, Philip Ryan, Philippe Rouvier, Phoebe Mead, Pierre Charles Mozer, Pieter De Visschere, Publio Cesar Cavalcante Viana, Rafael E Jimenez, Réka Novotta, Richard Huang, Richard O'Sullivan, Rikke Karlin Jepsen, Robert Frese, Rosemary Clow, Rouvier Al-Monajjed, Sara Lewis, Sophia Cashman, Stefano Pizzolitto, Steven Lelie, Sydney Lindner, Syed Shah, Tarek Al-Hammouri, Teresa González Sanchez, Tharakeswara Bathala, Theodorus H van der Kwast, Thomas Reid, Timothy McClure, Tobias Maurer, Valeria Peruzzi, Vibeke Løgager, Vinay Prabhu, Vinayak Wagaskar, Wim Witjes
-Journal: JAMA
-Veröffentlicht: 2025-10-07
-Abstract: ImportanceMultiparametric magnetic resonance imaging (MRI), with or without prostate biopsy, has become the standard of care for diagnosing clinically significant prostate cancer. Resource capacity limits widespread adoption. Biparametric MRI, which omits the gadolinium contrast sequence, is a shorter and cheaper alternative offering time-saving capacity gains for health systems globally.ObjectiveTo assess whether biparametric MRI is noninferior to multiparametric MRI for diagnosis of clinically significant prostate cancer.Design, Setting, and ParticipantsA prospective, multicenter, within-patient, noninferiority trial of biopsy-naive men from 22 centers (12 countries) with clinical suspicion of prostate cancer (elevated prostate-specific antigen [PSA] level and/or abnormal digital rectal examination findings) from April 2022 to September 2023, with the last follow-up conducted on December 3, 2024.InterventionsParticipants underwent multiparametric MRI, comprising T2-weighted, diffusion-weighted, and dynamic contrast–enhanced (DCE) sequences. Radiologists reported abbreviated biparametric MRI first (T2-weighted and diffusion-weighted), blinded to the DCE sequence. After unblinding, radiologists reported the full multiparametric MRI. Patients underwent a targeted biopsy with or without systematic biopsy if either biparametric MRI or multiparametric MRI was suggestive of clinically significant prostate cancer.Main outcomes and measuresThe primary outcome was the proportion of men with clinically significant prostate cancer. Secondary outcomes included the proportion of men with clinically insignificant cancer. The noninferiority margin was 5%.ResultsOf 555 men recruited, 490 were included for primary outcome analysis. Median age was 65 (IQR, 59-70) years and median PSA level was 5.6 (IQR, 4.4-8.0) ng/mL. The proportion of patients with abnormal digital rectal examination findings was 12.7%. Biparametric MRI was noninferior to multiparametric MRI, detecting clinically significant prostate cancer in 143 of 490 men (29.2%), compared with 145 of 490 men (29.6%) (difference, −0.4 [95% CI, −1.2 to 0.4] percentage points; P = .50). Biparametric MRI detected clinically insignificant cancer in 45 of 490 men (9.2%), compared with 47 of 490 men (9.6%) with the use of multiparametric MRI (difference, −0.4 [95% CI, −1.2 to 0.4] percentage points). Central quality control demonstrated that 99% of scans were of adequate diagnostic quality.Conclusion and relevanceIn men with suspected prostate cancer, provided image quality is adequate, an abbreviated biparametric MRI scan, with or without targeted biopsy, could become the new standard of care for prostate cancer diagnosis. With approximately 4 million prostate MRIs performed globally annually, adopting biparametric MRI could substantially increase scanner throughput and reduce costs worldwide.Trial registrationClinicalTrials.gov Identifier: NCT04571840
-DOI: 10.1001/jama.2025.13722
-ISSN: 0098-7484
-Tag der Erhebung (OOIR): 2025-10-25</description>
-			<guid isPermaLink="false">ooir-trend-10.1001/jama.2025.13722-2025-10-25-5</guid>
-			<pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+			<title>⚠️ Keine Trends für Clinical Medicine (Medicine, General &amp; Internal) verfügbar</title>
+			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
+			<link>https://ooir.org</link>
+			<guid>ooir-no-trends-clinicalmedicine-medicinegeneralinternal-20251026010712</guid>
+			<pubDate>Sun, 26 Oct 2025 01:07:12 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
