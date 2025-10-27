@@ -5,14 +5,115 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Endocrinology &amp; Metabolism) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sun, 26 Oct 2025 01:07:11 GMT</pubDate>
-		<lastBuildDate>Sun, 26 Oct 2025 01:07:11 GMT</lastBuildDate>
+		<pubDate>Mon, 27 Oct 2025 01:08:12 GMT</pubDate>
+		<lastBuildDate>Mon, 27 Oct 2025 01:08:12 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Endocrinology &amp; Metabolism) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-endocrinologymetabolism-20251026010711</guid>
-			<pubDate>Sun, 26 Oct 2025 01:07:11 GMT</pubDate>
+			<title>Undiagnosed G6PD Deficiency in Black and Asian Individuals Is Prevalent and Contributes to Health Inequalities in Type 2 Diabetes Diagnosis and Complications</title>
+			<link>https://doi.org/10.2337/dc25-0556</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 1137
+Autoren: Susan Martin, Miriam Samuel, Daniel Stow, Alys M. Ridsdale, Ji Chen, Katherine G. Young, Harry D. Green, Andrew T. Hattersley, Veline L’Esperance, Trevelyan J. McKinley, Sarah Finer, Inês Barroso, Genes &amp; Health Research Team, Eamonn Maher, Shabana Chaudhary, Joseph Gafton, Karen A. Hunt, Shapna Hussain, Kamrul Islam, Hilary Martin, Mohammed Bodrul Mazid, Elizabeth Owor, Jessry Russell, Nishat Safa, John Solly, Marie Spreckley, David A. Van Heel, Jan Whalley, Ishevanhu Zengeya, Emily Mantle, Shaheen Akhtar, Samina Ashraf, Dan Mason, John Wright, Daniel MacArthur, Michael Simpson, Richard C. Trembath, Gerome Breen, Raymond Chung, Sang Hyuck Lee, Omar Asgar, Joanne Harvey, Karen Tricker, Caroline Winckley, Hanifa Khatun, Amna Asif, Claudia Langenberg, Grainne Colligan, Ceri Durham, Bill Newman, Ahsan Khan, Teng Heng, Matt Hurles, Vivek Iyer, Georgios Kalantzis, Vladimir Ovchinnikov, Iaroslav Popov, Klaudia Walter, Panos Deloukas, David Collier, Ana Angel, Saeed Bidi, Fabiola Eto, Sarah Finer, Chris Griffiths, Sam Hodgson, Benjamin M. Jacobs, Rohini Mathur, Caroline Morton, Asma Qureshi, Stuart Rison, Annum Salman, Miriam Samuel, Moneeza K. Siddiqui, Daniel Stow, Sabina Yasmin, Julia Zöllner, Sheik Dowlut
+Journal: Diabetes Care
+Veröffentlicht: 2025-09-30
+Abstract: 
+                  OBJECTIVE
+                  Glucose-6-phosphate dehydrogenase (G6PD) deficiency presents silently and is not routinely screened. It is associated with markedly lower HbA1c for the prevailing glucose levels. Since HbA1c is internationally recommended to diagnose and manage type 2 diabetes (T2D), we investigated the population-level impact of undiagnosed G6PD deficiency on T2D diagnosis and complications in the U.K.
+               
+               
+                  RESEARCH DESIGN AND METHODS
+                  We used whole-exome sequencing and electronic health record data from UK Biobank (n = 467,368) and Genes &amp;amp; Health (n = 43,011) cohorts.
+               
+               
+                  RESULTS
+                  In the U.K., we estimated that ∼1 in 7 Black and 1 in 63 Asian males carry G6PD deficiency alleles, compared with fewer than 1 in 10,000 White males. Despite this, less than 1 in 50 G6PD-deficient men are clinically recognized. Male G6PD carriers have considerably lower average HbA1c (0.9% [International Federation of Clinical Chemistry and Laboratory Medicine: 10.0 mmol/mol]) compared with noncarriers, while differences in average glucose were negligible. G6PD-deficient men had 1.37 (95% CI: 1.01, 1.86) higher odds of developing diabetes-related microvascular complications than noncarriers. Although risk factors were similar prior to diagnosis, male G6PD carriers diagnosed with T2D since 2011 were, on average, 4.1 years (95% CI: 0.6, 7.7) older at diagnosis compared with noncarriers. In addition, lower mean HbA1c values in G6PD carriers falsely underestimated their 10-year T2D risk.
+               
+               
+                  CONCLUSIONS
+                  Undiagnosed G6PD deficiency has significant impact on T2D diagnosis with HbA1c and associates with increased risk of diabetes complications. This has major implications for global populations using HbA1c for diagnosis and monitoring, and could contribute significantly to inequalities in diabetes outcomes.
+               
+DOI: 10.2337/dc25-0556
+ISSN: 0149-5992
+Tag der Erhebung (OOIR): 2025-10-27</description>
+			<guid isPermaLink="false">ooir-trend-10.2337/dc25-0556-2025-10-27-1</guid>
+			<pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Effect of ultra-processed food consumption on male reproductive and metabolic health</title>
+			<link>https://doi.org/10.1016/j.cmet.2025.08.004</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 965
+Autoren: Jessica M. Preston, Jo Iversen, Antonia Hufnagel, Line Hjort, Jodie Taylor, Clara Sanchez, Victoria George, Ann N. Hansen, Lars Ängquist, Susan Hermann, Jeffrey M. Craig, Signe Torekov, Christian Lindh, Karin S. Hougaard, Marcelo A. Nóbrega, Stephen J. Simpson, Romain Barrès
+Journal: Cell Metabolism
+Veröffentlicht: 2025-10-01
+DOI: 10.1016/j.cmet.2025.08.004
+ISSN: 1550-4131
+Tag der Erhebung (OOIR): 2025-10-27</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2025.08.004-2025-10-27-2</guid>
+			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Handgrip Strength and Trajectories of Preclinical Obesity Progression: A Multistate Model Analysis Using the UK Biobank</title>
+			<link>https://doi.org/10.1210/clinem/dgaf521</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 469
+Autoren: Manrong Xu, Menghan Li, Yawen Zhang, Lianxi Li, Yun Shen, Gang Hu
+Journal: The Journal of Clinical Endocrinology &amp;amp; Metabolism
+Veröffentlicht: 2025-10-15
+Abstract: Abstract
+               
+                  Purpose
+                  Grip strength has been increasingly recognized as a predictor of chronic disease risk and mortality. The aim of our study was to investigate the association of grip strength and the trajectories of preclinical obesity progression.
+               
+               
+                  Methods
+                  Data were collected from 93 275 participants in the UK Biobank. Preclinical obesity was diagnosed based on an excess of anthropometric parameters, defined as elevated body mass index combined with at least 1 abnormal measure among waist circumference, waist-to-hip ratio, waist-to-height ratio, or percentage body fat, in the absence of obesity-induced dysfunctions. Three models captured different trajectories from baseline to dysfunctions and death, with or without intermediate progression. A multistate model was used to investigate the association between grip strength and the preclinical obesity progression and multiple-cause mortality risk. Sensitivity analyses were performed using free muscle volume, total lean mass, and muscle-to-weight ratio as exposures.
+               
+               
+                  Results
+                  Among 8163 death events over a mean follow-up of 13.4 years, each SD increase in grip strength was associated with a significantly reduced risk of preclinical obesity progression at each stage, with the strongest inverse association observed in baseline to first dysfunction [fully adjusted hazard ratio (HR): 0.86, 95% confidence interval (CI): 0.85-0.88]. Compared to the lowest tertile, the highest grip strength significantly showed protective effects across all trajectory models, with double dysfunctions to all-cause death yielding the most pronounced associations (fully adjusted HR: 0.77, 95% CI: 0.70-0.84). Further subgroup and sensitivity analysis showed consistent results.
+               
+               
+                  Conclusion
+                  Increased grip strength was significantly associated with a decreased risk of obesity-induced dysfunctions progression and multiple-cause mortality. These findings underscore the importance of improving muscle mass and strength in preclinical obesity.
+               
+DOI: 10.1210/clinem/dgaf521
+ISSN: 0021-972X
+Tag der Erhebung (OOIR): 2025-10-27</description>
+			<guid isPermaLink="false">ooir-trend-10.1210/clinem/dgaf521-2025-10-27-3</guid>
+			<pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Paternal exercise confers endurance capacity to offspring through sperm microRNAs</title>
+			<link>https://doi.org/10.1016/j.cmet.2025.09.003</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 410
+Autoren: Xin Yin, Azhar Anwar, Linbo Yan, Ranran Yu, Yang Luo, Liang Shi, Botao Li, Jiehao Chen, Gaoli Liang, Yongci Chen, Jie Tang, Jie Liang, Yansheng Kan, Zhihao Zhang, Xiahuan Zhou, Jizheng Ma, Chenbo Ji, Yanbo Wang, Qipeng Zhang, Jing Li, Liang Li, Xiaozhi Zhao, Feng Yin, Liyuan Sheng, Dijun Chen, Tao Zhang, Chen-Yu Zhang, Xi Chen
+Journal: Cell Metabolism
+Veröffentlicht: 2025-10-01
+DOI: 10.1016/j.cmet.2025.09.003
+ISSN: 1550-4131
+Tag der Erhebung (OOIR): 2025-10-27</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2025.09.003-2025-10-27-4</guid>
+			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Effect of sweeteners and sweetness enhancers on weight management and gut microbiota composition in individuals with overweight or obesity: the SWEET study</title>
+			<link>https://doi.org/10.1038/s42255-025-01381-z</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 384
+Autoren: Michelle D. Pang, Louise Kjølbæk, Jacco J. A. J. Bastings, Sabina Stoffer Hjorth Andersen, Alexander Umanets, Mônica Maurer Sost, Santiago Navas-Carretero, Kyriakos Reppas, Graham Finlayson, Charo E. Hodgkins, Marta del Álamo, Tony Lam, Hariklia Moshoyiannis, Edith J. M. Feskens, Tanja C. M. Adam, Gijs H. Goossens, Jason C. G. Halford, Joanne A. Harrold, Yannis Manios, J. Alfredo Martinez, Ellen E. Blaak, Anne Raben
+Journal: Nature Metabolism
+Veröffentlicht: 2025-10-07
+DOI: 10.1038/s42255-025-01381-z
+ISSN: 2522-5812
+Tag der Erhebung (OOIR): 2025-10-27</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s42255-025-01381-z-2025-10-27-5</guid>
+			<pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

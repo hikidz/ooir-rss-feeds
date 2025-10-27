@@ -5,14 +5,86 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Nutrition &amp; Dietetics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sun, 26 Oct 2025 01:07:42 GMT</pubDate>
-		<lastBuildDate>Sun, 26 Oct 2025 01:07:42 GMT</lastBuildDate>
+		<pubDate>Mon, 27 Oct 2025 01:09:05 GMT</pubDate>
+		<lastBuildDate>Mon, 27 Oct 2025 01:09:05 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Nutrition &amp; Dietetics) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-nutritiondietetics-20251026010742</guid>
-			<pubDate>Sun, 26 Oct 2025 01:07:42 GMT</pubDate>
+			<title>British Dietetic Association Guidelines for the Dietary Management of Chronic Constipation in Adults</title>
+			<link>https://doi.org/10.1111/jhn.70133</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Nutrition &amp; Dietetics
+Score: 1086
+Autoren: Eirini Dimidi, Alice van der Schoot, Kevin Barrett, Adam D. Farmer, Miranda C. Lomer, S. Mark Scott, Kevin Whelan
+Journal: Journal of Human Nutrition and Dietetics
+Veröffentlicht: 2025-10-01
+Abstract: ABSTRACTBackgroundCurrent clinical guidelines for chronic constipation offer limited dietary recommendations. The aim of this project was to develop the first comprehensive evidence‐based dietary guidelines for the management of chronic constipation in adults.MethodsFour systematic reviews and meta‐analyses were performed to identify eligible randomised controlled trials (RCTs). The findings generated from the meta‐analyses were then used to develop guideline statements using the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) approach and a Delphi consensus survey among a multi‐disciplinary expert Guideline Steering Committee. Recommendation statements were produced for treatment response, stool output, gut symptoms, adverse events, and quality of life, and only based on the findings where ≥ 2 RCTs contributed to the meta‐analysis. The strength of recommendation was assessed using the GRADE approach. Consensus voting amongst the Guideline Steering Committee was performed using a modified Delphi survey approach.ResultsThe four systematic reviews included a total of 75 RCTs. Fifty‐nine dietary recommendation statements were generated and accepted through the Delphi survey. For dietary supplements, 15 recommendation statements relate to fibre supplements, 20 relate to probiotics, 2 to synbiotics, 5 to magnesium oxide, 2 to senna, and 3 to kiwifruit supplements. For foods, three recommendation statements related to kiwifruits, two to prunes, and two to rye bread. For drinks, five recommendation statements related to high mineral‐containing water. No recommendations were made for whole diet approaches due to a lack of evidence. Twelve statements had a very low level of evidence, 39 had a low level of evidence, and 8 had moderate evidence. Twenty‐seven statements were strong recommendations, and 32 were qualified recommendations.ConclusionsThese are the first comprehensive evidence‐based dietary guidelines for the management of constipation based upon a robust systematic review and GRADE processes. Recommendations were made for dietary supplements, foods and drinks that have never been previously included in clinical guidelines, and can now be rapidly implemented into clinical practice, thereby improving clinical care and patient outcomes.
+DOI: 10.1111/jhn.70133
+ISSN: 0952-3871
+Tag der Erhebung (OOIR): 2025-10-27</description>
+			<guid isPermaLink="false">ooir-trend-10.1111/jhn.70133-2025-10-27-1</guid>
+			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>ByteTrack: a deep learning approach for bite count and bite rate detection using meal videos in children</title>
+			<link>https://doi.org/10.3389/fnut.2025.1610363</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Nutrition &amp; Dietetics
+Score: 253
+Autoren: Yashaswini Rajendra Bhat, Kathleen L. Keller, Timothy R. Brick, Alaina L. Pearce
+Journal: Frontiers in Nutrition
+Veröffentlicht: 2025-10-03
+Abstract: IntroductionAssessing eating behaviors such as eating rate can shed light on risk for overconsumption and obesity. Current approaches either use sensors that disrupt natural eating or rely on labor-intensive video coding, which limits scalability.MethodsWe developed ByteTrack, a deep learning system for automated bite count and bite-rate detection from video-recorded child meals. The dataset comprised 1,440 minutes from 242 videos of 94 children (ages 7–9 years) consuming four meals, spaced one week apart, with identical foods served in varying amounts. ByteTrack operates in two stages: (1) face detection via a hybrid Faster R-CNN and YOLOv7 pipeline, and (2) bite classification using an EfficientNet convolutional neural network combined with a long short-term memory (LSTM) recurrent network. The model was designed to handle blur, low light, camera shake, and occlusions (hands or utensils blocking the mouth). Performance was compared with manual observational coding.ResultsOn a test set of 51 videos, ByteTrack achieved an average precision of 79.4%, recall of 67.9%, and F1 score of 70.6%. Agreement with the gold-standard coding, assessed by intraclass correlation coefficient, averaged 0.66 (range 0.16–0.99), with lower reliability in videos with extensive movement or occlusions.DiscussionThis pilot study demonstrates the feasibility of a scalable, automated tool for bite detection in children’s meals. While results were promising, performance decreased when faces were partially blocked or motion was high. Future work will focus on improving robustness across diverse populations and recording conditions.Clinical trial registrationhttps://clinicaltrials.gov/study/NCT03341247, identifier NCT03341247.
+DOI: 10.3389/fnut.2025.1610363
+ISSN: 2296-861X
+Tag der Erhebung (OOIR): 2025-10-27</description>
+			<guid isPermaLink="false">ooir-trend-10.3389/fnut.2025.1610363-2025-10-27-2</guid>
+			<pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Young Children’s (Aged 3 to 8 Years) Food and Beverage Brand Exposure on YouTube and YouTube Kids: An Observational Study and Content Analysis</title>
+			<link>https://doi.org/10.1016/j.jand.2025.05.010</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Nutrition &amp; Dietetics
+Score: 228
+Autoren: Frances Fleming-Milici, Haley Gershman, Hanako O. Agresta, Melissa McCann, Jennifer Harris
+Journal: Journal of the Academy of Nutrition and Dietetics
+Veröffentlicht: 2025-10-01
+DOI: 10.1016/j.jand.2025.05.010
+ISSN: 2212-2672
+Tag der Erhebung (OOIR): 2025-10-27</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.jand.2025.05.010-2025-10-27-3</guid>
+			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Relative associations of coffee, tea and plain water with all-cause and cause-specific mortality: a prospective cohort study</title>
+			<link>https://doi.org/10.1017/s0007114525104248</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Nutrition &amp; Dietetics
+Score: 171
+Autoren: Chen Shi, Yu-Kun Wang, Min-Qian Yan, Zhen Peng, Jin-Lun Zhang, Yi-Ming Tao, Lin Yang, Li Li, Chun-Quan Ou
+Journal: British Journal of Nutrition
+Veröffentlicht: 2025-09-22
+Abstract: Abstract
+	  Previous studies highlighted the health benefits of coffee and tea, but they only focused on the comparisons between different consumptions. Consequently, the association estimate lacked a clear interpretation, as the substitution of beverages and distribution of doses were not explicitly prescribed. We focused on the ‘relative association’ to ascertain the optimal consumption strategy (including total intake and optimal allocation strategy) for coffee, tea and plain water associated with decreased mortality. Self-reported coffee, tea and plain water intake were used from the UK Biobank. Within a compositional data analysis framework, a multivariate Cox model was used to assess the relative associations after adjusting for a range of potential confounders. The lower mortality risk was observed with at least approximately 7–8 drinks/d of total consumption. When the total intake &amp;gt; 4 drinks/d, substituting plain water with coffee or tea was linked to reduced mortality; nevertheless, the benefit was not seen for ≤ 4 drinks/d. Besides, a balanced consumption of coffee and tea (roughly a ratio of 2:3) associated with the lowest hazard ratios of 0·55 (95 % CI 0·47, 0·64) for all-cause mortality, 0·59 (95 % CI 0·48, 0·72) for cancer mortality, 0·69 (95 % CI 0·49, 0·99) for CVD mortality, 0·28 (95 % CI 0·15, 0·52) for respiratory disease mortality and 0·35 (95 % CI 0·15, 0·82) for digestive disease mortality than other combinations. These results highlight the importance of the rational combination of coffee, tea and plain water, with particular emphasis on ensuring adequate total intake, offering more comprehensive and explicit guidance for individuals.
+DOI: 10.1017/s0007114525104248
+ISSN: 0007-1145
+Tag der Erhebung (OOIR): 2025-10-27</description>
+			<guid isPermaLink="false">ooir-trend-10.1017/s0007114525104248-2025-10-27-4</guid>
+			<pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Understanding Dietary Protein Quality: Digestible Indispensable Amino Acid Scores and Beyond</title>
+			<link>https://doi.org/10.1016/j.tjnut.2025.07.005</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Nutrition &amp; Dietetics
+Score: 167
+Autoren: Joseph J Matthews, Emily J Arentson-Lantz, Paul J Moughan, Robert R Wolfe, Arny A Ferrando, David D Church
+Journal: The Journal of Nutrition
+Veröffentlicht: 2025-10-01
+DOI: 10.1016/j.tjnut.2025.07.005
+ISSN: 0022-3166
+Tag der Erhebung (OOIR): 2025-10-27</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.tjnut.2025.07.005-2025-10-27-5</guid>
+			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
