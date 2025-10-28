@@ -5,14 +5,45 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Sport Sciences) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Mon, 27 Oct 2025 01:10:24 GMT</pubDate>
-		<lastBuildDate>Mon, 27 Oct 2025 01:10:24 GMT</lastBuildDate>
+		<pubDate>Tue, 28 Oct 2025 01:02:43 GMT</pubDate>
+		<lastBuildDate>Tue, 28 Oct 2025 01:02:43 GMT</lastBuildDate>
+		<item>
+			<title>Association between frequency of meeting daily step thresholds and all-cause mortality and cardiovascular disease in older women</title>
+			<link>https://doi.org/10.1136/bjsports-2025-110311</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 1504
+Autoren: Rikuta Hamaya, Kelly R Evenson, Daniel Lieberman, I-Min Lee
+Journal: British Journal of Sports Medicine
+Veröffentlicht: 2025-10-21
+Abstract: 
+                    Objective
+                    To examine the associations between the number of days per week achieving various daily step thresholds and all-cause mortality and cardiovascular disease (CVD) incidence in older women.
+                  
+                  
+                    Methods
+                    We conducted a prospective cohort study of 13 547 women free of CVD and cancer (mean age 71.8 years). We included participants who wore an ActiGraph GT3X+ accelerometer for 7 consecutive days between 2011–2015 and were subsequently followed for mortality through 2024. Women were classified by the number of days per week achieving step thresholds of ≥4000, ≥5000, ≥6000 or ≥7000 steps/day. Cox proportional hazards regression estimated hazard ratios (HR) and 95% confidence intervals (95% CI) for all-cause mortality and CVD incidence, adjusting for lifestyle behaviours and comorbidities.
+                  
+                  
+                    Results
+                    During a median follow-up of 10.9 years, 1765 women (13.0%) died and 781 (5.1%) developed CVD. Achieving ≥4000 steps/day on 1–2 and ≥3 days/week was associated with lower mortality risk compared with 0 days/week (adjusted HR 0.74 (95% CI 0.65 to 0.86) and 0.60 (95% CI 0.53 to 0.68), respectively). For CVD, corresponding results were 0.73 (95% CI 0.58 to 0.92) and 0.73 (95% CI 60 to 0.89), respectively. An inverse curvilinear dose-response relationship was observed for mortality, such that with higher step thresholds (5000, 6000 or 7000), the risk of mortality further declined modestly. With additional adjustment for mean daily steps, associations were attenuated to the null.
+                  
+                  
+                    Conclusions
+                    Among older women, achieving ≥4000 steps/day on even 1–2 days/week was associated with lower mortality and CVD, while more steps were associated with even better outcomes. A greater number of steps, regardless of daily patterns, is associated with better health outcomes.
+                  
+DOI: 10.1136/bjsports-2025-110311
+ISSN: 0306-3674
+Tag der Erhebung (OOIR): 2025-10-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-110311-2025-10-28-1</guid>
+			<pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Effect of exercise snacks on fitness and cardiometabolic health in physically inactive individuals: systematic review and meta-analysis</title>
 			<link>https://doi.org/10.1136/bjsports-2025-110027</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Sport Sciences
-Score: 617
+Score: 621
 Autoren: Miguel Ángel Rodríguez, Marcos Quintana-Cepedal, Boris Cheval, Cecilie Thøgersen-Ntoumani, Irene Crespo, Hugo Olmedillas
 Journal: British Journal of Sports Medicine
 Veröffentlicht: 2025-10-07
@@ -46,8 +77,8 @@ Abstract:
                
 DOI: 10.1136/bjsports-2025-110027
 ISSN: 0306-3674
-Tag der Erhebung (OOIR): 2025-10-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-110027-2025-10-27-1</guid>
+Tag der Erhebung (OOIR): 2025-10-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-110027-2025-10-28-2</guid>
 			<pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -61,8 +92,8 @@ Journal: Archives of Physical Medicine and Rehabilitation
 Veröffentlicht: 2025-10-01
 DOI: 10.1016/j.apmr.2025.09.026
 ISSN: 0003-9993
-Tag der Erhebung (OOIR): 2025-10-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.apmr.2025.09.026-2025-10-27-2</guid>
+Tag der Erhebung (OOIR): 2025-10-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.apmr.2025.09.026-2025-10-28-3</guid>
 			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -98,8 +129,8 @@ Abstract:
                   
 DOI: 10.1123/ijspp.2024-0303
 ISSN: 1555-0265
-Tag der Erhebung (OOIR): 2025-10-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1123/ijspp.2024-0303-2025-10-27-3</guid>
+Tag der Erhebung (OOIR): 2025-10-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1123/ijspp.2024-0303-2025-10-28-4</guid>
 			<pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -114,24 +145,9 @@ Veröffentlicht: 2025-09-01
 Abstract: Debates over the position(ing) of trans* athletes in sport have been reignited in the last decade because of the confluence of broader political debates over the provision of rights of self-identification for trans* people with the International Olympic Committee’s decision to place responsibility for transgender regulations in the hands of international sporting federations. The effect of this confluence has meant a regressive shift back toward hard essentialism with regard to sex categories in sport. This paper challenges the politically powerful, yet romanticized and historically inaccurate, narrative that so-called gender critical feminists have produced to support this regressive move.
 DOI: 10.1123/ssj.2024-0030
 ISSN: 0741-1235
-Tag der Erhebung (OOIR): 2025-10-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1123/ssj.2024-0030-2025-10-27-4</guid>
+Tag der Erhebung (OOIR): 2025-10-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1123/ssj.2024-0030-2025-10-28-5</guid>
 			<pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Human development and gender inequality are associated with cardiorespiratory fitness: A global systematic review of V̇O2peak</title>
-			<link>https://doi.org/10.1016/j.jshs.2025.101098</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Sport Sciences
-Score: 95
-Autoren: Nicolas J. Pillon, Joaquin Ortiz de Zevallos, Juleen R. Zierath, Barbara E. Ainsworth
-Journal: Journal of Sport and Health Science
-Veröffentlicht: 2025-10-01
-DOI: 10.1016/j.jshs.2025.101098
-ISSN: 2095-2546
-Tag der Erhebung (OOIR): 2025-10-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.jshs.2025.101098-2025-10-27-5</guid>
-			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

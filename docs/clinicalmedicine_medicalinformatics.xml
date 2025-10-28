@@ -5,14 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Mon, 27 Oct 2025 01:08:39 GMT</pubDate>
-		<lastBuildDate>Mon, 27 Oct 2025 01:08:39 GMT</lastBuildDate>
+		<pubDate>Tue, 28 Oct 2025 01:01:48 GMT</pubDate>
+		<lastBuildDate>Tue, 28 Oct 2025 01:01:48 GMT</lastBuildDate>
 		<item>
 			<title>Effects of Computerized Cognitive Training on Vesicular Acetylcholine Transporter Levels using [18F]Fluoroethoxybenzovesamicol Positron Emission Tomography in Healthy Older Adults: Results from the Improving Neurological Health in Aging via Neuroplasticity-based Computerized Exercise (INHANCE) Randomized Clinical Trial</title>
 			<link>https://doi.org/10.2196/75161</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 722
+Score: 727
 Autoren: Mouna Attarha, Ana de Figueiredo Pelegrino, Lydia Ouellet, Paule-Joanne Toussaint, Sarah-Jane Grant, Thomas Van Vleet, Etienne de Villers-Sidani
 Journal: JMIR Serious Games
 Veröffentlicht: 2025-10-13
@@ -46,8 +46,8 @@ Abstract:
           
 DOI: 10.2196/75161
 ISSN: 2291-9279
-Tag der Erhebung (OOIR): 2025-10-27</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/75161-2025-10-27-1</guid>
+Tag der Erhebung (OOIR): 2025-10-28</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/75161-2025-10-28-1</guid>
 			<pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -55,7 +55,7 @@ Tag der Erhebung (OOIR): 2025-10-27</description>
 			<link>https://doi.org/10.1038/s41746-025-02008-z</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 173
+Score: 182
 Autoren: Shan Chen, Mingye Gao, Kuleen Sasse, Thomas Hartvigsen, Brian Anthony, Lizhou Fan, Hugo Aerts, Jack Gallifant, Danielle S. Bitterman
 Journal: npj Digital Medicine
 Veröffentlicht: 2025-10-17
@@ -63,8 +63,8 @@ Abstract: Abstract
           Large language models (LLMs) exhibit a vulnerability arising from being trained to be helpful: a tendency to comply with illogical requests that would generate false information, even when they have the knowledge to identify the request as illogical. This study investigated this vulnerability in the medical domain, evaluating five frontier LLMs using prompts that misrepresent equivalent drug relationships. We tested baseline sycophancy, the impact of prompts allowing rejection and emphasizing factual recall, and the effects of fine-tuning on a dataset of illogical requests, including out-of-distribution generalization. Results showed high initial compliance (up to 100%) across all models, prioritizing helpfulness over logical consistency. Prompt engineering and fine-tuning improved performance, improving rejection rates on illogical requests while maintaining general benchmark performance. This demonstrates that prioritizing logical consistency through targeted training and prompting is crucial for mitigating the risk of generating false medical information and ensuring the safe deployment of LLMs in healthcare.
 DOI: 10.1038/s41746-025-02008-z
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-10-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-02008-z-2025-10-27-2</guid>
+Tag der Erhebung (OOIR): 2025-10-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-02008-z-2025-10-28-2</guid>
 			<pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -78,47 +78,9 @@ Journal: The Lancet Digital Health
 Veröffentlicht: 2025-10-01
 DOI: 10.1016/j.landig.2025.100907
 ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2025-10-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100907-2025-10-27-3</guid>
+Tag der Erhebung (OOIR): 2025-10-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100907-2025-10-28-3</guid>
 			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Effects of a Smartphone-Based Positive Reflection Diary on Work Engagement Among Japanese Workers: Randomized Controlled Trial</title>
-			<link>https://doi.org/10.2196/55664</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 82
-Autoren: Masahito Tokita, Shuichiro Kobayashi, Daisuke Miyanaka, Nobuyuki Takate, Hiroyuki Nakano, Kazuki Takeuchi, Akihito Shimazu
-Journal: JMIR mHealth and uHealth
-Veröffentlicht: 2025-09-25
-Abstract: 
-            Abstract 
-          
-          
-            Background
-            Work engagement is an important determinant of workers’ well-being. According to the job demands–resources model, personal resources are one of the key antecedents of work engagement. Enhancing personal resources leads to improved work engagement. Furthermore, reflecting positively on one’s achievements at work may enhance personal resources. Hence, there is a need for a simple, self-guided tool such as a smartphone app that can be used by employees to record and reflect on their work accomplishments.
-          
-          
-            Objective
-            This study aimed to evaluate the effect of a smartphone-based diary (ie, Work Engagement Diary) that promotes positive reflection in daily working life on work engagement among Japanese workers in a randomized controlled trial.
-          
-          
-            Methods
-            Six hundred Japanese workers who met the inclusion criteria were randomly allocated to either the intervention group or the wait-list control group (300 participants each) via a web survey company. Participants in the intervention group kept the Work Engagement Diary for 2 weeks, whereby they were required to set a weekly goal at the beginning of the week and fill in their work achievements at the end of the day. Those in the waitlist control group did not receive any interventions until they completed a follow-up survey. Work engagement was assessed at preintervention (T1), postintervention (T2), and 3 weeks after intervention (T3) in both groups.
-          
-          
-            Results
-            A mixed model for repeated measures conditional growth model analysis using intention-to-treat revealed a significant improvement in work engagement for the intervention group compared to the wait-list control group throughout the study period (P=.04). Effect sizes were small in work engagement for T1 versus T2 (Cohen d=0.11 [95% CI −0.06 to 0.28]) and for T1 versus T3 (Cohen d=0.12 [95% CI −0.06 to 0.28]).
-          
-          
-            Conclusions
-            This randomized controlled trial demonstrated that our newly developed smartphone-based positive reflection diary at work effectively improved work engagement among Japanese workers. Future research needs to clarify longer-term intervention effects and detailed mechanisms of the intervention effects.
-          
-DOI: 10.2196/55664
-ISSN: 2291-5222
-Tag der Erhebung (OOIR): 2025-10-27</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/55664-2025-10-27-4</guid>
-			<pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>An Exploration of How Functional Neurological Disorder Is Discussed on X (Twitter): Mixed Methods Study Using Social Network and Content Analysis</title>
@@ -151,9 +113,24 @@ Abstract:
           
 DOI: 10.2196/73439
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-10-27</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/73439-2025-10-27-5</guid>
+Tag der Erhebung (OOIR): 2025-10-28</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/73439-2025-10-28-4</guid>
 			<pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Research Implications of Increased Political Oversight in the United States</title>
+			<link>https://doi.org/10.2196/83499</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 47
+Autoren: Kayleigh-Ann Clegg
+Journal: Journal of Medical Internet Research
+Veröffentlicht: 2025-09-19
+DOI: 10.2196/83499
+ISSN: 1438-8871
+Tag der Erhebung (OOIR): 2025-10-28</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/83499-2025-10-28-5</guid>
+			<pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
