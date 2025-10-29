@@ -5,38 +5,59 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Orthopedics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 28 Oct 2025 01:02:11 GMT</pubDate>
-		<lastBuildDate>Tue, 28 Oct 2025 01:02:11 GMT</lastBuildDate>
+		<pubDate>Wed, 29 Oct 2025 01:06:47 GMT</pubDate>
+		<lastBuildDate>Wed, 29 Oct 2025 01:06:47 GMT</lastBuildDate>
 		<item>
 			<title>Tech neck: the silent pandemic that is reshaping our spine</title>
 			<link>https://doi.org/10.1007/s00586-025-09444-1</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Orthopedics
-Score: 82
+Score: 86
 Autoren: Andrew Savoia, John Streepy, Catherine Yuh, Arnold Wong, Dino Samartzis
 Journal: European Spine Journal
 Veröffentlicht: 2025-10-10
 DOI: 10.1007/s00586-025-09444-1
 ISSN: 0940-6719
-Tag der Erhebung (OOIR): 2025-10-28</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s00586-025-09444-1-2025-10-28-1</guid>
+Tag der Erhebung (OOIR): 2025-10-29</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s00586-025-09444-1-2025-10-29-1</guid>
 			<pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Medial Tibial Stress Syndrome Needs a New Name—Make No Bones About It</title>
-			<link>https://doi.org/10.2519/jospt.2025.13411</link>
+			<title>Characterizing Microstructural and Mechanical Properties of Dancer Achilles Tendon Using Ultrashort Echo Time MRI and Shear Wave Elastography Ultrasound</title>
+			<link>https://doi.org/10.1002/jor.70075</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Orthopedics
-Score: 34
-Autoren: Laura M. Anderson, Stuart J. Warden, Richard W. Willy, Daniel R. Bonanno, Hylton B. Menz
-Journal: Journal of Orthopaedic &amp;amp; Sports Physical Therapy
-Veröffentlicht: 2025-10-01
-Abstract:  SYNOPSIS: Pain near the posteromedial tibia is common in running and jumping athletes. This problem has had many names, with “shin splints” and “medial tibial stress syndrome” (MTSS) the most common. The term shin splints is nonspecific and nondescript, and has never gained clinical traction. Similarly, the clinical use of MTSS with athletes and coaches is often met with confusion as “tibial stress” is frequently misinterpreted as indicating a bone stress injury. With no conclusive evidence regarding the pathophysiology of MTSS, we advocate renaming it “Load Induced Medial-Leg Pain” (LIMP). LIMP avoids the use of “tibial stress,” which is problematic due to the unknown pathology of the condition and its confusion with bone stress injury. Using the term LIMP instead of MTSS gives clinicians, researchers, and athletes a clearer, more accurate way to approach managing exercise-related lower leg pain. J Orthop Sports Phys Ther 2025;55(10):621-622. Epub 18 August 2025. doi:10.2519/jospt.2025.13411 
-DOI: 10.2519/jospt.2025.13411
-ISSN: 0190-6011
-Tag der Erhebung (OOIR): 2025-10-28</description>
-			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2025.13411-2025-10-28-2</guid>
-			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+Score: 46
+Autoren: Anna M. Horner, Felix M. Gonzalez, Courtney N. Gleason, Amanda Blackmon, Emma Faulkner, Damian Dyckman, Monica B. Umpierrez, Philip K.‐W. Wong, Vahid Khalilzad Sharghi, Pan Su, David A. Reiter
+Journal: Journal of Orthopaedic Research
+Veröffentlicht: 2025-10-22
+Abstract: ABSTRACT
+                  
+                    Previous observations of multi‐echo ultrashort echo time (UTE) magnetic resonance imaging (MRI) decay data from the Achilles tendon (AT) report an off‐resonance non‐water signal associated with non‐collagenous extracellular matrix (ECM) constituents. This cross‐sectional study investigates the relationship between this MRI‐derived tissue matrix signal and mechanical stiffness of the AT in professional ballet dancers and non‐dancer adults. Multiexponential analysis of multi‐echo UTE MRI was used to quantify water components and an off‐resonance AT matrix component. To compare AT structure with its functionality, shear wave elastography (SWE) ultrasound US was used to measure tendon stiffness along both longitudinal (V
+                    L
+                    ) and transverse (V
+                    S
+                    ) axes. 34 participants, including 15 ballet dancers and 19 non‐dancers, were studied. Dancers exhibited significantly larger V
+                    S
+                    (
+                    p
+                     = 0.013) compared to non‐dancers, consistent with prior observations of a training effect in tendon from repeated loading with exercise. UTE‐derived off‐resonance relaxation component amplitude, β
+                    3
+                    , was positively associated with V
+                    L
+                    in dancers (
+                    p
+                     = 0.029) and V
+                    S
+                    in non‐dancers (
+                    p
+                     = 0.024), suggesting a microstructural role of this matrix component. While additional work is needed to unambiguously assign this off‐resonance signal, these findings suggest its association with non‐collagenous ECM and show potential for combined use of UTE and SWE imaging to assess tendon structure‐function relationships and adaptations to mechanical loading in vivo.
+                  
+DOI: 10.1002/jor.70075
+ISSN: 0736-0266
+Tag der Erhebung (OOIR): 2025-10-29</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/jor.70075-2025-10-29-2</guid>
+			<pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>The changing face of acute low back pain management by physiotherapists, osteopaths and chiropractors in the UK: a 20-year comparison from 2003 to 2023</title>
@@ -49,8 +70,8 @@ Journal: BMC Musculoskeletal Disorders
 Veröffentlicht: 2025-10-02
 DOI: 10.1186/s12891-025-09192-9
 ISSN: 1471-2474
-Tag der Erhebung (OOIR): 2025-10-28</description>
-			<guid isPermaLink="false">ooir-trend-10.1186/s12891-025-09192-9-2025-10-28-3</guid>
+Tag der Erhebung (OOIR): 2025-10-29</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12891-025-09192-9-2025-10-29-3</guid>
 			<pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -65,8 +86,8 @@ Veröffentlicht: 2025-09-29
 Abstract: AbstractPurposeThis study aimed to evaluate the success rate of a standardised protocol for managing persistent wound drainage following total knee arthroplasty (TKA).MethodsA prospective observational study was conducted at four institutions between January and June 2022 across primary and revision TKAs. Sixty‐two patients (mean age 71.5 ± 9.3 years; 45.2% male) who experienced postoperative wound drainage after primary (58.1%) or revision (41.9%) TKA were enrolled. The protocol included staged interventions: anticoagulation adjustments and dressing changes during Days 1–3, incisional negative pressure wound therapy during Days 3–5, and wound debridement above the joint capsule if drainage persisted beyond Day 7. Outcomes were evaluated using the ASEPSIS score. The primary outcome was defined as complete wound healing without progression to debridement, antibiotics and implant retention (DAIR) procedure or periprosthetic joint infection (PJI).ResultsThe mean follow‐up was 13.2 months (range, 11.7–15.1 months). The protocol achieved a 91.9% success rate in preventing progression to DAIR. The median number of visits required to achieve wound healing was 3.5 for the cohort. DAIR rate was 8.1% (n = 5), while PJI rate was 1.6% (n = 1). Primary TKA procedures demonstrated more efficient healing trajectories compared to revision cases, requiring fewer clinical visits (median 3 vs. 5, p &amp;lt; 0.001) and shorter hospital stays (mean 4.5 vs. 7.5 days, p = 0.017). Cox proportional hazards model identified intervention type (revision vs. primary, hazard ratio [HR] 0.24, p &amp;lt; 0.001), advanced age (HR: 0.95 per year, p = 0.006), and male gender (HR: 0.45, p = 0.020) as significant independent predictors of increased time required to achieve wound healing.ConclusionOur standardised wound management protocol achieved a high success rate in preventing progression to PJI following TKA. The time‐dependent approach to intervention escalation provides clear clinical decision‐making criteria and suggests that early identification and systematic management of wound complications are critical determinants of successful outcomes, particularly for primary TKA procedures.Level of EvidenceLevel II.
 DOI: 10.1002/ksa.70077
 ISSN: 0942-2056
-Tag der Erhebung (OOIR): 2025-10-28</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/ksa.70077-2025-10-28-4</guid>
+Tag der Erhebung (OOIR): 2025-10-29</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/ksa.70077-2025-10-29-4</guid>
 			<pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -101,8 +122,8 @@ Abstract: Abstract
           
 DOI: 10.1186/s12891-025-09153-2
 ISSN: 1471-2474
-Tag der Erhebung (OOIR): 2025-10-28</description>
-			<guid isPermaLink="false">ooir-trend-10.1186/s12891-025-09153-2-2025-10-28-5</guid>
+Tag der Erhebung (OOIR): 2025-10-29</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12891-025-09153-2-2025-10-29-5</guid>
 			<pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
