@@ -5,101 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Nutrition &amp; Dietetics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 29 Oct 2025 01:06:37 GMT</pubDate>
-		<lastBuildDate>Wed, 29 Oct 2025 01:06:37 GMT</lastBuildDate>
+		<pubDate>Thu, 30 Oct 2025 01:06:29 GMT</pubDate>
+		<lastBuildDate>Thu, 30 Oct 2025 01:06:29 GMT</lastBuildDate>
 		<item>
-			<title>British Dietetic Association Guidelines for the Dietary Management of Chronic Constipation in Adults</title>
-			<link>https://doi.org/10.1111/jhn.70133</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Nutrition &amp; Dietetics
-Score: 1167
-Autoren: Eirini Dimidi, Alice van der Schoot, Kevin Barrett, Adam D. Farmer, Miranda C. Lomer, S. Mark Scott, Kevin Whelan
-Journal: Journal of Human Nutrition and Dietetics
-Veröffentlicht: 2025-10-01
-Abstract: ABSTRACT
-                  
-                    Background
-                    Current clinical guidelines for chronic constipation offer limited dietary recommendations. The aim of this project was to develop the first comprehensive evidence‐based dietary guidelines for the management of chronic constipation in adults.
-                  
-                  
-                    Methods
-                    Four systematic reviews and meta‐analyses were performed to identify eligible randomised controlled trials (RCTs). The findings generated from the meta‐analyses were then used to develop guideline statements using the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) approach and a Delphi consensus survey among a multi‐disciplinary expert Guideline Steering Committee. Recommendation statements were produced for treatment response, stool output, gut symptoms, adverse events, and quality of life, and only based on the findings where ≥ 2 RCTs contributed to the meta‐analysis. The strength of recommendation was assessed using the GRADE approach. Consensus voting amongst the Guideline Steering Committee was performed using a modified Delphi survey approach.
-                  
-                  
-                    Results
-                    The four systematic reviews included a total of 75 RCTs. Fifty‐nine dietary recommendation statements were generated and accepted through the Delphi survey. For dietary supplements, 15 recommendation statements relate to fibre supplements, 20 relate to probiotics, 2 to synbiotics, 5 to magnesium oxide, 2 to senna, and 3 to kiwifruit supplements. For foods, three recommendation statements related to kiwifruits, two to prunes, and two to rye bread. For drinks, five recommendation statements related to high mineral‐containing water. No recommendations were made for whole diet approaches due to a lack of evidence. Twelve statements had a very low level of evidence, 39 had a low level of evidence, and 8 had moderate evidence. Twenty‐seven statements were strong recommendations, and 32 were qualified recommendations.
-                  
-                  
-                    Conclusions
-                    These are the first comprehensive evidence‐based dietary guidelines for the management of constipation based upon a robust systematic review and GRADE processes. Recommendations were made for dietary supplements, foods and drinks that have never been previously included in clinical guidelines, and can now be rapidly implemented into clinical practice, thereby improving clinical care and patient outcomes.
-                  
-DOI: 10.1111/jhn.70133
-ISSN: 0952-3871
-Tag der Erhebung (OOIR): 2025-10-29</description>
-			<guid isPermaLink="false">ooir-trend-10.1111/jhn.70133-2025-10-29-1</guid>
-			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>ByteTrack: a deep learning approach for bite count and bite rate detection using meal videos in children</title>
-			<link>https://doi.org/10.3389/fnut.2025.1610363</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Nutrition &amp; Dietetics
-Score: 253
-Autoren: Yashaswini Rajendra Bhat, Kathleen L. Keller, Timothy R. Brick, Alaina L. Pearce
-Journal: Frontiers in Nutrition
-Veröffentlicht: 2025-10-03
-Abstract: IntroductionAssessing eating behaviors such as eating rate can shed light on risk for overconsumption and obesity. Current approaches either use sensors that disrupt natural eating or rely on labor-intensive video coding, which limits scalability.MethodsWe developed ByteTrack, a deep learning system for automated bite count and bite-rate detection from video-recorded child meals. The dataset comprised 1,440 minutes from 242 videos of 94 children (ages 7–9 years) consuming four meals, spaced one week apart, with identical foods served in varying amounts. ByteTrack operates in two stages: (1) face detection via a hybrid Faster R-CNN and YOLOv7 pipeline, and (2) bite classification using an EfficientNet convolutional neural network combined with a long short-term memory (LSTM) recurrent network. The model was designed to handle blur, low light, camera shake, and occlusions (hands or utensils blocking the mouth). Performance was compared with manual observational coding.ResultsOn a test set of 51 videos, ByteTrack achieved an average precision of 79.4%, recall of 67.9%, and F1 score of 70.6%. Agreement with the gold-standard coding, assessed by intraclass correlation coefficient, averaged 0.66 (range 0.16–0.99), with lower reliability in videos with extensive movement or occlusions.DiscussionThis pilot study demonstrates the feasibility of a scalable, automated tool for bite detection in children’s meals. While results were promising, performance decreased when faces were partially blocked or motion was high. Future work will focus on improving robustness across diverse populations and recording conditions.Clinical trial registrationhttps://clinicaltrials.gov/study/NCT03341247, identifier NCT03341247.
-DOI: 10.3389/fnut.2025.1610363
-ISSN: 2296-861X
-Tag der Erhebung (OOIR): 2025-10-29</description>
-			<guid isPermaLink="false">ooir-trend-10.3389/fnut.2025.1610363-2025-10-29-2</guid>
-			<pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Understanding Dietary Protein Quality: Digestible Indispensable Amino Acid Scores and Beyond</title>
-			<link>https://doi.org/10.1016/j.tjnut.2025.07.005</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Nutrition &amp; Dietetics
-Score: 168
-Autoren: Joseph J Matthews, Emily J Arentson-Lantz, Paul J Moughan, Robert R Wolfe, Arny A Ferrando, David D Church
-Journal: The Journal of Nutrition
-Veröffentlicht: 2025-10-01
-DOI: 10.1016/j.tjnut.2025.07.005
-ISSN: 0022-3166
-Tag der Erhebung (OOIR): 2025-10-29</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.tjnut.2025.07.005-2025-10-29-3</guid>
-			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Association of Skipping Breakfast with Metabolic Syndrome and Its Components: A Systematic Review and Meta-Analysis of Observational Studies</title>
-			<link>https://doi.org/10.3390/nu17193155</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Nutrition &amp; Dietetics
-Score: 131
-Autoren: Bowen Yang, Linxi Lian, Kaijun Xing, Yangyang Cen, Yi Zhao, Yannan Zhang
-Journal: Nutrients
-Veröffentlicht: 2025-10-03
-Abstract: Objective: Metabolic syndrome (MetS) represents a growing and significant public health burden worldwide. The evidence regarding whether skipping breakfast affects the development of MetS and its components remains inconsistent and uncertain. This study aimed to synthesize the best available evidence regarding the association between skipping breakfast and the risk of MetS and its components. Methods: This systematic review and meta-analysis was conducted in accordance with the PRISMA 2020 guidelines. We systematically searched the PubMed, Embase, Cochrane Library, and Web of Science databases from inception until May 2025. Two reviewers independently screened titles/abstracts and full texts, extracted data, and assessed the risk of bias. This review included cross-sectional and cohort studies on the association between breakfast skipping and the risk of MetS and its components. Results: Nine studies were included after quality evaluation by NOS. Pooled results from the meta-analysis revealed that skipping breakfast was significantly associated with an increased risk of MetS (OR: 1.10, 95% CI: 1.04–1.17) and its components—namely abdominal obesity (OR = 1.17, 95% CI 1.01–1.34), hypertension (OR: 1.21, 95% CI: 1.10–1.32), hyperlipidemia (OR: 1.13, 95% CI: 1.04–1.23), and hyperglycemia (OR = 1.26, 95% CI: 1.16–1.37). Conclusions: The meta-analysis demonstrated that skipping breakfast was significantly associated with an increased risk of MetS and its key components—abdominal obesity, hypertension, hyperlipidemia, and hyperglycemia. These findings highlight regular breakfast consumption as a potential modifiable factor for preventing and managing MetS and related cardiometabolic diseases.
-DOI: 10.3390/nu17193155
-ISSN: 2072-6643
-Tag der Erhebung (OOIR): 2025-10-29</description>
-			<guid isPermaLink="false">ooir-trend-10.3390/nu17193155-2025-10-29-4</guid>
-			<pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Effects of tirzepatide on weight management in patients with and without diabetes: a systematic review and meta-analysis</title>
-			<link>https://doi.org/10.1038/s41366-025-01920-4</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Nutrition &amp; Dietetics
-Score: 104
-Autoren: Eduardo Cerchi, Paula Arruda do Espírito Santo, Mariana Carvalho de Oliveira, Carolina Castro Porto Silva Janovsky, Bruno Halpern
-Journal: International Journal of Obesity
-Veröffentlicht: 2025-09-27
-DOI: 10.1038/s41366-025-01920-4
-ISSN: 0307-0565
-Tag der Erhebung (OOIR): 2025-10-29</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41366-025-01920-4-2025-10-29-5</guid>
-			<pubDate>Sat, 27 Sep 2025 00:00:00 GMT</pubDate>
+			<title>⚠️ Keine Trends für Clinical Medicine (Nutrition &amp; Dietetics) verfügbar</title>
+			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
+			<link>https://ooir.org</link>
+			<guid>ooir-no-trends-clinicalmedicine-nutritiondietetics-20251030010629</guid>
+			<pubDate>Thu, 30 Oct 2025 01:06:29 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
