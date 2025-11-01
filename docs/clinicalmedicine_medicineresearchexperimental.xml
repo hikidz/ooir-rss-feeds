@@ -5,14 +5,86 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, Research &amp; Experimental) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Fri, 31 Oct 2025 01:03:43 GMT</pubDate>
-		<lastBuildDate>Fri, 31 Oct 2025 01:03:43 GMT</lastBuildDate>
+		<pubDate>Sat, 01 Nov 2025 01:08:00 GMT</pubDate>
+		<lastBuildDate>Sat, 01 Nov 2025 01:08:00 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Medicine, Research &amp; Experimental) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-medicineresearchexperimental-20251031010343</guid>
-			<pubDate>Fri, 31 Oct 2025 01:03:43 GMT</pubDate>
+			<title>Development and validation of blood-based diagnostic biomarkers for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) using EpiSwitch® 3-dimensional genomic regulatory immuno-genetic profiling</title>
+			<link>https://doi.org/10.1186/s12967-025-07203-w</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 1680
+Autoren: Ewan Hunter, Heba Alshaker, Oliver Bundock, Cicely Weston, Shekinah Bautista, Abel Gebregzabhar, Anya Virdi, Joseph Croxford, Ann Dring, Ryan Powell, Dominik Vugrinec, Caroline Kingdon, Carol Wilson, Sarah Dowrick, Jayne Green, Alexandre Akoulitchev, Dmitri Pchejetski
+Journal: Journal of Translational Medicine
+Veröffentlicht: 2025-10-08
+DOI: 10.1186/s12967-025-07203-w
+ISSN: 1479-5876
+Tag der Erhebung (OOIR): 2025-11-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12967-025-07203-w-2025-11-01-1</guid>
+			<pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Niraparib and abiraterone acetate plus prednisone for HRR-deficient metastatic castration-sensitive prostate cancer: a randomized phase 3 trial</title>
+			<link>https://doi.org/10.1038/s41591-025-03961-8</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 1581
+Autoren: Gerhardt Attard, Neeraj Agarwal, Julie N. Graff, Shahneen Sandhu, Eleni Efstathiou, Mustafa Özgüroğlu, Andrea J. Pereira de Santana Gomes, Karina Vianna, Hong Luo, Geoffrey T. Gotto, Heather H. Cheng, Won Kim, Carly R. Varela, Daneen Schaeffer, Kassie Kramer, Susan Li, Benoit Baron, Fei Shen, Suneel D. Mundle, Sharon A. McCarthy, David Olmos, Kim N. Chi, Dana E. Rathkopf
+Journal: Nature Medicine
+Veröffentlicht: 2025-10-07
+Abstract: Abstract
+          Inhibition of poly(ADP-ribose) polymerase (PARP) after relapse on hormone therapy is well established for patients with prostate cancer with homologous recombination repair (HRR) gene alterations, but resistance often develops. We hypothesized that PARP inhibition within 6 months of starting androgen deprivation therapy for metastatic castration-sensitive prostate cancer (mCSPC) could be effective and improve radiographic progression-free survival when added to standard-of-care treatments. The double-blind AMPLITUDE trial evaluated combining niraparib, a potent and specific PARP inhibitor, with abiraterone acetate and prednisone (AAP) versus placebo and AAP in mCSPC with HRR gene alterations. Patients (n = 696) were randomized in a 1:1 ratio (348 per group). Median age was 68 years; 56% had BRCA1 or BRCA2 alterations; 78% had high-volume metastases; and 16% had received docetaxel. The primary endpoint was met, with a significant improvement in radiographic progression-free survival observed first in the BRCA subgroup (median not reached at the time of analysis for the niraparib and AAP group versus 26 months for the AAP group; hazard ratio = 0.52; 95% confidence interval: 0.37–0.72; P &amp;lt; 0.0001) and then in the intention-to-treat population (hazard ratio = 0.63; 95% confidence interval: 0.49–0.80; P = 0.0001). The data for overall survival, a key secondary endpoint, are immature (193/389 events) but favor niraparib (hazard ratio = 0.79 (95% confidence interval: 0.59–1.04); BRCA subgroup: hazard ratio = 0.75 (95% confidence interval: 0.51–1.11)). Incidence of grade 3 or 4 adverse events was 75% in the niraparib and AAP group and 59% in the AAP group; most frequent in the niraparib and AAP group were anemia (29%), with 25% of patients requiring a blood transfusion, and hypertension (27%). There were 14 treatment-emergent adverse events leading to deaths in the niraparib group and seven in the placebo group. Combining niraparib with AAP significantly improved radiographic progression-free survival in patients with mCSPC harboring BRCA1/BRCA2 or other HRR gene alterations, suggesting clinical benefit with this combination for these patients. ClinicalTrials.gov identifier: NCT04497844.
+DOI: 10.1038/s41591-025-03961-8
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2025-11-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03961-8-2025-11-01-2</guid>
+			<pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Poor sleep health is associated with older brain age: the role of systemic inflammation</title>
+			<link>https://doi.org/10.1016/j.ebiom.2025.105941</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 996
+Autoren: Yuyang Miao, Jiao Wang, Xuerui Li, Jie Guo, Maria M. Ekblom, Shireen Sindi, Qiang Zhang, Abigail Dove
+Journal: eBioMedicine
+Veröffentlicht: 2025-10-01
+DOI: 10.1016/j.ebiom.2025.105941
+ISSN: 2352-3964
+Tag der Erhebung (OOIR): 2025-11-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ebiom.2025.105941-2025-11-01-3</guid>
+			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Varicella-zoster virus reactivation and the risk of dementia</title>
+			<link>https://doi.org/10.1038/s41591-025-03972-5</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 553
+Autoren: Vitaly Polisky, Maria Littmann, Aleksei Triastcyn, Max Horn, Andreas Georgiou, Robyn Widenmaier, Bruno Anspach, Halima Tahrat, Sanjay Kumar, Carolyn Buser-Doepner, Pascal Geldsetzer, Cornelia M. Van Duijn, Patrick Schwab
+Journal: Nature Medicine
+Veröffentlicht: 2025-10-06
+Abstract: Abstract
+          Varicella-zoster virus (VZV) is a neurotropic virus that establishes lifelong latency in humans. VZV reactivation is associated with a wide range of symptoms, including herpes zoster (HZ; also known as shingles), and has been implicated in the development of dementia, although to an unknown extent. Here we present a large-scale longitudinal analysis of health records from more than 100 million individuals in the United States that demonstrates a consistent relationship of VZV reactivation with dementia after controlling for nearly 400 measured characteristics (covering demographics, socioeconomic factors, comorbidities, medications, proxies for healthcare-seeking behavior, shifts in clinical guidelines and completeness of records). We found that recurrent HZ was associated with an increased risk of dementia compared to a single HZ episode. Additionally, exposure to HZ vaccines was associated with a reduced risk of dementia compared to the control 23-valent pneumococcal polysaccharide vaccine. Furthermore, the reduced risk of dementia after administration of the live-attenuated zoster vaccine waned over time and was highly correlated with a waning of the vaccine-mediated protection against HZ. The dementia risk reduction at 3 and 5 years postexposure was also stronger in individuals who received multiple as opposed to only one dose of the recombinant HZ vaccine and those at greater risk of HZ. Our findings strongly implicate VZV reactivation as a modifiable risk factor for dementia.
+DOI: 10.1038/s41591-025-03972-5
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2025-11-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03972-5-2025-11-01-4</guid>
+			<pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>A combination typhoid and non-typhoidal Salmonella polysaccharide conjugate vaccine in healthy adults: a randomized, placebo-controlled phase 1 trial</title>
+			<link>https://doi.org/10.1038/s41591-025-04003-z</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 376
+Autoren: Wilbur H. Chen, Robin S. Barnes, Michael J. Sikorski, Reva Datar, Roohali Sukhavasi, Yuanyuan Liang, Rekha R. Rapaka, Marcela F. Pasetti, Marcelo B. Sztein, Rezwanul Wahid, Sharon M. Tennant, Raphael Simon, Scott M. Baliban, James E. Galen, Andrew Lees, Biana Bernshtein, Galit Alter, Raches Ella, Krishna Mohan, M. Gangadhara Naidu, D. Yogeswar Rao, Krishna M. Ella, Myron M. Levine
+Journal: Nature Medicine
+Veröffentlicht: 2025-10-08
+DOI: 10.1038/s41591-025-04003-z
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2025-11-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-04003-z-2025-11-01-5</guid>
+			<pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
