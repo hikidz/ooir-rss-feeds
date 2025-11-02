@@ -5,132 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 01 Nov 2025 01:07:38 GMT</pubDate>
-		<lastBuildDate>Sat, 01 Nov 2025 01:07:38 GMT</lastBuildDate>
+		<pubDate>Sun, 02 Nov 2025 01:09:24 GMT</pubDate>
+		<lastBuildDate>Sun, 02 Nov 2025 01:09:24 GMT</lastBuildDate>
 		<item>
-			<title>Effects of Computerized Cognitive Training on Vesicular Acetylcholine Transporter Levels using [18F]Fluoroethoxybenzovesamicol Positron Emission Tomography in Healthy Older Adults: Results from the Improving Neurological Health in Aging via Neuroplasticity-based Computerized Exercise (INHANCE) Randomized Clinical Trial</title>
-			<link>https://doi.org/10.2196/75161</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 850
-Autoren: Mouna Attarha, Ana de Figueiredo Pelegrino, Lydia Ouellet, Paule-Joanne Toussaint, Sarah-Jane Grant, Thomas Van Vleet, Etienne de Villers-Sidani
-Journal: JMIR Serious Games
-Veröffentlicht: 2025-10-13
-Abstract: 
-            Background
-            The cholinergic system mediates essential aspects of cognitive function, yet its structure and function decline progressively with age, by an estimated 2.5% per decade across the lifespan. Cognitive training may help counteract age-related declines in cholinergic functioning and slow associated deficits in cognitive performance.
-          
-          
-            Objective
-            This study aims to evaluate whether cognitive training modifies cholinergic binding in older adults.
-          
-          
-            Methods
-            The Improving Neurological Health in Aging via Neuroplasticity-based Computerized Exercise (INHANCE) trial is a double-blind randomized controlled trial assessing whether 2 computerized cognitive training programs modify cholinergic expression. The intent-to-treat (ITT) population included 92 community-dwelling healthy older adults aged 65 and above (enrolled July 2021-December 2023; final follow-up June 2024). Participants were randomized at McGill University to either an intervention of speed-based cognitive training exercises designed to improve the speed and accuracy of information processing or an active control of nonspeeded games designed for entertainment (eg, similar in design to Solitaire). Participants completed 35 hours of training on their assigned program at home over a 10-week period using a loaned or personal internet-connected device. Cholinergic binding was measured with the vesicular acetylcholine transporter ligand [18F]fluoroethoxybenzovesamicol (FEOBV) and positron emission tomography (PET). The primary outcome was mean FEOBV binding (standard uptake value ratios [SUVRs]) within the anterior cingulate cortex from baseline to posttest in the ITT population. All other end points were exploratory.
-          
-          
-            Results
-            Among the 92 participants in the ITT population (mean age 71.9 years; mean education 16.5 years; 61/92, 66%, women; 88/92, 96%, White), 82 (89%) completed all study activities. The speed-based intervention showed a significant within-group increase in FEOBV binding in the primary region of interest, the anterior cingulate cortex (SUVR change mean +0.044, 95% CI 0.006-0.082, P=.03, medium effect size, ω²=0.09). The p24c subregion demonstrated a significant between-groups effect favoring speed training (speeded vs nonspeeded SUVR change difference +0.058, 95% CI 0.007-0.110, P=.03, small effect size, ω²=0.05). Prespecified exploratory analyses revealed significant within-group effects for speed training in the hippocampus (P=.02) and parahippocampal gyrus (P=.04). No effects on FEOBV binding were observed in the active control group.
-          
-          
-            Conclusions
-            INHANCE is the largest FEOBV-PET trial to date and demonstrates, for the first time in humans, that speed training can reverse losses in cholinergic terminal densities in brain regions vulnerable to age-related cognitive decline. The 2.3% gain in FEOBV binding in the anterior cingulate achieved over a 10-week intervention may offset the estimated 2.5% decline typically observed over a decade of natural aging. These findings clarify the neurochemical basis of cognitive training benefits, showing that speed training upregulates binding in networks that support attention, memory, and executive function.
-          
-          
-            Trial Registration
-            ClinicalTrials.gov NCT04149457; https://clinicaltrials.gov/study/NCT04149457
-          
-          
-            International Registered Report Identifier (IRRID)
-            RR2-10.2196/59705
-          
-DOI: 10.2196/75161
-ISSN: 2291-9279
-Tag der Erhebung (OOIR): 2025-11-01</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/75161-2025-11-01-1</guid>
-			<pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>When helpfulness backfires: LLMs and the risk of false medical information due to sycophantic behavior</title>
-			<link>https://doi.org/10.1038/s41746-025-02008-z</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 192
-Autoren: Shan Chen, Mingye Gao, Kuleen Sasse, Thomas Hartvigsen, Brian Anthony, Lizhou Fan, Hugo Aerts, Jack Gallifant, Danielle S. Bitterman
-Journal: npj Digital Medicine
-Veröffentlicht: 2025-10-17
-Abstract: Abstract
-          Large language models (LLMs) exhibit a vulnerability arising from being trained to be helpful: a tendency to comply with illogical requests that would generate false information, even when they have the knowledge to identify the request as illogical. This study investigated this vulnerability in the medical domain, evaluating five frontier LLMs using prompts that misrepresent equivalent drug relationships. We tested baseline sycophancy, the impact of prompts allowing rejection and emphasizing factual recall, and the effects of fine-tuning on a dataset of illogical requests, including out-of-distribution generalization. Results showed high initial compliance (up to 100%) across all models, prioritizing helpfulness over logical consistency. Prompt engineering and fine-tuning improved performance, improving rejection rates on illogical requests while maintaining general benchmark performance. This demonstrates that prioritizing logical consistency through targeted training and prompting is crucial for mitigating the risk of generating false medical information and ensuring the safe deployment of LLMs in healthcare.
-DOI: 10.1038/s41746-025-02008-z
-ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-11-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-02008-z-2025-11-01-2</guid>
-			<pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Extension of the GRACE score for non-ST-elevation acute coronary syndrome: a development and validation study in ten countries</title>
-			<link>https://doi.org/10.1016/j.landig.2025.100907</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 110
-Autoren: Florian A Wenzl, Klaus F Kofoed, Moa Simonsson, Gareth Ambler, Niels M R van der Sangen, Erik Lampa, Francesco Bruno, Mark A de Belder, Jiri Hlasensky, Matthias Mueller-Hennessen, Maria A Smolle, Peizhi Wang, José P S Henriques, Wouter J Kikkert, Henning Kelbæk, Luboš Bouček, Sergio Raposeiras-Roubín, Emad Abu-Assi, Jaouad Azzahhafi, Matthijs A Velders, Konstantinos Stellos, Thomas Engstrøm, Dean R P P Chan Pin Yin, Clive Weston, David Adlam, Hans Rickli, Evangelos Giannitsis, Dragana Radovanovic, Jiri Parenica, Charalambos A Antoniades, Keith A A Fox, Fabrizio D'Ascenzo, Jurriën M ten Berg, Lars V Køber, Stefan James, John Deanfield, Thomas F Lüscher
-Journal: The Lancet Digital Health
-Veröffentlicht: 2025-10-01
-DOI: 10.1016/j.landig.2025.100907
-ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2025-11-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100907-2025-11-01-3</guid>
-			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>An Exploration of How Functional Neurological Disorder Is Discussed on X (Twitter): Mixed Methods Study Using Social Network and Content Analysis</title>
-			<link>https://doi.org/10.2196/73439</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 64
-Autoren: Caoimhe McLoughlin, Jing-Yi Wang, Florence Do, Takamichi Kanbayashi, Anna Couturier, Alan Carson, Jon Stone
-Journal: Journal of Medical Internet Research
-Veröffentlicht: 2025-10-17
-Abstract: 
-            Background
-            Functional neurological disorder (FND) is one of the commonest conditions in neurological practice, describing symptoms like paralysis and seizures that can be severe and disabling. It is a diagnosis that is confirmed clinically rather than by scans or laboratory results. It is a stigmatized and widely misperceived condition, and since the emergence of long COVID, there has been some conflation of FND with other conditions, which has caused further misunderstanding. Social media has become increasingly popular for patients to learn and interact about their conditions, and the information that they seek and receive may be shaped by many factors. Prior to this study, the online discourse about FND had not been described in the literature.
-          
-          
-            Objective
-            We aimed to analyze and describe how FND is discussed on the social media platform X (formerly known as Twitter) using a mixed methods approach.
-          
-          
-            Methods
-            Using search terms related to FND, the authors collected data from 426 users and 1104 posts, generating a total of 7640 replies and reposts over a 2-month time frame in 2024. Quantitative descriptive and social network analyses were carried out to map key influential users and communities, in addition to measuring the influence of users. Content analysis was undertaken to describe the prevalent topics being discussed.
-          
-          
-            Results
-            More users overall associated with conditions outside FND (n=180, 42.3%), mostly long COVID and myalgic encephalomyelitis/chronic fatigue syndrome, compared with FND (n=148, 34.7%). Self-declared patients made up 40.8% (450/1104) of posts and 36.4% (n=155) of users. Social network analysis revealed 2 separate communities with little interaction. There was a prominence of myalgic encephalomyelitis/chronic fatigue syndrome and long COVID–associated users (nodes) over FND users (nodes). The former cluster showed stronger connections outwardly or peripherally than the FND cluster, suggesting that they may have a stronger impact on shaping the public narrative around FND than FND nodes. In total, 7 of the top 10 most influential users often displayed anti-FND views, while FND organizations and professionals had much less influence. There were 58 posts with at least 5000 views. Of these 58, 10 were from self-declared FND professionals, while 19 were from self-declared professionals associated with other conditions. Of these highly viewed posts, 38 of 58 were negatively predisposed toward FND. Content analysis showed themes of (1) conflict, (2) deception, (3) mistreatment and harm, (4) symptom experience, (5) knowledge, and (6) support.
-          
-          
-            Conclusions
-            A large proportion of the discourse around FND on X is shaped by users who are dismissive of the concept of FND and those associated with it. These findings have implications for individuals getting support for a condition that is already widely misunderstood. This study could provide a template for assessing how other stigmatized conditions are perceived on the web.
-          
-DOI: 10.2196/73439
-ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2025-11-01</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/73439-2025-11-01-4</guid>
-			<pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>A longitudinal analysis of declining medical safety messaging in generative AI models</title>
-			<link>https://doi.org/10.1038/s41746-025-01943-1</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 46
-Autoren: Sonali Sharma, Ahmed M. Alaa, Roxana Daneshjou
-Journal: npj Digital Medicine
-Veröffentlicht: 2025-10-02
-DOI: 10.1038/s41746-025-01943-1
-ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-11-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-01943-1-2025-11-01-5</guid>
-			<pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+			<title>⚠️ Keine Trends für Clinical Medicine (Medical Informatics) verfügbar</title>
+			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
+			<link>https://ooir.org</link>
+			<guid>ooir-no-trends-clinicalmedicine-medicalinformatics-20251102010924</guid>
+			<pubDate>Sun, 02 Nov 2025 01:09:24 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
