@@ -5,90 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Pharmacology &amp; Pharmacy) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Nov 2025 01:07:08 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Nov 2025 01:07:08 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Nov 2025 01:07:58 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Nov 2025 01:07:58 GMT</lastBuildDate>
 		<item>
-			<title>The continued impact of COVID-19 during the Omicron era on immunocompromised individuals in Japan</title>
-			<link>https://doi.org/10.1016/j.jiac.2025.102840</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Pharmacology &amp; Pharmacy
-Score: 111
-Autoren: Toshibumi Taniguchi, Mitsuru Hoshino, Ryotaro Ide, Tomoyuki Homma, Keiji Sugiyama, Shinichi Kanazu, Atsushi Maruyama, Kazuhiro Tateda
-Journal: Journal of Infection and Chemotherapy
-Veröffentlicht: 2025-10-01
-DOI: 10.1016/j.jiac.2025.102840
-ISSN: 1341-321X
-Tag der Erhebung (OOIR): 2025-11-04</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.jiac.2025.102840-2025-11-04-1</guid>
-			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Hyper-maturity and accelerated aging in the hippocampus of mouse models of neuropsychiatric disorders with anxiety-like behavior</title>
-			<link>https://doi.org/10.1038/s41386-025-02237-6</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Pharmacology &amp; Pharmacy
-Score: 78
-Autoren: Hideo Hagihara, Hisatsugu Koshimizu, Satoko Hattori, Hirotaka Shoji, Miho Tanaka, Kazutaka Ikeda, Tsuyoshi Miyakawa
-Journal: Neuropsychopharmacology
-Veröffentlicht: 2025-10-27
-Abstract: Abstract
-                  
-                    Proper maturation of neuronal and glial cells in the hippocampus is essential for emotional regulation and cognitive function. While pseudo-immaturity, defined as arrested or reversed development, has been extensively implicated in various neuropsychiatric conditions, the opposite phenomenon, hyper-maturity, remains underexplored. Here, we present transcriptomic evidence of hippocampal hyper-maturity across 17 datasets from 16 mouse models with genetic, pharmacological, or other experimental manipulations, identified through a comprehensive screening of over 260,000 omics datasets. These models were characterized by a pronounced overrepresentation of gene expression changes typically observed during postnatal development and included serotonin transporter knockout mice, glucocorticoid receptor overexpressing mice, and corticosterone-treated mice, models of depression and anxiety, Df(16)A
-                    +/−
-                    mice, a 22q11.2 deletion schizophrenia model, β-glucuronidase-deficient lysosomal storage disorder model mice, and senescence-prone SAMP8 mice. Meta-analysis of enriched pathways highlighted associations of synapse-related genes with the hyper-maturity signature. Behavioral annotations from public datasets further suggest that hippocampal hyper-maturity models predominantly exhibit increased anxiety-like behaviors, whereas immaturity models tend to display the opposite pattern. Notably, hippocampal hyper-maturity encompassed two transcriptional dimensions: enhanced postnatal development and accelerated aging. For example, SAMP8 mice aligned more with developmental enhancement, whereas corticosterone-treated and lysosomal storage disorder models reflected aging acceleration. Combined analysis with available single-cell RNA-sequencing data further delineated that microglia and granule cells may contribute to aging-associated transcriptional shifts. These findings suggest that hippocampal hyper-maturity and accelerated aging represent convergent molecular phenotypes associated with anxiety-like behavior. Bidirectional alterations in hippocampal maturity may serve as a transdiagnostic endophenotype and offer novel therapeutic or anti-aging targets for neuropsychiatric disorders.
-                  
-DOI: 10.1038/s41386-025-02237-6
-ISSN: 0893-133X
-Tag der Erhebung (OOIR): 2025-11-04</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41386-025-02237-6-2025-11-04-2</guid>
-			<pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Applying spectral analysis to the arterial pulse to discriminate cardiovascular side effects following administration of Moderna's mRNA-1273 vaccine</title>
-			<link>https://doi.org/10.1016/j.ejphar.2025.178269</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Pharmacology &amp; Pharmacy
-Score: 61
-Autoren: Chun-Chao Chen, Wen-Ting Chang, Chun-Chih Chiu, Tsung-Yeh Yang, Wen-Rui Hao, Tzu-Wei Huang, Kuan-Jie Lin, Yu-Ann Fang, Min-Huei Hsu, Tsung-Lin Yang, Yu-Hsin Lai, Hung-Chang Jong, Ju-Chi Liu, Hsin Hsiu
-Journal: European Journal of Pharmacology
-Veröffentlicht: 2025-11-01
-DOI: 10.1016/j.ejphar.2025.178269
-ISSN: 0014-2999
-Tag der Erhebung (OOIR): 2025-11-04</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ejphar.2025.178269-2025-11-04-3</guid>
-			<pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Antifungal treatment strategies and their impact on resistance development in clinical settings</title>
-			<link>https://doi.org/10.1093/jac/dkaf382</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Pharmacology &amp; Pharmacy
-Score: 49
-Autoren: Norman Van Rhijn, P Lewis White
-Journal: Journal of Antimicrobial Chemotherapy
-Veröffentlicht: 2025-10-15
-Abstract: Abstract
-               Invasive fungal diseases, particularly among immunocompromised patients, represent a growing clinical challenge due to limited therapeutic options, diagnostic delays and escalating antifungal resistance. Fungal pathogens employ diverse resistance mechanisms, including genetic mutations of antifungal target enzymes, biofilm formation, efflux pump overexpression and reduced drug penetration, which compromise the efficacy of clinically available antifungal classes. This review explores antifungal treatment modalities and evaluates approaches to mitigate resistance development. Advanced diagnostics and therapeutic drug monitoring are pivotal for enabling timely, targeted therapies and personalizing treatment plans, thus minimizing reliance on broad-spectrum agents. New antifungal agents, such as rezafungin, olorofim and fosmanogepix, along with long-acting and advanced formulations plus combination regimens, show substantial promise for managing resistance and improving treatment outcomes. Additionally, the development of immunotherapies and antifungal vaccines offers new avenues for bolstering host defences against fungal pathogens. Addressing antifungal resistance demands a multifaceted ‘One Health’ approach that integrates robust diagnostics, antifungal stewardship (AFS), precision medicine and collaborative global efforts. By advancing drug formulations, enhancing diagnostic tools and implementing forward-thinking AFS practices, the healthcare community can better tackle the escalating burden of fungal infections and deliver improved patient outcomes.
-DOI: 10.1093/jac/dkaf382
-ISSN: 0305-7453
-Tag der Erhebung (OOIR): 2025-11-04</description>
-			<guid isPermaLink="false">ooir-trend-10.1093/jac/dkaf382-2025-11-04-4</guid>
-			<pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Updates in the clinical management of tuberculous meningitis</title>
-			<link>https://doi.org/10.1080/14787210.2025.2579210</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Pharmacology &amp; Pharmacy
-Score: 43
-Autoren: Ravindra Kumar Garg
-Journal: Expert Review of Anti-infective Therapy
-Veröffentlicht: 2025-10-23
-DOI: 10.1080/14787210.2025.2579210
-ISSN: 1478-7210
-Tag der Erhebung (OOIR): 2025-11-04</description>
-			<guid isPermaLink="false">ooir-trend-10.1080/14787210.2025.2579210-2025-11-04-5</guid>
-			<pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
+			<title>⚠️ Keine Trends für Clinical Medicine (Pharmacology &amp; Pharmacy) verfügbar</title>
+			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
+			<link>https://ooir.org</link>
+			<guid>ooir-no-trends-clinicalmedicine-pharmacologypharmacy-20251105010758</guid>
+			<pubDate>Wed, 05 Nov 2025 01:07:58 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
