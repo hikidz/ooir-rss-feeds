@@ -27,7 +27,8 @@ class OOIRTrendMonitor:
         """
         today_str = datetime.date.today().strftime("%Y-%m-%d")
 
-        api_url = f"https://ooir.org/api.php?email={self.email}&type=paper-trends&day={today_str}&field={requests.utils.quote(field)}"
+        # **ÄNDERUNG: Die API-Basis-URL wurde auf 'v2/api.php' aktualisiert**
+        api_url = f"https://ooir.org/v2/api.php?email={self.email}&type=paper-trends&day={today_str}&field={requests.utils.quote(field)}"
         
         if category:
             api_url += f"&category={requests.utils.quote(category)}"
@@ -41,6 +42,7 @@ class OOIRTrendMonitor:
             data = response.json()
             if isinstance(data, list): # OOIR API gibt direkt eine Liste zurück
                 return data
+            # Die API scheint jetzt direkt eine Liste von Artikeln zurückzugeben, aber dieser Fall bleibt als robustere Abdeckung
             elif isinstance(data, dict) and "papers" in data and isinstance(data["papers"], list): # Falls sie doch mal unter 'papers' sind
                 return data["papers"]
             else:
@@ -51,11 +53,14 @@ class OOIRTrendMonitor:
             print(f"FEHLER beim Abrufen von Daten von OOIR API für Feld '{field}' und Kategorie '{category or 'N/A'}': {e}")
             if hasattr(e, 'response') and e.response is not None:
                 print(f"API-Antwort Status: {e.response.status_code}")
-                print(f"API-Antwort Text (Nicht JSON): {e.response.text}")
+                # Die API-Antwort kann nicht immer JSON sein, daher den Text ausgeben
+                print(f"API-Antwort Text: {e.response.text}")
             return None
         except json.JSONDecodeError as e:
             print(f"FEHLER: Ungültige JSON-Antwort von OOIR API für Feld '{field}' und Kategorie '{category or 'N/A'}': {e}")
-            print(f"Rohe OOIR API-Antwort, die keine gültige JSON war: {response.text}")
+            # Die rohe Antwort ausgeben, um das Problem besser analysieren zu können
+            if 'response' in locals() and response is not None:
+                 print(f"Rohe OOIR API-Antwort, die keine gültige JSON war: {response.text}")
             return None
 
     def _fetch_article_metadata_from_doi(self, doi: str) -> Optional[dict]:
@@ -70,7 +75,6 @@ class OOIRTrendMonitor:
 
         # Wichtig: Crossref empfiehlt, eine Kontakt-E-Mail im User-Agent anzugeben,
         # um im "Polite Pool" zu landen und höhere Rate Limits zu erhalten.
-        # Ersetzen Sie 'your_email@example.com' durch eine gültige Kontakt-E-Mail.
         headers = {
             "User-Agent": f"OOIR-RSS-Monitor/1.0 (mailto:{self.email})"
         }
@@ -94,7 +98,8 @@ class OOIRTrendMonitor:
             return None
         except json.JSONDecodeError as e:
             print(f"FEHLER: Ungültige JSON-Antwort von Crossref API für DOI {doi}: {e}")
-            print(f"Rohe Crossref API-Antwort, die keine gültige JSON war: {response.text}")
+            if 'response' in locals() and response is not None:
+                 print(f"Rohe Crossref API-Antwort, die keine gültige JSON war: {response.text}")
             return None
 
     def _create_rss_item(self, article: dict) -> ET.Element:
@@ -160,6 +165,9 @@ class OOIRTrendMonitor:
                         # Sicherstellen, dass Monat und Tag gültig sind, bevor datetime.date erstellt wird
                         if not (1 <= month <= 12): month = 1
                         if not (1 <= day <= 31): day = 1 # Vereinfachte Prüfung, genaue Prüfung erfordert Kenntnis des Monats
+                        
+                        # **Korrektur:** Das Jahr muss mindestens 1 sein
+                        if year < 1: year = 1
                         
                         pub_date_crossref = datetime.date(year, month, day)
                         desc_parts.append(f"Veröffentlicht: {pub_date_crossref.strftime('%Y-%m-%d')}")
@@ -250,9 +258,10 @@ class OOIRTrendMonitor:
                 channel.append(self._create_rss_item(article))
 
         if category_param:
-            filename_base = f"{re.sub(r'[^a-zA-Z0-9_]', '', field_name).lower()}_{re.sub(r'[^a-zA-Z0-9_]', '', category_param).lower()}"
+            # Ersetzt ' ' durch '_' und entfernt alle Nicht-alphanumerischen Zeichen außer '_'
+            filename_base = f"{re.sub(r'[^a-zA-Z0-9_]', '', field_name.replace(' ', '_')).lower()}_{re.sub(r'[^a-zA-Z0-9_]', '', category_param.replace(' ', '_')).lower()}"
         else:
-            filename_base = re.sub(r'[^a-zA-Z0-9_]', '', field_name).lower()
+            filename_base = re.sub(r'[^a-zA-Z0-9_]', '', field_name.replace(' ', '_')).lower()
 
         filename = os.path.join(self.output_dir, f"{filename_base}.xml")
         
@@ -288,7 +297,11 @@ class OOIRTrendMonitor:
         """
 
         for full_name, field_name, category_param in categories:
-            filename = f"{re.sub(r'[^a-zA-Z0-9_]', '', field_name).lower()}_{re.sub(r'[^a-zA-Z0-9_]', '', category_param).lower()}.xml"
+            # Der Dateiname muss identisch mit dem in generate_rss_feed sein
+            if category_param:
+                filename = f"{re.sub(r'[^a-zA-Z0-9_]', '', field_name.replace(' ', '_')).lower()}_{re.sub(r'[^a-zA-Z0-9_]', '', category_param.replace(' ', '_')).lower()}.xml"
+            else:
+                filename = f"{re.sub(r'[^a-zA-Z0-9_]', '', field_name.replace(' ', '_')).lower()}.xml"
             
             html_content += f'                <li><a href="{filename}">{full_name} RSS Feed</a></li>\n'
 
@@ -319,23 +332,34 @@ def main():
 
     monitor = OOIRTrendMonitor(email=EMAIL, output_dir="docs")
 
+    # Basierend auf Ihren Hobbies (Sport/Marathon, Sportmedizin, Physikalische und Rehabilitative Medizin, Manuelle Medizin, Schmerztherapie, Medizinische Informatik)
+    # habe ich einige der relevantesten Kategorien hervorgehoben und die Liste entsprechend ergänzt/überprüft.
     categories_to_monitor = [
-        ("Clinical Medicine (Endocrinology & Metabolism)", "Clinical Medicine", "Endocrinology & Metabolism"),
-        ("Clinical Medicine (Integrative & Complementary Medicine)", "Clinical Medicine", "Integrative & Complementary Medicine"),
-        ("Clinical Medicine (Medical Informatics)", "Clinical Medicine", "Medical Informatics"),
+        # Relevanz: Ihre Fachgebiete
+        ("Clinical Medicine (Rehabilitation)", "Clinical Medicine", "Rehabilitation"), # Relevant: FA Physical and Rehabilitative Medicine
+        ("Clinical Medicine (Orthopedics)", "Clinical Medicine", "Orthopedics"), # Relevant: Nichtoperative Orthopädie, Manuelle Medizin
+        ("Clinical Medicine (Sport Sciences)", "Clinical Medicine", "Sport Sciences"), # Relevant: Sportmedizin, Marathon
+        ("Clinical Medicine (Special Pain Therapy)", "Clinical Medicine", "Special Pain Therapy"), # Relevant: Spezielle Schmerztherapie (Achtung: Dies ist eine vermutete Kategorie, falls sie nicht funktioniert, müsste man die tatsächlichen Field/Category-Namen der v2 API prüfen)
+        ("Clinical Medicine (Integrative & Complementary Medicine)", "Clinical Medicine", "Integrative & Complementary Medicine"), # Relevant: Akupunktur/Manuelle Medizin
+
+        # Relevanz: Ihr Masterstudium
+        ("Clinical Medicine (Medical Informatics)", "Clinical Medicine", "Medical Informatics"), # Relevant: Master Medizinische Informatik
+
+        # Andere medizinische/allgemeine Bereiche
         ("Clinical Medicine (Medicine, General & Internal)", "Clinical Medicine", "Medicine, General & Internal"),
         ("Clinical Medicine (Medicine, Research & Experimental)", "Clinical Medicine", "Medicine, Research & Experimental"),
         ("Clinical Medicine (Nutrition & Dietetics)", "Clinical Medicine", "Nutrition & Dietetics"),
-        ("Clinical Medicine (Orthopedics)", "Clinical Medicine", "Orthopedics"),
         ("Clinical Medicine (Pharmacology & Pharmacy)", "Clinical Medicine", "Pharmacology & Pharmacy"),
-        ("Clinical Medicine (Rehabilitation)", "Clinical Medicine", "Rehabilitation"),
         ("Clinical Medicine (Rheumatology)", "Clinical Medicine", "Rheumatology"),
-        ("Clinical Medicine (Sport Sciences)", "Clinical Medicine", "Sport Sciences"),
+        ("Clinical Medicine (Endocrinology & Metabolism)", "Clinical Medicine", "Endocrinology & Metabolism"),
     ]
+    # **ANMERKUNG:** Die ursprüngliche Liste wurde beibehalten, aber um eine Kategorie ergänzt, die für Ihre Spezielle Schmerztherapie relevant sein könnte.
+    # Sollte die Kategorie "Special Pain Therapy" nicht funktionieren, können Sie die entsprechende Zeile entfernen.
 
     for full_name, field_name, category_param in categories_to_monitor:
         papers_data = monitor._fetch_data_from_api(field=field_name, category=category_param)
         monitor.generate_rss_feed(full_name, field_name, category_param, papers_data)
+        time.sleep(1) # Kleine Pause zwischen den OOIR API-Aufrufen, um Server zu entlasten
 
     monitor.generate_index_html(categories_to_monitor)
 
