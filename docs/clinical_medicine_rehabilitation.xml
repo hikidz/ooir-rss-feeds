@@ -5,14 +5,141 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rehabilitation) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 12 Nov 2025 01:04:59 GMT</pubDate>
-		<lastBuildDate>Wed, 12 Nov 2025 01:04:59 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Nov 2025 01:05:46 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Nov 2025 01:05:46 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Rehabilitation) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-rehabilitation-20251112010459</guid>
-			<pubDate>Wed, 12 Nov 2025 01:04:59 GMT</pubDate>
+			<title>Perineuromal Botulinum Toxin Injection for War-Related Postamputation Pain: A Pragmatic, Multicenter, Comparative Effectiveness Study</title>
+			<link>https://doi.org/10.1016/j.apmr.2025.09.026</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 352
+Autoren: Nadiya Segin, Roman Smolynets, Joana Barroso, Natalia Matolinets, Paul F. Pasquina, Steven P. Cohen
+Journal: Archives of Physical Medicine and Rehabilitation
+Veröffentlicht: 2025-10-01
+DOI: 10.1016/j.apmr.2025.09.026
+ISSN: 0003-9993
+Tag der Erhebung (OOIR): 2025-11-13</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.apmr.2025.09.026-2025-11-13-1</guid>
+			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Natural Speech Analysis Can Reveal Individual Differences in Executive Function Across the Adult Lifespan</title>
+			<link>https://doi.org/10.1044/2025_jslhr-24-00268</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 68
+Autoren: Hsi T. Wei, Dana Kulzhabayeva, Lella Erceg, Mira Kates Rose, Kiah A. Spencer, Jessica Robin, Ellen Bialystok, Jed A. Meltzer
+Journal: Journal of Speech, Language, and Hearing Research
+Veröffentlicht: 2025-11-07
+Abstract: 
+                    Purpose:
+                    Automated analysis of naturalistic speech has emerged as an effective tool for detecting cognitive decline in dementia but has seldom been used to examine the ordinary cognitive decline occurring in normal aging. Executive function (EF) declines throughout the adult lifespan but is difficult to track longitudinally due to practice effects, making speech-based assessments particularly attractive. This study examined relationships between EF and speech characteristics.
+                  
+                  
+                    Method:
+                    We collected two audio picture descriptions from participants in two experiments that also included EF assessments, with 67 healthy older adults (aged 65–75 years) in Study 1 and 174 healthy adults (aged 18–90 years) in Study 2. Language composite scores were computed by aggregating relevant speech features indexing aspects of speech that have been reported to show changes in pathological aging. Principal components reflecting common covariation in speech features were extracted from a large training data set to compute speech domain scores. The relationships between language composites/speech principal components and EF were assessed while controlling for age, gender, and education.
+                  
+                  
+                    Results:
+                    In Study 1, older adults' word-finding difficulties, measured as speech disfluencies, showed significant associations with EF. Study 2 confirms that speech disfluencies can explain individual differences in EF not only for adults above the age of 65 years but also across the adult lifespan. Information units and coherence in speech showed weaker associations with EF and Montreal Cognitive Assessment scores that were not significant after correction for multiple comparisons.
+                  
+                  
+                    Conclusion:
+                    The findings revealed associations between word-finding ability in natural speech and general EF across the adult lifespan, supporting natural speech analysis as a convenient and sensitive assessment of general cognitive ability.
+                  
+DOI: 10.1044/2025_jslhr-24-00268
+ISSN: 1092-4388
+Tag der Erhebung (OOIR): 2025-11-13</description>
+			<guid isPermaLink="false">ooir-trend-10.1044/2025_jslhr-24-00268-2025-11-13-2</guid>
+			<pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>(Not so) universal literacy screening: a survey of educators reveals variability in implementation</title>
+			<link>https://doi.org/10.1007/s11881-025-00342-1</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 44
+Autoren: Ola Ozernov-Palchik, Zoe Elizee, Fabio Catania, Meral Hacikamiloglu, Stefanie Shattuck-Hufnagel, Yaacov Petscher, Satrajit Ghosh, John D. E. Gabrieli
+Journal: Annals of Dyslexia
+Veröffentlicht: 2025-10-29
+Abstract: Abstract
+                  
+                    Currently, most states in the United States have enacted legislation mandating universal screening for literacy risk in kindergarten through 3rd grade. However, the degree to which these policies translate into consistent, high-quality screening practices remains unclear. In this survey study, we collected responses from a diverse sample of K–3 educators (
+                    N
+                     = 251) across 39 states, representing varied school types, professional roles, and experience levels, to examine the real-world implementation of universal screening. Guided by the Exploration, Preparation, Implementation, and Sustainment (EPIS) framework, we analyzed quantitative and qualitative data to identify real-world factors that could impede the fidelity and effectiveness of screening implementation. We found substantial variability across multiple dimensions of literacy screening implementation. Educators described considerable variation in screener selection, administration practices, testing environments, training quality, scoring accuracy, and the use of results to guide intervention. Notably, many indicated insufficient training and professional development, expressing uncertainty about administering and interpreting screeners, particularly for English language learners. Nearly half also reported the absence of systematic procedures for developing intervention plans, suggesting that many students identified as at risk do not receive appropriate follow-up support. These implementation challenges occurred despite widespread recognition among educators of screening’s importance for early literacy intervention. Educators from lower-socioeconomic status schools reported significantly greater time burdens in conducting screenings and more technology-related challenges compared to their higher-SES counterparts. Without systematic improvements to implementation support and training, current screening initiatives may fail to achieve their intended goal of early identification and intervention for struggling readers.
+                  
+DOI: 10.1007/s11881-025-00342-1
+ISSN: 0736-9387
+Tag der Erhebung (OOIR): 2025-11-13</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s11881-025-00342-1-2025-11-13-3</guid>
+			<pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Episode of Care Characteristics Following Implementation of a No Co-pay Physical Therapy Program for Musculoskeletal Conditions</title>
+			<link>https://doi.org/10.1093/ptj/pzaf129</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 43
+Autoren: Trevor Lentz, Adam Lutz, Uchechukwu Ikeaba, Brooke Alhanti, Steven Z George, Chad Cook, Charles Thigpen
+Journal: Physical Therapy
+Veröffentlicht: 2025-10-24
+Abstract: Abstract
+                  
+                    Importance
+                    New care models promoting early access to physical therapy by reducing or eliminating co-pays are emerging. Few studies have compared health care use in these programs to other care pathways across musculoskeletal conditions.
+                  
+                  
+                    Objective
+                    The objective of this study was to describe episode-level musculoskeletal health care use across different care pathway options, including a no-copay physical therapy program.
+                  
+                  
+                    Design
+                    This study was a descriptive retrospective analysis of claims data.
+                  
+                  
+                    Setting and Participants
+                    This study included health care beneficiaries of a self-insured employer with approximately 52,000 covered lives.
+                  
+                  
+                    Interventions or Exposures
+                    The study included musculoskeletal care episodes from October 2019 to September 2020 categorized as no copay physical therapy, traditional physical therapy, or other management.
+                  
+                  
+                    Main Outcomes
+                    Rates of surgery/injection, imaging, inpatient services, physician services, emergency services, physical therapy, and other services by episode type, overall and stratified by body region: upper extremity, lower extremity, and spine.
+                  
+                  
+                    Results
+                    Of 9696 total episodes, 886 (9.1%) were no copay physical therapy, 1261 (13%) were traditional physical therapy, and 7549 (77.9%) were other management. No copay physical therapy episodes had lower imaging rates (38%) compared to traditional physical therapy (47%) and other management (45%) episodes. Inpatient services were similar for no copay (16%) and traditional (12%) physical therapy, both lower than other management episodes (23%). Physician services were higher in other management (100%) and traditional physical therapy (81%) episodes compared to no copay physical therapy episodes (43%). Surgery/injection rates were similar for no copay (11%) and traditional (8%) physical therapy, both lower than other management episodes (27%). Differences by pathway were more pronounced for extremity conditions than for spine conditions.
+                  
+                  
+                    Conclusions
+                    Rates of no copay program use were modest with those who used the program having lower rates of advanced imaging, injection, and surgery.
+                  
+                  
+                    Relevance
+                    Findings may be most relevant for employers, health systems, and payors planning resource allocation and benefit design for similar programs.
+                  
+DOI: 10.1093/ptj/pzaf129
+ISSN: 0031-9023
+Tag der Erhebung (OOIR): 2025-11-13</description>
+			<guid isPermaLink="false">ooir-trend-10.1093/ptj/pzaf129-2025-11-13-4</guid>
+			<pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Heavy slow resistance training combined with patient education in patients with gluteal tendinopathy: A feasibility study</title>
+			<link>https://doi.org/10.1016/j.msksp.2025.103425</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 26
+Autoren: Jan Moritz Grigat, Troels Kjeldsen, Stian Langgård Jørgensen, Inger Mechlenburg, Ulrik Dalgas
+Journal: Musculoskeletal Science and Practice
+Veröffentlicht: 2025-11-01
+DOI: 10.1016/j.msksp.2025.103425
+ISSN: 2468-7812
+Tag der Erhebung (OOIR): 2025-11-13</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.msksp.2025.103425-2025-11-13-5</guid>
+			<pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
