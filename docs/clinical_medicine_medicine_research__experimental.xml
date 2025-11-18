@@ -5,14 +5,109 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, Research &amp; Experimental) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Mon, 17 Nov 2025 01:05:58 GMT</pubDate>
-		<lastBuildDate>Mon, 17 Nov 2025 01:05:58 GMT</lastBuildDate>
+		<pubDate>Tue, 18 Nov 2025 01:05:20 GMT</pubDate>
+		<lastBuildDate>Tue, 18 Nov 2025 01:05:20 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Medicine, Research &amp; Experimental) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-medicineresearchexperimental-20251117010558</guid>
-			<pubDate>Mon, 17 Nov 2025 01:05:58 GMT</pubDate>
+			<title>Epstein-Barr virus reprograms autoreactive B cells as antigen-presenting cells in systemic lupus erythematosus</title>
+			<link>https://doi.org/10.1126/scitranslmed.ady0210</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 1408
+Autoren: Shady Younis, Salvinaz I. Moutusy, Sajede Rasouli, Shaghayegh Jahanbani, Mahesh Pandit, Xiaohao Wu, Suman Acharya, Orr Sharpe, Tilini U. Wijeratne, Marlayna L. Harris, Emily Y. Yang, Yashaar Chaichian, Shima Parsafar, Matthew C. Baker, John B. Harley, Eric Meffre, Lawrence Steinman, Ann Marshak-Rothstein, Judith A. James, Olivia M. Martinez, Paul J. Utz, Dana E. Orange, Tobias V. Lanz, William H. Robinson
+Journal: Science Translational Medicine
+Veröffentlicht: 2025-11-12
+Abstract: 
+                    Systemic lupus erythematosus (SLE) is a systemic autoimmune disease characterized by antinuclear antibodies (ANAs). Epstein-Barr virus (EBV) infection has been epidemiologically associated with SLE, yet its role in pathogenesis remains incompletely defined. Here, we developed an EBV-specific single-cell RNA-sequencing platform and used it to demonstrate that EBV infection reprograms autoreactive antinuclear antigen B cells to drive autoimmunity in SLE. We demonstrated that, in SLE, EBV
+                    +
+                    B cells are predominantly CD27
+                    +
+                    CD21
+                    low
+                    memory B cells that are present at increased frequencies and express
+                    ZEB2
+                    ,
+                    TBX21
+                    (T-bet), and antigen-presenting cell transcriptional pathways. Integrative analysis of chromatin immunoprecipitation sequencing (ChIP-seq), assay for transposase-accessible chromatin sequencing (ATAC-seq), and RNA polymerase II occupancy data revealed EBV nuclear antigen 2 (EBNA2) binding at the transcriptional start sites and regulatory regions of 
+                    CD27
+                    , 
+                    ZEB2
+                    , and
+                    TBX21
+                    , as well as the antigen-presenting cell genes demonstrated to be up-regulated in SLE EBV
+                    +
+                    B cells. We expressed recombinant antibodies from SLE EBV
+                    +
+                    B cells and demonstrated that they bind prototypical SLE nuclear autoantigens, whereas those from healthy individuals do not. We further found that SLE EBV
+                    +
+                    B cells can serve as antigen-presenting cells to drive activation of T peripheral helper cells with concomitant activation of related EBV
+                    −
+                    antinuclear double-negative 2 B cells and plasmablasts. Our results provide a mechanistic basis for EBV being a driver of SLE through infecting and reprogramming nuclear antigen-reactive B cells to become activated antigen-presenting cells with the potential to promote systemic disease–driving autoimmune responses.
+                  
+DOI: 10.1126/scitranslmed.ady0210
+ISSN: 1946-6234
+Tag der Erhebung (OOIR): 2025-11-18</description>
+			<guid isPermaLink="false">ooir-trend-10.1126/scitranslmed.ady0210-2025-11-18-1</guid>
+			<pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Physical activity as a modifiable risk factor in preclinical Alzheimer’s disease</title>
+			<link>https://doi.org/10.1038/s41591-025-03955-6</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 708
+Autoren: Wai-Ying Wendy Yau, Dylan R. Kirn, Jennifer S. Rabin, Michael J. Properzi, Aaron P. Schultz, Zahra Shirzadi, Kailee Palmgren, Paola Matos, Courtney Maa, Jeremy J. Pruzin, Stephanie A. Schultz, Rachel F. Buckley, Dorene M. Rentz, Keith A. Johnson, Reisa A. Sperling, Jasmeer P. Chhatwal
+Journal: Nature Medicine
+Veröffentlicht: 2025-11-03
+DOI: 10.1038/s41591-025-03955-6
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2025-11-18</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03955-6-2025-11-18-2</guid>
+			<pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Safety and pharmacokinetics of SARS-CoV-2 DNA-encoded monoclonal antibodies in healthy adults: a phase 1 trial</title>
+			<link>https://doi.org/10.1038/s41591-025-03969-0</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 327
+Autoren: Pablo Tebas, Ami Patel, Joseph T. Agnes, Elizabeth M. Parzych, Amanda Baer, Maria Caturla, Sukanya Ghosh, Mansi Purwar, Nicole Bedanova, Chungdhak Tsang, Knashawn Morales, Dinah Amante, Paul D. Fisher, Joseph R. Francica, Laurent Humeau, Daniel W. Kulp, Jesper Pallesen, Paul Leon, Mark Esser, Trevor R. F. Smith, David B. Weiner
+Journal: Nature Medicine
+Veröffentlicht: 2025-10-21
+DOI: 10.1038/s41591-025-03969-0
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2025-11-18</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03969-0-2025-11-18-3</guid>
+			<pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Myelin injury precedes axonal injury and symptomatic onset in multiple sclerosis</title>
+			<link>https://doi.org/10.1038/s41591-025-04014-w</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 324
+Autoren: Ahmed Abdelhak, Gabriel Cerono, Fahime Sheikhzadeh, Adil Harroud, Kiarra Ning, Colin R. Zamecnik, Gavin M. Sowa, John Boscardin, Christian Cordano, Asritha Tubati, Camille Fouassier, Eric D. Chow, Refujia Gomez, Adam Santaniello, Kelsey C. Zorn, Jill A. Hollenbach, Jorge R. Oksenberg, Bruce A. C. Cree, Stephen L. Hauser, Jonah R. Chan, Sergio E. Baranzini, Mitchell T. Wallin, Michael R. Wilson, Ari J. Green
+Journal: Nature Medicine
+Veröffentlicht: 2025-10-20
+DOI: 10.1038/s41591-025-04014-w
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2025-11-18</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-04014-w-2025-11-18-4</guid>
+			<pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Plasma proteome adaptations during feminizing gender-affirming hormone therapy</title>
+			<link>https://doi.org/10.1038/s41591-025-04023-9</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 265
+Autoren: Nhi N. L. Nguyen, Den Celestra, Lachlan M. Angus, Toby Mansell, Rebecca Shepherd, Bo Won Kim, Bridget Arman, Georgiana Cabau, Tania O. Crișan, Leo A. B. Joosten, Camille Laberthonnière, David Burgner, Gilda Tachedjian, Musa Mhlanga, Rachel A. Davey, Ken C. Pang, Ada S. Cheung, Richard Saffery, Boris Novakovic
+Journal: Nature Medicine
+Veröffentlicht: 2025-10-20
+DOI: 10.1038/s41591-025-04023-9
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2025-11-18</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-04023-9-2025-11-18-5</guid>
+			<pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
