@@ -5,122 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Nov 2025 01:05:06 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Nov 2025 01:05:06 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Nov 2025 01:04:40 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Nov 2025 01:04:40 GMT</lastBuildDate>
 		<item>
-			<title>Effects of Computerized Cognitive Training on Vesicular Acetylcholine Transporter Levels using [18F]Fluoroethoxybenzovesamicol Positron Emission Tomography in Healthy Older Adults: Results from the Improving Neurological Health in Aging via Neuroplasticity-based Computerized Exercise (INHANCE) Randomized Clinical Trial</title>
-			<link>https://doi.org/10.2196/75161</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 906
-Autoren: Mouna Attarha, Ana de Figueiredo Pelegrino, Lydia Ouellet, Paule-Joanne Toussaint, Sarah-Jane Grant, Thomas Van Vleet, Etienne de Villers-Sidani
-Journal: JMIR Serious Games
-Veröffentlicht: 2025-10-13
-Abstract: 
-            Background
-            The cholinergic system mediates essential aspects of cognitive function, yet its structure and function decline progressively with age, by an estimated 2.5% per decade across the lifespan. Cognitive training may help counteract age-related declines in cholinergic functioning and slow associated deficits in cognitive performance.
-          
-          
-            Objective
-            This study aims to evaluate whether cognitive training modifies cholinergic binding in older adults.
-          
-          
-            Methods
-            The Improving Neurological Health in Aging via Neuroplasticity-based Computerized Exercise (INHANCE) trial is a double-blind randomized controlled trial assessing whether 2 computerized cognitive training programs modify cholinergic expression. The intent-to-treat (ITT) population included 92 community-dwelling healthy older adults aged 65 and above (enrolled July 2021-December 2023; final follow-up June 2024). Participants were randomized at McGill University to either an intervention of speed-based cognitive training exercises designed to improve the speed and accuracy of information processing or an active control of nonspeeded games designed for entertainment (eg, similar in design to Solitaire). Participants completed 35 hours of training on their assigned program at home over a 10-week period using a loaned or personal internet-connected device. Cholinergic binding was measured with the vesicular acetylcholine transporter ligand [18F]fluoroethoxybenzovesamicol (FEOBV) and positron emission tomography (PET). The primary outcome was mean FEOBV binding (standard uptake value ratios [SUVRs]) within the anterior cingulate cortex from baseline to posttest in the ITT population. All other end points were exploratory.
-          
-          
-            Results
-            Among the 92 participants in the ITT population (mean age 71.9 years; mean education 16.5 years; 61/92, 66%, women; 88/92, 96%, White), 82 (89%) completed all study activities. The speed-based intervention showed a significant within-group increase in FEOBV binding in the primary region of interest, the anterior cingulate cortex (SUVR change mean +0.044, 95% CI 0.006-0.082, P=.03, medium effect size, ω²=0.09). The p24c subregion demonstrated a significant between-groups effect favoring speed training (speeded vs nonspeeded SUVR change difference +0.058, 95% CI 0.007-0.110, P=.03, small effect size, ω²=0.05). Prespecified exploratory analyses revealed significant within-group effects for speed training in the hippocampus (P=.02) and parahippocampal gyrus (P=.04). No effects on FEOBV binding were observed in the active control group.
-          
-          
-            Conclusions
-            INHANCE is the largest FEOBV-PET trial to date and demonstrates, for the first time in humans, that speed training can reverse losses in cholinergic terminal densities in brain regions vulnerable to age-related cognitive decline. The 2.3% gain in FEOBV binding in the anterior cingulate achieved over a 10-week intervention may offset the estimated 2.5% decline typically observed over a decade of natural aging. These findings clarify the neurochemical basis of cognitive training benefits, showing that speed training upregulates binding in networks that support attention, memory, and executive function.
-          
-          
-            Trial Registration
-            ClinicalTrials.gov NCT04149457; https://clinicaltrials.gov/study/NCT04149457
-          
-          
-            International Registered Report Identifier (IRRID)
-            RR2-10.2196/59705
-          
-DOI: 10.2196/75161
-ISSN: 2291-9279
-Tag der Erhebung (OOIR): 2025-11-18</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/75161-2025-11-18-1</guid>
-			<pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>When helpfulness backfires: LLMs and the risk of false medical information due to sycophantic behavior</title>
-			<link>https://doi.org/10.1038/s41746-025-02008-z</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 196
-Autoren: Shan Chen, Mingye Gao, Kuleen Sasse, Thomas Hartvigsen, Brian Anthony, Lizhou Fan, Hugo Aerts, Jack Gallifant, Danielle S. Bitterman
-Journal: npj Digital Medicine
-Veröffentlicht: 2025-10-17
-Abstract: Abstract
-                  Large language models (LLMs) exhibit a vulnerability arising from being trained to be helpful: a tendency to comply with illogical requests that would generate false information, even when they have the knowledge to identify the request as illogical. This study investigated this vulnerability in the medical domain, evaluating five frontier LLMs using prompts that misrepresent equivalent drug relationships. We tested baseline sycophancy, the impact of prompts allowing rejection and emphasizing factual recall, and the effects of fine-tuning on a dataset of illogical requests, including out-of-distribution generalization. Results showed high initial compliance (up to 100%) across all models, prioritizing helpfulness over logical consistency. Prompt engineering and fine-tuning improved performance, improving rejection rates on illogical requests while maintaining general benchmark performance. This demonstrates that prioritizing logical consistency through targeted training and prompting is crucial for mitigating the risk of generating false medical information and ensuring the safe deployment of LLMs in healthcare.
-DOI: 10.1038/s41746-025-02008-z
-ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-11-18</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-02008-z-2025-11-18-2</guid>
-			<pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Extension of the GRACE score for non-ST-elevation acute coronary syndrome: a development and validation study in ten countries</title>
-			<link>https://doi.org/10.1016/j.landig.2025.100907</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 118
-Autoren: Florian A Wenzl, Klaus F Kofoed, Moa Simonsson, Gareth Ambler, Niels M R van der Sangen, Erik Lampa, Francesco Bruno, Mark A de Belder, Jiri Hlasensky, Matthias Mueller-Hennessen, Maria A Smolle, Peizhi Wang, José P S Henriques, Wouter J Kikkert, Henning Kelbæk, Luboš Bouček, Sergio Raposeiras-Roubín, Emad Abu-Assi, Jaouad Azzahhafi, Matthijs A Velders, Konstantinos Stellos, Thomas Engstrøm, Dean R P P Chan Pin Yin, Clive Weston, David Adlam, Hans Rickli, Evangelos Giannitsis, Dragana Radovanovic, Jiri Parenica, Charalambos A Antoniades, Keith A A Fox, Fabrizio D'Ascenzo, Jurriën M ten Berg, Lars V Køber, Stefan James, John Deanfield, Thomas F Lüscher
-Journal: The Lancet Digital Health
-Veröffentlicht: 2025-10-01
-DOI: 10.1016/j.landig.2025.100907
-ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2025-11-18</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100907-2025-11-18-3</guid>
-			<pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Development and validation of a machine-learning model to reduce futile procurements in donations after circulatory death in liver transplantation in the USA: a multicentre study</title>
-			<link>https://doi.org/10.1016/j.landig.2025.100918</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 95
-Autoren: Rintaro Yanagawa, Kazuhiro Iwadoh, Toshihiro Nakayama, Daniel J Firl, Chase J Wehrle, Yuki Bekki, Daiki Soma, Jiro Kusakabe, Yuzuru Sambommatsu, Yutaka Endo, Kliment K Bozhilov, Jenny H Pan, Masaru Kubota, Koji Tomiyama, Masato Fujiki, Magdy Attia, Marc L Melcher, Kazunari Sasaki
-Journal: The Lancet Digital Health
-Veröffentlicht: 2025-11-01
-DOI: 10.1016/j.landig.2025.100918
-ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2025-11-18</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100918-2025-11-18-4</guid>
-			<pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Automated detection of radiolucent foreign body aspiration on chest CT using deep learning</title>
-			<link>https://doi.org/10.1038/s41746-025-02097-w</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 82
-Autoren: Xiaofan Liu, Zhe Chen, Zhiyong Tang, Xun Yang, Yan Jiang, Dan Zheng, Fangfang Jiang, Fang Ni, Shuang Geng, Qiong Qian, Yan Hao, Junjie Xu, Yin Wang, Mingyuan Zhu, Xiaoqing Wang, Rob M. Ewing, Zehor Belkhatir, Guqin Zhang, Hanxiang Nie, Yi Hu, Weihua Wang, Yihua Wang
-Journal: npj Digital Medicine
-Veröffentlicht: 2025-11-10
-Abstract: Abstract
-                  
-                    Radiolucent foreign body aspiration (FBA) remains diagnostically challenging due to its subtle imaging signatures on chest CT scans, often leading to delayed or missed diagnoses. We present a deep learning model integrating MedpSeg, a high-precision airway segmentation method, with a convolutional classifier to detect radiolucent FBA. The model was trained and validated across three independent cohorts, demonstrating consistent performance with accuracies above 90% and balanced recall–precision metrics. In a blinded independent evaluation cohort, the model outperformed expert radiologists in both recall (71.4%
-                    vs
-                    . 35.7%) and F1 score (74.1%
-                    vs
-                    . 52.6%), highlighting its potential to reduce missed cases (false negatives) and support clinical decision-making. This study illustrates the translational potential of artificial intelligence for addressing diagnostically complex and high-risk conditions, offering an effective tool to support radiologists in the assessment of suspected radiolucent foreign body aspiration. Code is available at
-                    https://github.com/ZheChen1999/FBA_DL
-                    .
-                  
-DOI: 10.1038/s41746-025-02097-w
-ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2025-11-18</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-02097-w-2025-11-18-5</guid>
-			<pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+			<title>⚠️ Keine Trends für Clinical Medicine (Medical Informatics) verfügbar</title>
+			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
+			<link>https://ooir.org</link>
+			<guid>ooir-no-trends-clinicalmedicine-medicalinformatics-20251119010440</guid>
+			<pubDate>Wed, 19 Nov 2025 01:04:40 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

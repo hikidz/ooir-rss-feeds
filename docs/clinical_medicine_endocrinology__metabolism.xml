@@ -5,126 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Endocrinology &amp; Metabolism) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Nov 2025 01:05:50 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Nov 2025 01:05:50 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Nov 2025 01:04:46 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Nov 2025 01:04:46 GMT</lastBuildDate>
 		<item>
-			<title>Handgrip Strength and Trajectories of Preclinical Obesity Progression: A Multistate Model Analysis Using the UK Biobank</title>
-			<link>https://doi.org/10.1210/clinem/dgaf521</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Endocrinology &amp; Metabolism
-Score: 490
-Autoren: Manrong Xu, Menghan Li, Yawen Zhang, Lianxi Li, Yun Shen, Gang Hu
-Journal: The Journal of Clinical Endocrinology &amp;amp; Metabolism
-Veröffentlicht: 2025-10-15
-Abstract: Abstract
-               
-                  Purpose
-                  Grip strength has been increasingly recognized as a predictor of chronic disease risk and mortality. The aim of our study was to investigate the association of grip strength and the trajectories of preclinical obesity progression.
-               
-               
-                  Methods
-                  Data were collected from 93 275 participants in the UK Biobank. Preclinical obesity was diagnosed based on an excess of anthropometric parameters, defined as elevated body mass index combined with at least 1 abnormal measure among waist circumference, waist-to-hip ratio, waist-to-height ratio, or percentage body fat, in the absence of obesity-induced dysfunctions. Three models captured different trajectories from baseline to dysfunctions and death, with or without intermediate progression. A multistate model was used to investigate the association between grip strength and the preclinical obesity progression and multiple-cause mortality risk. Sensitivity analyses were performed using free muscle volume, total lean mass, and muscle-to-weight ratio as exposures.
-               
-               
-                  Results
-                  Among 8163 death events over a mean follow-up of 13.4 years, each SD increase in grip strength was associated with a significantly reduced risk of preclinical obesity progression at each stage, with the strongest inverse association observed in baseline to first dysfunction [fully adjusted hazard ratio (HR): 0.86, 95% confidence interval (CI): 0.85-0.88]. Compared to the lowest tertile, the highest grip strength significantly showed protective effects across all trajectory models, with double dysfunctions to all-cause death yielding the most pronounced associations (fully adjusted HR: 0.77, 95% CI: 0.70-0.84). Further subgroup and sensitivity analysis showed consistent results.
-               
-               
-                  Conclusion
-                  Increased grip strength was significantly associated with a decreased risk of obesity-induced dysfunctions progression and multiple-cause mortality. These findings underscore the importance of improving muscle mass and strength in preclinical obesity.
-               
-DOI: 10.1210/clinem/dgaf521
-ISSN: 0021-972X
-Tag der Erhebung (OOIR): 2025-11-18</description>
-			<guid isPermaLink="false">ooir-trend-10.1210/clinem/dgaf521-2025-11-18-1</guid>
-			<pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Metformin Blunts Vascular Insulin Sensitivity After Exercise Training in Adults at Risk for Metabolic Syndrome</title>
-			<link>https://doi.org/10.1210/clinem/dgaf551</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Endocrinology &amp; Metabolism
-Score: 438
-Autoren: Steven K Malin, Emily M Heiston, Daniel J Battillo, Tristan J Ragland, Andrew J Gow, Sue A Shapses, Ankit M Shah, James T Patrie, Eugene J Barrett
-Journal: The Journal of Clinical Endocrinology &amp;amp; Metabolism
-Veröffentlicht: 2025-10-07
-Abstract: Abstract
-                  
-                    Context
-                    Metformin is the first-line pharmacotherapy for treating hyperglycemia, and it lowers cardiovascular disease risk. Prior work suggests that metformin can, however, interfere with metabolic adaptations to exercise. To date, no work has tested if metformin (Met) alters exercise training mediated vascular insulin sensitivity, and whether this is exercise intensity dependent.
-                  
-                  
-                    Objective
-                    This work aimed to test the hypothesis that Met blunts vascular insulin sensitivity in an intensity-based manner among adults at risk for metabolic syndrome.
-                  
-                  
-                    Methods
-                    In a double-blind, placebo-controlled trial, participants were randomly assigned to low-intensity exercise plus placebo (∼55% VO2max 5d/wk, LoEx + PL, n = 22) or metformin (2000 mg/d, LoEx + Met, n = 21) and high-intensity exercise plus placebo (∼85% VO2max 5d/wk, HiEx + PL, n = 24) or metformin (HiEx + Met, n = 24) for 16 weeks. A 120-minute euglycemic-hyperinsulinemic clamp (40 mU/m2/min, 90 mg/dL) was conducted pre and post treatment to assess macrovascular insulin sensitivity via brachial artery flow-mediated dilation (%FMD, conduit artery) as well as microvascular insulin sensitivity using contrast-enhanced ultrasound (eg, microvascular blood volume [MBV, perfusion] and microvascular blood flow [MBF]). Fasting and clamp-derived glucose, insulin, inflammatory measures (eg, endothelin-1 [ET-1], tumor necrosis factor α [TNF-α], soluble receptor for advanced glycation end products [sRAGE]), and nitric oxide (nitrite/nitrate) were assessed. Aerobic fitness (maximal oxygen consumption [VO2max]) and body composition (dual-energy x-ray absorptiometry [DXA]) were also analyzed.
-                  
-                  
-                    Results
-                    LoEx + PL and HiEx + PL increased VO2max (both P &amp;amp;lt; .05), while there was no change after LoEx + Met or HiEx + Met. Body fat was reduced following HiEx + PL and HiEx + Met only (both P &amp;amp;lt; .05). Met blunted the increase in insulin-stimulated FMDallometric and MBF seen with LoEx + PL and HiEx + PL (P &amp;amp;lt; .05). Met also attenuated the reductions in fasting glucose, ET-1, and TNF-α compared with LoEx + PL and HiEx + PL (P &amp;amp;lt; .05).
-                  
-                  
-                    Conclusion
-                    Met blunts exercise training-mediated increases in vascular insulin sensitivity at the levels of conduit arteries and capillaries, in parallel with altered inflammation and glycemic benefits.
-                  
-DOI: 10.1210/clinem/dgaf551
-ISSN: 0021-972X
-Tag der Erhebung (OOIR): 2025-11-18</description>
-			<guid isPermaLink="false">ooir-trend-10.1210/clinem/dgaf551-2025-11-18-2</guid>
-			<pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Adipocyte lipolysis activates epithelial stem cells for hair regeneration through fatty acid metabolic signaling</title>
-			<link>https://doi.org/10.1016/j.cmet.2025.09.012</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Endocrinology &amp; Metabolism
-Score: 363
-Autoren: Kang-Yu Tai, Chih-Lung Chen, Sabrina Mai-Yi Fan, Chen-Hsiang Kuan, Chun-Kai Lin, Hsin-Wen Huang, Hao-Wei Lee, Shiou-Han Wang, Nai-Wen Chang, Jian-Da Lin, Che-Feng Chang, Kai-Chien Yang, Maksim V. Plikus, Sung-Jan Lin
-Journal: Cell Metabolism
-Veröffentlicht: 2025-11-01
-DOI: 10.1016/j.cmet.2025.09.012
-ISSN: 1550-4131
-Tag der Erhebung (OOIR): 2025-11-18</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2025.09.012-2025-11-18-3</guid>
-			<pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Mitochondrial complex III-derived ROS amplify immunometabolic changes in astrocytes and promote dementia pathology</title>
-			<link>https://doi.org/10.1038/s42255-025-01390-y</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Endocrinology &amp; Metabolism
-Score: 182
-Autoren: Daniel Barnett, Till S. Zimmer, Caroline Booraem, Fernando Palaguachi, Samantha M. Meadows, Haopeng Xiao, Man Ying Wong, Wenjie Luo, Li Gan, Edward T. Chouchani, Anna G. Orr, Adam L. Orr
-Journal: Nature Metabolism
-Veröffentlicht: 2025-11-04
-DOI: 10.1038/s42255-025-01390-y
-ISSN: 2522-5812
-Tag der Erhebung (OOIR): 2025-11-18</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s42255-025-01390-y-2025-11-18-4</guid>
-			<pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Blood methylome signatures in children exposed to maternal type 1 diabetes are linked to protection against islet autoimmunity</title>
-			<link>https://doi.org/10.1038/s42255-025-01403-w</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Endocrinology &amp; Metabolism
-Score: 146
-Autoren: Raffael Ott, Jose Zapardiel-Gonzalo, Peter Kreitmaier, Kristina Casteels, Angela Hommel, Olga Kordonouri, Helena Elding Larsson, Agnieszka Szypowska, Manu Vatish, Eleftheria Zeggini, Annette Knopff, Christiane Winkler, Anette-G. Ziegler, Ezio Bonifacio, Sandra Hummel
-Journal: Nature Metabolism
-Veröffentlicht: 2025-11-06
-Abstract: Abstract
-                  
-                    Exposure to maternal type 1 diabetes (T1D) during pregnancy provides relative protection against T1D in the offspring. This protective effect may be driven by epigenetic mechanisms. Here we conducted an epigenome-wide blood analysis on 790 young children with and 962 children without a T1D-affected mother, and identified differential DNA methylation (
-                    q
-                     &amp;lt; 0.05) at multiple loci and regions. These included the Homeobox A gene cluster and 15 T1D susceptibility genes. The differential methylation was found in transcriptionally relevant regions associated with immune function, including sites previously linked to T1D-related methylation loci and protein biomarkers. Propensity scores for methylation at T1D susceptibility loci could predict the development of islet autoimmunity in offspring born to mothers without T1D. Together, these findings highlight pathways through which maternal T1D may confer protection against islet autoimmunity in offspring and suggest that environmental factors can influence T1D risk through epigenetic modifications of T1D susceptibility loci.
-                  
-DOI: 10.1038/s42255-025-01403-w
-ISSN: 2522-5812
-Tag der Erhebung (OOIR): 2025-11-18</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s42255-025-01403-w-2025-11-18-5</guid>
-			<pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
+			<title>⚠️ Keine Trends für Clinical Medicine (Endocrinology &amp; Metabolism) verfügbar</title>
+			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
+			<link>https://ooir.org</link>
+			<guid>ooir-no-trends-clinicalmedicine-endocrinologymetabolism-20251119010446</guid>
+			<pubDate>Wed, 19 Nov 2025 01:04:46 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
