@@ -5,14 +5,99 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rheumatology) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 22 Nov 2025 01:02:00 GMT</pubDate>
-		<lastBuildDate>Sat, 22 Nov 2025 01:02:00 GMT</lastBuildDate>
+		<pubDate>Sun, 23 Nov 2025 01:18:22 GMT</pubDate>
+		<lastBuildDate>Sun, 23 Nov 2025 01:18:22 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Rheumatology) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-rheumatology-20251122010200</guid>
-			<pubDate>Sat, 22 Nov 2025 01:02:00 GMT</pubDate>
+			<title>Clinical and cost-effectiveness of a cycling and education intervention versus usual physiotherapy care for the treatment of hip osteoarthritis in the UK (CLEAT): a pragmatic, randomised, controlled trial</title>
+			<link>https://doi.org/10.1016/s2665-9913(25)00102-x</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 140
+Autoren: Thomas W Wainwright, Tikki Immins, Sharon Docherty, Geoff Saunders, Annie Hawton, Elizabeth Goodwin, Tim Rees, Matthew Low, Jo Samways, Fran Webley, Nikki Howard, Paul H Lee, Robert G Middleton
+Journal: The Lancet Rheumatology
+Veröffentlicht: 2025-11-01
+DOI: 10.1016/s2665-9913(25)00102-x
+ISSN: 2665-9913
+Tag der Erhebung (OOIR): 2025-11-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(25)00102-x-2025-11-23-1</guid>
+			<pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>EULAR 2025 classification criteria for haemochromatosis arthropathy</title>
+			<link>https://doi.org/10.1016/j.ard.2025.10.003</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 36
+Autoren: Patrick DW Kiely, Stephanie Finzel, Bayram Farisogullari, Graeme J. Carroll, Geraldine McCarthy, John Stack, Simone Parisi, Graça Porto, Pascal Richette, Gyorgy Nagy, Marton Weidl, Ann Rosenthal, Pascal Guggenbuhl, Katarzyna J. Banaszkiewicz, Svenja Engelhardt, Jeremy D. Shearman, David Mitchell, Jane Barker, Valerie Brueton, Barbara Butzeck, Philip Coathup, Howard Don, Jacqueline Dowsett, Marie Duncan, Tracey Dunleavy, Ian Fish, Allin Hoggarth, Mark McKinnon, James Minter, Tim Osborne, Marguerite Smith, Christine Wright, Pedro M. Machado
+Journal: Annals of the Rheumatic Diseases
+Veröffentlicht: 2025-11-01
+DOI: 10.1016/j.ard.2025.10.003
+ISSN: 0003-4967
+Tag der Erhebung (OOIR): 2025-11-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2025.10.003-2025-11-23-2</guid>
+			<pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Group-based cycling and education for hip osteoarthritis</title>
+			<link>https://doi.org/10.1016/s2665-9913(25)00154-7</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 32
+Autoren: Troels Kjeldsen, Inger Mechlenburg
+Journal: The Lancet Rheumatology
+Veröffentlicht: 2025-11-01
+DOI: 10.1016/s2665-9913(25)00154-7
+ISSN: 2665-9913
+Tag der Erhebung (OOIR): 2025-11-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(25)00154-7-2025-11-23-3</guid>
+			<pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Advances in the pathophysiology, diagnosis and treatment of Takayasu arteritis</title>
+			<link>https://doi.org/10.1038/s41584-025-01309-7</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 23
+Autoren: Amr H. Sawalha, Durga P. Misra, Ruchika Goel, Fatma Alibaz-Oner, Kaitlin A. Quinn, Peter C. Grayson, Haner Direskeneli
+Journal: Nature Reviews Rheumatology
+Veröffentlicht: 2025-11-06
+DOI: 10.1038/s41584-025-01309-7
+ISSN: 1759-4790
+Tag der Erhebung (OOIR): 2025-11-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41584-025-01309-7-2025-11-23-4</guid>
+			<pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Methotrexate use in the treatment of rheumatoid arthritis associated-interstitial lung disease: a systematic review</title>
+			<link>https://doi.org/10.1093/rheumatology/keaf538</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 19
+Autoren: Ines Mahmoud, Fatma Majdoub, Selma Bouden, Leila Rouached, Olfa Saidane, Raoudha Tekaya, Aicha Ben Tekaya, Leila Abdelmoula
+Journal: Rheumatology
+Veröffentlicht: 2025-10-24
+Abstract: Abstract
+                  
+                    Objectives
+                    To assess the progression of the interstitial lung disease related to rheumatoid arthritis (RA-ILD) with Methotrexate (MTX) exposure, and to evaluate the lung involvement in RA non-ILD patients with MTX exposure.
+                  
+                  
+                    Methods
+                    A systematic review was performed including studies of RA patients reporting the effect of MTX on ILD, as a primary or secondary end point.
+                  
+                  
+                    Results
+                    Sixteen studies were included in the systematic review. The total number of patients was 36 444, of which 18 548 (50.8%) were declared on MTX. Patients on MTX were classified into two groups, based on whether they were experiencing ILD. Comparison with control groups was performed to assess the development and/or the progression of ILD in MTX users. Non exposed MTX subjects (N-MTX) were considered as the control group in 14 studies. To evaluate the pulmonary state, studies carried out different evaluation methods: High-Resolution Computed Tomography (10 studies), pulmonary function tests (8 studies), arterial blood gas analysis (one study) and survival (5 studies). MTX was not associated with a risk of developing ILD (9 studies). Five studies suggested that MTX was not associated with the progression of RA-ILD. An accelerated decline in lung function was observed with low-dose MTX (one study). Better survival was shown in MTX patients compared with the N-MTX group (one study). In one study, MTX use was significantly associated with the development of acute exacerbations.
+                  
+                  
+                    Conclusion
+                    MTX appears to have no association with an increased risk of ILD and/or its progression in RA patients.
+                  
+DOI: 10.1093/rheumatology/keaf538
+ISSN: 1462-0324
+Tag der Erhebung (OOIR): 2025-11-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1093/rheumatology/keaf538-2025-11-23-5</guid>
+			<pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

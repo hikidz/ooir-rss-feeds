@@ -5,14 +5,111 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Endocrinology &amp; Metabolism) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 22 Nov 2025 01:02:01 GMT</pubDate>
-		<lastBuildDate>Sat, 22 Nov 2025 01:02:01 GMT</lastBuildDate>
+		<pubDate>Sun, 23 Nov 2025 01:18:44 GMT</pubDate>
+		<lastBuildDate>Sun, 23 Nov 2025 01:18:44 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Endocrinology &amp; Metabolism) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-endocrinologymetabolism-20251122010201</guid>
-			<pubDate>Sat, 22 Nov 2025 01:02:01 GMT</pubDate>
+			<title>Metformin Blunts Vascular Insulin Sensitivity After Exercise Training in Adults at Risk for Metabolic Syndrome</title>
+			<link>https://doi.org/10.1210/clinem/dgaf551</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 487
+Autoren: Steven K Malin, Emily M Heiston, Daniel J Battillo, Tristan J Ragland, Andrew J Gow, Sue A Shapses, Ankit M Shah, James T Patrie, Eugene J Barrett
+Journal: The Journal of Clinical Endocrinology &amp;amp; Metabolism
+Veröffentlicht: 2025-10-07
+Abstract: Abstract
+                  
+                    Context
+                    Metformin is the first-line pharmacotherapy for treating hyperglycemia, and it lowers cardiovascular disease risk. Prior work suggests that metformin can, however, interfere with metabolic adaptations to exercise. To date, no work has tested if metformin (Met) alters exercise training mediated vascular insulin sensitivity, and whether this is exercise intensity dependent.
+                  
+                  
+                    Objective
+                    This work aimed to test the hypothesis that Met blunts vascular insulin sensitivity in an intensity-based manner among adults at risk for metabolic syndrome.
+                  
+                  
+                    Methods
+                    In a double-blind, placebo-controlled trial, participants were randomly assigned to low-intensity exercise plus placebo (∼55% VO2max 5d/wk, LoEx + PL, n = 22) or metformin (2000 mg/d, LoEx + Met, n = 21) and high-intensity exercise plus placebo (∼85% VO2max 5d/wk, HiEx + PL, n = 24) or metformin (HiEx + Met, n = 24) for 16 weeks. A 120-minute euglycemic-hyperinsulinemic clamp (40 mU/m2/min, 90 mg/dL) was conducted pre and post treatment to assess macrovascular insulin sensitivity via brachial artery flow-mediated dilation (%FMD, conduit artery) as well as microvascular insulin sensitivity using contrast-enhanced ultrasound (eg, microvascular blood volume [MBV, perfusion] and microvascular blood flow [MBF]). Fasting and clamp-derived glucose, insulin, inflammatory measures (eg, endothelin-1 [ET-1], tumor necrosis factor α [TNF-α], soluble receptor for advanced glycation end products [sRAGE]), and nitric oxide (nitrite/nitrate) were assessed. Aerobic fitness (maximal oxygen consumption [VO2max]) and body composition (dual-energy x-ray absorptiometry [DXA]) were also analyzed.
+                  
+                  
+                    Results
+                    LoEx + PL and HiEx + PL increased VO2max (both P &amp;amp;lt; .05), while there was no change after LoEx + Met or HiEx + Met. Body fat was reduced following HiEx + PL and HiEx + Met only (both P &amp;amp;lt; .05). Met blunted the increase in insulin-stimulated FMDallometric and MBF seen with LoEx + PL and HiEx + PL (P &amp;amp;lt; .05). Met also attenuated the reductions in fasting glucose, ET-1, and TNF-α compared with LoEx + PL and HiEx + PL (P &amp;amp;lt; .05).
+                  
+                  
+                    Conclusion
+                    Met blunts exercise training-mediated increases in vascular insulin sensitivity at the levels of conduit arteries and capillaries, in parallel with altered inflammation and glycemic benefits.
+                  
+DOI: 10.1210/clinem/dgaf551
+ISSN: 0021-972X
+Tag der Erhebung (OOIR): 2025-11-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1210/clinem/dgaf551-2025-11-23-1</guid>
+			<pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Mitochondrial complex III-derived ROS amplify immunometabolic changes in astrocytes and promote dementia pathology</title>
+			<link>https://doi.org/10.1038/s42255-025-01390-y</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 182
+Autoren: Daniel Barnett, Till S. Zimmer, Caroline Booraem, Fernando Palaguachi, Samantha M. Meadows, Haopeng Xiao, Man Ying Wong, Wenjie Luo, Li Gan, Edward T. Chouchani, Anna G. Orr, Adam L. Orr
+Journal: Nature Metabolism
+Veröffentlicht: 2025-11-04
+DOI: 10.1038/s42255-025-01390-y
+ISSN: 2522-5812
+Tag der Erhebung (OOIR): 2025-11-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s42255-025-01390-y-2025-11-23-2</guid>
+			<pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Blood methylome signatures in children exposed to maternal type 1 diabetes are linked to protection against islet autoimmunity</title>
+			<link>https://doi.org/10.1038/s42255-025-01403-w</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 152
+Autoren: Raffael Ott, Jose Zapardiel-Gonzalo, Peter Kreitmaier, Kristina Casteels, Angela Hommel, Olga Kordonouri, Helena Elding Larsson, Agnieszka Szypowska, Manu Vatish, Eleftheria Zeggini, Annette Knopff, Christiane Winkler, Anette-G. Ziegler, Ezio Bonifacio, Sandra Hummel
+Journal: Nature Metabolism
+Veröffentlicht: 2025-11-06
+Abstract: Abstract
+                  
+                    Exposure to maternal type 1 diabetes (T1D) during pregnancy provides relative protection against T1D in the offspring. This protective effect may be driven by epigenetic mechanisms. Here we conducted an epigenome-wide blood analysis on 790 young children with and 962 children without a T1D-affected mother, and identified differential DNA methylation (
+                    q
+                     &amp;lt; 0.05) at multiple loci and regions. These included the Homeobox A gene cluster and 15 T1D susceptibility genes. The differential methylation was found in transcriptionally relevant regions associated with immune function, including sites previously linked to T1D-related methylation loci and protein biomarkers. Propensity scores for methylation at T1D susceptibility loci could predict the development of islet autoimmunity in offspring born to mothers without T1D. Together, these findings highlight pathways through which maternal T1D may confer protection against islet autoimmunity in offspring and suggest that environmental factors can influence T1D risk through epigenetic modifications of T1D susceptibility loci.
+                  
+DOI: 10.1038/s42255-025-01403-w
+ISSN: 2522-5812
+Tag der Erhebung (OOIR): 2025-11-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s42255-025-01403-w-2025-11-23-3</guid>
+			<pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Identification of a common ketohexokinase-dependent link driving alcohol intake and alcohol-associated liver disease in mice</title>
+			<link>https://doi.org/10.1038/s42255-025-01402-x</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 133
+Autoren: Ana Andres-Hernando, David J. Orlicky, Gabriela E. Garcia, Esteban C. Loetz, Richard Montoya, Vijay Kumar, Devin P. Effinger, Masanari Kuwabara, So Young Bae, Laura Lorenzo-Rebenaque, Elena Fauste, Richard L. Bell, Nicholas Grahame, Suthat Liangpunsakul, Hahn Kim, Sundeep Dugar, Paul Maffuid, Takahiko Nakagawa, Michael F. Wempe, J. Mark Petrash, Dean R. Tolan, Sondra T. Bland, Richard J. Johnson, Miguel A. Lanaspa
+Journal: Nature Metabolism
+Veröffentlicht: 2025-11-10
+Abstract: Abstract
+                  Alcohol and sugar share reinforcing properties and both contribute to liver disease progression, ultimately leading to cirrhosis. Emerging evidence suggests that ethanol activates the aldose reductase pathway, resulting in endogenous fructose production. Here we investigated whether alcohol preference and alcohol-associated liver disease (ALD) are mediated through fructose metabolism by ketohexokinase (KHK)-A/C. Using global, conditional and tissue-specific KHK-A/C knockout mice, we assessed ethanol intake, reinforcement behaviours and liver injury. Ethanol consumption increased portal vein osmolality and activated the polyol pathway in the liver and intestine, leading to fructose production metabolized by KHK-A/C. Mice lacking KHK-A/C showed reduced ethanol preference across multiple paradigms, including two-bottle choice, conditioned place preference and operant self-administration, alongside decreased ∆FosB expression in the nucleus accumbens. Both genetic deletion and pharmacologic inhibition of KHK-A/C suppressed ethanol intake. Hepatocyte-specific KHK-A/C knockout mice displayed partially reduced alcohol consumption, potentially linked to altered aldehyde dehydrogenase expression, while intestinal KHK-A/C deletion restored glucagon-like peptide-1 levels—a hormone known to suppress alcohol intake. Under ethanol pair-matched conditions, global and liver-specific KHK-A/C knockout mice were protected from ALD, with marked reductions in hepatic steatosis, inflammation and fibrosis. These findings identify ethanol-induced fructose metabolism as a key driver of excessive alcohol consumption and ALD pathogenesis. Given that ALD and metabolic dysfunction-associated steatotic liver disease share fructose-dependent mechanisms, targeting fructose metabolism may offer a novel therapeutic approach for treating alcohol use disorder and related liver injury.
+DOI: 10.1038/s42255-025-01402-x
+ISSN: 2522-5812
+Tag der Erhebung (OOIR): 2025-11-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s42255-025-01402-x-2025-11-23-4</guid>
+			<pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Body-wide multi-omic counteraction of aging with GLP-1R agonism</title>
+			<link>https://doi.org/10.1016/j.cmet.2025.10.014</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 106
+Autoren: Junzhe Huang, Andrew J. Kwok, Jason Chak Yan Li, Clement Lek Hin Chiu, Bonaventure Y. Ip, Lok Yi Tung, Roy C.H. Chan, Danny C.W. Chan, Ziyu Wang, Xianyi Zheng, Hoi Tung Chow, Michelle P.S. Lo, Zhongqi Li, Nenghan Lin, Manyu Wang, Leo Y.C. Yan, William K.K. Wu, Kim Hei-Man Chow, Wei-Jye Lin, Yamei Tang, Yun Zhang, Weihong Song, Billy Wai-Lung Ng, Sunny H. Wong, Thomas W. Leung, Vincent C.T. Mok, Ho Ko
+Journal: Cell Metabolism
+Veröffentlicht: 2025-11-01
+DOI: 10.1016/j.cmet.2025.10.014
+ISSN: 1550-4131
+Tag der Erhebung (OOIR): 2025-11-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2025.10.014-2025-11-23-5</guid>
+			<pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
