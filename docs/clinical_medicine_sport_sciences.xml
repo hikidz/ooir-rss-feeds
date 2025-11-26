@@ -5,39 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Sport Sciences) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 25 Nov 2025 01:05:31 GMT</pubDate>
-		<lastBuildDate>Tue, 25 Nov 2025 01:05:31 GMT</lastBuildDate>
-		<item>
-			<title>Association between frequency of meeting daily step thresholds and all-cause mortality and cardiovascular disease in older women</title>
-			<link>https://doi.org/10.1136/bjsports-2025-110311</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Sport Sciences
-Score: 1678
-Autoren: Rikuta Hamaya, Kelly R Evenson, Daniel Lieberman, I-Min Lee
-Journal: British Journal of Sports Medicine
-Veröffentlicht: 2025-10-21
-Abstract: 
-                    Objective
-                    To examine the associations between the number of days per week achieving various daily step thresholds and all-cause mortality and cardiovascular disease (CVD) incidence in older women.
-                  
-                  
-                    Methods
-                    We conducted a prospective cohort study of 13 547 women free of CVD and cancer (mean age 71.8 years). We included participants who wore an ActiGraph GT3X+ accelerometer for 7 consecutive days between 2011–2015 and were subsequently followed for mortality through 2024. Women were classified by the number of days per week achieving step thresholds of ≥4000, ≥5000, ≥6000 or ≥7000 steps/day. Cox proportional hazards regression estimated hazard ratios (HR) and 95% confidence intervals (95% CI) for all-cause mortality and CVD incidence, adjusting for lifestyle behaviours and comorbidities.
-                  
-                  
-                    Results
-                    During a median follow-up of 10.9 years, 1765 women (13.0%) died and 781 (5.1%) developed CVD. Achieving ≥4000 steps/day on 1–2 and ≥3 days/week was associated with lower mortality risk compared with 0 days/week (adjusted HR 0.74 (95% CI 0.65 to 0.86) and 0.60 (95% CI 0.53 to 0.68), respectively). For CVD, corresponding results were 0.73 (95% CI 0.58 to 0.92) and 0.73 (95% CI 60 to 0.89), respectively. An inverse curvilinear dose-response relationship was observed for mortality, such that with higher step thresholds (5000, 6000 or 7000), the risk of mortality further declined modestly. With additional adjustment for mean daily steps, associations were attenuated to the null.
-                  
-                  
-                    Conclusions
-                    Among older women, achieving ≥4000 steps/day on even 1–2 days/week was associated with lower mortality and CVD, while more steps were associated with even better outcomes. A greater number of steps, regardless of daily patterns, is associated with better health outcomes.
-                  
-DOI: 10.1136/bjsports-2025-110311
-ISSN: 0306-3674
-Tag der Erhebung (OOIR): 2025-11-25</description>
-			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-110311-2025-11-25-1</guid>
-			<pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
-		</item>
+		<pubDate>Wed, 26 Nov 2025 01:06:50 GMT</pubDate>
+		<lastBuildDate>Wed, 26 Nov 2025 01:06:50 GMT</lastBuildDate>
 		<item>
 			<title>Advancing Age Is Not Associated With Greater Exercise-Induced Muscle Damage: A Systematic Review, Meta-Analysis, and Meta-Regression</title>
 			<link>https://doi.org/10.1123/japa.2024-0165</link>
@@ -71,8 +40,8 @@ Abstract:
                   
 DOI: 10.1123/japa.2024-0165
 ISSN: 1063-8652
-Tag der Erhebung (OOIR): 2025-11-25</description>
-			<guid isPermaLink="false">ooir-trend-10.1123/japa.2024-0165-2025-11-25-2</guid>
+Tag der Erhebung (OOIR): 2025-11-26</description>
+			<guid isPermaLink="false">ooir-trend-10.1123/japa.2024-0165-2025-11-26-1</guid>
 			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -118,23 +87,8 @@ Abstract:
                   
 DOI: 10.1123/japa.2024-0416
 ISSN: 1063-8652
-Tag der Erhebung (OOIR): 2025-11-25</description>
-			<guid isPermaLink="false">ooir-trend-10.1123/japa.2024-0416-2025-11-25-3</guid>
-			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>ASTM biomechanical study comparing the AxioMed lumbar viscoelastic disc to human lumbar disc data</title>
-			<link>https://doi.org/10.1016/j.clinbiomech.2025.106686</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Sport Sciences
-Score: 42
-Autoren: Kingsley R. Chin, Sukanya Chebrolu, Roger D. Sung, Jeffrey R. Carlson, Mark W. McFarland, Erik Spayde, William M. Costigan, Sandra Thompson, Vito Lore, Kari B. Zimmers, Hope Estevez, Swapnil Pangarkar, Aditya Humad, Chukwunonso C. Ilogu, Jason A. Seale
-Journal: Clinical Biomechanics
-Veröffentlicht: 2025-12-01
-DOI: 10.1016/j.clinbiomech.2025.106686
-ISSN: 0268-0033
-Tag der Erhebung (OOIR): 2025-11-25</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.clinbiomech.2025.106686-2025-11-25-4</guid>
+Tag der Erhebung (OOIR): 2025-11-26</description>
+			<guid isPermaLink="false">ooir-trend-10.1123/japa.2024-0416-2025-11-26-2</guid>
 			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -183,9 +137,40 @@ Abstract:
                   
 DOI: 10.1152/japplphysiol.00665.2025
 ISSN: 8750-7587
-Tag der Erhebung (OOIR): 2025-11-25</description>
-			<guid isPermaLink="false">ooir-trend-10.1152/japplphysiol.00665.2025-2025-11-25-5</guid>
+Tag der Erhebung (OOIR): 2025-11-26</description>
+			<guid isPermaLink="false">ooir-trend-10.1152/japplphysiol.00665.2025-2025-11-26-3</guid>
 			<pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>International Tennis Federation (ITF), Women’s Tennis Association (WTA), and Association of Tennis Professionals (ATP) Expert Group Statement on Nutrition in High-Performance Tennis. Current Evidence to Inform Practical Recommendations and Guide Future Research</title>
+			<link>https://doi.org/10.1123/ijsnem.2025-0001</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 29
+Autoren: Néstor Vicente-Salar, Miguel Crespo Celda, Babette M. Pluim, Jaime Fernández-Fernández, Kathleen Stroia, Todd Ellenbecker, David Sanz, Juan Del Coso, Víctor Moreno-Pérez, Brian Hainline, Álvaro López-Samanes, Jessica LaRoche, Susie Parker-Simmons, Miriam van Reijen, Machar Reid, Rob Duffield, Olivier Girard, Page Love, Elizabeth Broad, Shona Halson, Angel Ruiz-Cotorro, Santiago Sanz-Quinto, Ángel Ruiz-Cotorro, Alejandro Sánchez Pay, Louise M. Burke
+Journal: International Journal of Sport Nutrition and Exercise Metabolism
+Veröffentlicht: 2025-11-01
+Abstract: The sport of tennis involves unique nutritional demands for the physical and technical aspects of match play and training, as well as the nutritional challenges associated with extensive travel and a lengthy competition calendar. An expert group assembled by The International Tennis Federation, the Women’s Tennis Association, and the Association of Tennis Professionals has produced a scientific review of current evidence to inform practical recommendations for high-performance tennis. The narrative summary considers the diversity within the tennis community, including male and female players, youth players, and wheelchair players. The Expert Group Statement addresses nine specific topics: (a) introduction to tennis; (b) physiological characteristics of tennis training and match play; (c) training nutrition; (d) body composition, low energy availability, and relative energy deficiency in sport; (e) match-day nutrition; (f) dietary supplements for tennis performance; (g) environmental and travel issues; (h) nutrition guidelines during periods of illness and injury rehabilitation; and (i) special population groups. The statement advocates for an evidence-based approach to nutrition in high-performance tennis and emphasizes a “food first” philosophy, prioritizing food over supplements to meet nutrient requirements effectively. In recognition of the benefits of sound nutrition, strategies in supporting health and performance over a player’s career, academies, national federations, and international organizations are encouraged to engage professionals with appropriate nutrition-related qualifications and professional registrations to support players effectively.
+DOI: 10.1123/ijsnem.2025-0001
+ISSN: 1526-484X
+Tag der Erhebung (OOIR): 2025-11-26</description>
+			<guid isPermaLink="false">ooir-trend-10.1123/ijsnem.2025-0001-2025-11-26-4</guid>
+			<pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Facial lower-region changes during high-intensity exercise as predictors of reduced arousal state</title>
+			<link>https://doi.org/10.1080/02640414.2025.2574109</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 28
+Autoren: Genta Ochi, Tomoya Koyama, Keita Oneyama, Yumi Okamoto, Tomomi Fujimoto, Daisuke Sato, Koya Yamashiro
+Journal: Journal of Sports Sciences
+Veröffentlicht: 2025-10-27
+DOI: 10.1080/02640414.2025.2574109
+ISSN: 0264-0414
+Tag der Erhebung (OOIR): 2025-11-26</description>
+			<guid isPermaLink="false">ooir-trend-10.1080/02640414.2025.2574109-2025-11-26-5</guid>
+			<pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
