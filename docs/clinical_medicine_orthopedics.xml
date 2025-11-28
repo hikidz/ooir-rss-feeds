@@ -5,14 +5,184 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Orthopedics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 27 Nov 2025 01:04:49 GMT</pubDate>
-		<lastBuildDate>Thu, 27 Nov 2025 01:04:49 GMT</lastBuildDate>
+		<pubDate>Fri, 28 Nov 2025 01:03:33 GMT</pubDate>
+		<lastBuildDate>Fri, 28 Nov 2025 01:03:33 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Orthopedics) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-orthopedics-20251127010449</guid>
-			<pubDate>Thu, 27 Nov 2025 01:04:49 GMT</pubDate>
+			<title>Development of a new treatment for osteoporotic vertebral fractures using adipose-derived stem cell spheroids</title>
+			<link>https://doi.org/10.1302/2046-3758.1410.bjr-2025-0092.r1</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 488
+Autoren: Yuta Sawada, Shinji Takahashi, Kumi Orita, Akito Yabu, Masayoshi Iwamae, Yuki Okamura, Yuto Kobayashi, Hiroshi Taniwaki, Hiroaki Nakamura, Hidetomi Terai
+Journal: Bone &amp;amp; Joint Research
+Veröffentlicht: 2025-10-28
+Abstract: 
+                    Aims
+                    Osteoporotic vertebral fractures substantially contribute to disability and often require surgical intervention. However, some challenges, such as implant failure and suboptimal bone regeneration, limit current treatments. Adipose-derived stem cells are promising for regenerative therapy because they are easily obtained, highly proliferative, and resistant to osteoporosis-related symptoms. This study aimed to evaluate the combined effects of osteogenic adipose-derived stem cell spheroids and β-tricalcium phosphate on vertebral bone regeneration in a rat osteoporotic vertebral fracture model.
+                  
+                  
+                    Methods
+                    Osteoporosis was induced in 33 rats (11 per group) by ovariectomy, and defects were created in the L4 and L5 vertebrae. Adipose-derived stem cells were spheroidized and mixed with β-tricalcium phosphate scaffolds. Groups included osteogenic spheroids, undifferentiated spheroids, and β-tricalcium phosphate alone. Bone regeneration was assessed using micro-CT, histology, and biomechanical testing at four and eight weeks. Further in vitro analyses were conducted.
+                  
+                  
+                    Results
+                    
+                      The osteogenic spheroid group showed significantly higher bone mass, fusion score, and mechanical strength than the control group did. Histological analysis revealed enhanced new bone formation and β-tricalcium phosphate integration. Gene expression analysis revealed osteogenic marker (alkaline phosphatase (
+                      ALP
+                      ), osteocalcin (
+                      OCN
+                      ), and runt-related transcription factor 2 (
+                      Runx2
+                      )) and regenerative factor (bone morphogenetic protein 7 (
+                      BMP-7
+                      ), insulin-like growth factor 1 (
+                      IGF-1
+                      ), hepatocyte growth factor
+                      1
+                      (
+                      HGF-1
+                      ), and octamer-binding transcription factor
+                      4
+                      (
+                      Oct4
+                      ) upregulation, along with reduced apoptosis. Further, adipose-derived stem cell survival was confirmed at the repair site. These results indicate that adipose-derived stem cells contribute to both paracrine and direct osteogenesis.
+                    
+                  
+                  
+                    Conclusion
+                    Combining osteogenic adipose-derived stem cell spheroids with β-tricalcium phosphate scaffolds effectively promotes vertebral bone regeneration in osteoporotic vertebral fracture. This approach is a promising strategy for improving osteoporotic fracture repair with potential clinical applications.
+                    
+                      Cite this article:
+                      Bone Joint Res
+                       2025;14(10):915–926.
+                    
+                  
+DOI: 10.1302/2046-3758.1410.bjr-2025-0092.r1
+ISSN: 2046-3758
+Tag der Erhebung (OOIR): 2025-11-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1302/2046-3758.1410.bjr-2025-0092.r1-2025-11-28-1</guid>
+			<pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Agreement between high-quality clinical practice guidelines in their treatment recommendations for low back pain: a systematic review</title>
+			<link>https://doi.org/10.1016/j.spinee.2025.07.015</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 42
+Autoren: Bayden J. McKenzie, Romi Haas, Giovanni E. Ferreira, Alexandra Gorelik, Sheila Cyril, Jia Xi Han, Stephen Gilbert, Liesl Grobler, Chris G. Maher, Rachelle Buchbinder
+Journal: The Spine Journal
+Veröffentlicht: 2025-12-01
+DOI: 10.1016/j.spinee.2025.07.015
+ISSN: 1529-9430
+Tag der Erhebung (OOIR): 2025-11-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.spinee.2025.07.015-2025-11-28-2</guid>
+			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Physiotherapy Compared With Shockwave Therapy for the Treatment of Proximal Hamstring Tendinopathy: A Randomized Controlled Trial</title>
+			<link>https://doi.org/10.1177/03635465251391134</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 21
+Autoren: Aidan Rich, Jon Ford, Jilliane Cook, Andrew Hahne
+Journal: The American Journal of Sports Medicine
+Veröffentlicht: 2025-11-16
+Abstract: 
+                    Background:
+                    Proximal hamstring tendinopathy (PHT) presents as localized lower buttock pain with tasks such as running and sitting.
+                  
+                  
+                    Purpose:
+                    To investigate the effectiveness of individualized physiotherapy compared with shockwave therapy on pain and function in PHT.
+                  
+                  
+                    Methods:
+                    This prospective parallel-group, assessor-blinded randomized controlled trial (RCT) was set in 10 primary care physiotherapy practices in Victoria, Australia. A total of 100 participants with PHT were randomly assigned to receive 6 sessions of either individualized physiotherapy or shockwave therapy, with both groups receiving standardized advice and education. Primary outcomes were global rating of change on a 7-point Likert scale and the Victorian Institute of Sport Assessment Scale for Proximal Hamstring Tendinopathy at 4, 12, 26, and 52 weeks postrandomization. Analyses were by intention-to-treat using linear mixed models.
+                  
+                  
+                    Results:
+                    All except 1 patient received the allocated intervention, and the participant follow-up rate was 88% at 12 months. There were no significant differences between groups in primary outcomes at any time point. For secondary outcome measures, participants in the shockwave group had statistically significantly greater satisfaction with treatment at 26 weeks, satisfaction with results of treatment at 4 and 26 weeks, and general health at 52 weeks. Responder analyses of participants achieving clinically significant improvements showed no significant differences between groups at any time point.
+                  
+                  
+                    Conclusion:
+                    This RCT found no difference in effectiveness of individualized physiotherapy compared with shockwave therapy on global effect or function in PHT. Future trials on PHT appear feasible but could explore a different sample population or other intervention and/or comparison groups.
+                  
+                  
+                    Registration:
+                    ACTRN12621000846820 (Australian New Zealand Clinical Trials Registry).
+                  
+DOI: 10.1177/03635465251391134
+ISSN: 0363-5465
+Tag der Erhebung (OOIR): 2025-11-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1177/03635465251391134-2025-11-28-3</guid>
+			<pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Pain Catastrophizing Beliefs and Neuropathic Symptoms Are Associated With a Poorer Long-Term Recovery in Chronic Plantar Heel Pain: A Cohort Study</title>
+			<link>https://doi.org/10.1093/ptj/pzaf134</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 14
+Autoren: Jason Rogers, Graeme Jones, Karen Wills, Tania Winzenberg
+Journal: Physical Therapy
+Veröffentlicht: 2025-11-07
+Abstract: Abstract
+                  
+                    Importance
+                    Chronic plantar heel pain is common and often recalcitrant yet understanding of modifiable risk factors that influence its trajectory of recovery is limited.
+                  
+                  
+                    Objective
+                    The objective of this study was to describe associations of changes in physical and psychological measures and symptom descriptors over 12 months with changes in pain, function, and quality of life in people with chronic plantar heel pain.
+                  
+                  
+                    Design
+                    A prospective cohort with longitudinal follow-up was used.
+                  
+                  
+                    Setting
+                    A community setting in southern Tasmania was used.
+                  
+                  
+                    Participants
+                    The participants were 220 people with a clinical diagnosis of chronic plantar heel pain.
+                  
+                  
+                    Exposures
+                    The exposures were body mass index (kg/m2), waist circumference (centimeters), ankle plantarflexor strength (kilograms), ankle and first metatarsophalangeal joint dorsiflexion mobility (degrees), pain catastrophizing beliefs (Pain Catastrophizing Scale), depression (9-item Patient Health Questionnaire), multisite pain, morning stiffness, neuropathic symptoms (painDETECT), and physical activity (accelerometry).
+                  
+                  
+                    Main Outcomes and Measures
+                    The Foot Health Status Questionnaire pain and function domains and the 6-dimension Assessment of Quality of Life Scale were used. Outcomes and exposures were assessed at baseline and 12 months. Data were analyzed using linear mixed-effects models with exposure × time interactions.
+                  
+                  
+                    Results
+                    Increasing pain catastrophizing and neuropathic painDETECT scores over 12 months were associated with a poorer trajectory of pain recovery (pain catastrophizing interaction β = −0.39 [95% CI = −0.01 to −0.77]; painDETECT interaction β = −0.79 [95% CI = −0.10 to −1.48]). In full multivariable models, there were no other significant associations between any other variable and pain. The only associations with foot function and quality of life were weak negative associations of steps per day and sedentary time with function and quality of life, respectively.
+                  
+                  
+                    Conclusions and Relevance
+                    Increasing pain catastrophizing and neuropathic symptoms were associated with poorer pain outcomes over 12 months in individuals with chronic plantar heel pain. These findings highlight the importance of pain beliefs and neurogenic factors in the prognosis of chronic plantar heel pain. Interventions targeting pain beliefs and neuropathic mechanisms may improve outcomes in subgroups with these characteristics.
+                  
+DOI: 10.1093/ptj/pzaf134
+ISSN: 0031-9023
+Tag der Erhebung (OOIR): 2025-11-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1093/ptj/pzaf134-2025-11-28-4</guid>
+			<pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Ankle dorsiflexion range of motion is associated with compression stiffness of gastrocnemius and soleus muscles, foot structures, and hallux extension range of motion</title>
+			<link>https://doi.org/10.1016/j.fas.2025.11.007</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 14
+Autoren: Yuta Koshino, Tomoya Takabayashi, Takumi Kobayashi, Shintarou Kudo, Mutsuaki Edama
+Journal: Foot and Ankle Surgery
+Veröffentlicht: 2025-11-01
+DOI: 10.1016/j.fas.2025.11.007
+ISSN: 1268-7731
+Tag der Erhebung (OOIR): 2025-11-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.fas.2025.11.007-2025-11-28-5</guid>
+			<pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
