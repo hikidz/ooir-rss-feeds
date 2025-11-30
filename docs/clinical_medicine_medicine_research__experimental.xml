@@ -5,14 +5,111 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, Research &amp; Experimental) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 29 Nov 2025 01:06:39 GMT</pubDate>
-		<lastBuildDate>Sat, 29 Nov 2025 01:06:39 GMT</lastBuildDate>
+		<pubDate>Sun, 30 Nov 2025 01:16:02 GMT</pubDate>
+		<lastBuildDate>Sun, 30 Nov 2025 01:16:02 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Medicine, Research &amp; Experimental) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-medicineresearchexperimental-20251129010639</guid>
-			<pubDate>Sat, 29 Nov 2025 01:06:39 GMT</pubDate>
+			<title>Epstein-Barr virus reprograms autoreactive B cells as antigen-presenting cells in systemic lupus erythematosus</title>
+			<link>https://doi.org/10.1126/scitranslmed.ady0210</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 1851
+Autoren: Shady Younis, Salvinaz I. Moutusy, Sajede Rasouli, Shaghayegh Jahanbani, Mahesh Pandit, Xiaohao Wu, Suman Acharya, Orr Sharpe, Tilini U. Wijeratne, Marlayna L. Harris, Emily Y. Yang, Yashaar Chaichian, Shima Parsafar, Matthew C. Baker, John B. Harley, Eric Meffre, Lawrence Steinman, Ann Marshak-Rothstein, Judith A. James, Olivia M. Martinez, Paul J. Utz, Dana E. Orange, Tobias V. Lanz, William H. Robinson
+Journal: Science Translational Medicine
+Veröffentlicht: 2025-11-12
+Abstract: 
+                    Systemic lupus erythematosus (SLE) is a systemic autoimmune disease characterized by antinuclear antibodies (ANAs). Epstein-Barr virus (EBV) infection has been epidemiologically associated with SLE, yet its role in pathogenesis remains incompletely defined. Here, we developed an EBV-specific single-cell RNA-sequencing platform and used it to demonstrate that EBV infection reprograms autoreactive antinuclear antigen B cells to drive autoimmunity in SLE. We demonstrated that, in SLE, EBV
+                    +
+                    B cells are predominantly CD27
+                    +
+                    CD21
+                    low
+                    memory B cells that are present at increased frequencies and express
+                    ZEB2
+                    ,
+                    TBX21
+                    (T-bet), and antigen-presenting cell transcriptional pathways. Integrative analysis of chromatin immunoprecipitation sequencing (ChIP-seq), assay for transposase-accessible chromatin sequencing (ATAC-seq), and RNA polymerase II occupancy data revealed EBV nuclear antigen 2 (EBNA2) binding at the transcriptional start sites and regulatory regions of 
+                    CD27
+                    , 
+                    ZEB2
+                    , and
+                    TBX21
+                    , as well as the antigen-presenting cell genes demonstrated to be up-regulated in SLE EBV
+                    +
+                    B cells. We expressed recombinant antibodies from SLE EBV
+                    +
+                    B cells and demonstrated that they bind prototypical SLE nuclear autoantigens, whereas those from healthy individuals do not. We further found that SLE EBV
+                    +
+                    B cells can serve as antigen-presenting cells to drive activation of T peripheral helper cells with concomitant activation of related EBV
+                    −
+                    antinuclear double-negative 2 B cells and plasmablasts. Our results provide a mechanistic basis for EBV being a driver of SLE through infecting and reprogramming nuclear antigen-reactive B cells to become activated antigen-presenting cells with the potential to promote systemic disease–driving autoimmune responses.
+                  
+DOI: 10.1126/scitranslmed.ady0210
+ISSN: 1946-6234
+Tag der Erhebung (OOIR): 2025-11-30</description>
+			<guid isPermaLink="false">ooir-trend-10.1126/scitranslmed.ady0210-2025-11-30-1</guid>
+			<pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Physical activity as a modifiable risk factor in preclinical Alzheimer’s disease</title>
+			<link>https://doi.org/10.1038/s41591-025-03955-6</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 797
+Autoren: Wai-Ying Wendy Yau, Dylan R. Kirn, Jennifer S. Rabin, Michael J. Properzi, Aaron P. Schultz, Zahra Shirzadi, Kailee Palmgren, Paola Matos, Courtney Maa, Jeremy J. Pruzin, Stephanie A. Schultz, Rachel F. Buckley, Dorene M. Rentz, Keith A. Johnson, Reisa A. Sperling, Jasmeer P. Chhatwal
+Journal: Nature Medicine
+Veröffentlicht: 2025-11-03
+DOI: 10.1038/s41591-025-03955-6
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2025-11-30</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03955-6-2025-11-30-2</guid>
+			<pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Successful endodontic treatment improves glucose and lipid metabolism: a longitudinal metabolomic study</title>
+			<link>https://doi.org/10.1186/s12967-025-07110-0</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 769
+Autoren: Yuchen Zhang, Adrien Le Guennec, Pirkko Pussinen, Gordon Proctor, Sadia Ambreen Niazi
+Journal: Journal of Translational Medicine
+Veröffentlicht: 2025-11-18
+DOI: 10.1186/s12967-025-07110-0
+ISSN: 1479-5876
+Tag der Erhebung (OOIR): 2025-11-30</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12967-025-07110-0-2025-11-30-3</guid>
+			<pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Brain activity associated with breakthrough food preoccupation in an individual on tirzepatide</title>
+			<link>https://doi.org/10.1038/s41591-025-04035-5</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 539
+Autoren: Wonkyung Choi, Young-Hoon Nho, Liming Qiu, Andrew Chang, Gustavo Campos, Robert L. Seilheimer, W. Bryan Wilent, David Bakalov, Nida Firdous, Marie Kerr, Disha Joshi, Gabriella Maze, Uros Topalovic, Daniel Batista, Nanthia Suthana, Anastassia Amaro, Matthew R. Hayes, Iahn Cajigas, Mario Cristancho, Kelly C. Allison, Bijan Pesaran, Katherine W. Scangos, Joshua I. Gold, Thomas A. Wadden, Casey H. Halpern
+Journal: Nature Medicine
+Veröffentlicht: 2025-11-17
+DOI: 10.1038/s41591-025-04035-5
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2025-11-30</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-04035-5-2025-11-30-4</guid>
+			<pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Microbial signals in primary and metastatic brain tumors</title>
+			<link>https://doi.org/10.1038/s41591-025-03957-4</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 407
+Autoren: Golnaz Morad, Ashish V. Damania, Brenda Melendez, Bharat B. Singh, Fabiana J. Veguilla, Rebecca A. Soto, Yasmine M. Hoballah, Pranoti V. Sahasrabhojane, Matthew C. Wong, Mona M. Ahmed, Rene N. Rico, Kaitlyn N. Lewis, Khalida Wani, Diana D. Shamsutdinova, Rossana N. Lazcano Segura, Davis R. Ingram, Eric A. Goethe, Abderrahman Day, Ivonne I. Flores, Lauren K. McDaniel, Manoj Chelvanambi, Sarah B. Johnson, Florentia Dimitriou, Pravesh Gupta, Shivangi Oberai, M. Anna Zal, Phoebe Doss, Mohamed A. Jamal, Eiko Hayase, Chetna Wathoo, Lisa M. Norberg, Stephanie L. Jenkins, Sara Nass, Joy Gumin, Lihong Long, Jing Yang, Gina R. Bradley, Mahesh Prasad Bekal, Antonio G. Dono, Pavel S. Pichardo-Rojas, Samuel W. Andrewes, Leomar Y. Ballester, Jillian S. Losh, Jiyong Liang, Longfei Huo, Douglas C. Nielsen, Brittany C. Parker Kerrigan, Priscilla K. Brastianos, Natalie Wall Fowlkes, Chia-Chi Chang, Robert R. Jenq, Candelaria Gomez-Manzano, Jason T. Huse, Michael A. Davies, Alexander J. Lazar, Krishna P. Bhat, Nitin Tandon, Yoshua Esquenazi, Christine B. Peterson, Vinay K. Puduvalli, Frederick F. Lang, Christopher D. Johnston, Susan Bullman, Nadim J. Ajami, Sherise D. Ferguson, Jennifer A. Wargo
+Journal: Nature Medicine
+Veröffentlicht: 2025-11-01
+Abstract: Abstract
+                  Gliomas and brain metastases are associated with poor prognosis, necessitating a deeper understanding of brain tumor biology and the development of effective therapeutic strategies. Although our group and others have demonstrated microbial presence in various tumors, recent controversies regarding cancer-type-specific intratumoral microbiota emphasize the importance of rigorous, orthogonal validation. This prospective, multi-institutional study included a total of 243 samples from 221 patients, comprising 168 glioma and brain metastases samples and 75 non-cancerous or tumor-adjacent tissues. Using stringent fluorescence in situ hybridization, immunohistochemistry and high-resolution spatial imaging, we detected intracellular bacterial 16S rRNA and lipopolysaccharides in both glioma and brain metastases samples, localized to tumor, immune and stromal cells. Custom 16S and metagenomic sequencing workflows identified taxa associated with intratumoral bacterial signals in the tumor microenvironment; however, standard culture methods did not yield readily cultivable microbiota. Spatial analyses revealed significant correlations between bacterial 16S signals and antimicrobial and immunometabolic signatures at regional, neighborhood and cellular levels. Furthermore, intratumoral 16S bacterial signals showed sequence overlap with matched oral and gut microbiota, suggesting a possible connection with distant communities. Together, these findings introduce microbial elements as a component of the brain tumor microenvironment and lay the foundation for future mechanistic and translational studies.
+DOI: 10.1038/s41591-025-03957-4
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2025-11-30</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-03957-4-2025-11-30-5</guid>
+			<pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
