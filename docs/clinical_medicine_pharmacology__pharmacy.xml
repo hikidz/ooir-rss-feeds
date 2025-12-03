@@ -5,14 +5,104 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Pharmacology &amp; Pharmacy) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 02 Dec 2025 01:10:24 GMT</pubDate>
-		<lastBuildDate>Tue, 02 Dec 2025 01:10:24 GMT</lastBuildDate>
+		<pubDate>Wed, 03 Dec 2025 01:08:06 GMT</pubDate>
+		<lastBuildDate>Wed, 03 Dec 2025 01:08:06 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Pharmacology &amp; Pharmacy) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-pharmacologypharmacy-20251202011024</guid>
-			<pubDate>Tue, 02 Dec 2025 01:10:24 GMT</pubDate>
+			<title>Nanobodies: a new paradigm for brain disorder therapies</title>
+			<link>https://doi.org/10.1016/j.tips.2025.10.004</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 475
+Autoren: Pierre-André Lafon, Laurent Prézeau, Jean-Philippe Pin, Philippe Rondard
+Journal: Trends in Pharmacological Sciences
+Veröffentlicht: 2025-11-01
+DOI: 10.1016/j.tips.2025.10.004
+ISSN: 0165-6147
+Tag der Erhebung (OOIR): 2025-12-03</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.tips.2025.10.004-2025-12-03-1</guid>
+			<pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Mass balance, pharmacokinetics, metabolism, and excretion of radiolabeled acoziborole, a potential novel treatment for human African trypanosomiasis, following single microtracer oral dose to humans</title>
+			<link>https://doi.org/10.1128/aac.00580-25</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 142
+Autoren: Jean-Yves Gillon, François Simon, Sharan Sidhu, Mathieu Louis, Delphine Launay, Valérie Wauthier, Marta Pelay-Gimeno, Lotte van Andel, Sabrina Loyau, Sandra Rembry, Estelle Weinling, Antoine Tarral
+Journal: Antimicrobial Agents and Chemotherapy
+Veröffentlicht: 2025-11-05
+Abstract: ABSTRACT
+                  
+                    
+                    
+                      Acoziborole is an oxaborole 6-carboxamide active against
+                      Trypanosoma brucei gambiense
+                      and
+                      rhodesiense
+                      , the parasites responsible for human African trypanosomiasis. This open-label, phase I study in six healthy male participants evaluated the mass balance, pharmacokinetics, metabolism pathways, and excretion of a single oral 960 mg dose of [
+                      14
+                      C]-acoziborole. Blood, plasma, and feces were collected for 120 days and urine for 16 days. The excretion balance and systemic exposure of total circulating radioactivity were determined using accelerator mass spectrometry. Metabolism profiling was performed in pools of plasma, urine, and feces. Liquid chromatography coupled with tandem mass spectrometry quantified acoziborole and its metabolite SCYX-3109 in plasma and urine. By Day 60, 87.3% of the total radioactivity had been recovered (10.9% and 74.2% of the total dose in urine and in feces, respectively), with an excretion increment of &amp;lt;1% between Days 59 and 61. Mean ratios of total radioactivity indicated an equivalent distribution between blood cells and plasma. The concentration-time profiles of total radioactivity and acoziborole in plasma were similar. In plasma, acoziborole accounted for 95.1%, an oxidized form of acoziborole for 2.3% of the total radioactivity, while SCYX-3109 was not detected. Seven metabolites (oxidative deboronation, glucuronidation, and mono-oxidation) were detected in urine with individual abundances relative to the dose of 0.1–2.1%; unchanged acoziborole accounted for 0.6%. In feces, acoziborole, SCYX-3109, and two other oxidized or deboronated forms of acoziborole represented 33.6%, 12.3%, and 2.3% of the dose, respectively. Acoziborole showed good absorption, limited metabolism, minimal urinary elimination, and predominant but slow biliary-fecal elimination.
+                    
+                  
+DOI: 10.1128/aac.00580-25
+ISSN: 0066-4804
+Tag der Erhebung (OOIR): 2025-12-03</description>
+			<guid isPermaLink="false">ooir-trend-10.1128/aac.00580-25-2025-12-03-2</guid>
+			<pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>LSD microdosing in major depressive disorder: results from an open-label trial</title>
+			<link>https://doi.org/10.1016/j.neuropharm.2025.110762</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 108
+Autoren: Dimitri Daldegan-Bueno, Carina Joy Donegan, Rachael Sumner, Anna Forsyth, William Evans, Malak Alshakhouri, Lisa Reynolds, Rhys Ponton, Todd Smith, Partha Roop, Nicholas Hoeh, Nathan Allen, Frederick Sundram, David Menkes, Suresh Muthukumaraswamy
+Journal: Neuropharmacology
+Veröffentlicht: 2026-02-01
+DOI: 10.1016/j.neuropharm.2025.110762
+ISSN: 0028-3908
+Tag der Erhebung (OOIR): 2025-12-03</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.neuropharm.2025.110762-2025-12-03-3</guid>
+			<pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Drugs anticipated to be selected for Medicare price negotiation in 2026 for implementation in 2028</title>
+			<link>https://doi.org/10.18553/jmcp.2025.25253</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 85
+Autoren: Emma M. Cousin, Kristi Martin, Ryan N. Hansen, John Coster, Sean D. Sullivan
+Journal: Journal of Managed Care &amp;amp; Specialty Pharmacy
+Veröffentlicht: 2025-11-14
+DOI: 10.18553/jmcp.2025.25253
+ISSN: 2376-0540
+Tag der Erhebung (OOIR): 2025-12-03</description>
+			<guid isPermaLink="false">ooir-trend-10.18553/jmcp.2025.25253-2025-12-03-4</guid>
+			<pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Liposomal-synthetic-cannabidiol: preliminary translational evidence of efficacy, tolerability and pharmacokinetics following repeated subcutaneous injections in two goats</title>
+			<link>https://doi.org/10.3389/fphar.2025.1689226</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 79
+Autoren: Yael Shilo-Benjamini, Wiessam Abu Ahmad, Dinorah Barasch, Eran Lavy, Daniel Zilbersheid, Yechezkel Barenholz, Ahuva Cern
+Journal: Frontiers in Pharmacology
+Veröffentlicht: 2025-11-10
+Abstract: 
+                    Cannabidiol (CBD), the primary non-psychoactive component of
+                    Cannabis sativa
+                    , has been gaining popularity as an analgesic in treatment of chronic painful conditions. Due to first-pass hepatic metabolism, oral CBD is considered to have low bioavailability. Our previous studies on dogs indicate that synthetic CBD encapsulation in liposomes facilitates controlled drug release and provides long-term CBD plasma concentrations. In the present study, liposomal CBD (5 mg/kg) was repeatedly injected subcutaneously in two goats, due to suspected pain and deterioration in quality of life (QoL). Blood samples were collected for assessment of plasma concentrations, complete blood count (CBC), and biochemical analysis before and up to 6 weeks after each injection. Efficacy was assessed by the caregivers via QoL weekly scoring, and adverse effects were monitored. A total of 14 injections were administered. No adverse effects were recorded, nor were significant changes observed in CBC and biochemistry. The CBD peak plasma concentration (C
+                    max
+                    ) was 4.4–28.2 ng/mL, while its primary metabolite, 7-carboxy-CBD (7-COOH-CBD), was much higher (129–1,524 ng/mL), similar to those in reports of humans. The time to C
+                    max
+                    and half-life of CBD were 0.25–21 and 5.1–24.2 days, respectively, and those in 7-COOH-CBD were 3–28 and 5.6–24.5 days, respectively. The concentration–time curves flattened with repeated injections. QoL improvement was observed for 4 weeks following injections. The results of this study offer clinically translatable information. Liposomal CBD injections every 6 weeks are practical, have no adverse effects, and provide long-term CBD and 7-COOH-CBD concentrations that approach steady-state concentrations over time. Additionally, liposomal CBD demonstrated remarkable efficacy in pain control and wellbeing improvement for several weeks and can potentially provide similar results in humans.
+                  
+DOI: 10.3389/fphar.2025.1689226
+ISSN: 1663-9812
+Tag der Erhebung (OOIR): 2025-12-03</description>
+			<guid isPermaLink="false">ooir-trend-10.3389/fphar.2025.1689226-2025-12-03-5</guid>
+			<pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

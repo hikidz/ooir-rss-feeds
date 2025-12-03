@@ -5,14 +5,173 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rehabilitation) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 02 Dec 2025 01:06:45 GMT</pubDate>
-		<lastBuildDate>Tue, 02 Dec 2025 01:06:45 GMT</lastBuildDate>
+		<pubDate>Wed, 03 Dec 2025 01:06:58 GMT</pubDate>
+		<lastBuildDate>Wed, 03 Dec 2025 01:06:58 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Rehabilitation) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-rehabilitation-20251202010645</guid>
-			<pubDate>Tue, 02 Dec 2025 01:06:45 GMT</pubDate>
+			<title>Natural Speech Analysis Can Reveal Individual Differences in Executive Function Across the Adult Lifespan</title>
+			<link>https://doi.org/10.1044/2025_jslhr-24-00268</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 137
+Autoren: Hsi T. Wei, Dana Kulzhabayeva, Lella Erceg, Mira Kates Rose, Kiah A. Spencer, Jessica Robin, Ellen Bialystok, Jed A. Meltzer
+Journal: Journal of Speech, Language, and Hearing Research
+Veröffentlicht: 2025-11-07
+Abstract: 
+                    Purpose:
+                    Automated analysis of naturalistic speech has emerged as an effective tool for detecting cognitive decline in dementia but has seldom been used to examine the ordinary cognitive decline occurring in normal aging. Executive function (EF) declines throughout the adult lifespan but is difficult to track longitudinally due to practice effects, making speech-based assessments particularly attractive. This study examined relationships between EF and speech characteristics.
+                  
+                  
+                    Method:
+                    We collected two audio picture descriptions from participants in two experiments that also included EF assessments, with 67 healthy older adults (aged 65–75 years) in Study 1 and 174 healthy adults (aged 18–90 years) in Study 2. Language composite scores were computed by aggregating relevant speech features indexing aspects of speech that have been reported to show changes in pathological aging. Principal components reflecting common covariation in speech features were extracted from a large training data set to compute speech domain scores. The relationships between language composites/speech principal components and EF were assessed while controlling for age, gender, and education.
+                  
+                  
+                    Results:
+                    In Study 1, older adults' word-finding difficulties, measured as speech disfluencies, showed significant associations with EF. Study 2 confirms that speech disfluencies can explain individual differences in EF not only for adults above the age of 65 years but also across the adult lifespan. Information units and coherence in speech showed weaker associations with EF and Montreal Cognitive Assessment scores that were not significant after correction for multiple comparisons.
+                  
+                  
+                    Conclusion:
+                    The findings revealed associations between word-finding ability in natural speech and general EF across the adult lifespan, supporting natural speech analysis as a convenient and sensitive assessment of general cognitive ability.
+                  
+DOI: 10.1044/2025_jslhr-24-00268
+ISSN: 1092-4388
+Tag der Erhebung (OOIR): 2025-12-03</description>
+			<guid isPermaLink="false">ooir-trend-10.1044/2025_jslhr-24-00268-2025-12-03-1</guid>
+			<pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Developmental Language Disorder as a Multidimensional Neurodevelopmental Spectrum: Implications for Diagnosis</title>
+			<link>https://doi.org/10.1044/2025_jslhr-25-00089</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 17
+Autoren: Karla K. McGregor, Lisa Goffman, Elena Plante, Krystal Werfel
+Journal: Journal of Speech, Language, and Hearing Research
+Veröffentlicht: 2025-11-14
+Abstract: 
+                    Purpose:
+                    We aimed to create a comprehensive understanding of the dilemmas involved in the diagnosis of developmental language disorder (DLD) and to highlight the potential of a multidimensional spectral account of DLD for addressing these dilemmas.
+                  
+                  
+                    Method:
+                    We conducted an integrative literature review.
+                  
+                  
+                    Conclusions:
+                    Considerable gains in understanding the genetics and neurobiology of DLD provide new explanations for long-observed phenomena such as heterogeneity of presentation, phenotypic overlap with other neurodevelopmental conditions, and the challenges of diagnosis. Although categorical nosologies benefit diagnostic decision making, facilitate communication, and align well with bureaucratic systems, they offer overly simple ways of defining DLD. The presentation of DLD is broad rather than narrow, spectral rather than categorical, and dynamic rather than static; therefore, DLD is better described as a multidimensional spectral system than as a categorical entity. It is not practical or even advisable to abandon the traditional categorical framing of DLD at this point. However, maintaining awareness of the tension between the categorical framing and the spectral nature of DLD may improve diagnosis, prognosis, and alignment with the construct of neurodiversity.
+                  
+DOI: 10.1044/2025_jslhr-25-00089
+ISSN: 1092-4388
+Tag der Erhebung (OOIR): 2025-12-03</description>
+			<guid isPermaLink="false">ooir-trend-10.1044/2025_jslhr-25-00089-2025-12-03-2</guid>
+			<pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Structure and function of the Achilles tendon and plantarflexors after non-surgical management of Achilles tendon rupture: A cross-sectional study</title>
+			<link>https://doi.org/10.1016/j.msksp.2025.103459</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 16
+Autoren: Samuel Briggs-Price, Tom Yates, Jitendra Mangwani, Maneesh Bhatia, Annette Jones, Klaudia Mielcarek, Amy Solaini, Shing Yan Leung, Karin Gravare Silbernagel, Kim Hebert-Losier, Robert-Jan de Vos, Neal L. Millar, Bill Vicenzino, Seth O'Neill
+Journal: Musculoskeletal Science and Practice
+Veröffentlicht: 2026-02-01
+DOI: 10.1016/j.msksp.2025.103459
+ISSN: 2468-7812
+Tag der Erhebung (OOIR): 2025-12-03</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.msksp.2025.103459-2025-12-03-3</guid>
+			<pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Pain Catastrophizing Beliefs and Neuropathic Symptoms Are Associated With a Poorer Long-Term Recovery in Chronic Plantar Heel Pain: A Cohort Study</title>
+			<link>https://doi.org/10.1093/ptj/pzaf134</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 14
+Autoren: Jason Rogers, Graeme Jones, Karen Wills, Tania Winzenberg
+Journal: Physical Therapy
+Veröffentlicht: 2025-11-07
+Abstract: Abstract
+                  
+                    Importance
+                    Chronic plantar heel pain is common and often recalcitrant yet understanding of modifiable risk factors that influence its trajectory of recovery is limited.
+                  
+                  
+                    Objective
+                    The objective of this study was to describe associations of changes in physical and psychological measures and symptom descriptors over 12 months with changes in pain, function, and quality of life in people with chronic plantar heel pain.
+                  
+                  
+                    Design
+                    A prospective cohort with longitudinal follow-up was used.
+                  
+                  
+                    Setting
+                    A community setting in southern Tasmania was used.
+                  
+                  
+                    Participants
+                    The participants were 220 people with a clinical diagnosis of chronic plantar heel pain.
+                  
+                  
+                    Exposures
+                    The exposures were body mass index (kg/m2), waist circumference (centimeters), ankle plantarflexor strength (kilograms), ankle and first metatarsophalangeal joint dorsiflexion mobility (degrees), pain catastrophizing beliefs (Pain Catastrophizing Scale), depression (9-item Patient Health Questionnaire), multisite pain, morning stiffness, neuropathic symptoms (painDETECT), and physical activity (accelerometry).
+                  
+                  
+                    Main Outcomes and Measures
+                    The Foot Health Status Questionnaire pain and function domains and the 6-dimension Assessment of Quality of Life Scale were used. Outcomes and exposures were assessed at baseline and 12 months. Data were analyzed using linear mixed-effects models with exposure × time interactions.
+                  
+                  
+                    Results
+                    Increasing pain catastrophizing and neuropathic painDETECT scores over 12 months were associated with a poorer trajectory of pain recovery (pain catastrophizing interaction β = −0.39 [95% CI = −0.01 to −0.77]; painDETECT interaction β = −0.79 [95% CI = −0.10 to −1.48]). In full multivariable models, there were no other significant associations between any other variable and pain. The only associations with foot function and quality of life were weak negative associations of steps per day and sedentary time with function and quality of life, respectively.
+                  
+                  
+                    Conclusions and Relevance
+                    Increasing pain catastrophizing and neuropathic symptoms were associated with poorer pain outcomes over 12 months in individuals with chronic plantar heel pain. These findings highlight the importance of pain beliefs and neurogenic factors in the prognosis of chronic plantar heel pain. Interventions targeting pain beliefs and neuropathic mechanisms may improve outcomes in subgroups with these characteristics.
+                  
+DOI: 10.1093/ptj/pzaf134
+ISSN: 0031-9023
+Tag der Erhebung (OOIR): 2025-12-03</description>
+			<guid isPermaLink="false">ooir-trend-10.1093/ptj/pzaf134-2025-12-03-4</guid>
+			<pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>The Cleveland Family Speech and Reading Study: A Review of Long-Term Outcomes Linking Phenotypes and Genotypes for Speech Sound Disorders</title>
+			<link>https://doi.org/10.1044/2025_jslhr-25-00052</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 13
+Autoren: Barbara A. Lewis, Gabrielle J. Miller, Penelope Benchek, Catherine Stein, Sudha K. Iyengar
+Journal: Journal of Speech, Language, and Hearing Research
+Veröffentlicht: 2025-11-11
+Abstract: 
+                    Purpose:
+                    This article reviews findings from the Cleveland Family Speech and Reading Study, a 25-year longitudinal study of speech sound disorders (SSDs) of unknown etiology. The study sought to describe the long-term outcomes for individuals with early SSD, including those diagnosed with childhood apraxia of speech (CAS), and to identify genetic findings for endophenotypes and phenotypes associated with SSD.
+                  
+                  
+                    Method:
+                    
+                      The data included in this article were collected from families (
+                      N
+                      = 296) with a child diagnosed with SSD. Probands and available siblings were assessed on a battery of speech, language, and literacy measures at preschool (4;0–6;11 [years;months]), school age (7;0–11;11), and adolescence/young adulthood (12–25 years). Families (
+                      N
+                      = 272) provided DNA samples, including 73 probands with CAS. Genome-wide association studies (
+                      N
+                      = 435) and whole genome sequencing (
+                      N
+                      = 101) analyses were conducted on a subset of the sample.
+                    
+                  
+                  
+                    Results:
+                    Poorer outcomes for adolescents/adults are associated with oral motor skills, an early history of motor difficulties, comorbid language impairment, and persistent speech sound errors. Children with SSD had both rare genetic and common variants that were correlative and may be causal. Several of these variants occurred de novo in the CAS proband with or without a family history of SSD, suggesting that de novo variants play a larger role in CAS and SSD than anticipated.
+                  
+                  
+                    Conclusions:
+                    Some children with early SSD demonstrate persistent speech, language, and literacy difficulties in adolescence and adulthood, while others show partial or full resolution. Family health history questionnaires do not capture long-term outcomes; thus, finer long-term assessments are needed to identify phenotypes in older children. Genetic data suggest considerable locus heterogeneity. Having a compendium of variants for SSD, including CAS, will help practitioners move toward precision medicine with deep phenotyping supporting accurate diagnoses and personalized interventions.
+                  
+DOI: 10.1044/2025_jslhr-25-00052
+ISSN: 1092-4388
+Tag der Erhebung (OOIR): 2025-12-03</description>
+			<guid isPermaLink="false">ooir-trend-10.1044/2025_jslhr-25-00052-2025-12-03-5</guid>
+			<pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

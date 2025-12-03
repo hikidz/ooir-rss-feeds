@@ -5,14 +5,160 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Sport Sciences) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 02 Dec 2025 01:06:48 GMT</pubDate>
-		<lastBuildDate>Tue, 02 Dec 2025 01:06:48 GMT</lastBuildDate>
+		<pubDate>Wed, 03 Dec 2025 01:07:13 GMT</pubDate>
+		<lastBuildDate>Wed, 03 Dec 2025 01:07:13 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Sport Sciences) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-sportsciences-20251202010648</guid>
-			<pubDate>Tue, 02 Dec 2025 01:06:48 GMT</pubDate>
+			<title>Advancing Age Is Not Associated With Greater Exercise-Induced Muscle Damage: A Systematic Review, Meta-Analysis, and Meta-Regression</title>
+			<link>https://doi.org/10.1123/japa.2024-0165</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 213
+Autoren: John F.T. Fernandes, Laura J. Wilson, Amelia F. Dingley, Andrew N. Hearn, Kelsie O. Johnson, Kirsty M. Hicks, Craig Twist, Lawrence D. Hayes
+Journal: Journal of Aging and Physical Activity
+Veröffentlicht: 2025-12-01
+Abstract: 
+                    
+                      Objective
+                      :
+                    
+                    The aim of this paper was to undertake a Preferred Reporting Items for Systematic Reviews and Meta-Analysis-accordant meta-analysis comparing exercise-induced muscle damage (EIMD) in older and younger adults.
+                    
+                      Methods
+                      :
+                    
+                    Google Scholar, PubMed, and SPORTDiscus were searched in June 2023 for the terms “ageing” OR “age” OR “middle-aged” OR “old” OR “older” OR “elderly” OR “masters” OR “veteran” AND “muscle damage” OR “exercise-induced muscle damage” OR “exercise-induced muscle injury” OR “contraction-induced injury” OR “muscle soreness” OR “delayed onset muscle soreness” OR “creatine kinase.” From 1,092 originally identified titles, 36 studies were included which had an exercise component comparing a younger against an older group. The outcome variables of EIMD were muscle function, muscle soreness, and creatine kinase. A meta-analysis was conducted on change to EIMD after exercise in older versus younger adults using standardized mean difference (SMD) and an inverse-variance random effects model.
+                    
+                      Results
+                      :
+                    
+                    Change after 24 and 72 hr, and peak change, in muscle function was not different between old and young (SMD range = −0.16 to −0.35). Muscle soreness was greater in younger than older adults for all comparisons (SMD range = −0.34 to −0.62). Creatine kinase was greater in younger than older adults at 24 hr (SMD = −0.32), as was peak change (SMD = −0.32). A relationship between sex and peak muscle function change was evident for males (SMD = −0.45), but not females (SMD = −0.44). All other meta-regression was nonsignificant.
+                    
+                      Conclusion
+                      :
+                    
+                    Advancing age is not associated with greater symptoms of EIMD. The implication of this study is that the older adults can pursue regular physical activity without concern for experiencing greater EIMD.
+                  
+DOI: 10.1123/japa.2024-0165
+ISSN: 1063-8652
+Tag der Erhebung (OOIR): 2025-12-03</description>
+			<guid isPermaLink="false">ooir-trend-10.1123/japa.2024-0165-2025-12-03-1</guid>
+			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>What Is “Zone 2 Training”?: Experts’ Viewpoint on Definition, Training Methods, and Expected Adaptations</title>
+			<link>https://doi.org/10.1123/ijspp.2024-0303</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 184
+Autoren: Sebastian Sitko, Xabier Artetxe, Martin Bonnevie-Svendsen, Miguel Ángel Galán-Rioja, Gabriele Gallo, Frédéric Grappe, Peter Leo, Manuel Mateo, Iñigo Mujika, Dajo Sanders, Stephen Seiler, Mikel Zabala, Pedro L. Valenzuela, Aitor Viribay
+Journal: International Journal of Sports Physiology and Performance
+Veröffentlicht: 2025-11-01
+Abstract: 
+                    
+                      Background
+                      :
+                    
+                    The role of high-volume low-intensity training for enhancing endurance performance has gained growing interest in recent years. Specifically, so-called “zone 2 training” is currently receiving much attention, and many propose that this is the target intensity at which a large proportion of total endurance training should be performed. However, despite the popularity of this concept, there is no clear consensus among coaches, athletes, and scientists regarding the definition of zone 2 training.
+                    
+                      Purpose
+                      :
+                    
+                    This commentary summarizes the perspectives, experience, and knowledge of an expert panel of 14 applied sport scientists and professional coaches with the aim of providing insight and a basis for definitional consensus on zone 2 training. Moreover, potential training strategies at this intensity are proposed, and the expected physiological adaptations when exercising at this intensity and related research gaps are also discussed.
+                    
+                      Results
+                      :
+                    
+                    Experts reached consensus that zone 2 training should preferably be performed at intensities located immediately below the first lactate or ventilatory threshold through continuous, variable, or interval-type sessions. Furthermore, experts expected a broad range of central and peripheral adaptations from zone 2 training. These expected adaptations might not be unique to zone 2 and could also be induced with sessions performed at slightly higher and lower intensities.
+                    
+                      Conclusions
+                      :
+                    
+                    This commentary provides practical insight and unified criteria regarding the preferred intensity, duration, and session type for the optimization of zone 2 training based on the perspectives of acknowledged sport scientists and professional coaches.
+                  
+DOI: 10.1123/ijspp.2024-0303
+ISSN: 1555-0265
+Tag der Erhebung (OOIR): 2025-12-03</description>
+			<guid isPermaLink="false">ooir-trend-10.1123/ijspp.2024-0303-2025-12-03-2</guid>
+			<pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Coronary Artery Calcification in Type 1 Diabetes After 10-Year Ketogenic Diet</title>
+			<link>https://doi.org/10.1152/japplphysiol.00893.2025</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 53
+Autoren: Andrew P. Koutnik, Belinda S. Lennerz, Larry C. Deeb, Joseph C. Watso
+Journal: Journal of Applied Physiology
+Veröffentlicht: 2025-11-25
+Abstract: Adults with type 1 diabetes (T1D) are at a higher risk for cardiovascular disease (CVD) compared with the general population. HbA1c is the primary modifiable risk factor for CVD in T1D. However, fewer than 1% of patients achieve euglycemia (&amp;lt;5.7% HbA1c). Ketogenic diets (KD; ≤50g carbohydrate/day) could improve glycemia and reduce CVD risk in T1D by reducing HbA1c and insulin load. One gold-standard cardiovascular assessment - coronary artery calcification - has not yet been reported among individuals with T1D undergoing a KD. In T1D, 30-70% of males between the ages of 30-39 years old have CAC &amp;gt;1, which rapidly progresses to 70-90% between the ages of 40-49 years old, with male sex and elevated low-density lipoprotein (LDL-C) as predictors of CAC progression. Therefore, this case report aims to provide CAC scores from an individual who followed a KD for over 10 years for the first time. We collected this medical history information from the 33-year-old male case study participant with T1D following the KD for over 10 years without use of lipid-lowering medication. The participant achieved euglycemia with an HbA1c of 5.5%. High-resolution computed tomography (CT) imaging of the chest was performed, focusing on the coronary arteries. Scans were obtained using a 64-slice CT scanner equipped with coronary calcium quantification software. Analysis revealed a total Agatston calcium score of 0 across all coronary artery territories. These findings indicate an absence of detectable coronary artery calcification, suggesting the absence of atherosclerotic plaque formation despite concern about the long-term cardiovascular consequences of a KD.
+DOI: 10.1152/japplphysiol.00893.2025
+ISSN: 8750-7587
+Tag der Erhebung (OOIR): 2025-12-03</description>
+			<guid isPermaLink="false">ooir-trend-10.1152/japplphysiol.00893.2025-2025-12-03-3</guid>
+			<pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>The Sustained Athlete Fitness Exam—Outcomes of U.S. National Senior Games Athletes</title>
+			<link>https://doi.org/10.1123/japa.2024-0416</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 44
+Autoren: Becca D. Jordre, Wendy K. Viviers, William Schweinle
+Journal: Journal of Aging and Physical Activity
+Veröffentlicht: 2025-12-01
+Abstract: 
+                    
+                      Background/Objectives
+                      :
+                    
+                    Physical fitness screening measures for older athletes are lacking in clinical and research arenas. This study aims to define the Sustained Athlete Fitness Exam (SAFE), a comprehensive tool developed using age and sex-based normative data from U.S. National Senior Games athletes, and to investigate any SAFE differences by age, sex, sport, or exercise volume.
+                    
+                      Methods
+                      :
+                    
+                    This cross-sectional study engaged 4,659 U.S. National Senior Games athletes (
+                    M
+                    age
+                     = 67.65,
+                    SD
+                     = 9.12, 59.1% female). Athletes completed health history questions and physical performance measures addressing cardiovascular, muscular, flexibility, and balance subscales. Scoring applied age and sex norms from the study population. Outcomes were compared by age group, sex, sport, and exercise volume.
+                    
+                      Results
+                      :
+                    
+                    All 22 National Senior Games sports were represented in the study population. Health histories revealed low rates of chronic conditions, with 28.5% reporting none. Median weekly cardiovascular and resistance exercise volumes were 240 and 30 min, respectively. Of the 20 points possible on the SAFE, scores ranged from 2 (0.2%) to 20 (0.8%), with a median of 13. SAFE scoring demonstrated minimal differences by age group or sex and aligned predictably by sport. Higher exercise volumes were associated with superior SAFE composite scores, with nearly all subscales following this trend.
+                    
+                      Conclusion
+                      :
+                    
+                    The SAFE and associated norms offer population-specific comparisons previously unavailable for older athletes, with a tool able to address multiple domains of physical fitness while avoiding ceiling and floor effects.
+                    
+                      Significance/Implications
+                      :
+                    
+                    These findings provide the opportunity to improve assessment, treatment, preventative medicine, and training support for a growing demographic.
+                  
+DOI: 10.1123/japa.2024-0416
+ISSN: 1063-8652
+Tag der Erhebung (OOIR): 2025-12-03</description>
+			<guid isPermaLink="false">ooir-trend-10.1123/japa.2024-0416-2025-12-03-4</guid>
+			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Sport and the Promise of Artificial Intelligence: Human and Machine Futures</title>
+			<link>https://doi.org/10.1123/ssj.2024-0150</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 43
+Autoren: Brad Millington, Michael L. Naraine, Liz Wanless, Parissa Safai, Andrew Manley
+Journal: Sociology of Sport Journal
+Veröffentlicht: 2025-12-01
+Abstract: Artificial intelligence (AI) has the capacity to deliver generative, complex, and powerful functions and decisions. Sport offers a unique site for AI development and implementation, yet the sociological significance of AI in sport remains understudied. We consider sport-based AI applications en route to describing the promise of AI in sport in four ways: (a) the promise of supercharged data parsing at scale, (b) the promise of supercharged precision, (c) the promise of supercharged personalization; and (d) the promise of supercharged prediction. We argue in turn that AI is an emergent cultural form in sport that foregrounds labor automation as a pathway to efficiency but also brings potential for substantial disruption. We further contend that sport is a use case for AI at a moment when the legitimacy of AI is intensely debated.
+DOI: 10.1123/ssj.2024-0150
+ISSN: 0741-1235
+Tag der Erhebung (OOIR): 2025-12-03</description>
+			<guid isPermaLink="false">ooir-trend-10.1123/ssj.2024-0150-2025-12-03-5</guid>
+			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
