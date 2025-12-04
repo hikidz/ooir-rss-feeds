@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Endocrinology &amp; Metabolism) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 03 Dec 2025 01:08:20 GMT</pubDate>
-		<lastBuildDate>Wed, 03 Dec 2025 01:08:20 GMT</lastBuildDate>
+		<pubDate>Thu, 04 Dec 2025 01:11:32 GMT</pubDate>
+		<lastBuildDate>Thu, 04 Dec 2025 01:11:32 GMT</lastBuildDate>
 		<item>
 			<title>The Influence of Ultraprocessed Food Consumption on Energy Intake in Emerging Adulthood: A Controlled Feeding Trial</title>
 			<link>https://doi.org/10.1002/oby.70086</link>
@@ -52,9 +52,61 @@ Abstract: ABSTRACT
                   
 DOI: 10.1002/oby.70086
 ISSN: 1930-7381
-Tag der Erhebung (OOIR): 2025-12-03</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/oby.70086-2025-12-03-1</guid>
+Tag der Erhebung (OOIR): 2025-12-04</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/oby.70086-2025-12-04-1</guid>
 			<pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Maternal Thyroid Hormone Imbalance and Risk of Autism Spectrum Disorder</title>
+			<link>https://doi.org/10.1210/clinem/dgaf596</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 281
+Autoren: Leena Elbedour, May Weinberg, Gal Meiri, Analya Michaelovski, Idan Menashe
+Journal: The Journal of Clinical Endocrinology &amp;amp; Metabolism
+Veröffentlicht: 2025-11-25
+Abstract: Abstract
+                  
+                    Context
+                    Maternal thyroid hormones are essential for fetal neurodevelopment. Gestational thyroid imbalance has been associated with atypical neurodevelopment, including increased risk of autism spectrum disorder (ASD).
+                  
+                  
+                    Objective
+                    To examine the association between maternal thyroid dysfunction and ASD risk in offspring.
+                  
+                  
+                    Design
+                    Retrospective cohort study with follow-up through January 2021.
+                  
+                  
+                    Setting
+                    Single tertiary hospital in southern Israel (Soroka University Medical Center); linked to Clalit Health Services electronic records.
+                  
+                  
+                    Patients or Other Participants
+                    A total of 51 296 singleton births between January 2011 and December 2017.
+                  
+                  
+                    Intervention(s)
+                    None.
+                  
+                  
+                    Main Outcome Measure(s)
+                    Offspring ASD diagnosis (Diagnostic and Statistical Manual of Mental Disorders, fifth edition).
+                  
+                  
+                    Results
+                    A total of 4409 (8.6%) of the mothers showed abnormal thyroid function. ASD cumulative incidence was similar in the offspring of women with normal and abnormal thyroid function (log-rank P = .27). While chronic hypothyroidism only (reflecting likely adequate treatment) was not significantly associated with ASD [adjusted hazard ratio (aHR), 0.47; 95% confidence interval (CI), 0.15-1.48], combined chronic and gestational hypothyroidism was associated with higher ASD risk (aHR, 2.61; 95% CI, 1.44-4.74). Trimester-specific analysis indicated a dose-response effect, in which the longer the period of hypothyroidism, the higher the ASD risk, namely, for 1, 2, or 3 trimesters of exposure: aHR, 1.69 (95% CI, 1.19-2.83); aHR, 2.39 (95% CI, 1.24-5.78); aHR, 3.25 (95% CI, 1.07-7.21), respectively.
+                  
+                  
+                    Conclusion
+                    The findings suggest adequately treated chronic hypothyroidism is not associated with ASD in offspring, whereas persistent hormonal imbalance across trimesters conveys elevated risk. These findings underscore the importance of routine thyroid function screening and timely treatment throughout pregnancy.
+                  
+DOI: 10.1210/clinem/dgaf596
+ISSN: 0021-972X
+Tag der Erhebung (OOIR): 2025-12-04</description>
+			<guid isPermaLink="false">ooir-trend-10.1210/clinem/dgaf596-2025-12-04-2</guid>
+			<pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Fingernail Mineral Profiling as a Non‐Invasive Tool to Assess Dietary and Lifestyle Factors: Results From the Cross‐Sectional Fulda
@@ -79,8 +131,8 @@ Abstract: ABSTRACT
                   
 DOI: 10.1002/biof.70056
 ISSN: 0951-6433
-Tag der Erhebung (OOIR): 2025-12-03</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/biof.70056-2025-12-03-2</guid>
+Tag der Erhebung (OOIR): 2025-12-04</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/biof.70056-2025-12-04-3</guid>
 			<pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -94,24 +146,9 @@ Journal: Nature Metabolism
 Veröffentlicht: 2025-11-04
 DOI: 10.1038/s42255-025-01390-y
 ISSN: 2522-5812
-Tag der Erhebung (OOIR): 2025-12-03</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s42255-025-01390-y-2025-12-03-3</guid>
+Tag der Erhebung (OOIR): 2025-12-04</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s42255-025-01390-y-2025-12-04-4</guid>
 			<pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Body-wide multi-omic counteraction of aging with GLP-1R agonism</title>
-			<link>https://doi.org/10.1016/j.cmet.2025.10.014</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Endocrinology &amp; Metabolism
-Score: 163
-Autoren: Junzhe Huang, Andrew J. Kwok, Jason Chak Yan Li, Clement Lek Hin Chiu, Bonaventure Y. Ip, Lok Yi Tung, Roy C.H. Chan, Danny C.W. Chan, Ziyu Wang, Xianyi Zheng, Hoi Tung Chow, Michelle P.S. Lo, Zhongqi Li, Nenghan Lin, Manyu Wang, Leo Y.C. Yan, William K.K. Wu, Kim Hei-Man Chow, Wei-Jye Lin, Yamei Tang, Yun Zhang, Weihong Song, Billy Wai-Lung Ng, Sunny H. Wong, Thomas W. Leung, Vincent C.T. Mok, Ho Ko
-Journal: Cell Metabolism
-Veröffentlicht: 2025-12-01
-DOI: 10.1016/j.cmet.2025.10.014
-ISSN: 1550-4131
-Tag der Erhebung (OOIR): 2025-12-03</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2025.10.014-2025-12-03-4</guid>
-			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Adipose Tissue in
@@ -137,8 +174,8 @@ Abstract: ABSTRACT
                   
 DOI: 10.1002/oby.70093
 ISSN: 1930-7381
-Tag der Erhebung (OOIR): 2025-12-03</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/oby.70093-2025-12-03-5</guid>
+Tag der Erhebung (OOIR): 2025-12-04</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/oby.70093-2025-12-04-5</guid>
 			<pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>

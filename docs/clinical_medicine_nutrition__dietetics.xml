@@ -5,21 +5,75 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Nutrition &amp; Dietetics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 03 Dec 2025 01:07:56 GMT</pubDate>
-		<lastBuildDate>Wed, 03 Dec 2025 01:07:56 GMT</lastBuildDate>
+		<pubDate>Thu, 04 Dec 2025 01:10:07 GMT</pubDate>
+		<lastBuildDate>Thu, 04 Dec 2025 01:10:07 GMT</lastBuildDate>
+		<item>
+			<title>Plant-based dietary index on the Mediterranean and a vegan diet: a secondary analysis of a randomized, cross-over trial</title>
+			<link>https://doi.org/10.3389/fnut.2025.1666807</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Nutrition &amp; Dietetics
+Score: 365
+Autoren: Hana Kahleova, Reagan Smith, Ilana Fischer, Haley Brennan, Tatiana Znayenko-Miller, Richard Holubkov, Neal D. Barnard
+Journal: Frontiers in Nutrition
+Veröffentlicht: 2025-11-19
+Abstract: 
+                    Objective
+                    The plant-based diet index (PDI) has been proposed as a gauge of diet healthfulness. This study assessed the relationship between the PDI, and the “healthful” hPDI and “unhealthful” uPDI, and weight loss in the context of Mediterranean and vegan diets in overweight adults.
+                  
+                  
+                    Methods
+                    In a cross-over trial, 62 overweight adults followed a Mediterranean and a low-fat vegan diet for 16 weeks in random order, separated by a 4-week washout. Body weight was the primary outcome. In a secondary analysis, three-day dietary records were analyzed, PDI indices were calculated. Their correlation with changes in body weight was assessed, using Spearman correlations.
+                  
+                  
+                    Results
+                    
+                      Compared with no change on the Mediterranean diet, PDI significantly increased on the vegan diet; effect size: +7.6 (95% CI +4.1 to +11.0);
+                      p
+                       &amp;amp;lt; 0.001. The hPDI score increased on both diets; effect size: +3.8 (95% CI −0.0 to +7.6);
+                      p
+                       = 0.05. The uPDI score decreased on the Mediterranean diet, while it increased on the vegan diet; effect size: +11.9 (95% CI +8.9 to +14.8);
+                      p
+                       &amp;amp;lt; 0.001. In the first 16 weeks of the study, across both diets, changes in PDI and uPDI were negatively associated with changes in body weight, i.e., increases in PDI and uPDI were associated with weight loss:
+                      r
+                       = −0.32;
+                      p
+                       = 0.01; and
+                      r
+                       = −0.47;
+                      p
+                       &amp;amp;lt; 0.001, respectively. These associations remained significant even after adjustment for changes in energy intake. No association was observed between changes in hPDI and changes in body weight.
+                    
+                  
+                  
+                    Conclusion
+                    These findings suggest that, replacing animal products even with the “unhealthful” plant-based foods on a vegan diet was associated with weight loss.
+                  
+                  
+                    Clinical trial registration
+                    
+                      ClinicalTrials.gov
+                      , identifier NCT03698955.
+                    
+                  
+DOI: 10.3389/fnut.2025.1666807
+ISSN: 2296-861X
+Tag der Erhebung (OOIR): 2025-12-04</description>
+			<guid isPermaLink="false">ooir-trend-10.3389/fnut.2025.1666807-2025-12-04-1</guid>
+			<pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Ultra-processed food intake is associated with altered glucose homeostasis in young adults with a history of overweight or obesity: a longitudinal study</title>
 			<link>https://doi.org/10.1186/s12986-025-01036-6</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Nutrition &amp; Dietetics
-Score: 357
+Score: 364
 Autoren: Yiping Li, Elizabeth Costello, Sarah Rock, William B. Patterson, Zhanghua Chen, Frank Gilliland, Michael I. Goran, Tanya L. Alderete, Jesse A. Goodrich, David V. Conti, Nikos Stratakis, Leda Chatzi
 Journal: Nutrition &amp;amp; Metabolism
 Veröffentlicht: 2025-11-10
 DOI: 10.1186/s12986-025-01036-6
 ISSN: 1743-7075
-Tag der Erhebung (OOIR): 2025-12-03</description>
-			<guid isPermaLink="false">ooir-trend-10.1186/s12986-025-01036-6-2025-12-03-1</guid>
+Tag der Erhebung (OOIR): 2025-12-04</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12986-025-01036-6-2025-12-04-2</guid>
 			<pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -67,62 +121,8 @@ Abstract: ABSTRACT
                   
 DOI: 10.1002/oby.70086
 ISSN: 1930-7381
-Tag der Erhebung (OOIR): 2025-12-03</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/oby.70086-2025-12-03-2</guid>
-			<pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Plant-based dietary index on the Mediterranean and a vegan diet: a secondary analysis of a randomized, cross-over trial</title>
-			<link>https://doi.org/10.3389/fnut.2025.1666807</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Nutrition &amp; Dietetics
-Score: 327
-Autoren: Hana Kahleova, Reagan Smith, Ilana Fischer, Haley Brennan, Tatiana Znayenko-Miller, Richard Holubkov, Neal D. Barnard
-Journal: Frontiers in Nutrition
-Veröffentlicht: 2025-11-19
-Abstract: 
-                    Objective
-                    The plant-based diet index (PDI) has been proposed as a gauge of diet healthfulness. This study assessed the relationship between the PDI, and the “healthful” hPDI and “unhealthful” uPDI, and weight loss in the context of Mediterranean and vegan diets in overweight adults.
-                  
-                  
-                    Methods
-                    In a cross-over trial, 62 overweight adults followed a Mediterranean and a low-fat vegan diet for 16 weeks in random order, separated by a 4-week washout. Body weight was the primary outcome. In a secondary analysis, three-day dietary records were analyzed, PDI indices were calculated. Their correlation with changes in body weight was assessed, using Spearman correlations.
-                  
-                  
-                    Results
-                    
-                      Compared with no change on the Mediterranean diet, PDI significantly increased on the vegan diet; effect size: +7.6 (95% CI +4.1 to +11.0);
-                      p
-                       &amp;amp;lt; 0.001. The hPDI score increased on both diets; effect size: +3.8 (95% CI −0.0 to +7.6);
-                      p
-                       = 0.05. The uPDI score decreased on the Mediterranean diet, while it increased on the vegan diet; effect size: +11.9 (95% CI +8.9 to +14.8);
-                      p
-                       &amp;amp;lt; 0.001. In the first 16 weeks of the study, across both diets, changes in PDI and uPDI were negatively associated with changes in body weight, i.e., increases in PDI and uPDI were associated with weight loss:
-                      r
-                       = −0.32;
-                      p
-                       = 0.01; and
-                      r
-                       = −0.47;
-                      p
-                       &amp;amp;lt; 0.001, respectively. These associations remained significant even after adjustment for changes in energy intake. No association was observed between changes in hPDI and changes in body weight.
-                    
-                  
-                  
-                    Conclusion
-                    These findings suggest that, replacing animal products even with the “unhealthful” plant-based foods on a vegan diet was associated with weight loss.
-                  
-                  
-                    Clinical trial registration
-                    
-                      ClinicalTrials.gov
-                      , identifier NCT03698955.
-                    
-                  
-DOI: 10.3389/fnut.2025.1666807
-ISSN: 2296-861X
-Tag der Erhebung (OOIR): 2025-12-03</description>
-			<guid isPermaLink="false">ooir-trend-10.3389/fnut.2025.1666807-2025-12-03-3</guid>
+Tag der Erhebung (OOIR): 2025-12-04</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/oby.70086-2025-12-04-3</guid>
 			<pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -160,8 +160,8 @@ Abstract:
                   
 DOI: 10.3389/fnut.2025.1681512
 ISSN: 2296-861X
-Tag der Erhebung (OOIR): 2025-12-03</description>
-			<guid isPermaLink="false">ooir-trend-10.3389/fnut.2025.1681512-2025-12-03-4</guid>
+Tag der Erhebung (OOIR): 2025-12-04</description>
+			<guid isPermaLink="false">ooir-trend-10.3389/fnut.2025.1681512-2025-12-04-4</guid>
 			<pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -175,8 +175,8 @@ Journal: Clinical Nutrition
 Veröffentlicht: 2025-12-01
 DOI: 10.1016/j.clnu.2025.10.020
 ISSN: 0261-5614
-Tag der Erhebung (OOIR): 2025-12-03</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.clnu.2025.10.020-2025-12-03-5</guid>
+Tag der Erhebung (OOIR): 2025-12-04</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.clnu.2025.10.020-2025-12-04-5</guid>
 			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
