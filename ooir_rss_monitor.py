@@ -318,8 +318,7 @@ class OOIRTrendMonitor:
         with open(index_html_path, "w", encoding="utf-8") as f:
             f.write(html_content)
         print(f"Index-Datei unter '{index_html_path}' generiert.")
-
-
+        
 def main():
     """
     Hauptfunktion - Beispiel für die Verwendung
@@ -332,20 +331,12 @@ def main():
 
     monitor = OOIRTrendMonitor(email=EMAIL, output_dir="docs")
 
-    # Basierend auf Ihren Hobbies (Sport/Marathon, Sportmedizin, Physikalische und Rehabilitative Medizin, Manuelle Medizin, Schmerztherapie, Medizinische Informatik)
-    # habe ich einige der relevantesten Kategorien hervorgehoben und die Liste entsprechend ergänzt/überprüft.
     categories_to_monitor = [
-        # Relevanz: Ihre Fachgebiete
         ("Clinical Medicine (Rehabilitation)", "Clinical Medicine", "Rehabilitation"), # Relevant: FA Physical and Rehabilitative Medicine
         ("Clinical Medicine (Orthopedics)", "Clinical Medicine", "Orthopedics"), # Relevant: Nichtoperative Orthopädie, Manuelle Medizin
         ("Clinical Medicine (Sport Sciences)", "Clinical Medicine", "Sport Sciences"), # Relevant: Sportmedizin, Marathon
-        ("Clinical Medicine (Special Pain Therapy)", "Clinical Medicine", "Special Pain Therapy"), # Relevant: Spezielle Schmerztherapie (Achtung: Dies ist eine vermutete Kategorie, falls sie nicht funktioniert, müsste man die tatsächlichen Field/Category-Namen der v2 API prüfen)
         ("Clinical Medicine (Integrative & Complementary Medicine)", "Clinical Medicine", "Integrative & Complementary Medicine"), # Relevant: Akupunktur/Manuelle Medizin
-
-        # Relevanz: Ihr Masterstudium
         ("Clinical Medicine (Medical Informatics)", "Clinical Medicine", "Medical Informatics"), # Relevant: Master Medizinische Informatik
-
-        # Andere medizinische/allgemeine Bereiche
         ("Clinical Medicine (Medicine, General & Internal)", "Clinical Medicine", "Medicine, General & Internal"),
         ("Clinical Medicine (Medicine, Research & Experimental)", "Clinical Medicine", "Medicine, Research & Experimental"),
         ("Clinical Medicine (Nutrition & Dietetics)", "Clinical Medicine", "Nutrition & Dietetics"),
@@ -353,9 +344,7 @@ def main():
         ("Clinical Medicine (Rheumatology)", "Clinical Medicine", "Rheumatology"),
         ("Clinical Medicine (Endocrinology & Metabolism)", "Clinical Medicine", "Endocrinology & Metabolism"),
     ]
-    # **ANMERKUNG:** Die ursprüngliche Liste wurde beibehalten, aber um eine Kategorie ergänzt, die für Ihre Spezielle Schmerztherapie relevant sein könnte.
-    # Sollte die Kategorie "Special Pain Therapy" nicht funktionieren, können Sie die entsprechende Zeile entfernen.
-
+    
     for full_name, field_name, category_param in categories_to_monitor:
         papers_data = monitor._fetch_data_from_api(field=field_name, category=category_param)
         monitor.generate_rss_feed(full_name, field_name, category_param, papers_data)
