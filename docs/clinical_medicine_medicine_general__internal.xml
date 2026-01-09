@@ -5,14 +5,83 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, General &amp; Internal) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 08 Jan 2026 01:12:18 GMT</pubDate>
-		<lastBuildDate>Thu, 08 Jan 2026 01:12:18 GMT</lastBuildDate>
+		<pubDate>Fri, 09 Jan 2026 01:13:50 GMT</pubDate>
+		<lastBuildDate>Fri, 09 Jan 2026 01:13:50 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Medicine, General &amp; Internal) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-medicinegeneralinternal-20260108011218</guid>
-			<pubDate>Thu, 08 Jan 2026 01:12:18 GMT</pubDate>
+			<title>Changes in Carbapenemase-Producing Carbapenem-Resistant Enterobacterales, 2019 to 2023</title>
+			<link>https://doi.org/10.7326/annals-25-02404</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, General &amp; Internal
+Score: 2493
+Autoren: Danielle A. Rankin, Anna Stahl, Sarah Sabour, Mohammed A. Khan, Tiana Armstrong, Jennifer Y. Huang, James Baggs, Maroya Spalding Walters
+Journal: Annals of Internal Medicine
+Veröffentlicht: 2025-12-01
+DOI: 10.7326/annals-25-02404
+ISSN: 0003-4819
+Tag der Erhebung (OOIR): 2026-01-09</description>
+			<guid isPermaLink="false">ooir-trend-10.7326/annals-25-02404-2026-01-09-1</guid>
+			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Step Accumulation Patterns and Risk for Cardiovascular Events and Mortality Among Suboptimally Active Adults</title>
+			<link>https://doi.org/10.7326/annals-25-01547</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, General &amp; Internal
+Score: 1858
+Autoren: Borja del Pozo Cruz, Matthew Ahmadi, Angelo Sabag, Pedro F. Saint Maurice, I-Min Lee, Emmanuel Stamatakis
+Journal: Annals of Internal Medicine
+Veröffentlicht: 2025-12-01
+DOI: 10.7326/annals-25-01547
+ISSN: 0003-4819
+Tag der Erhebung (OOIR): 2026-01-09</description>
+			<guid isPermaLink="false">ooir-trend-10.7326/annals-25-01547-2026-01-09-2</guid>
+			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>FDA’s New Plausible Mechanism Pathway</title>
+			<link>https://doi.org/10.1056/nejmsb2512695</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, General &amp; Internal
+Score: 1485
+Autoren: Vinay Prasad, Martin A. Makary
+Journal: New England Journal of Medicine
+Veröffentlicht: 2025-12-11
+DOI: 10.1056/nejmsb2512695
+ISSN: 0028-4793
+Tag der Erhebung (OOIR): 2026-01-09</description>
+			<guid isPermaLink="false">ooir-trend-10.1056/nejmsb2512695-2026-01-09-3</guid>
+			<pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Phase 1 Trial of CRISPR-Cas9 Gene Editing Targeting
+                    ANGPTL3</title>
+			<link>https://doi.org/10.1056/nejmoa2511778</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, General &amp; Internal
+Score: 1395
+Autoren: Luke J. Laffin, Stephen J. Nicholls, Russell S. Scott, Peter M. Clifton, John Baker, Ashish Sarraju, Shweta Singh, Qiuqing Wang, Kathy Wolski, Huansheng Xu, Jen Nielsen, Naimish Patel, Jason M. Duran, Steven E. Nissen
+Journal: New England Journal of Medicine
+Veröffentlicht: 2025-11-27
+DOI: 10.1056/nejmoa2511778
+ISSN: 0028-4793
+Tag der Erhebung (OOIR): 2026-01-09</description>
+			<guid isPermaLink="false">ooir-trend-10.1056/nejmoa2511778-2026-01-09-4</guid>
+			<pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>The Mediterranean Diet for Irritable Bowel Syndrome</title>
+			<link>https://doi.org/10.7326/annals-25-01519</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, General &amp; Internal
+Score: 1232
+Autoren: Joy O. Bamidele, Grace M. Brownlow, Rosie M. Flack, Rachel L. Buckle, Christian C. Shaw, Mohamed G. Shiha, Imran Aziz
+Journal: Annals of Internal Medicine
+Veröffentlicht: 2025-12-01
+DOI: 10.7326/annals-25-01519
+ISSN: 0003-4819
+Tag der Erhebung (OOIR): 2026-01-09</description>
+			<guid isPermaLink="false">ooir-trend-10.7326/annals-25-01519-2026-01-09-5</guid>
+			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

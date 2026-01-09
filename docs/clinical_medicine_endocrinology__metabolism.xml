@@ -5,14 +5,92 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Endocrinology &amp; Metabolism) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 08 Jan 2026 01:13:24 GMT</pubDate>
-		<lastBuildDate>Thu, 08 Jan 2026 01:13:24 GMT</lastBuildDate>
+		<pubDate>Fri, 09 Jan 2026 01:16:05 GMT</pubDate>
+		<lastBuildDate>Fri, 09 Jan 2026 01:16:05 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Endocrinology &amp; Metabolism) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-endocrinologymetabolism-20260108011324</guid>
-			<pubDate>Thu, 08 Jan 2026 01:13:24 GMT</pubDate>
+			<title>Prediabetes remission and cardiovascular morbidity and mortality: post-hoc analyses from the Diabetes Prevention Program Outcome study and the DaQing Diabetes Prevention Outcome study</title>
+			<link>https://doi.org/10.1016/s2213-8587(25)00295-5</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 726
+Autoren: Elsa Vazquez Arreola, Qiuhong Gong, Robert L Hanson, Jinping Wang, Leontine Sandforth, Siyao He, Arvid Sandforth, Xin Qian, Mauro Giacca, Stefan R Bornstein, Andreas Fritsche, Norbert Stefan, Hubert Preissl, Edward W Gregg, Nikolaus Marx, Reiner Jumpertz-von Schwartzenberg, Guangwei Li, Andreas L Birkenfeld
+Journal: The Lancet Diabetes &amp;amp; Endocrinology
+Veröffentlicht: 2025-12-01
+DOI: 10.1016/s2213-8587(25)00295-5
+ISSN: 2213-8587
+Tag der Erhebung (OOIR): 2026-01-09</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/s2213-8587(25)00295-5-2026-01-09-1</guid>
+			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Natural daylight during office hours improves glucose control and whole-body substrate metabolism</title>
+			<link>https://doi.org/10.1016/j.cmet.2025.11.006</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 617
+Autoren: Jan-Frieder Harmsen, Ivo Habets, Andrew D. Biancolin, Agata Lesniewska, Nicholas E. Phillips, Loic Metz, Juan Sanchez-Avila, Marit Kotte, Merel Timmermans, Dzhansel Hashim, Soraya S. de Kam, Gert Schaart, Johanna A. Jörgensen, Anne Gemmink, Esther Moonen-Kornips, Daniel Doligkeit, Tineke van de Weijer, Mijke Buitinga, Florian Haans, Rebecca De Lorenzo, Hannah Pallubinsky, Marijke C.M. Gordijn, Tinh-Hai Collet, Achim Kramer, Patrick Schrauwen, Charna Dibner, Joris Hoeks
+Journal: Cell Metabolism
+Veröffentlicht: 2026-01-01
+DOI: 10.1016/j.cmet.2025.11.006
+ISSN: 1550-4131
+Tag der Erhebung (OOIR): 2026-01-09</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2025.11.006-2026-01-09-2</guid>
+			<pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Dietary restriction reprograms CD8+ T cell fate to enhance anti-tumour immunity and immunotherapy responses</title>
+			<link>https://doi.org/10.1038/s42255-025-01415-6</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 246
+Autoren: Brandon M. Oswald, Lisa M. DeCamp, Joseph Longo, Michael S. Dahabieh, Nicholas Bunda, Benjamin K. Johnson, McLane J. Watson, Shixin Ma, Samuel E. J. Preston, Ryan D. Sheldon, Michael P. Vincent, Abigail E. Ellis, Molly T. Soper-Hopper, Christine Isaguirre, Dahlya Kamarudin, Hui Shen, Kelsey S. Williams, Peter A. Crawford, Susan Kaech, H. Josh Jang, Evan C. Lien, Connie M. Krawczyk, Russell G. Jones
+Journal: Nature Metabolism
+Veröffentlicht: 2025-12-09
+Abstract: Abstract
+                  
+                    Reducing calorie intake through dietary restriction (DR) slows tumour growth in mammals, yet the underlying mechanisms are poorly defined. Here, we show that DR enhances anti-tumour immunity by optimizing CD8
+                    +
+                    T cell function within the tumour microenvironment (TME). Using syngeneic xenograft tumour models, we found that DR induces a profound reprogramming of CD8
+                    +
+                    T cell fate in the TME, favouring the expansion of effector T cell subsets with enhanced metabolic capacity and cytotoxic potential, while limiting the accumulation of terminally exhausted T cells. This metabolic reprogramming is driven by enhanced ketone body oxidation, particularly β-hydroxybutyrate (βOHB), which is elevated in both the circulation and tumour tissues of DR-fed mice. βOHB fuels T cell oxidative metabolism under DR, increasing mitochondrial membrane potential and tricarboxylic acid cycle-dependent pathways critical for T cell effector function, including acetyl-CoA production. By contrast, T cells deficient for ketone body oxidation exhibit reduced mitochondrial function, increased exhaustion and fail to control tumour growth under DR conditions. Importantly, DR synergizes with anti-PD1 immunotherapy, further augmenting anti-tumour T cell responses and limiting tumour progression. Our findings reveal that T cell metabolic reprogramming is central to the anti-tumour effects of DR, highlighting nutritional control of CD8
+                    +
+                    T cell fate as a key driver of anti-tumour immunity.
+                  
+DOI: 10.1038/s42255-025-01415-6
+ISSN: 2522-5812
+Tag der Erhebung (OOIR): 2026-01-09</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s42255-025-01415-6-2026-01-09-3</guid>
+			<pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Enhanced non-enzymatic H2S generation extends lifespan and healthspan in male mice</title>
+			<link>https://doi.org/10.1016/j.cmet.2025.11.012</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 134
+Autoren: María Ángeles Cáliz-Molina, Raúl López-Fernández-Sobrino, Inmaculada Pino-Pérez, Concepción Panadero-Morón, María del Carmen Vilches-Pérez, María Camacho-Cabrera, Almudena García-Ruiz, Leopoldo Pérez-Rosendo, Isabel Espadas, Alejandro Sola-García, Mario Soriano-Navarro, Franz Martin, Mónica Venegas-Calerón, Joaquín Jesús Salas, Enrique Martínez-Force, Luis C. Romero, Ángeles Aroca, Román González-Prieto, Máximo Bernabeu-Wittel, Vivian Capilla-González, Christopher Hine, Alejandro Martín-Montalvo
+Journal: Cell Metabolism
+Veröffentlicht: 2025-12-01
+DOI: 10.1016/j.cmet.2025.11.012
+ISSN: 1550-4131
+Tag der Erhebung (OOIR): 2026-01-09</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2025.11.012-2026-01-09-4</guid>
+			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Aluminium adjuvants and childhood health: a call for science</title>
+			<link>https://doi.org/10.1016/j.jtemb.2025.127810</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 129
+Autoren: Guillemette Crépeaux, Jeremy R. Hammond, Jonathan B. Handley, Brian Hooker, Karl Jablonowski, Lluís Luján, James Lyons-Weiler, Marika Nosten-Bertrand, Christopher A. Shaw, Yehuda Shoenfeld, Lucija Tomljenovic, Christopher Exley
+Journal: Journal of Trace Elements in Medicine and Biology
+Veröffentlicht: 2026-02-01
+DOI: 10.1016/j.jtemb.2025.127810
+ISSN: 0946-672X
+Tag der Erhebung (OOIR): 2026-01-09</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.jtemb.2025.127810-2026-01-09-5</guid>
+			<pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

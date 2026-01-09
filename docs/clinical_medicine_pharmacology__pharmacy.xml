@@ -5,14 +5,106 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Pharmacology &amp; Pharmacy) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 08 Jan 2026 01:12:52 GMT</pubDate>
-		<lastBuildDate>Thu, 08 Jan 2026 01:12:52 GMT</lastBuildDate>
+		<pubDate>Fri, 09 Jan 2026 01:15:06 GMT</pubDate>
+		<lastBuildDate>Fri, 09 Jan 2026 01:15:06 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Pharmacology &amp; Pharmacy) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-pharmacologypharmacy-20260108011252</guid>
-			<pubDate>Thu, 08 Jan 2026 01:12:52 GMT</pubDate>
+			<title>Aspartame decreases fat deposits in mice at a cost of mild cardiac hypertrophy and reduced cognitive performance</title>
+			<link>https://doi.org/10.1016/j.biopha.2025.118891</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 252
+Autoren: Irati Aiestaran-Zelaia, María Jesús Sánchez-Guisado, Marta Beraza, Libe López-Arandia, Sandra Plaza-García, Irene Fernández-Folgueral, Antonio de Molina-Iracheta, Ian J. Holt, Jesus Ruiz-Cabello
+Journal: Biomedicine &amp;amp; Pharmacotherapy
+Veröffentlicht: 2026-01-01
+DOI: 10.1016/j.biopha.2025.118891
+ISSN: 0753-3322
+Tag der Erhebung (OOIR): 2026-01-09</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.biopha.2025.118891-2026-01-09-1</guid>
+			<pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Glutamine synthetase in astrocytes of the caudate and putamen is responsible for locomotor sensitization after nicotine exposure</title>
+			<link>https://doi.org/10.1016/j.apsb.2025.09.038</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 214
+Autoren: Ju Hwan Yang, Sumin Sohn, Sunghyun Kim, Jieun Kim, Su Yeon Seo, Aqsa Kazmi, Hanwoong Woo, John Q. Wang, Eun Sang Choe
+Journal: Acta Pharmaceutica Sinica B
+Veröffentlicht: 2025-12-01
+DOI: 10.1016/j.apsb.2025.09.038
+ISSN: 2211-3835
+Tag der Erhebung (OOIR): 2026-01-09</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.apsb.2025.09.038-2026-01-09-2</guid>
+			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Selective anti-cancer effects of cannabidiol and Δ9-tetrahydrocannabinol via PI3K/AKT/mTOR inhibition and PTEN restoration in ovarian cancer cells</title>
+			<link>https://doi.org/10.3389/fphar.2025.1693129</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 149
+Autoren: Siyao Tong, Watcharin Loilome, Nisana Namwat, Poramate Klanrit, Arporn Wangwiwatsin, Zar Zar Win, Preeya Koyabuth, Bandit Chumworathayi
+Journal: Frontiers in Pharmacology
+Veröffentlicht: 2025-12-15
+Abstract: 
+                    Introduction
+                    Ovarian cancer is a highly lethal gynecological malignancy, often diagnosed at advanced stages. Cannabidiol (CBD) and delta-9-tetrahydrocannabinol (THC) demonstrate anti-tumor activity in various cancers including ovarian cancer through multiple signaling pathways and are increasingly explored as adjuncts to chemotherapy. However, the effects of CBD and THC combination treatment and its specific mechanisms remain unclear. This study evaluated the anti-tumor effects of CBD, THC, and their combination on SKOV3 and A2780 ovarian cancer cells, focusing on phosphorylation-dependent regulation of the PI3K/AKT/mTOR pathway.
+                  
+                  
+                    Methods
+                    SKOV3, A2780, and IOSE cells were treated with CBD, THC, and equimolar CBD: THC combinations. Cytotoxicity was assessed using Sulforhodamine B assay, while synergistic interactions were analyzed by the Chou-Talay method using CompuSyn. Cell cycle distribution and apoptosis were evaluated, and phosphorylation of PI3K, AKT, mTOR, and PTEN was examined by Western blotting.
+                  
+                  
+                    Results
+                    
+                      The CBD: THC combination treatment showed potent, selective cytotoxicity at 48 h, with lower IC
+                      50
+                      values than in non-tumor IOSE80 cells. The Chou–Talalay method validated a synergistic effect between CBD and THC. The combination treatment induced cell cycle arrest and enhanced apoptosis. Western blot analysis exhibited that equimolar CBD: THC (2.5:2.5 μM) markedly reduced phosphorylation of PI3K, AKT, and mTOR, while increasing phosphorylation of PTEN, thereby reactivating tumor-suppressive signaling.
+                    
+                  
+                  
+                    Conclusion
+                    
+                      These findings highlight that CBD: THC combination treatment effectively inhibited ovarian cancer cell growth and invasion via oncogenic PI3K/AKT/mTOR signaling and reactivates PTEN. The combination may represent a promising targeted therapeutic approach, warranting further
+                      in vivo
+                      validation to elucidate its clinical potential.
+                    
+                  
+DOI: 10.3389/fphar.2025.1693129
+ISSN: 1663-9812
+Tag der Erhebung (OOIR): 2026-01-09</description>
+			<guid isPermaLink="false">ooir-trend-10.3389/fphar.2025.1693129-2026-01-09-3</guid>
+			<pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>2025 FDA approvals</title>
+			<link>https://doi.org/10.1038/d41573-026-00001-z</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 99
+Autoren: Asher Mullard
+Journal: Nature Reviews Drug Discovery
+Veröffentlicht: 2026-01-02
+DOI: 10.1038/d41573-026-00001-z
+ISSN: 1474-1776
+Tag der Erhebung (OOIR): 2026-01-09</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/d41573-026-00001-z-2026-01-09-4</guid>
+			<pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Drugs anticipated to be selected for Medicare price negotiation in 2026 for implementation in 2028</title>
+			<link>https://doi.org/10.18553/jmcp.2025.25253</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 92
+Autoren: Emma M. Cousin, Kristi Martin, Ryan N. Hansen, John Coster, Sean D. Sullivan
+Journal: Journal of Managed Care &amp;amp; Specialty Pharmacy
+Veröffentlicht: 2026-01-01
+DOI: 10.18553/jmcp.2025.25253
+ISSN: 2376-0540
+Tag der Erhebung (OOIR): 2026-01-09</description>
+			<guid isPermaLink="false">ooir-trend-10.18553/jmcp.2025.25253-2026-01-09-5</guid>
+			<pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

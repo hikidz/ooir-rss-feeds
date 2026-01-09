@@ -5,14 +5,243 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rheumatology) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 08 Jan 2026 01:13:23 GMT</pubDate>
-		<lastBuildDate>Thu, 08 Jan 2026 01:13:23 GMT</lastBuildDate>
+		<pubDate>Fri, 09 Jan 2026 01:15:38 GMT</pubDate>
+		<lastBuildDate>Fri, 09 Jan 2026 01:15:38 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Rheumatology) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-rheumatology-20260108011323</guid>
-			<pubDate>Thu, 08 Jan 2026 01:13:23 GMT</pubDate>
+			<title>Efficacy and Safety of Subcutaneous Anifrolumab in Systemic Lupus Erythematosus: the Randomized, Phase 3, TULIP‐SC Study</title>
+			<link>https://doi.org/10.1002/art.70041</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 45
+Autoren: Susan Manzi, Ian N. Bruce, Eric F. Morand, Richard Furie, Yoshiya Tanaka, Kenneth C. Kalunian, Anca Askanase, Patricia Puzio, Emon Khan, Jenny Wissmar, Michael Song, Catharina Lindholm, The TULIP‐SC investigators
+Journal: Arthritis &amp;amp; Rheumatology
+Veröffentlicht: 2025-12-29
+Abstract: 
+                    Objective
+                    The multinational, phase 3, double‐blind, placebo‐controlled TULIP‐SC trial evaluated the efficacy and safety of subcutaneous anifrolumab in adults who have moderate‐to‐severe SLE activity, despite receiving standard therapy.
+                  
+                  
+                    Methods
+                    Adults with SLE received subcutaneous anifrolumab 120 mg or placebo once weekly for 52 weeks (1:1 randomization). Only the primary endpoint (treatment difference in BILAG‐based Composite Lupus Assessment [BICLA] response at 52 weeks) was formally tested in a pre‐planned interim analysis; key secondary and other endpoints were tested in the full analysis.
+                  
+                  
+                    Results
+                    
+                      At the interim analysis (220 patients, anifrolumab: n=109; placebo: n=111), the primary endpoint was met (anifrolumab vs placebo: 59.4% vs 43.9%; BICLA response difference [95% confidence interval]=15.5% [2.3–28.6%],
+                      p
+                      =0.0211).
+                    
+                    
+                      The full analysis included 367 patients (anifrolumab: n=184; placebo: n=183). Versus placebo, more patients treated with anifrolumab attained a BICLA response whilst maintaining low/reduced oral glucocorticoid doses through Week 52 (56.2% vs 34.0%; difference=22.3% [12.3−32.2]
+                      p
+                      &amp;lt;0.0001), and the time to first sustained BICLA response was reduced (Hazard ratio=2.2 [1.5−3.2];
+                      p
+                      &amp;lt;0.0001). Treatment differences in Week 52 DORIS remission and Low Lupus Disease Activity State attainment rates favored anifrolumab over placebo (14.2% [5.6−22.8%],
+                      p
+                      =0.0012, and 14.1% [4.6−23.6%],
+                      p
+                      =0.0038). The frequencies of serious adverse events were 11.9% with anifrolumab and 10.4% with placebo; the frequencies of herpes zoster were 3.8% and 1.1%, respectively.
+                    
+                  
+                  
+                    Conclusion
+                    Consistent with the well‐established profile of intravenous anifrolumab, subcutaneous anifrolumab demonstrated significant, clinically meaningful treatment benefits when added to standard therapy, and an acceptable safety profile in patients with moderate to severe SLE.
+                  
+DOI: 10.1002/art.70041
+ISSN: 2326-5191
+Tag der Erhebung (OOIR): 2026-01-09</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/art.70041-2026-01-09-1</guid>
+			<pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Comparative Efficacy and Safety of Anakinra and Canakinumab in Patients With
+                    VEXAS
+                    Syndrome: An International Multicenter Study</title>
+			<link>https://doi.org/10.1002/art.43384</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 37
+Autoren: Tali Eviatar, Dafne Capelusnik, Corrado Campochiaro, Valentin Lacombe, Vincent Jachiet, Michael Zisapel, Iftach Sagy, Oshrat E. Tayer‐Shifman, David Ozeri, Shaye Kivity, Alessandro Tomelleri, Benjamin Terrier, Hagit Peleg, Thibault Comont, Karim Sacre, Pascal Woaye‐Hune, Laurent Arnaud, Estibaliz Lazaro, Vincent Grobost, Francois Lifermann, Maxime Samson, Samuel Ardois, Alice Garnier, Alexandre Maria, Alain Cantagrel, Aurore Meyer, Jean‐David Bouaziz, Mael Heiblig, Lorenzo Dagna, Elisa Diral, Olivier Kosmider, Ori Elkayam, Jérôme Hadjadj, Sophie Georgin‐Lavialle, Olivier Fain, Arsene Mekinian
+Journal: Arthritis &amp;amp; Rheumatology
+Veröffentlicht: 2025-12-12
+Abstract: 
+                    Objective
+                    The aim of this study was to compare differences in clinical response, drug survival, and adverse event rates between anakinra and canakinumab in VEXAS (vacuoles, E1 enzyme, X‐linked, autoinflammatory, somatic) syndrome.
+                  
+                  
+                    Methods
+                    This multicenter international study includes patients with VEXAS from France, Israel, and Italy treated with interleukin‐1 inhibition. Global response (GR) was defined as the absence of inflammatory symptoms and ≥50% decrease in steroid dose and C‐reactive protein. Multiple regression analysis was performed to identify associated variables. Drug survival was analyzed using Kaplan‐Meier plots and log‐rank test, with Cox regression models for associated factors.
+                  
+                  
+                    Results
+                    
+                      We included 47 male patients with VEXAS; 44 received anakinra and 9 received canakinumab, with 6 patients using both at different time points. GR at 1 month was 34% for anakinra and 100% for canakinumab (
+                      P
+                      &amp;lt; 0.001) and 22% and 78% at 3 months, respectively (
+                      P
+                      = 0.001). Treatment with canakinumab was associated with a higher odds ratio (OR) of achieving GR at 3 months (OR 28.8, 95% confidence interval 3.0–273.9;
+                      P
+                      = 0.004) in a multivariable analysis. Median drug survival was 54 (interquartile range [IQR] 30–56) months for canakinumab at 300 mg/month compared with 7 (IQR 4–8) months for canakinumab 150 mg/month and 1 (IQR 1–2.5) months for anakinra (
+                      P
+                      = 0.01). Injection‐site reactions were only recorded for the anakinra group (47 vs 0%;
+                      P
+                      = 0.006), whereas infections were more frequent in the anakinra group (31% and 11%;
+                      P
+                      = 0.3).
+                    
+                  
+                  
+                    Conclusion
+                    Canakinumab demonstrated superior clinical response and drug survival with fewer adverse events compared with anakinra. Monthly canakinumab 300 mg may be considered as an effective steroid‐sparing therapeutic option for patients with VEXAS.
+                    
+                      
+                        
+                          image
+                        
+                      
+                    
+                  
+DOI: 10.1002/art.43384
+ISSN: 2326-5191
+Tag der Erhebung (OOIR): 2026-01-09</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/art.43384-2026-01-09-2</guid>
+			<pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>UK Medical Cannabis Registry: a case series analysing clinical outcomes of medicinal cannabis therapy for fibromyalgia</title>
+			<link>https://doi.org/10.1007/s10067-025-07846-6</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 37
+Autoren: Madhur Varadpande, Simon Erridge, Arushika Aggarwal, Evonne Clarke, Katy McLachlan, Ross Coomber, Shelley Barnes, Alia Darweish Medniuk, Rahul Guru, Wendy Holden, Mohammed Sajad, Robert Searle, Azfer Usmani, Sanjay Varma, James J. Rucker, Michael Platt, Mikael H. Sodergren
+Journal: Clinical Rheumatology
+Veröffentlicht: 2025-12-04
+Abstract: Abstract
+                  
+                    Introduction
+                    Fibromyalgia is a common condition characterised by widespread chronic pain, associated with comorbid mental health disorders and reduced quality of life. Preclinical data suggest cannabis-based medicinal products (CBMPs) may have potential benefits in fibromyalgia, but there is a paucity of high-quality clinical evidence. This study aims to assess the change in patient-reported outcome measures (PROMs) and incidence of adverse events (AEs) in patients treated with CBMPs for fibromyalgia.
+                  
+                  
+                    Methods
+                    
+                      This case series analysed data from the UK Medical Cannabis Registry (UKMCR). The primary outcome was change in PROMs [Fibromyalgia Symptom Severity, Fibromyalgia Widespread Pain Index, EQ-5D-5L, Generalised Anxiety Disorder-7, and Single-Item Sleep Quality Scale] from baseline to follow-up at 1, 3, 6, 12, and 18 months. Statistical significance was defined as
+                      p
+                       &amp;lt; 0.050.
+                    
+                  
+                  
+                    Results
+                    
+                      Four hundred ninety-seven patients were included. The mean age was 44.66 ± 12.02 years, 341 patients (68.61%) were female, and the majority of patients were unemployed (
+                      n
+                       = 268, 53.92%). There was an improvement in all PROMs (
+                      p
+                       &amp;lt; 0.010) from baseline to all follow-up periods. Higher CBD doses (&amp;gt; 25.00 mg/day) and previous cannabis use were associated with increased odds of improvement on fibromyalgia-specific scales (
+                      p
+                       &amp;lt; 0.050). 227 patients (45.67%) reported 2100 AEs (422.54%). Most AEs were mild-to-moderate (
+                      n
+                       = 1792, 85.33%). The most common AE was fatigue (
+                      n
+                       = 153, 30.78%).
+                    
+                  
+                  
+                    Conclusions
+                    There was an association between treatment with CBMPs and improvements in pain, anxiety, sleep, and general quality of life. The high incidence of AEs in relation to other patient cohorts from the UKMCR may relate to the central sensitisation mechanism of fibromyalgia.
+                    
+                      
+                        
+                          
+                            
+                              
+                                Key Points
+                                • This study found that CBMPs were associated with short to medium-term improvements in pain, anxiety, sleep, and general quality-of-life in patients with fibromyalgia.
+                                • More randomised controlled trials are warranted to consolidate the literature, but this large analysis provides real-world data to inform their rollout.
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+DOI: 10.1007/s10067-025-07846-6
+ISSN: 0770-3198
+Tag der Erhebung (OOIR): 2026-01-09</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s10067-025-07846-6-2026-01-09-3</guid>
+			<pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Lemon Water Reduces Serum Urate Levels in Gout Patients and Individuals With Hyperuricemia—A Pilot Study</title>
+			<link>https://doi.org/10.1111/1756-185x.70488</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 26
+Autoren: Biernat‐Kaluza Edyta, Luigi Brunetti, Schlesinger Naomi
+Journal: International Journal of Rheumatic Diseases
+Veröffentlicht: 2025-12-01
+Abstract: ABSTRACT
+                  
+                    Aim
+                    Assess whether drinking freshly squeezed lemons in water (lemon water) influences serum urate (SU) levels, glomerular filtration rate (GFR), and urine pH levels in gout patients and individuals with hyperuricemia.
+                  
+                  
+                    Methods
+                    In this cohort study, we retrospectively analyzed the medical records of patients who presented to two outpatient Polish rheumatology clinics. Patients who consumed the juice of two squeezed lemons mixed with 2 L of water each day, according to a general recommendation made by clinic providers, were included in this analysis. We collected all relevant medical and medication histories from each patient. SU levels, GFR, and urine pH were extracted from the medical record.
+                  
+                  
+                    Results
+                    
+                      The study included 90 patients who reported consumption of lemon juice. The mean age was 49.2 years, and 69% were men. The patients were categorized into three groups: Group A consisted of gout patients, Group B included individuals with hyperuricemia but without gout, and Group C served as a control group with diagnoses other than gout. After six weeks, SU levels decreased from baseline in Group A compared to Group B (
+                      p
+                       = 0.03) and in Group B compared to Group C (
+                      p
+                       = 0.003), and there was an increase in GFR when comparing Group A to Group B (
+                      p
+                       = 0.03) and Group A to Group C (
+                      p
+                       = 0.0007).
+                    
+                  
+                  
+                    Conclusions
+                    After 6 weeks of drinking lemon water, a statistically significant reduction in SU level and improved GFR was observed. Lemon water may serve as a beneficial adjunct therapy for individuals with gout and hyperuricemia.
+                  
+DOI: 10.1111/1756-185x.70488
+ISSN: 1756-1841
+Tag der Erhebung (OOIR): 2026-01-09</description>
+			<guid isPermaLink="false">ooir-trend-10.1111/1756-185x.70488-2026-01-09-4</guid>
+			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Reactive Oxygen Species–Induced Modifications of Fibrin Clots as a Link Between Immune Responses and Atherothrombosis in Systemic Lupus Erythematosus</title>
+			<link>https://doi.org/10.1002/art.43371</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 24
+Autoren: Matteo Becatti, Giacomo Emmi, Alessandra Bettiol, Amanda Mannucci, Flavia Rita Argento, Eleonora Fini, Serena Borghi, Francesca Nencini, Maria Nicastro, Irene Mattioli, Elena Silvestri, Augusto Vaglio, Domenico Prisco, Claudia Fiorillo
+Journal: Arthritis &amp;amp; Rheumatology
+Veröffentlicht: 2025-12-28
+Abstract: 
+                    Objective
+                    Cardiovascular events are major determinants of morbidity and mortality in systemic lupus erythematosus (SLE), particularly in patients with renal involvement. Although oxidative stress has been implicated in driving vascular and renal damage in SLE, the specific mechanisms remain unclear. This study investigated the potential role of oxidative stress‐induced alterations in fibrinogen structure and function in the pathogenesis of atherothrombosis in SLE.
+                  
+                  
+                    Methods
+                    In this cross‐sectional study, we enrolled 144 adult patients with SLE and 90 matched controls. We measured blood leukocyte reactive oxygen species (ROS) production, systemic redox status, and the structural and functional features of purified fibrinogen. Correlations between these parameters and disease activity were also investigated. In vitro experiments to clarify the causal relationships among ROS levels, protein oxidation, and fibrin abnormalities provided mechanistic insights of the observed alterations.
+                  
+                  
+                    Results
+                    Patients with SLE showed increased leukocyte ROS production, mainly due to neutrophil NADPH oxidase activation. Interestingly, renal biopsies from patients with SLE with active proliferative lupus nephritis exhibited overexpression of the NADPH oxidase enzyme complex p22phox. This was accompanied by plasma oxidative stress as indicated by elevated plasma lipid peroxidation and reduced antioxidant defenses. Fibrinogen oxidation was associated with structural and functional changes, leading to the formation of denser fibrin networks with lower clot porosity and reduced susceptibility to plasmin‐mediated fibrin lysis. Interestingly, these fibrinogen modifications correlated with alterations in redox status and disease activity.
+                  
+                  
+                    Conclusion
+                    Oxidative stress may drive structural and functional modifications of fibrinogen in SLE, potentially acting as a novel pathogenetic mechanism in atherothrombosis among these patients.
+                  
+DOI: 10.1002/art.43371
+ISSN: 2326-5191
+Tag der Erhebung (OOIR): 2026-01-09</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/art.43371-2026-01-09-5</guid>
+			<pubDate>Sun, 28 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
