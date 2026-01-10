@@ -5,14 +5,93 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, Research &amp; Experimental) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Fri, 09 Jan 2026 01:14:23 GMT</pubDate>
-		<lastBuildDate>Fri, 09 Jan 2026 01:14:23 GMT</lastBuildDate>
+		<pubDate>Sat, 10 Jan 2026 01:09:56 GMT</pubDate>
+		<lastBuildDate>Sat, 10 Jan 2026 01:09:56 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Medicine, Research &amp; Experimental) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-medicineresearchexperimental-20260109011423</guid>
-			<pubDate>Fri, 09 Jan 2026 01:14:23 GMT</pubDate>
+			<title>A multimodal sleep foundation model for disease prediction</title>
+			<link>https://doi.org/10.1038/s41591-025-04133-4</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 899
+Autoren: Rahul Thapa, Magnus Ruud Kjaer, Bryan He, Ian Covert, Hyatt Moore IV, Umaer Hanif, Gauri Ganjoo, M. Brandon Westover, Poul Jennum, Andreas Brink-Kjaer, Emmanuel Mignot, James Zou
+Journal: Nature Medicine
+Veröffentlicht: 2026-01-06
+Abstract: Abstract
+                  
+                    Sleep is a fundamental biological process with broad implications for physical and mental health, yet its complex relationship with disease remains poorly understood. Polysomnography (PSG)—the gold standard for sleep analysis—captures rich physiological signals but is underutilized due to challenges in standardization, generalizability and multimodal integration. To address these challenges, we developed SleepFM, a multimodal sleep foundation model trained with a new contrastive learning approach that accommodates multiple PSG configurations. Trained on a curated dataset of over 585,000 hours of PSG recordings from approximately 65,000 participants across several cohorts, SleepFM produces latent sleep representations that capture the physiological and temporal structure of sleep and enable accurate prediction of future disease risk. From one night of sleep, SleepFM accurately predicts 130 conditions with a C-Index of at least 0.75 (Bonferroni-corrected
+                    P
+                     &amp;lt; 0.01), including all-cause mortality (C-Index, 0.84), dementia (0.85), myocardial infarction (0.81), heart failure (0.80), chronic kidney disease (0.79), stroke (0.78) and atrial fibrillation (0.78). Moreover, the model demonstrates strong transfer learning performance on a dataset from the Sleep Heart Health Study—a dataset that was excluded from pretraining—and performs competitively with specialized sleep-staging models such as U-Sleep and YASA on common sleep analysis tasks, achieving mean
+                    F
+                    1
+                    scores of 0.70–0.78 for sleep staging and accuracies of 0.69 and 0.87 for classifying sleep apnea severity and presence. This work shows that foundation models can learn the language of sleep from multimodal sleep recordings, enabling scalable, label-efficient analysis and disease prediction.
+                  
+DOI: 10.1038/s41591-025-04133-4
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2026-01-10</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-04133-4-2026-01-10-1</guid>
+			<pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Nitrous oxide for the treatment of depression: a systematic review and meta-analysis</title>
+			<link>https://doi.org/10.1016/j.ebiom.2025.106023</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 532
+Autoren: Kiranpreet Gill, Angharad N. de Cates, Chantelle Wiseman, Susannah E. Murphy, Ella Williams, Catherine J. Harmer, Isabel Morales-Muñoz, Steven Marwaha
+Journal: eBioMedicine
+Veröffentlicht: 2025-12-01
+DOI: 10.1016/j.ebiom.2025.106023
+ISSN: 2352-3964
+Tag der Erhebung (OOIR): 2026-01-10</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ebiom.2025.106023-2026-01-10-2</guid>
+			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Inhibition of CXCL10 and IFN-γ ameliorates myocarditis in preclinical models of SARS-CoV-2 mRNA vaccination</title>
+			<link>https://doi.org/10.1126/scitranslmed.adq0143</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 498
+Autoren: Xu Cao, Amit Manhas, Yi-Ing Chen, Arianne Caudal, Gema Mondejar-Parreño, Wenjuan Zhu, Wenqiang Liu, Xiaohui Kong, Wenshu Zeng, Lichao Liu, Shane R. Zhao, James W. S. Jahng, Paul J. Utz, Kari C. Nadeau, Masataka Nishiga, Joseph C. Wu
+Journal: Science Translational Medicine
+Veröffentlicht: 2025-12-10
+Abstract: Messenger RNA (mRNA) vaccines against SARS-CoV-2 are highly effective and were instrumental in curbing the COVID-19 pandemic. However, rare cases of noninfective myocarditis, particularly in young males and typically after the second dose, have been observed. Here, we explore the mediators of this myocarditis to better understand and to enhance the safety of future mRNA vaccines. Through analysis of human plasma data and in vitro experiments with human macrophages and T cells, we identified increased C-X-C motif chemokine ligand 10 (CXCL10) and interferon-γ (IFN-γ) after exposure to BNT162b2 (Pfizer) or mRNA-1273 (Moderna). Neutralization of CXCL10 and IFN-γ during the second dose (21 days after the first dose) reduced vaccine-induced cardiac injury in mice. Neutralization also reduced cardiac stress markers such as the release of N-terminal pro-B-type natriuretic peptide (NT-proBNP) and expression of inflammatory genes in human induced pluripotent stem cell (iPSC)–derived cardiac spheroids. When exposed to these cytokines in vitro, human iPSC-derived cardiomyocytes (iPSC-CMs) exhibited impaired contractility, arrhythmogenicity, and proinflammatory gene expression patterns. Genistein, a phytoestrogen implicated in reducing cardiovascular inflammation, mitigated these effects in iPSC-CMs. In mice exposed to these cytokines or receiving BNT162b2 vaccination, genistein treatment reduced cardiac injury markers and attenuated infiltration of neutrophils and macrophages into the heart. These findings implicate CXCL10–IFN-γ signaling as a contributor to myocardial injury in experimental models of mRNA vaccination and indicate that pharmacologic modulation, such as with genistein, may mitigate cytokine-driven injury.
+DOI: 10.1126/scitranslmed.adq0143
+ISSN: 1946-6234
+Tag der Erhebung (OOIR): 2026-01-10</description>
+			<guid isPermaLink="false">ooir-trend-10.1126/scitranslmed.adq0143-2026-01-10-3</guid>
+			<pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>A circadian checkpoint relocates neutrophils to minimize injury</title>
+			<link>https://doi.org/10.1084/jem.20250240</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 463
+Autoren: Alejandra Aroca-Crevillén, Sandra Martín-Salamanca, Lidiane S. Torres, Georgiana Crainiciuc, Jon Sicilia, Eduardo Peñaloza-Martínez, Nicolás Rosillo, Miguel Molina-Moreno, Jose M. Adrover, Andrea Rubio-Ponce, Tommaso Vicanolo, Xiaosong Liu, Kanin Wichapong, Vanessa Núñez, Karl Balabanian, Françoise Bachelerie, David Sancho, María Casanova-Acebes, José T. Ortiz-Pérez, María Ángeles Moro, Héctor Bueno, Gerry A.F. Nicolaes, Andrés Hidalgo
+Journal: Journal of Experimental Medicine
+Veröffentlicht: 2025-12-12
+Abstract: Inflammation-driven injury, a significant source of morbidity and mortality worldwide, is largely mediated by the cytotoxic activities of neutrophils, which extend the initial lesion and jeopardize organ function. Intriguingly, inflammatory injury naturally declines at specific times of day, suggesting that circadian mechanisms exist that mitigate the destructive activity of neutrophils and protect the host. Here, we show that the periods of diurnal protection coincide with peaks in plasma CXCL12, a chemokine that inhibits the neutrophil-intrinsic circadian clock by signaling through CXCR4. Genetic deletion of this clock, or a hyperactive form of CXCR4, prevented the diurnal spikes of injury, and treatment with a synthetic CXCR4 agonist conferred protection from myocardial and vascular injury. In tissues, this protection was mediated by repositioning neutrophils in the wound core, which spared neighboring host cells from apoptotic death. Thus, a circadian neutrophil checkpoint protects from exuberant inflammation and can be activated to protect the host.
+DOI: 10.1084/jem.20250240
+ISSN: 0022-1007
+Tag der Erhebung (OOIR): 2026-01-10</description>
+			<guid isPermaLink="false">ooir-trend-10.1084/jem.20250240-2026-01-10-4</guid>
+			<pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Neurobehavioural links from infant screen time to anxiety</title>
+			<link>https://doi.org/10.1016/j.ebiom.2025.106093</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 429
+Autoren: Pei Huang, Shi Yu Chan, Kathy Xinzhuo Zhou, Jasmine Chuah, Aisleen Mariz Arellano Manahan, Evelyn Chung Ning Law, Shefaly Shorey, Helen Juan Zhou, Marielle Valerie Fortier, Yap-Seng Chong, Michael Joseph Meaney, Ai Peng Tan
+Journal: eBioMedicine
+Veröffentlicht: 2025-12-01
+DOI: 10.1016/j.ebiom.2025.106093
+ISSN: 2352-3964
+Tag der Erhebung (OOIR): 2026-01-10</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ebiom.2025.106093-2026-01-10-5</guid>
+			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
