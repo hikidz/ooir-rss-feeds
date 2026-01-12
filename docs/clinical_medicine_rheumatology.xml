@@ -5,8 +5,40 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rheumatology) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sun, 11 Jan 2026 01:18:49 GMT</pubDate>
-		<lastBuildDate>Sun, 11 Jan 2026 01:18:49 GMT</lastBuildDate>
+		<pubDate>Mon, 12 Jan 2026 01:15:27 GMT</pubDate>
+		<lastBuildDate>Mon, 12 Jan 2026 01:15:27 GMT</lastBuildDate>
+		<item>
+			<title>Immunosuppressant use and adverse pregnancy outcomes in women with systemic lupus erythematosus: a retrospective cohort study in Korea</title>
+			<link>https://doi.org/10.1093/rheumatology/keaf651</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 49
+Autoren: Yu-Seon Jung, Yeo-Jin Song, Eun Jin Jang, Soo-Kyung Cho, Yoon-Kyoung Sung, Sun-Young Jung
+Journal: Rheumatology
+Veröffentlicht: 2025-12-12
+Abstract: Abstract
+                  
+                    Objectives
+                    This study aimed to estimate the incidence of adverse pregnancy outcomes (APO) in patients with systemic lupus erythematosus (SLE) and to evaluate the risks associated with immunosuppressant use—including hydroxychloroquine and teratogenic agents such as mycophenolate mofetil, methotrexate and cyclophosphamide—across specific APO categories.
+                  
+                  
+                    Methods
+                    A cohort study was conducted using the 2005–2018 National Health Information Database of the National Health Insurance Service in Korea, involving 4,880 pregnancies in 3,059 women with SLE. The incidences of preeclampsia/eclampsia, preterm birth, spontaneous abortion and stillbirth were estimated. Associations between APOs and medication patterns from preconception through pregnancy were analysed using univariate and multivariable models.
+                  
+                  
+                    Results
+                    The overall APO incidence among pregnant women with SLE was 45.0% (95% CI: 43.4, 46.5%). Compared with continuous hydroxychloroquine use, non-use (adjusted odds ratio [AOR]: 1.39; 95% CI: 1.05, 1.85), discontinuation (AOR: 2.18; 95% CI: 1.61, 2.95), and initiation during pregnancy (AOR: 2.17; 95% CI: 1.16, 4.06) were significantly associated with increased preterm birth risk. Exposure to teratogenic immunosuppressants within 3 months of preconception or during the first trimester was associated with increased spontaneous abortion risk (AOR: 2.59 and 3.18, respectively).
+                  
+                  
+                    Conclusion
+                    Continuity of hydroxychloroquine use from preconception through pregnancy reduces preterm birth risk in SLE. Conversely, early exposure to teratogenic immunosuppressants heightens the risk of spontaneous abortion. These findings underscore the importance of preconception medication planning in women with SLE.
+                  
+DOI: 10.1093/rheumatology/keaf651
+ISSN: 1462-0324
+Tag der Erhebung (OOIR): 2026-01-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1093/rheumatology/keaf651-2026-01-12-1</guid>
+			<pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Efficacy and Safety of Subcutaneous Anifrolumab in Systemic Lupus Erythematosus: the Randomized, Phase 3, TULIP‐SC Study</title>
 			<link>https://doi.org/10.1002/art.70041</link>
@@ -49,8 +81,8 @@ Abstract:
                   
 DOI: 10.1002/art.70041
 ISSN: 2326-5191
-Tag der Erhebung (OOIR): 2026-01-11</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/art.70041-2026-01-11-1</guid>
+Tag der Erhebung (OOIR): 2026-01-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/art.70041-2026-01-12-2</guid>
 			<pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -103,8 +135,8 @@ Abstract:
                   
 DOI: 10.1002/art.43384
 ISSN: 2326-5191
-Tag der Erhebung (OOIR): 2026-01-11</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/art.43384-2026-01-11-2</guid>
+Tag der Erhebung (OOIR): 2026-01-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/art.43384-2026-01-12-3</guid>
 			<pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -145,41 +177,9 @@ Abstract: ABSTRACT
                   
 DOI: 10.1111/1756-185x.70488
 ISSN: 1756-1841
-Tag der Erhebung (OOIR): 2026-01-11</description>
-			<guid isPermaLink="false">ooir-trend-10.1111/1756-185x.70488-2026-01-11-3</guid>
+Tag der Erhebung (OOIR): 2026-01-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1111/1756-185x.70488-2026-01-12-4</guid>
 			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Immunosuppressant use and adverse pregnancy outcomes in women with systemic lupus erythematosus: a retrospective cohort study in Korea</title>
-			<link>https://doi.org/10.1093/rheumatology/keaf651</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rheumatology
-Score: 25
-Autoren: Yu-Seon Jung, Yeo-Jin Song, Eun Jin Jang, Soo-Kyung Cho, Yoon-Kyoung Sung, Sun-Young Jung
-Journal: Rheumatology
-Veröffentlicht: 2025-12-12
-Abstract: Abstract
-                  
-                    Objectives
-                    This study aimed to estimate the incidence of adverse pregnancy outcomes (APO) in patients with systemic lupus erythematosus (SLE) and to evaluate the risks associated with immunosuppressant use—including hydroxychloroquine and teratogenic agents such as mycophenolate mofetil, methotrexate and cyclophosphamide—across specific APO categories.
-                  
-                  
-                    Methods
-                    A cohort study was conducted using the 2005–2018 National Health Information Database of the National Health Insurance Service in Korea, involving 4,880 pregnancies in 3,059 women with SLE. The incidences of preeclampsia/eclampsia, preterm birth, spontaneous abortion and stillbirth were estimated. Associations between APOs and medication patterns from preconception through pregnancy were analysed using univariate and multivariable models.
-                  
-                  
-                    Results
-                    The overall APO incidence among pregnant women with SLE was 45.0% (95% CI: 43.4, 46.5%). Compared with continuous hydroxychloroquine use, non-use (adjusted odds ratio [AOR]: 1.39; 95% CI: 1.05, 1.85), discontinuation (AOR: 2.18; 95% CI: 1.61, 2.95), and initiation during pregnancy (AOR: 2.17; 95% CI: 1.16, 4.06) were significantly associated with increased preterm birth risk. Exposure to teratogenic immunosuppressants within 3 months of preconception or during the first trimester was associated with increased spontaneous abortion risk (AOR: 2.59 and 3.18, respectively).
-                  
-                  
-                    Conclusion
-                    Continuity of hydroxychloroquine use from preconception through pregnancy reduces preterm birth risk in SLE. Conversely, early exposure to teratogenic immunosuppressants heightens the risk of spontaneous abortion. These findings underscore the importance of preconception medication planning in women with SLE.
-                  
-DOI: 10.1093/rheumatology/keaf651
-ISSN: 1462-0324
-Tag der Erhebung (OOIR): 2026-01-11</description>
-			<guid isPermaLink="false">ooir-trend-10.1093/rheumatology/keaf651-2026-01-11-4</guid>
-			<pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Reactive Oxygen Species–Induced Modifications of Fibrin Clots as a Link Between Immune Responses and Atherothrombosis in Systemic Lupus Erythematosus</title>
@@ -208,8 +208,8 @@ Abstract:
                   
 DOI: 10.1002/art.43371
 ISSN: 2326-5191
-Tag der Erhebung (OOIR): 2026-01-11</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/art.43371-2026-01-11-5</guid>
+Tag der Erhebung (OOIR): 2026-01-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/art.43371-2026-01-12-5</guid>
 			<pubDate>Sun, 28 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>

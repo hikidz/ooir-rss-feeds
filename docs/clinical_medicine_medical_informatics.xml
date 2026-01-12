@@ -5,14 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sun, 11 Jan 2026 01:18:21 GMT</pubDate>
-		<lastBuildDate>Sun, 11 Jan 2026 01:18:21 GMT</lastBuildDate>
+		<pubDate>Mon, 12 Jan 2026 01:15:03 GMT</pubDate>
+		<lastBuildDate>Mon, 12 Jan 2026 01:15:03 GMT</lastBuildDate>
 		<item>
 			<title>Super Mario Bros. and Yoshi Games’ Affordance of Childlike Wonder and Reduced Burnout Risk in Young Adults: In-Depth Mixed Methods Cross-Sectional Study</title>
 			<link>https://doi.org/10.2196/84219</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 495
+Score: 503
 Autoren: Winze Tam, Congcong Hou, Andreas Benedikt Eisingerich
 Journal: JMIR Serious Games
 Veröffentlicht: 2025-12-19
@@ -38,8 +38,8 @@ Abstract:
                   
 DOI: 10.2196/84219
 ISSN: 2291-9279
-Tag der Erhebung (OOIR): 2026-01-11</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/84219-2026-01-11-1</guid>
+Tag der Erhebung (OOIR): 2026-01-12</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/84219-2026-01-12-1</guid>
 			<pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -53,8 +53,8 @@ Journal: npj Digital Medicine
 Veröffentlicht: 2025-12-11
 DOI: 10.1038/s41746-025-02155-3
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-01-11</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-02155-3-2026-01-11-2</guid>
+Tag der Erhebung (OOIR): 2026-01-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-02155-3-2026-01-12-2</guid>
 			<pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -70,8 +70,8 @@ Abstract: Abstract
                   Cancer patients often lack timely education and personalized support due to clinician workload. This quality improvement study develops and evaluates a Large Language Model (LLM) agent, MedEduChat, which is integrated with the clinic’s electronic health records (EHR) and designed to enhance prostate cancer patient education. Fifteen non-metastatic prostate cancer patients and three clinicians recruited from the Mayo Clinic interacted with the agent between May 2024 and April 2025. Findings showed that MedEduChat has a high usability score (UMUX = 83.7/100) and improves patients’ health confidence (Health Confidence Score rose from 9.9 to 13.9). Clinicians evaluated the patient-chat interaction history and rated MedEduChat as highly correct (2.9/3), complete (2.7/3), and safe (2.7/3), with moderate personalization (2.3/3). This study highlights the potential of LLM agents to improve patient engagement and health education.
 DOI: 10.1038/s41746-025-02166-0
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-01-11</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-02166-0-2026-01-11-3</guid>
+Tag der Erhebung (OOIR): 2026-01-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-02166-0-2026-01-12-3</guid>
 			<pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -85,24 +85,24 @@ Journal: The Lancet Digital Health
 Veröffentlicht: 2025-12-01
 DOI: 10.1016/j.landig.2025.100916
 ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2026-01-11</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100916-2026-01-11-4</guid>
+Tag der Erhebung (OOIR): 2026-01-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100916-2026-01-12-4</guid>
 			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>What’s Next for Smart Implants in Health Care?</title>
-			<link>https://doi.org/10.2196/87975</link>
+			<title>A Feature-Augmented Transformer Model to Recognize Functional Activities From in-the-Wild Smartwatch Data</title>
+			<link>https://doi.org/10.1109/jbhi.2025.3586074</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 18
-Autoren: Mark Crawford
-Journal: Journal of Medical Internet Research
-Veröffentlicht: 2025-11-26
-DOI: 10.2196/87975
-ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2026-01-11</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/87975-2026-01-11-5</guid>
-			<pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+Score: 40
+Autoren: Bryan Minor, Colin Greeley, Ryan Holder, Brian Thomas, Lawrence B. Holder, Diane J. Cook
+Journal: IEEE Journal of Biomedical and Health Informatics
+Veröffentlicht: 2026-01-01
+DOI: 10.1109/jbhi.2025.3586074
+ISSN: 2168-2194
+Tag der Erhebung (OOIR): 2026-01-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1109/jbhi.2025.3586074-2026-01-12-5</guid>
+			<pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
