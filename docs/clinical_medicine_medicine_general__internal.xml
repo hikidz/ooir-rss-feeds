@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, General &amp; Internal) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Mon, 12 Jan 2026 01:15:08 GMT</pubDate>
-		<lastBuildDate>Mon, 12 Jan 2026 01:15:08 GMT</lastBuildDate>
+		<pubDate>Tue, 13 Jan 2026 01:08:27 GMT</pubDate>
+		<lastBuildDate>Tue, 13 Jan 2026 01:08:27 GMT</lastBuildDate>
 		<item>
 			<title>Changes in Carbapenemase-Producing Carbapenem-Resistant Enterobacterales, 2019 to 2023</title>
 			<link>https://doi.org/10.7326/annals-25-02404</link>
@@ -18,8 +18,8 @@ Journal: Annals of Internal Medicine
 Veröffentlicht: 2025-12-01
 DOI: 10.7326/annals-25-02404
 ISSN: 0003-4819
-Tag der Erhebung (OOIR): 2026-01-12</description>
-			<guid isPermaLink="false">ooir-trend-10.7326/annals-25-02404-2026-01-12-1</guid>
+Tag der Erhebung (OOIR): 2026-01-13</description>
+			<guid isPermaLink="false">ooir-trend-10.7326/annals-25-02404-2026-01-13-1</guid>
 			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -33,9 +33,25 @@ Journal: Annals of Internal Medicine
 Veröffentlicht: 2025-12-01
 DOI: 10.7326/annals-25-01547
 ISSN: 0003-4819
-Tag der Erhebung (OOIR): 2026-01-12</description>
-			<guid isPermaLink="false">ooir-trend-10.7326/annals-25-01547-2026-01-12-2</guid>
+Tag der Erhebung (OOIR): 2026-01-13</description>
+			<guid isPermaLink="false">ooir-trend-10.7326/annals-25-01547-2026-01-13-2</guid>
 			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Clinical Trials Affected by Research Grant Terminations at the National Institutes of Health</title>
+			<link>https://doi.org/10.1001/jamainternmed.2025.6088</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, General &amp; Internal
+Score: 1509
+Autoren: Vishal R. Patel, Michael Liu, Anupam B. Jena
+Journal: JAMA Internal Medicine
+Veröffentlicht: 2026-01-01
+Abstract: This cross-sectional study summarizes the number of trials with terminated grants from the National Institutes of Health (NIH) and calculates the proportion of affected trials among those with previously active NIH funding, by trial status at time of grant termination and by trial characteristics.
+DOI: 10.1001/jamainternmed.2025.6088
+ISSN: 2168-6106
+Tag der Erhebung (OOIR): 2026-01-13</description>
+			<guid isPermaLink="false">ooir-trend-10.1001/jamainternmed.2025.6088-2026-01-13-3</guid>
+			<pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>FDA’s New Plausible Mechanism Pathway</title>
@@ -48,8 +64,8 @@ Journal: New England Journal of Medicine
 Veröffentlicht: 2025-12-11
 DOI: 10.1056/nejmsb2512695
 ISSN: 0028-4793
-Tag der Erhebung (OOIR): 2026-01-12</description>
-			<guid isPermaLink="false">ooir-trend-10.1056/nejmsb2512695-2026-01-12-3</guid>
+Tag der Erhebung (OOIR): 2026-01-13</description>
+			<guid isPermaLink="false">ooir-trend-10.1056/nejmsb2512695-2026-01-13-4</guid>
 			<pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -64,24 +80,9 @@ Journal: New England Journal of Medicine
 Veröffentlicht: 2025-11-27
 DOI: 10.1056/nejmoa2511778
 ISSN: 0028-4793
-Tag der Erhebung (OOIR): 2026-01-12</description>
-			<guid isPermaLink="false">ooir-trend-10.1056/nejmoa2511778-2026-01-12-4</guid>
+Tag der Erhebung (OOIR): 2026-01-13</description>
+			<guid isPermaLink="false">ooir-trend-10.1056/nejmoa2511778-2026-01-13-5</guid>
 			<pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>The Mediterranean Diet for Irritable Bowel Syndrome</title>
-			<link>https://doi.org/10.7326/annals-25-01519</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, General &amp; Internal
-Score: 1232
-Autoren: Joy O. Bamidele, Grace M. Brownlow, Rosie M. Flack, Rachel L. Buckle, Christian C. Shaw, Mohamed G. Shiha, Imran Aziz
-Journal: Annals of Internal Medicine
-Veröffentlicht: 2025-12-01
-DOI: 10.7326/annals-25-01519
-ISSN: 0003-4819
-Tag der Erhebung (OOIR): 2026-01-12</description>
-			<guid isPermaLink="false">ooir-trend-10.7326/annals-25-01519-2026-01-12-5</guid>
-			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
