@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Orthopedics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 13 Jan 2026 01:08:07 GMT</pubDate>
-		<lastBuildDate>Tue, 13 Jan 2026 01:08:07 GMT</lastBuildDate>
+		<pubDate>Wed, 14 Jan 2026 01:14:12 GMT</pubDate>
+		<lastBuildDate>Wed, 14 Jan 2026 01:14:12 GMT</lastBuildDate>
 		<item>
 			<title>Personalized Spine Surgery in Adult Deformity: Reoperation Rates and Mechanical Complications Following Customized Planning and Interbody Implant Use</title>
 			<link>https://doi.org/10.1177/21925682251409696</link>
@@ -42,8 +42,8 @@ Abstract:
                   
 DOI: 10.1177/21925682251409696
 ISSN: 2192-5682
-Tag der Erhebung (OOIR): 2026-01-13</description>
-			<guid isPermaLink="false">ooir-trend-10.1177/21925682251409696-2026-01-13-1</guid>
+Tag der Erhebung (OOIR): 2026-01-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1177/21925682251409696-2026-01-14-1</guid>
 			<pubDate>Sat, 20 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -58,8 +58,8 @@ Abstract: Infographic illustrating the article “People With Acute Low Back Pai
                   J Orthop Sports Phys Ther 2026;56(1):64. doi:10.2519/jospt.2026.9001
 DOI: 10.2519/jospt.2026.9001
 ISSN: 0190-6011
-Tag der Erhebung (OOIR): 2026-01-13</description>
-			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2026.9001-2026-01-13-2</guid>
+Tag der Erhebung (OOIR): 2026-01-14</description>
+			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2026.9001-2026-01-14-2</guid>
 			<pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -73,24 +73,9 @@ Journal: Arthroscopy: The Journal of Arthroscopic &amp;amp; Related Surgery
 Veröffentlicht: 2025-12-01
 DOI: 10.1016/j.arthro.2025.09.001
 ISSN: 0749-8063
-Tag der Erhebung (OOIR): 2026-01-13</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.arthro.2025.09.001-2026-01-13-3</guid>
+Tag der Erhebung (OOIR): 2026-01-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.arthro.2025.09.001-2026-01-14-3</guid>
 			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Pediatric virtual fracture clinic. Our first 10K!</title>
-			<link>https://doi.org/10.1016/j.injury.2025.112928</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Orthopedics
-Score: 17
-Autoren: Flavia Alberghina, Paula Kelly, Jacques Noël, Carol Blackburn, Turlough Bolger, Patrick Kiely, Jim Kennedy, Ciara Egan, David Moore, Patrick O'Toole
-Journal: Injury
-Veröffentlicht: 2026-02-01
-DOI: 10.1016/j.injury.2025.112928
-ISSN: 0020-1383
-Tag der Erhebung (OOIR): 2026-01-13</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.injury.2025.112928-2026-01-13-4</guid>
-			<pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Bridging the Gap: A Systematic Evidence and Gap Map of Risk Factors and Preventive Strategies for Patellofemoral Pain</title>
@@ -110,9 +95,24 @@ Abstract: OBJECTIVE: To systematically review, map, and appraise the existing pr
                   CONCLUSION: This evidence and gap map reveals an over-reliance on biomechanical perspectives within the context of PFP risk factor research, with limited attention to psychosocial, behavioural, and load-related risk factors. Preventive trials are few, often low in quality, and narrowly focused. Addressing these evidence gaps is essential for developing effective, multifactorial prevention strategies for PFP.
 DOI: 10.2519/jospt.2025.13489
 ISSN: 0190-6011
-Tag der Erhebung (OOIR): 2026-01-13</description>
-			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2025.13489-2026-01-13-5</guid>
+Tag der Erhebung (OOIR): 2026-01-14</description>
+			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2025.13489-2026-01-14-4</guid>
 			<pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Metformin and incident osteoarthritis: Causal insights from a co-twin control study</title>
+			<link>https://doi.org/10.1016/j.joca.2025.12.014</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 10
+Autoren: Karin Magnusson, Aleksandra Turkiewicz, Andrea Dell’Isola, Ali Kiadaliri, Martin Englund
+Journal: Osteoarthritis and Cartilage
+Veröffentlicht: 2025-12-01
+DOI: 10.1016/j.joca.2025.12.014
+ISSN: 1063-4584
+Tag der Erhebung (OOIR): 2026-01-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.joca.2025.12.014-2026-01-14-5</guid>
+			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

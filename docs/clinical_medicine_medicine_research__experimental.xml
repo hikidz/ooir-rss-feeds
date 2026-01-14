@@ -5,14 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, Research &amp; Experimental) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 13 Jan 2026 01:08:32 GMT</pubDate>
-		<lastBuildDate>Tue, 13 Jan 2026 01:08:32 GMT</lastBuildDate>
+		<pubDate>Wed, 14 Jan 2026 01:14:47 GMT</pubDate>
+		<lastBuildDate>Wed, 14 Jan 2026 01:14:47 GMT</lastBuildDate>
 		<item>
 			<title>A multimodal sleep foundation model for disease prediction</title>
 			<link>https://doi.org/10.1038/s41591-025-04133-4</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medicine, Research &amp; Experimental
-Score: 989
+Score: 1110
 Autoren: Rahul Thapa, Magnus Ruud Kjaer, Bryan He, Ian Covert, Hyatt Moore IV, Umaer Hanif, Gauri Ganjoo, M. Brandon Westover, Poul Jennum, Andreas Brink-Kjaer, Emmanuel Mignot, James Zou
 Journal: Nature Medicine
 Veröffentlicht: 2026-01-06
@@ -27,39 +27,24 @@ Abstract: Abstract
                   
 DOI: 10.1038/s41591-025-04133-4
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2026-01-13</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-04133-4-2026-01-13-1</guid>
+Tag der Erhebung (OOIR): 2026-01-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-04133-4-2026-01-14-1</guid>
 			<pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Nitrous oxide for the treatment of depression: a systematic review and meta-analysis</title>
-			<link>https://doi.org/10.1016/j.ebiom.2025.106023</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, Research &amp; Experimental
-Score: 532
-Autoren: Kiranpreet Gill, Angharad N. de Cates, Chantelle Wiseman, Susannah E. Murphy, Ella Williams, Catherine J. Harmer, Isabel Morales-Muñoz, Steven Marwaha
-Journal: eBioMedicine
-Veröffentlicht: 2025-12-01
-DOI: 10.1016/j.ebiom.2025.106023
-ISSN: 2352-3964
-Tag der Erhebung (OOIR): 2026-01-13</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ebiom.2025.106023-2026-01-13-2</guid>
-			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>A circadian checkpoint relocates neutrophils to minimize injury</title>
 			<link>https://doi.org/10.1084/jem.20250240</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medicine, Research &amp; Experimental
-Score: 463
+Score: 471
 Autoren: Alejandra Aroca-Crevillén, Sandra Martín-Salamanca, Lidiane S. Torres, Georgiana Crainiciuc, Jon Sicilia, Eduardo Peñaloza-Martínez, Nicolás Rosillo, Miguel Molina-Moreno, Jose M. Adrover, Andrea Rubio-Ponce, Tommaso Vicanolo, Xiaosong Liu, Kanin Wichapong, Vanessa Núñez, Karl Balabanian, Françoise Bachelerie, David Sancho, María Casanova-Acebes, José T. Ortiz-Pérez, María Ángeles Moro, Héctor Bueno, Gerry A.F. Nicolaes, Andrés Hidalgo
 Journal: Journal of Experimental Medicine
 Veröffentlicht: 2025-12-12
 Abstract: Inflammation-driven injury, a significant source of morbidity and mortality worldwide, is largely mediated by the cytotoxic activities of neutrophils, which extend the initial lesion and jeopardize organ function. Intriguingly, inflammatory injury naturally declines at specific times of day, suggesting that circadian mechanisms exist that mitigate the destructive activity of neutrophils and protect the host. Here, we show that the periods of diurnal protection coincide with peaks in plasma CXCL12, a chemokine that inhibits the neutrophil-intrinsic circadian clock by signaling through CXCR4. Genetic deletion of this clock, or a hyperactive form of CXCR4, prevented the diurnal spikes of injury, and treatment with a synthetic CXCR4 agonist conferred protection from myocardial and vascular injury. In tissues, this protection was mediated by repositioning neutrophils in the wound core, which spared neighboring host cells from apoptotic death. Thus, a circadian neutrophil checkpoint protects from exuberant inflammation and can be activated to protect the host.
 DOI: 10.1084/jem.20250240
 ISSN: 0022-1007
-Tag der Erhebung (OOIR): 2026-01-13</description>
-			<guid isPermaLink="false">ooir-trend-10.1084/jem.20250240-2026-01-13-3</guid>
+Tag der Erhebung (OOIR): 2026-01-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1084/jem.20250240-2026-01-14-2</guid>
 			<pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -73,23 +58,47 @@ Journal: eBioMedicine
 Veröffentlicht: 2025-12-01
 DOI: 10.1016/j.ebiom.2025.106093
 ISSN: 2352-3964
-Tag der Erhebung (OOIR): 2026-01-13</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ebiom.2025.106093-2026-01-13-4</guid>
+Tag der Erhebung (OOIR): 2026-01-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ebiom.2025.106093-2026-01-14-3</guid>
 			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>A minimally invasive dried blood spot biomarker test for the detection of Alzheimer’s disease pathology</title>
+			<link>https://doi.org/10.1038/s41591-025-04080-0</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 439
+Autoren: Hanna Huber, Laia Montoliu-Gaya, Wagner S. Brum, Jakub Vávra, Yara Yakoub, Haley Weninger, Luisa Sophie Braun-Wohlfahrt, Joel Simrén, Mercé Boada, Agustín Ruiz, Amanda Cano, Adelina Orellana, Sergi Valero, Laia Cañada, Natalia Tantinya, Ana Belen Nogales, Pilar Sanz-Cartagena, Anna Dittrich, Ingmar Skoog, Millie Sander-Long, Clive Ballard, Megan Richards, Mary O’Leary, Frederikke Kragh Clemmensen, Hannah H. D. Wandall, Daniele Altomare, Valentina Cantoni, Erik Stomrud, Sebastian Palmqvist, Alberto Lleo, Daniel Alcolea, Maria Carmona Iragui, Aida Sanjuan Hernandez, Bessy Benejam, Laura Videla Toro, Alpana Singh, Marisa N. Denkinger, Anja Hviid Simonsen, Silke Kern, Anne Corbett, Juan Fortea, Lee Honigberg, Barbara Borroni, Oskar Hansson, Xavier Morató, Kaj Blennow, Henrik Zetterberg, Nicholas J. Ashton
+Journal: Nature Medicine
+Veröffentlicht: 2026-01-05
+Abstract: Abstract
+                  
+                    Blood biomarkers have emerged as accurate tools for detecting Alzheimer’s disease (AD) pathology, offering a minimally invasive alternative to traditional diagnostic methods such as imaging and cerebrospinal fluid (CSF) analysis. Yet, the logistics surrounding venipuncture for blood collection, although considerably simpler than the acquisition of imaging and CSF, require precise processing and storage specific to AD biomarkers that are still guided by medical personnel. Consequently, limitations in their widescale use in research and broader clinical implementation exist. The DROP-AD project investigates the potential of dried plasma spot (DPS) and dried blood spot (DBS) analysis, derived from capillary blood, for detecting AD biomarkers, including phosphorylated tau at amino acid 217 (p-tau217), glial fibrillary acidic protein and neurofilament light. Here, 337 participants from 7 centers were included, with 304 participants providing paired capillary DPS or DBS and venous plasma samples. We observed strong correlations between DPS p-tau217 and venous plasma p-tau217 (
+                    r
+                    S
+                     = 0.74,
+                    P
+                     &amp;lt; 0.001). DPS p-tau217 progressively increased with increasing disease severity, and showed good accuracy in predicting CSF biomarker positivity (area under the curve = 0.864). Similarly, we demonstrated the successful detection of glial fibrillary acidic protein and neurofilament light with strong correlations between DBS and DPS, respectively, using paired venous plasma samples. Notably, the method was also effective in individuals with Down syndrome, a population at high genetic risk for AD but in whom standard blood sampling by venipuncture may be more complicated, revealing elevated biomarkers in those with dementia compared with asymptomatic individuals. The study also explored unsupervised blood collection, finding high concordance between supervised and self-collected samples. These findings underscore the potential of dried blood collection and capillary blood as a minimally invasive, scalable approach for AD biomarker testing in research settings. Yet, further refinement of collection and analytical protocols is needed to fully translate this approach to be viable and useful as a clinical tool.
+                  
+DOI: 10.1038/s41591-025-04080-0
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2026-01-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-04080-0-2026-01-14-4</guid>
+			<pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Eleven clinical trials that will shape medicine in 2026</title>
 			<link>https://doi.org/10.1038/s41591-025-04083-x</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medicine, Research &amp; Experimental
-Score: 430
+Score: 429
 Autoren: Mike May
 Journal: Nature Medicine
 Veröffentlicht: 2025-12-01
 DOI: 10.1038/s41591-025-04083-x
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2026-01-13</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-04083-x-2026-01-13-5</guid>
+Tag der Erhebung (OOIR): 2026-01-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-04083-x-2026-01-14-5</guid>
 			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>

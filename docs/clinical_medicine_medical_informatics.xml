@@ -5,14 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 13 Jan 2026 01:08:22 GMT</pubDate>
-		<lastBuildDate>Tue, 13 Jan 2026 01:08:22 GMT</lastBuildDate>
+		<pubDate>Wed, 14 Jan 2026 01:14:34 GMT</pubDate>
+		<lastBuildDate>Wed, 14 Jan 2026 01:14:34 GMT</lastBuildDate>
 		<item>
 			<title>Super Mario Bros. and Yoshi Games’ Affordance of Childlike Wonder and Reduced Burnout Risk in Young Adults: In-Depth Mixed Methods Cross-Sectional Study</title>
 			<link>https://doi.org/10.2196/84219</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 503
+Score: 511
 Autoren: Winze Tam, Congcong Hou, Andreas Benedikt Eisingerich
 Journal: JMIR Serious Games
 Veröffentlicht: 2025-12-19
@@ -38,31 +38,16 @@ Abstract:
                   
 DOI: 10.2196/84219
 ISSN: 2291-9279
-Tag der Erhebung (OOIR): 2026-01-13</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/84219-2026-01-13-1</guid>
+Tag der Erhebung (OOIR): 2026-01-14</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/84219-2026-01-14-1</guid>
 			<pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Association of sleep patterns assessed by a smartphone application with work productivity loss among Japanese employees</title>
-			<link>https://doi.org/10.1038/s41746-025-02155-3</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 201
-Autoren: Jaehoon Seol, Masao Iwagami, Masashi Yanagisawa
-Journal: npj Digital Medicine
-Veröffentlicht: 2025-12-11
-DOI: 10.1038/s41746-025-02155-3
-ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-01-13</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-02155-3-2026-01-13-2</guid>
-			<pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Personalizing prostate cancer education for patients using an EHR-Integrated LLM agent</title>
 			<link>https://doi.org/10.1038/s41746-025-02166-0</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 52
+Score: 59
 Autoren: Yuexing Hao, Jason Holmes, Mark R. Waddle, Brian J. Davis, Nathan Y. Yu, Kristin S. Vickers, Heather Preston, Drew Margolin, Corinna E. Löckenhoff, Aditya Vashistha, Saleh Kalantari, Marzyeh Ghassemi, Wei Liu
 Journal: npj Digital Medicine
 Veröffentlicht: 2025-12-18
@@ -70,24 +55,9 @@ Abstract: Abstract
                   Cancer patients often lack timely education and personalized support due to clinician workload. This quality improvement study develops and evaluates a Large Language Model (LLM) agent, MedEduChat, which is integrated with the clinic’s electronic health records (EHR) and designed to enhance prostate cancer patient education. Fifteen non-metastatic prostate cancer patients and three clinicians recruited from the Mayo Clinic interacted with the agent between May 2024 and April 2025. Findings showed that MedEduChat has a high usability score (UMUX = 83.7/100) and improves patients’ health confidence (Health Confidence Score rose from 9.9 to 13.9). Clinicians evaluated the patient-chat interaction history and rated MedEduChat as highly correct (2.9/3), complete (2.7/3), and safe (2.7/3), with moderate personalization (2.3/3). This study highlights the potential of LLM agents to improve patient engagement and health education.
 DOI: 10.1038/s41746-025-02166-0
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-01-13</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-02166-0-2026-01-13-3</guid>
+Tag der Erhebung (OOIR): 2026-01-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-02166-0-2026-01-14-2</guid>
 			<pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Evaluation of performance measures in predictive artificial intelligence models to support medical decisions: overview and guidance</title>
-			<link>https://doi.org/10.1016/j.landig.2025.100916</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 51
-Autoren: Ben Van Calster, Gary S Collins, Andrew J Vickers, Laure Wynants, Kathleen F Kerr, Lasai Barreñada, Gael Varoquaux, Karandeep Singh, Karel GM Moons, Tina Hernandez-Boussard, Dirk Timmerman, David J McLernon, Maarten van Smeden, Ewout W Steyerberg
-Journal: The Lancet Digital Health
-Veröffentlicht: 2025-12-01
-DOI: 10.1016/j.landig.2025.100916
-ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2026-01-13</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2025.100916-2026-01-13-4</guid>
-			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>A Feature-Augmented Transformer Model to Recognize Functional Activities From in-the-Wild Smartwatch Data</title>
@@ -100,9 +70,60 @@ Journal: IEEE Journal of Biomedical and Health Informatics
 Veröffentlicht: 2026-01-01
 DOI: 10.1109/jbhi.2025.3586074
 ISSN: 2168-2194
-Tag der Erhebung (OOIR): 2026-01-13</description>
-			<guid isPermaLink="false">ooir-trend-10.1109/jbhi.2025.3586074-2026-01-13-5</guid>
+Tag der Erhebung (OOIR): 2026-01-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1109/jbhi.2025.3586074-2026-01-14-3</guid>
 			<pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Intervention in Health Misinformation Using Large Language Models for Automated Detection, Thematic Analysis, and Inoculation: Case Study on COVID-19</title>
+			<link>https://doi.org/10.2196/75500</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 25
+Autoren: Samira Malek, Christopher Griffin, Robert D Fraleigh, Robert Lennon, Vishal Monga, Lijiang Shen
+Journal: Journal of Medical Internet Research
+Veröffentlicht: 2026-01-08
+Abstract: Abstract
+                  
+                    Background
+                    The rapid growth of social media as an information channel has enabled the swift spread of inaccurate or false health information, significantly impacting public health. This widespread dissemination of misinformation has caused confusion, eroded trust in health authorities, led to noncompliance with health guidelines, and encouraged risky health behaviors. Understanding the dynamics of misinformation on social media is essential for devising effective public health communication strategies.
+                  
+                  
+                    Objective
+                    This study aims to present a comprehensive and automated approach that leverages large language models (LLMs) and machine learning techniques to detect misinformation on social media, uncover the underlying causes and themes, and generate refutation arguments, facilitating control of its spread and promoting public health outcomes by inoculating people against health misinformation.
+                  
+                  
+                    Methods
+                    We use 2 datasets to train 3 LLMs, namely, BERT, T5, and GPT-2, to classify documents into 2 categories: misinformation and nonmisinformation. In addition, we use a separate dataset to identify misinformation topics. To analyze these topics, we applied 3 topic modeling algorithms—Latent Dirichlet Allocation, Top2Vec, and BERTopic—and selected the optimal model based on performance evaluated across 3 metrics. Using a prompting approach, we extract sentence-level representations for the topics to uncover their underlying themes. Finally, we design a prompt text capable of identifying misinformation themes effectively.
+                  
+                  
+                    Results
+                    The trained BERT model demonstrated exceptional performance, achieving 98% accuracy in classifying misinformation and nonmisinformation, with a 44% reduction in false-positive rates for artificial intelligence–generated misinformation. Among the 3 topic modeling approaches used, BERTopic outperformed the others, achieving the highest metrics with a Coherence Value of 0.41, Normalized Pointwise Mutual Information of −0.086, and Inverse Rank-Biased Overlap of 0.99. To address the issue of unclassified documents, we developed an algorithm to assign each document to its closest topic. In addition, we proposed a novel method using prompt engineering to generate sentence-level representations for each topic, achieving a 99.6% approval rate as “appropriate” or “somewhat appropriate” by 3 independent raters. We further designed a prompt text to identify themes of misinformation topics and developed another prompt capable of detecting misinformation themes with 82% accuracy.
+                  
+                  
+                    Conclusions
+                    This study presents a comprehensive and automated approach to addressing health misinformation on social media using advanced machine learning and natural language processing techniques. By leveraging LLMs and prompt engineering, the system effectively detects misinformation, identifies underlying themes, and provides explanatory responses to combat its spread. The proposed method was tested on an English language COVID-19–related dataset and has not been evaluated on real-world online social media data; the experiments were conducted offline.
+                  
+DOI: 10.2196/75500
+ISSN: 1438-8871
+Tag der Erhebung (OOIR): 2026-01-14</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/75500-2026-01-14-4</guid>
+			<pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>What’s Next for Smart Implants in Health Care?</title>
+			<link>https://doi.org/10.2196/87975</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 18
+Autoren: Mark Crawford
+Journal: Journal of Medical Internet Research
+Veröffentlicht: 2025-11-26
+DOI: 10.2196/87975
+ISSN: 1438-8871
+Tag der Erhebung (OOIR): 2026-01-14</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/87975-2026-01-14-5</guid>
+			<pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
