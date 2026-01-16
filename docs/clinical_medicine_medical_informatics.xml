@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 15 Jan 2026 01:10:14 GMT</pubDate>
-		<lastBuildDate>Thu, 15 Jan 2026 01:10:14 GMT</lastBuildDate>
+		<pubDate>Fri, 16 Jan 2026 01:12:33 GMT</pubDate>
+		<lastBuildDate>Fri, 16 Jan 2026 01:12:33 GMT</lastBuildDate>
 		<item>
 			<title>Super Mario Bros. and Yoshi Games’ Affordance of Childlike Wonder and Reduced Burnout Risk in Young Adults: In-Depth Mixed Methods Cross-Sectional Study</title>
 			<link>https://doi.org/10.2196/84219</link>
@@ -38,9 +38,79 @@ Abstract:
                   
 DOI: 10.2196/84219
 ISSN: 2291-9279
-Tag der Erhebung (OOIR): 2026-01-15</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/84219-2026-01-15-1</guid>
+Tag der Erhebung (OOIR): 2026-01-16</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/84219-2026-01-16-1</guid>
 			<pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Examining the Association Between Internet Use and Perceived Stress in Adults: Longitudinal Observational Study Combining Web Tracking Data With Questionnaires</title>
+			<link>https://doi.org/10.2196/78775</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 369
+Autoren: Mohammad Belal, Nguyen Luong, Talayeh Aledavood, Juhi Kulshrestha
+Journal: Journal of Medical Internet Research
+Veröffentlicht: 2026-01-09
+Abstract: Abstract
+                  
+                    Background
+                    In today’s digital era, the internet plays a pervasive role in daily life, influencing everyday activities such as communication, work, and leisure. This online engagement intertwines with offline experiences, shaping individuals’ overall well-being. Despite its significance, existing research often falls short in capturing the relationship between internet use and well-being, relying primarily on isolated studies and self-reported data. One major contributor to deteriorated well-being is stress. While some research has examined the relationship between internet use and stress, both positive and negative associations have been reported.
+                  
+                  
+                    Objective
+                    This study aimed to identify the associations between an individual’s internet use and their stress.
+                  
+                  
+                    Methods
+                    We conducted a 7-month longitudinal study. We combined fine-grained URL-level web browsing traces of 1490 German internet users with their sociodemographics and monthly measures of stress. Further, we developed a conceptual framework that allows us to simultaneously explore different contextual dimensions, including how, where, when, and by whom the internet is used. We applied linear mixed-effects models to examine these associations.
+                  
+                  
+                    Results
+                    
+                      Our analysis revealed several associations between internet use and stress, varying by context. Increased time spent on social media, online shopping, and gaming platforms was associated with higher stress. For example, the time spent by individuals on shopping-related internet use (aggregated over the 30 days before their stress was measured via questionnaires) was positively associated with stress on both mobile (
+                      β
+                      =.04, 95% CI 0.00‐0.08;
+                      P
+                      =.04) and desktop devices (
+                      β
+                      =.03, 95% CI −0.00 to 0.06;
+                      P
+                      =.09). In contrast, time spent on productivity or news websites was associated with lower stress. Specifically, in the last 30 days of mobile usage, productivity-related use showed a negative association with stress (
+                      β
+                      =−.03, 95% CI −0.06 to −0.00;
+                      P
+                      =.04). In addition, in the last 2 days of data, news usage was negatively associated with stress on both mobile (
+                      β
+                      =−.54, 95% CI −1.08 to 0.00;
+                      P
+                      =.048) and desktop devices (
+                      β
+                      =−.50, 95% CI−0.90 to −0.11;
+                      P
+                      =.01). Further analysis showed that total time spent online (
+                      β
+                      =.01, 95% CI 0.00‐0.02;
+                      P
+                      &amp;lt;.001), social-media usage (
+                      β
+                      =.02, 95% CI 0.00‐0.03;
+                      P
+                      =.02), and gaming usage (
+                      β
+                      =.01, 95% CI 0.00‐0.02;
+                      P
+                      =.02) were all positively associated with stress in high-stress Perceived Stress Scale (PSS&amp;gt;26) individuals on mobile devices.
+                    
+                  
+                  
+                    Conclusions
+                    The findings indicate that internet use is associated with stress, and these associations differ across various usage contexts. In the future, the behavioral markers we identified can pave the way for designing individualized tools for people to self-monitor and self-moderate their online behaviors to enhance their well-being, reducing the burden on already overburdened mental health services.
+                  
+DOI: 10.2196/78775
+ISSN: 1438-8871
+Tag der Erhebung (OOIR): 2026-01-16</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/78775-2026-01-16-2</guid>
+			<pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Personalizing prostate cancer education for patients using an EHR-Integrated LLM agent</title>
@@ -55,8 +125,8 @@ Abstract: Abstract
                   Cancer patients often lack timely education and personalized support due to clinician workload. This quality improvement study develops and evaluates a Large Language Model (LLM) agent, MedEduChat, which is integrated with the clinic’s electronic health records (EHR) and designed to enhance prostate cancer patient education. Fifteen non-metastatic prostate cancer patients and three clinicians recruited from the Mayo Clinic interacted with the agent between May 2024 and April 2025. Findings showed that MedEduChat has a high usability score (UMUX = 83.7/100) and improves patients’ health confidence (Health Confidence Score rose from 9.9 to 13.9). Clinicians evaluated the patient-chat interaction history and rated MedEduChat as highly correct (2.9/3), complete (2.7/3), and safe (2.7/3), with moderate personalization (2.3/3). This study highlights the potential of LLM agents to improve patient engagement and health education.
 DOI: 10.1038/s41746-025-02166-0
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-01-15</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-02166-0-2026-01-15-2</guid>
+Tag der Erhebung (OOIR): 2026-01-16</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-02166-0-2026-01-16-3</guid>
 			<pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -70,8 +140,8 @@ Journal: IEEE Journal of Biomedical and Health Informatics
 Veröffentlicht: 2026-01-01
 DOI: 10.1109/jbhi.2025.3586074
 ISSN: 2168-2194
-Tag der Erhebung (OOIR): 2026-01-15</description>
-			<guid isPermaLink="false">ooir-trend-10.1109/jbhi.2025.3586074-2026-01-15-3</guid>
+Tag der Erhebung (OOIR): 2026-01-16</description>
+			<guid isPermaLink="false">ooir-trend-10.1109/jbhi.2025.3586074-2026-01-16-4</guid>
 			<pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -79,7 +149,7 @@ Tag der Erhebung (OOIR): 2026-01-15</description>
 			<link>https://doi.org/10.2196/75500</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 25
+Score: 24
 Autoren: Samira Malek, Christopher Griffin, Robert D Fraleigh, Robert Lennon, Vishal Monga, Lijiang Shen
 Journal: Journal of Medical Internet Research
 Veröffentlicht: 2026-01-08
@@ -106,24 +176,9 @@ Abstract: Abstract
                   
 DOI: 10.2196/75500
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2026-01-15</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/75500-2026-01-15-4</guid>
+Tag der Erhebung (OOIR): 2026-01-16</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/75500-2026-01-16-5</guid>
 			<pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>What’s Next for Smart Implants in Health Care?</title>
-			<link>https://doi.org/10.2196/87975</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 18
-Autoren: Mark Crawford
-Journal: Journal of Medical Internet Research
-Veröffentlicht: 2025-11-26
-DOI: 10.2196/87975
-ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2026-01-15</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/87975-2026-01-15-5</guid>
-			<pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
