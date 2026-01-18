@@ -5,46 +5,62 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Pharmacology &amp; Pharmacy) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 17 Jan 2026 01:10:50 GMT</pubDate>
-		<lastBuildDate>Sat, 17 Jan 2026 01:10:50 GMT</lastBuildDate>
+		<pubDate>Sun, 18 Jan 2026 01:17:40 GMT</pubDate>
+		<lastBuildDate>Sun, 18 Jan 2026 01:17:40 GMT</lastBuildDate>
 		<item>
-			<title>Selective anti-cancer effects of cannabidiol and Δ9-tetrahydrocannabinol via PI3K/AKT/mTOR inhibition and PTEN restoration in ovarian cancer cells</title>
-			<link>https://doi.org/10.3389/fphar.2025.1693129</link>
+			<title>Durability of the benefit of vagus nerve stimulation in markedly treatment-resistant major depression: a RECOVER trial report</title>
+			<link>https://doi.org/10.1093/ijnp/pyaf080</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Pharmacology &amp; Pharmacy
-Score: 160
-Autoren: Siyao Tong, Watcharin Loilome, Nisana Namwat, Poramate Klanrit, Arporn Wangwiwatsin, Zar Zar Win, Preeya Koyabuth, Bandit Chumworathayi
-Journal: Frontiers in Pharmacology
-Veröffentlicht: 2025-12-15
-Abstract: 
-                    Introduction
-                    Ovarian cancer is a highly lethal gynecological malignancy, often diagnosed at advanced stages. Cannabidiol (CBD) and delta-9-tetrahydrocannabinol (THC) demonstrate anti-tumor activity in various cancers including ovarian cancer through multiple signaling pathways and are increasingly explored as adjuncts to chemotherapy. However, the effects of CBD and THC combination treatment and its specific mechanisms remain unclear. This study evaluated the anti-tumor effects of CBD, THC, and their combination on SKOV3 and A2780 ovarian cancer cells, focusing on phosphorylation-dependent regulation of the PI3K/AKT/mTOR pathway.
+Score: 176
+Autoren: Charles R Conway, Augustus John Rush, Scott T Aaronson, Mark T Bunker, Charles Gordon, Mark S George, Patricio Riva-Posse, Rebecca M Allen, Ziad Nahas, Christopher L Kriedt, John Zajecka, David L Dunner, João Quevedo, Yvette Sheline, Walter Duffy, Brian J Mickey, Mary Stedman, Gustavo Alva, Lucian Manu, Quyen Tran, Charles F Zorumski, Matthew Macaluso, Michael Banov, Cristina Cusin, Jeffrey I Bennett, Hunter Brown, Jeffrey Way, Olivia Shy, Ying-Chieh (Lisa) Lee, Richard Hamish McAllister-Williams, Roger S McIntyre, Harold A Sackeim
+Journal: International Journal of Neuropsychopharmacology
+Veröffentlicht: 2026-01-01
+Abstract: Abstract
+                  
+                    Importance
+                    Greater levels of treatment resistance in major depressive disorder (MDD) are associated with lower rates of initial benefit and higher rates of relapse (lower durability).
                   
                   
-                    Methods
-                    SKOV3, A2780, and IOSE cells were treated with CBD, THC, and equimolar CBD: THC combinations. Cytotoxicity was assessed using Sulforhodamine B assay, while synergistic interactions were analyzed by the Chou-Talay method using CompuSyn. Cell cycle distribution and apoptosis were evaluated, and phosphorylation of PI3K, AKT, mTOR, and PTEN was examined by Western blotting.
+                    Objective
+                    Characterize depressive symptoms, function, and quality of life (QoL) over 24 months of adjunctive vagus nerve stimulation (VNS) in participants with markedly treatment-resistant depression.
+                  
+                  
+                    Design
+                    Prospective, open-label, single-arm, long-term extension study (RECOVER) conducted from September 2019 to April 2025.
+                  
+                  
+                    Setting
+                    Outpatient.
+                  
+                  
+                    Participants
+                    Adults with moderate–severe MDD with ≥ 4 failed antidepressant trials in the current episode, randomized to blinded, adjunctive VNS for 12 months, who subsequently received open-label, adjunctive VNS for 12 additional months (n = 214).
+                  
+                  
+                    Interventions
+                    Vagus nerve stimulation and concomitant psychotropic medications and interventional psychiatric modalities (electroconvulsive therapy, transcranial magnetic stimulation, and ketamine/esketamine) were characterized over the 12-month extension.
+                  
+                  
+                    Main Outcomes and Measures
+                    The durability of benefit achieved at 12 months was assessed at 18 and 24 months for depressive symptoms (3 scales), daily function, QoL, a tripartite composite of all 3 domains, and the Clinical Global Impression–Improvement (CGI-I) scale (overall improvement). Loss of benefit and relapse were assessed, along with the emergence of meaningful benefit in participants without benefit at 12 months. Substantial benefit (at least 50% symptom reduction from baseline; CGI-I of 1 or 2; tripartite measures with at least 2 of 3 subscales evidencing benefit) and meaningful benefit thresholds for symptoms (at least 30% reduction from baseline), function, QoL, CGI-I, and the tripartite measure were set a priori.
                   
                   
                     Results
-                    
-                      The CBD: THC combination treatment showed potent, selective cytotoxicity at 48 h, with lower IC
-                      50
-                      values than in non-tumor IOSE80 cells. The Chou–Talalay method validated a synergistic effect between CBD and THC. The combination treatment induced cell cycle arrest and enhanced apoptosis. Western blot analysis exhibited that equimolar CBD: THC (2.5:2.5 μM) markedly reduced phosphorylation of PI3K, AKT, and mTOR, while increasing phosphorylation of PTEN, thereby reactivating tumor-suppressive signaling.
-                    
+                    Most participants with substantial benefit maintained their benefit (18-month median = 78.8%; 24-month median = 79.0% across 5 measures), as did participants with at least meaningful benefit at 12 months (18-month median = 83.1%; 24-month median = 81.3% across 7 measures). Furthermore, many participants with no meaningful benefit at 12 months achieved it at 18 (median = 30.6%) and 24 (median = 37.8%) months. The strong maintenance of benefit was not accounted for by changes in psychotropic medications or interventional psychiatric modalities.
                   
                   
-                    Conclusion
-                    
-                      These findings highlight that CBD: THC combination treatment effectively inhibited ovarian cancer cell growth and invasion via oncogenic PI3K/AKT/mTOR signaling and reactivates PTEN. The combination may represent a promising targeted therapeutic approach, warranting further
-                      in vivo
-                      validation to elucidate its clinical potential.
-                    
+                    Conclusions and Relevance
+                    Depressive symptom, daily function, and QoL benefits obtained after 12 months of adjunctive VNS were sustained in about 80% of participants continuing VNS. Approximately 30% with no meaningful benefit at 12 months accrued increased benefit over the subsequent year.
                   
-DOI: 10.3389/fphar.2025.1693129
-ISSN: 1663-9812
-Tag der Erhebung (OOIR): 2026-01-17</description>
-			<guid isPermaLink="false">ooir-trend-10.3389/fphar.2025.1693129-2026-01-17-1</guid>
-			<pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
+                  
+                    Highlights
+                  
+DOI: 10.1093/ijnp/pyaf080
+ISSN: 1461-1457
+Tag der Erhebung (OOIR): 2026-01-18</description>
+			<guid isPermaLink="false">ooir-trend-10.1093/ijnp/pyaf080-2026-01-18-1</guid>
+			<pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>2025 FDA approvals</title>
@@ -57,8 +73,8 @@ Journal: Nature Reviews Drug Discovery
 Veröffentlicht: 2026-01-02
 DOI: 10.1038/d41573-026-00001-z
 ISSN: 1474-1776
-Tag der Erhebung (OOIR): 2026-01-17</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/d41573-026-00001-z-2026-01-17-2</guid>
+Tag der Erhebung (OOIR): 2026-01-18</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/d41573-026-00001-z-2026-01-18-2</guid>
 			<pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -72,8 +88,8 @@ Journal: Expert Review of Anti-infective Therapy
 Veröffentlicht: 2025-12-25
 DOI: 10.1080/14787210.2025.2595462
 ISSN: 1478-7210
-Tag der Erhebung (OOIR): 2026-01-17</description>
-			<guid isPermaLink="false">ooir-trend-10.1080/14787210.2025.2595462-2026-01-17-3</guid>
+Tag der Erhebung (OOIR): 2026-01-18</description>
+			<guid isPermaLink="false">ooir-trend-10.1080/14787210.2025.2595462-2026-01-18-3</guid>
 			<pubDate>Thu, 25 Dec 2025 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -87,8 +103,8 @@ Journal: Journal of Managed Care &amp;amp; Specialty Pharmacy
 Veröffentlicht: 2026-01-01
 DOI: 10.18553/jmcp.2025.25253
 ISSN: 2376-0540
-Tag der Erhebung (OOIR): 2026-01-17</description>
-			<guid isPermaLink="false">ooir-trend-10.18553/jmcp.2025.25253-2026-01-17-4</guid>
+Tag der Erhebung (OOIR): 2026-01-18</description>
+			<guid isPermaLink="false">ooir-trend-10.18553/jmcp.2025.25253-2026-01-18-4</guid>
 			<pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -119,8 +135,8 @@ Abstract: Abstract
                   
 DOI: 10.1093/ajhp/zxag006
 ISSN: 1079-2082
-Tag der Erhebung (OOIR): 2026-01-17</description>
-			<guid isPermaLink="false">ooir-trend-10.1093/ajhp/zxag006-2026-01-17-5</guid>
+Tag der Erhebung (OOIR): 2026-01-18</description>
+			<guid isPermaLink="false">ooir-trend-10.1093/ajhp/zxag006-2026-01-18-5</guid>
 			<pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>

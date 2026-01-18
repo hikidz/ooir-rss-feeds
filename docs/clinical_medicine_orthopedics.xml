@@ -5,14 +5,107 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Orthopedics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 17 Jan 2026 01:08:58 GMT</pubDate>
-		<lastBuildDate>Sat, 17 Jan 2026 01:08:58 GMT</lastBuildDate>
+		<pubDate>Sun, 18 Jan 2026 01:17:03 GMT</pubDate>
+		<lastBuildDate>Sun, 18 Jan 2026 01:17:03 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Orthopedics) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-orthopedics-20260117010858</guid>
-			<pubDate>Sat, 17 Jan 2026 01:08:58 GMT</pubDate>
+			<title>Personalized Spine Surgery in Adult Deformity: Reoperation Rates and Mechanical Complications Following Customized Planning and Interbody Implant Use</title>
+			<link>https://doi.org/10.1177/21925682251409696</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 50
+Autoren: Justin S. Smith, Chun-Po Yen, Roland Kent, Sigurd Berven, Gregory M. Mundis, Robert Robinson, Rodrigo J. Nicolau, Joseph A. Osorio, Jahangir Asghar, J. Rush Fisher, Kelli M. Howell, Mark Tantorski, Donald Blaskiewicz, Jeffrey P. Mullin, Joseph Gjolaj, John Small, Christopher P. Ames
+Journal: Global Spine Journal
+Veröffentlicht: 2025-12-20
+Abstract: 
+                    Study Design
+                    Retrospective cohort study.
+                  
+                  
+                    Objectives
+                    Prior studies have shown that adult spinal deformity (ASD) patients undergoing revision surgery due to mechanical complications had less radiographic improvement and worsening patient-reported outcomes scores. The combination of customized 3D planning and personalized implants has been shown to contribute to improved achievement of alignment goals. This study aimed to determine whether such improved correction also results in a correspondingly lower revision surgery rate due to mechanical complications.
+                  
+                  
+                    Methods
+                    Pre- and postoperative radiographic alignment measures, including lumbar lordosis (LL), distal lumbar lordosis (DLL), pelvic incidence (PI) – LL mismatch, and L1 pelvic angle (L1PA), as well as data on mechanical complications leading to reoperation were collected on 115 ASD patients with personalized interbody implants and minimum 2-year follow-up. This cohort was statistically compared to a multicenter dataset (ISSG) of 997 ASD patients treated using stock devices and using the same reoperation classifications.
+                  
+                  
+                    Results
+                    
+                      Postoperatively achieved alignment measures correlated significantly with their respective preoperative alignment goals, with the following average offsets from plan: 2.4° LL, −0.2° DLL, −2.4° PI-LL, 0.3° L1PA. Compared to the ISSG cohort that utilized stock interbody implants, the cohort utilizing 3D preoperative planning and personalized interbody implants resulted in significantly fewer revisions for mechanical complications up to 2 years postoperatively: 5/115 (4.3%) vs 166/997 (16.6%),
+                      P
+                      &amp;lt; 0.001.
+                    
+                  
+                  
+                    Conclusions
+                    These findings suggest that achieving planned alignment targets with personalized interbody devices is associated with reduced revision surgery for mechanical complications, a result which may have positive implications for improved patient outcomes and reduced cost.
+                  
+DOI: 10.1177/21925682251409696
+ISSN: 2192-5682
+Tag der Erhebung (OOIR): 2026-01-18</description>
+			<guid isPermaLink="false">ooir-trend-10.1177/21925682251409696-2026-01-18-1</guid>
+			<pubDate>Sat, 20 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Four-year outcomes following triplanar tarsometatarsal arthrodesis with early weightbearing for Hallux Valgus: A multicenter prospective study</title>
+			<link>https://doi.org/10.1053/j.jfas.2025.07.007</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 47
+Autoren: Daniel J. Hatch, Avneesh Chhabra, Mindi Dayton, Paul D. Dayton, Daniel C. Farber, Deidre A. Kile, Jennifer Koay, George T. Liu, Jody P. McAleer, Robert D. Santrock
+Journal: The Journal of Foot and Ankle Surgery
+Veröffentlicht: 2026-01-01
+DOI: 10.1053/j.jfas.2025.07.007
+ISSN: 1067-2516
+Tag der Erhebung (OOIR): 2026-01-18</description>
+			<guid isPermaLink="false">ooir-trend-10.1053/j.jfas.2025.07.007-2026-01-18-2</guid>
+			<pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Patient Concerns Are Often Overlooked by Low Back Pain (LBP) Guidelines</title>
+			<link>https://doi.org/10.2519/jospt.2026.9001</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 24
+Journal: Journal of Orthopaedic &amp;amp; Sports Physical Therapy
+Veröffentlicht: 2026-01-01
+Abstract: Infographic illustrating the article “People With Acute Low Back Pain Have Concerns That May Not Be Addressed by Guideline-Recommended Advice: A Mixed-Methods Study”, which was published in the September 2024 issue of JOSPT.
+                  J Orthop Sports Phys Ther 2026;56(1):64. doi:10.2519/jospt.2026.9001
+DOI: 10.2519/jospt.2026.9001
+ISSN: 0190-6011
+Tag der Erhebung (OOIR): 2026-01-18</description>
+			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2026.9001-2026-01-18-3</guid>
+			<pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Metformin and incident osteoarthritis: Causal insights from a co-twin control study</title>
+			<link>https://doi.org/10.1016/j.joca.2025.12.014</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 21
+Autoren: Karin Magnusson, Aleksandra Turkiewicz, Andrea Dell’Isola, Ali Kiadaliri, Martin Englund
+Journal: Osteoarthritis and Cartilage
+Veröffentlicht: 2025-12-01
+DOI: 10.1016/j.joca.2025.12.014
+ISSN: 1063-4584
+Tag der Erhebung (OOIR): 2026-01-18</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.joca.2025.12.014-2026-01-18-4</guid>
+			<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>The effect of exercıse program on exercıse perceptıon and fear of movement ın low back paın</title>
+			<link>https://doi.org/10.1007/s00586-025-09720-0</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 14
+Autoren: Mine ARĞALI DENİZ, Burcu Özüberk, Feray Soyupek
+Journal: European Spine Journal
+Veröffentlicht: 2026-01-09
+DOI: 10.1007/s00586-025-09720-0
+ISSN: 0940-6719
+Tag der Erhebung (OOIR): 2026-01-18</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s00586-025-09720-0-2026-01-18-5</guid>
+			<pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
