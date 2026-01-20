@@ -5,14 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Mon, 19 Jan 2026 01:16:16 GMT</pubDate>
-		<lastBuildDate>Mon, 19 Jan 2026 01:16:16 GMT</lastBuildDate>
+		<pubDate>Tue, 20 Jan 2026 01:11:03 GMT</pubDate>
+		<lastBuildDate>Tue, 20 Jan 2026 01:11:03 GMT</lastBuildDate>
 		<item>
 			<title>Examining the Association Between Internet Use and Perceived Stress in Adults: Longitudinal Observational Study Combining Web Tracking Data With Questionnaires</title>
 			<link>https://doi.org/10.2196/78775</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 373
+Score: 378
 Autoren: Mohammad Belal, Nguyen Luong, Talayeh Aledavood, Juhi Kulshrestha
 Journal: Journal of Medical Internet Research
 Veröffentlicht: 2026-01-09
@@ -73,8 +73,8 @@ Abstract: Abstract
                   
 DOI: 10.2196/78775
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2026-01-19</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/78775-2026-01-19-1</guid>
+Tag der Erhebung (OOIR): 2026-01-20</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/78775-2026-01-20-1</guid>
 			<pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -88,8 +88,8 @@ Journal: npj Digital Medicine
 Veröffentlicht: 2026-01-07
 DOI: 10.1038/s41746-025-02324-4
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-01-19</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-02324-4-2026-01-19-2</guid>
+Tag der Erhebung (OOIR): 2026-01-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-025-02324-4-2026-01-20-2</guid>
 			<pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -103,8 +103,8 @@ Journal: IEEE Journal of Biomedical and Health Informatics
 Veröffentlicht: 2026-01-01
 DOI: 10.1109/jbhi.2025.3586074
 ISSN: 2168-2194
-Tag der Erhebung (OOIR): 2026-01-19</description>
-			<guid isPermaLink="false">ooir-trend-10.1109/jbhi.2025.3586074-2026-01-19-3</guid>
+Tag der Erhebung (OOIR): 2026-01-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1109/jbhi.2025.3586074-2026-01-20-3</guid>
 			<pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -139,55 +139,24 @@ Abstract: Abstract
                   
 DOI: 10.2196/75500
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2026-01-19</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/75500-2026-01-19-4</guid>
+Tag der Erhebung (OOIR): 2026-01-20</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/75500-2026-01-20-4</guid>
 			<pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Smartphone-Based Digital Eczema Education Program for Atopic Dermatitis in Children Aged 0 to 6 Years: Multicenter, Randomized, Parallel Controlled Clinical Study</title>
-			<link>https://doi.org/10.2196/79559</link>
+			<title>What’s Next for Smart Implants in Health Care?</title>
+			<link>https://doi.org/10.2196/87975</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
 Score: 18
-Autoren: Huan Yang, Hong Shu, Liu-hui Wang, Ping Li, Yun-ling Li, Qin-feng Li, Xiu-ping Han, Jing Tian, Jing Chang, Hua Qian, Jing-ping Chen, Xin-qiang Ding, Pan-qian Wu, Li-min Dou, Zhen Luo, Wei Li, Yang-yang Lin, Lin Li, Shu-zhen Yue, Yang Gu, Li Yang, Xiao-hong Sun, Xiao-yan Luo, Lin Ma, Hua Wang
+Autoren: Mark Crawford
 Journal: Journal of Medical Internet Research
-Veröffentlicht: 2026-01-07
-Abstract: Abstract
-                  
-                    Background
-                    Atopic dermatitis (AD) is a chronic, relapsing inflammatory skin condition that affects approximately 10% to 20% of children, imposing substantial health and economic burdens. Although education for patients and caregivers is acknowledged as a crucial element in the management of AD, conventional approaches, such as workshops or in-person consultations, are often resource intensive and face challenges related to scalability, personalization, and relapse prevention. Digital tools present promising alternatives; however, empirical evidence supporting their effectiveness in young children is currently limited.
-                  
-                  
-                    Objective
-                    This study aimed to evaluate whether a smartphone-based patient-caregiver educational program could reduce relapse rates in children aged 0 to 6 years with moderate-to-severe AD, compared with conventional outpatient consultation alone.
-                  
-                  
-                    Methods
-                    
-                      In this multicenter, randomized, parallel-controlled trial, 615 children were enrolled across 12 tertiary pediatric dermatology centers in China and randomized (1:1) to receive either a smartphone-based digital education program with standard care (intervention group) or conventional face-to-face consultation only (control group). The 12-week digital program, delivered via the WeChat-based
-                      Skin Care E-Station
-                      platform, included structured multimedia modules, interactive educational materials, and a dynamic electronic action plan tailored to the child’s age and disease stage. The primary endpoint was the 12-week relapse rate after the acute treatment phase. The secondary endpoints included changes in disease severity (Scoring Atopic Dermatitis, Peak Pruritus Numerical Rating Scale, and Patient-Oriented Eczema Measure) and quality of life (Children’s Dermatology Life Quality Index or Infant’s Dermatitis Quality of Life Index and Dermatitis Family Impact) up to 52 weeks.
-                    
-                  
-                  
-                    Results
-                    
-                      Among 615 randomized participants (mean age 3.3, SD 1.7 y; n=317, 51.5% male), relapse at 12 weeks occurred significantly less frequently in the digital education group than in the control group (16.6% vs 24.0%; relative risk 0.69, 95% CI 0.50‐0.96;
-                      P
-                      =.02). Kaplan-Meier analysis showed superior relapse-free survival over the first 100 days (hazard ratio 0.688, 95% CI 0.490‐0.966;
-                      P
-                      =.03). Differences in relapse rates beyond 12 weeks and in secondary outcomes were not statistically significant. Engagement tracking indicated high adherence to the intervention, with 58.0% of caregivers maintaining regular weekly use of the digital platform.
-                    
-                  
-                  
-                    Conclusions
-                    A structured smartphone-based patient-caregiver educational intervention significantly reduced short-term relapse risk among young children with moderate-to-severe AD, likely through improved caregiver recognition and early management of disease flares. Although effects diminished beyond 12 weeks, this approach demonstrates that scalable digital education is a feasible and effective adjunct to standard care in pediatric AD. Future research should focus on sustaining engagement, optimizing long-term reinforcement, and assessing cost-effectiveness in diverse caregiver populations.
-                  
-DOI: 10.2196/79559
+Veröffentlicht: 2025-11-26
+DOI: 10.2196/87975
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2026-01-19</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/79559-2026-01-19-5</guid>
-			<pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+Tag der Erhebung (OOIR): 2026-01-20</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/87975-2026-01-20-5</guid>
+			<pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
