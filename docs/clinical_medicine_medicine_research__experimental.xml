@@ -5,100 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, Research &amp; Experimental) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 21 Jan 2026 01:13:52 GMT</pubDate>
-		<lastBuildDate>Wed, 21 Jan 2026 01:13:52 GMT</lastBuildDate>
+		<pubDate>Thu, 22 Jan 2026 01:13:19 GMT</pubDate>
+		<lastBuildDate>Thu, 22 Jan 2026 01:13:19 GMT</lastBuildDate>
 		<item>
-			<title>A multimodal sleep foundation model for disease prediction</title>
-			<link>https://doi.org/10.1038/s41591-025-04133-4</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, Research &amp; Experimental
-Score: 1224
-Autoren: Rahul Thapa, Magnus Ruud Kjaer, Bryan He, Ian Covert, Hyatt Moore IV, Umaer Hanif, Gauri Ganjoo, M. Brandon Westover, Poul Jennum, Andreas Brink-Kjaer, Emmanuel Mignot, James Zou
-Journal: Nature Medicine
-Veröffentlicht: 2026-01-06
-Abstract: Abstract
-                  
-                    Sleep is a fundamental biological process with broad implications for physical and mental health, yet its complex relationship with disease remains poorly understood. Polysomnography (PSG)—the gold standard for sleep analysis—captures rich physiological signals but is underutilized due to challenges in standardization, generalizability and multimodal integration. To address these challenges, we developed SleepFM, a multimodal sleep foundation model trained with a new contrastive learning approach that accommodates multiple PSG configurations. Trained on a curated dataset of over 585,000 hours of PSG recordings from approximately 65,000 participants across several cohorts, SleepFM produces latent sleep representations that capture the physiological and temporal structure of sleep and enable accurate prediction of future disease risk. From one night of sleep, SleepFM accurately predicts 130 conditions with a C-Index of at least 0.75 (Bonferroni-corrected
-                    P
-                     &amp;lt; 0.01), including all-cause mortality (C-Index, 0.84), dementia (0.85), myocardial infarction (0.81), heart failure (0.80), chronic kidney disease (0.79), stroke (0.78) and atrial fibrillation (0.78). Moreover, the model demonstrates strong transfer learning performance on a dataset from the Sleep Heart Health Study—a dataset that was excluded from pretraining—and performs competitively with specialized sleep-staging models such as U-Sleep and YASA on common sleep analysis tasks, achieving mean
-                    F
-                    1
-                    scores of 0.70–0.78 for sleep staging and accuracies of 0.69 and 0.87 for classifying sleep apnea severity and presence. This work shows that foundation models can learn the language of sleep from multimodal sleep recordings, enabling scalable, label-efficient analysis and disease prediction.
-                  
-DOI: 10.1038/s41591-025-04133-4
-ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2026-01-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-04133-4-2026-01-21-1</guid>
-			<pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Neurobehavioural links from infant screen time to anxiety</title>
-			<link>https://doi.org/10.1016/j.ebiom.2025.106093</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, Research &amp; Experimental
-Score: 486
-Autoren: Pei Huang, Shi Yu Chan, Kathy Xinzhuo Zhou, Jasmine Chuah, Aisleen Mariz Arellano Manahan, Evelyn Chung Ning Law, Shefaly Shorey, Helen Juan Zhou, Marielle Valerie Fortier, Yap-Seng Chong, Michael Joseph Meaney, Ai Peng Tan
-Journal: eBioMedicine
-Veröffentlicht: 2026-01-01
-DOI: 10.1016/j.ebiom.2025.106093
-ISSN: 2352-3964
-Tag der Erhebung (OOIR): 2026-01-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ebiom.2025.106093-2026-01-21-2</guid>
-			<pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>A minimally invasive dried blood spot biomarker test for the detection of Alzheimer’s disease pathology</title>
-			<link>https://doi.org/10.1038/s41591-025-04080-0</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, Research &amp; Experimental
-Score: 460
-Autoren: Hanna Huber, Laia Montoliu-Gaya, Wagner S. Brum, Jakub Vávra, Yara Yakoub, Haley Weninger, Luisa Sophie Braun-Wohlfahrt, Joel Simrén, Mercé Boada, Agustín Ruiz, Amanda Cano, Adelina Orellana, Sergi Valero, Laia Cañada, Natalia Tantinya, Ana Belen Nogales, Pilar Sanz-Cartagena, Anna Dittrich, Ingmar Skoog, Millie Sander-Long, Clive Ballard, Megan Richards, Mary O’Leary, Frederikke Kragh Clemmensen, Hannah H. D. Wandall, Daniele Altomare, Valentina Cantoni, Erik Stomrud, Sebastian Palmqvist, Alberto Lleo, Daniel Alcolea, Maria Carmona Iragui, Aida Sanjuan Hernandez, Bessy Benejam, Laura Videla Toro, Alpana Singh, Marisa N. Denkinger, Anja Hviid Simonsen, Silke Kern, Anne Corbett, Juan Fortea, Lee Honigberg, Barbara Borroni, Oskar Hansson, Xavier Morató, Kaj Blennow, Henrik Zetterberg, Nicholas J. Ashton
-Journal: Nature Medicine
-Veröffentlicht: 2026-01-05
-Abstract: Abstract
-                  
-                    Blood biomarkers have emerged as accurate tools for detecting Alzheimer’s disease (AD) pathology, offering a minimally invasive alternative to traditional diagnostic methods such as imaging and cerebrospinal fluid (CSF) analysis. Yet, the logistics surrounding venipuncture for blood collection, although considerably simpler than the acquisition of imaging and CSF, require precise processing and storage specific to AD biomarkers that are still guided by medical personnel. Consequently, limitations in their widescale use in research and broader clinical implementation exist. The DROP-AD project investigates the potential of dried plasma spot (DPS) and dried blood spot (DBS) analysis, derived from capillary blood, for detecting AD biomarkers, including phosphorylated tau at amino acid 217 (p-tau217), glial fibrillary acidic protein and neurofilament light. Here, 337 participants from 7 centers were included, with 304 participants providing paired capillary DPS or DBS and venous plasma samples. We observed strong correlations between DPS p-tau217 and venous plasma p-tau217 (
-                    r
-                    S
-                     = 0.74,
-                    P
-                     &amp;lt; 0.001). DPS p-tau217 progressively increased with increasing disease severity, and showed good accuracy in predicting CSF biomarker positivity (area under the curve = 0.864). Similarly, we demonstrated the successful detection of glial fibrillary acidic protein and neurofilament light with strong correlations between DBS and DPS, respectively, using paired venous plasma samples. Notably, the method was also effective in individuals with Down syndrome, a population at high genetic risk for AD but in whom standard blood sampling by venipuncture may be more complicated, revealing elevated biomarkers in those with dementia compared with asymptomatic individuals. The study also explored unsupervised blood collection, finding high concordance between supervised and self-collected samples. These findings underscore the potential of dried blood collection and capillary blood as a minimally invasive, scalable approach for AD biomarker testing in research settings. Yet, further refinement of collection and analytical protocols is needed to fully translate this approach to be viable and useful as a clinical tool.
-                  
-DOI: 10.1038/s41591-025-04080-0
-ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2026-01-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-04080-0-2026-01-21-3</guid>
-			<pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Increased phosphorylated tau (pTau-181) is associated with neurological post-acute sequelae of coronavirus disease in essential workers: a prospective cohort study before and after COVID-19 onset</title>
-			<link>https://doi.org/10.1016/j.ebiom.2025.106106</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, Research &amp; Experimental
-Score: 419
-Autoren: Xiaohua Yang, Ashley Fontana, Sean A.P. Clouston, Benjamin J. Luft
-Journal: eBioMedicine
-Veröffentlicht: 2026-01-01
-DOI: 10.1016/j.ebiom.2025.106106
-ISSN: 2352-3964
-Tag der Erhebung (OOIR): 2026-01-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ebiom.2025.106106-2026-01-21-4</guid>
-			<pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Nous-209 neoantigen vaccine for cancer prevention in Lynch syndrome carriers: a phase 1b/2 trial</title>
-			<link>https://doi.org/10.1038/s41591-025-04182-9</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, Research &amp; Experimental
-Score: 335
-Autoren: Anna Morena D’Alise, Jason Willis, Fahriye Duzagac, Michael J. Hall, Marcia Cruz-Correa, Gregory E. Idos, Selvi Thirumurthi, Veroushka Ballester, Guido Leoni, Irene Garzia, Laura Antonucci, Lorenzo De Marco, Elisa Micarelli, Nan Deng, Laura Seclì, Sven Gogov, Wenli Dong, J. Jack Lee, Charles M. Bowen, Lana A. Vornik, Araceli Garcia-Gonzalez, Laura Reyes-Uribe, Ellen Richmond, Asad Umar, Powel H. Brown, Krishna M. Sinha, Luz Maria Rodriguez, Elisa Scarselli, Eduardo Vilar
-Journal: Nature Medicine
-Veröffentlicht: 2026-01-16
-DOI: 10.1038/s41591-025-04182-9
-ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2026-01-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-025-04182-9-2026-01-21-5</guid>
-			<pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+			<title>⚠️ Keine Trends für Clinical Medicine (Medicine, Research &amp; Experimental) verfügbar</title>
+			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
+			<link>https://ooir.org</link>
+			<guid>ooir-no-trends-clinicalmedicine-medicineresearchexperimental-20260122011319</guid>
+			<pubDate>Thu, 22 Jan 2026 01:13:19 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
