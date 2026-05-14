@@ -5,14 +5,163 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, General &amp; Internal) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 13 May 2026 02:31:47 GMT</pubDate>
-		<lastBuildDate>Wed, 13 May 2026 02:31:47 GMT</lastBuildDate>
+		<pubDate>Thu, 14 May 2026 02:33:31 GMT</pubDate>
+		<lastBuildDate>Thu, 14 May 2026 02:33:31 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Medicine, General &amp; Internal) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-medicinegeneralinternal-20260513023147</guid>
-			<pubDate>Wed, 13 May 2026 02:31:47 GMT</pubDate>
+			<title>Once-weekly semaglutide versus placebo in patients with alcohol use disorder and comorbid obesity: a randomised, double-blind, placebo-controlled trial</title>
+			<link>https://doi.org/10.1016/s0140-6736(26)00305-3</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, General &amp; Internal
+Score: 1429
+Autoren: Mette Kruse Klausen, Signe Keller Justesen, Julie Niemann Pedersen, Line Rasmussen, Andreas Jensen, Mathias Ebbesen Jensen, Ulla B Knorr, Marianne Lerbæk Bergmann, Jens Juul Holst, Bolette Hartmann, George F Koob, Helene Benveniste, Nora D Volkow, Claus Thorn Ekstrøm, Gitte Moos Knudsen, Tina Vilsbøll, Anders Fink-Jensen
+Journal: The Lancet
+Veröffentlicht: 2026-05-01
+DOI: 10.1016/s0140-6736(26)00305-3
+ISSN: 0140-6736
+Tag der Erhebung (OOIR): 2026-05-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/s0140-6736(26)00305-3-2026-05-14-1</guid>
+			<pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Large Language Model Performance and Clinical Reasoning Tasks</title>
+			<link>https://doi.org/10.1001/jamanetworkopen.2026.4003</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, General &amp; Internal
+Score: 1045
+Autoren: Arya S. Rao, Kaiz P. Esmail, Richard S. Lee, Sharon Jiang, Bianca Arraiza Carlo, Jasleen Gill, Praneet Khanna, Ezra Kalmowitz, Basile Montagnese, Kimia Heydari, Qiao Jiao, Ethan Bott, Dan Nguyen, Grace Wang, Michael Hood, Adam B. Landman, Marc D. Succi
+Journal: JAMA Network Open
+Veröffentlicht: 2026-04-13
+Abstract: 
+                    Importance
+                    Large language models (LLMs) are increasingly marketed for clinical use, yet their ability to replicate full-spectrum clinical reasoning remains uncertain. Existing evaluations often rely on multiple-choice examinations that do not reflect the complexity of patient care.
+                  
+                  
+                    Objectives
+                    To evaluate the longitudinal clinical reasoning ability of state-of-the-art LLMs and to introduce a multidimensional, clinically meaningful benchmark for clinical-grade artificial intelligence (AI).
+                  
+                  
+                    Design, Setting, and Participants
+                    In this cross-sectional study, performance was evaluated using standardized clinical vignettes from the January 2025 update of MSD Manual vignettes. A total of 21 off-the-shelf LLMs, including recently released GPT-5, Claude 4.5 Opus, Gemini 3.0 Flash and Pro, and Grok 4, were evaluated. Models were assessed by medical student scorers in triplicate across sequential stages of the standard clinical workflow. Analyses were performed from January to December 2025.
+                  
+                  
+                    Main Outcomes and Measures
+                    
+                      The primary outcome was the Proportional Index of Medical Evaluation for LLMs (PrIME-LLM) score, defined as the normalized polygonal area representing balanced accuracy across 5 domains of clinical reasoning as follows: differential diagnosis, diagnostic testing, final diagnosis, management, and miscellaneous clinical reasoning questions. Analyses including analyses of variance,
+                      t
+                      tests, and regression models were used to compare AI model performance and demographic associations.
+                    
+                  
+                  
+                    Results
+                    LLMs were tested across 29 clinical vignettes (representing 16 254 responses in total). PrIME-LLM scores ranged from 0.64 (range, 0.63-0.65) (Gemini 1.5 Flash) to 0.78 (range, 0.77-0.79) (Grok 4), with reasoning-optimized models outperforming nonreasoning models and GPT models scoring highest overall. Differential diagnosis was less accurate than diagnostic testing, while final diagnosis, management, and miscellaneous reasoning were more accurate. Failure rates exceeded 0.80 (range, 0.90-1.00) for differential diagnosis in all models but were less than 0.40 (range, 0.09-0.39) for final diagnosis. Multimodal performance was robust; most LLM models showed improved accuracy with image inputs.
+                  
+                  
+                    Conclusions and Relevance
+                    In this cross-sectional study of 21 LLMs, frontier LLMs achieved high accuracy on final diagnoses but performed poorly in generating differential diagnoses and navigating uncertainty relative to other reasoning stages. The PrIME-LLM framework provided greater separation than raw accuracy, revealing critical reasoning gaps obscured by traditional benchmarks. Thus, despite version-based improvements and advantages in reasoning-optimized models, off-the-shelf LLMs have not yet achieved the intelligence required for safe deployment and remain limited in demonstrating advanced clinical reasoning.
+                  
+DOI: 10.1001/jamanetworkopen.2026.4003
+ISSN: 2574-3805
+Tag der Erhebung (OOIR): 2026-05-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1001/jamanetworkopen.2026.4003-2026-05-14-2</guid>
+			<pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Objectively Measured Daytime Napping Patterns and All-Cause Mortality in Older Adults</title>
+			<link>https://doi.org/10.1001/jamanetworkopen.2026.7938</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, General &amp; Internal
+Score: 935
+Autoren: Chenlu Gao, Ruixue Cai, Xi Zheng, Arlen Gaba, Lei Yu, Aron S. Buchman, David A. Bennett, Lei Gao, Kun Hu, Peng Li
+Journal: JAMA Network Open
+Veröffentlicht: 2026-04-20
+Abstract: 
+                    Importance
+                    Daytime napping is common among older adults, but evidence linking objective daytime nap patterns to mortality is limited, as prior studies relied largely on self-report. Some daytime nap characteristics, such as timing and variability of nap duration across days, are also understudied.
+                  
+                  
+                    Objective
+                    To test whether actigraphy-measured daytime nap duration, frequency, variability, and timing are associated with all-cause mortality.
+                  
+                  
+                    Design, Setting, and Participants
+                    This prospective cohort study used data from the population-based Rush Memory and Aging Project, in which the analytic baseline was initiated in August 2005. Participants in this current study were community-dwelling adults aged 56 years or older in northern Illinois, with up to 19 years of follow-up. Data for this study were gathered until April 2025.
+                  
+                  
+                    Main Outcome and Measures
+                    
+                      Daytime napping, defined as sleeping between 9
+                      am
+                      and 7
+                      pm
+                      and assessed by up to 14 days of actigraphy data. Cox proportional hazards regression models were used to estimate associations between baseline daytime nap characteristics (duration, frequency, variability in duration across days, and timing) and subsequent all-cause mortality.
+                    
+                  
+                  
+                    Results
+                    
+                      Among 1338 participants over a mean (SD) follow-up of 8.30 (4.78) years (mean [SD] participant age, 81.40 [7.39] years; 1018 [76.0%] female), 926 (69.2%) died at a mean (SD) of 7.54 (4.52) years (range, 0.08-19.08 years) after analytic baseline. Participants wore the actigraphy device for a mean (SD) of 9.58 (1.22) days. After adjusting for all covariates, longer daytime nap duration (adjusted hazard ratio [AHR] per 1-hour increase, 1.13; 95% CI, 1.04-1.23;
+                      P
+                       = .005) and higher nap frequency (AHR per additional daily nap, 1.07; 95% CI, 1.02-1.13;
+                      P
+                       = .003) at baseline were associated with increased mortality. Morning nappers had higher mortality risk compared with early afternoon nappers (AHR, 1.30; 95% CI, 1.03-1.64;
+                      P
+                       = .03). Variability in daytime nap duration was not associated with mortality after covariate adjustment (AHR per 1-hour increase, 1.01; 95% CI, 0.89-1.14;
+                      P
+                       = .93).
+                    
+                  
+                  
+                    Conclusions and Relevance
+                    In this prospective cohort study of community-dwelling older adults, longer and more frequent daytime napping, especially in the morning, were associated with higher all-cause mortality. The findings suggest incorporating wearable device–based daytime nap assessments into clinical and public health practices may provide novel opportunities for early risk identification of health conditions.
+                  
+DOI: 10.1001/jamanetworkopen.2026.7938
+ISSN: 2574-3805
+Tag der Erhebung (OOIR): 2026-05-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1001/jamanetworkopen.2026.7938-2026-05-14-3</guid>
+			<pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Cannabis and Mental Health</title>
+			<link>https://doi.org/10.1001/jamainternmed.2025.8215</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, General &amp; Internal
+Score: 880
+Autoren: Devan Kansagara, Garth E. Terry, Chelsea K. Ayers, Deepak C. D’Souza
+Journal: JAMA Internal Medicine
+Veröffentlicht: 2026-05-01
+Abstract: 
+                    Importance
+                    Cannabis use is common among those with mental health conditions, and many people report using cannabis to manage mental health symptoms. It is important for clinicians to understand the lack of clear benefits of cannabis for mental health conditions and the potential for substantial adverse effects.
+                  
+                  
+                    Observations
+                    Overall, the potential benefits of cannabis for mental health conditions remain poorly studied. There is low-certainty evidence that Δ-9-tetrahydrocannabinol (THC)–predominant cannabis may not improve symptoms of posttraumatic stress disorder, and there is largely insufficient evidence to characterize the effects of long-term THC-predominant cannabis use on anxiety, depression, and attention-deficit/hyperactivity disorder. There is emerging low-certainty evidence that the cannabis constituent cannabidiol alone may reduce anxiety in patients with anxiety disorders. THC-predominant cannabis use holds substantial risk for adverse mental health effects, and counseling patients about these risks is crucial to promote safety. These risks include worsening mania symptoms and function in those with bipolar disorder and an increase in psychotic symptoms in those with psychotic spectrum disorders. Among people with past-year cannabis use, about 3 in 10 have cannabis use disorder (CUD), and about one-half those with CUD have moderate or severe disease with negative social, employment, or other adverse outcomes. Regular use of high THC-content products by adolescents and young adults is associated with several concerning risks, including an increased risk of psychosis (estimates range from about 2-fold to 11-fold increased risk), a higher risk of CUD, and self-harm in those with mood disorders. Cannabis use should be avoided in individuals at elevated risk of harms, including adolescents and young adults, those with bipolar or psychotic disorders, pregnant individuals, and those at risk for substance use disorders.
+                  
+                  
+                    Conclusions and Relevance
+                    The current evidence base is not sufficient to support the use of cannabis for the treatment of mental health conditions and demonstrates substantial risks of adverse effects. Clinicians should engage patients with mental health conditions in discussions about cannabis use because use is common, has an influence on mental health symptoms, and is likely an important modifiable risk factor for mental health conditions in some populations.
+                  
+DOI: 10.1001/jamainternmed.2025.8215
+ISSN: 2168-6106
+Tag der Erhebung (OOIR): 2026-05-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1001/jamainternmed.2025.8215-2026-05-14-4</guid>
+			<pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Suicide Mortality Among Adolescents and Young Adults After Launch of a Suicide and Crisis Lifeline</title>
+			<link>https://doi.org/10.1001/jama.2026.5157</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, General &amp; Internal
+Score: 844
+Autoren: Vishal R. Patel, Michael Liu, Anupam B. Jena
+Journal: JAMA
+Veröffentlicht: 2026-04-22
+Abstract: This study uses data from the National Vital Statistics System to examine quarterly suicide mortality among individuals aged 15 to 34 years.
+DOI: 10.1001/jama.2026.5157
+ISSN: 0098-7484
+Tag der Erhebung (OOIR): 2026-05-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1001/jama.2026.5157-2026-05-14-5</guid>
+			<pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

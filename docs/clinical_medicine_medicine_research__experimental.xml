@@ -5,14 +5,93 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, Research &amp; Experimental) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 13 May 2026 02:31:48 GMT</pubDate>
-		<lastBuildDate>Wed, 13 May 2026 02:31:48 GMT</lastBuildDate>
+		<pubDate>Thu, 14 May 2026 02:33:38 GMT</pubDate>
+		<lastBuildDate>Thu, 14 May 2026 02:33:38 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Medicine, Research &amp; Experimental) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-medicineresearchexperimental-20260513023148</guid>
-			<pubDate>Wed, 13 May 2026 02:31:48 GMT</pubDate>
+			<title>Epigenetic fingerprints link early-onset colon and rectal cancer to pesticide exposure</title>
+			<link>https://doi.org/10.1038/s41591-026-04342-5</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 911
+Autoren: Silvana C. E. Maas, Iosune Baraibar, Lea Lemler, Maria Butjosa-Espín, Odei Blanco Irazuegui, Josep Tabernero, Elena Elez, Jose A. Seoane
+Journal: Nature Medicine
+Veröffentlicht: 2026-04-21
+DOI: 10.1038/s41591-026-04342-5
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2026-05-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04342-5-2026-05-14-1</guid>
+			<pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Elraglusib and chemotherapy in metastatic pancreatic ductal adenocarcinoma: a randomized controlled phase 2 trial</title>
+			<link>https://doi.org/10.1038/s41591-026-04327-4</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 642
+Autoren: Devalingam Mahalingam, Rachna T. Shroff, Benedito A. Carneiro, Yan Ji, Andrew L. Coveler, Andres Cervantes, Vaibhav Sahai, Anne Ploquin, Sandrine Hiret, Noelle K. LoConte, Ivor J. Percent, Charles D. Lopez, Simon Pernot, Petr Kavan, Mary Mulcahy, Ryan Carr, Francis J. Giles, Chris Seifarth, Andrey Ugolkov, Taylor Weiskittel, Gil Fine, Mark Jaros, Andrew P. Mazar, Tanios S. Bekaii-Saab
+Journal: Nature Medicine
+Veröffentlicht: 2026-04-14
+DOI: 10.1038/s41591-026-04327-4
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2026-05-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04327-4-2026-05-14-2</guid>
+			<pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Microbiome signature of Parkinson’s disease in healthy and genetically at-risk individuals</title>
+			<link>https://doi.org/10.1038/s41591-026-04318-5</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 620
+Autoren: Elisa Menozzi, Yani Ren, Mallia Geiger, Jane Macnaughtan, Micol Avenali, Marco Toffoli, Marine Gilles, Rosaria Calabrese, Pierfrancesco Mitrotti, Luca Gallo, Alexandre Famechon, Sara Lucas Del Pozo, Roxana Mezabrovschi, Sofia Koletsi, Nadine Loefflad, Selen Yalkic, Naomi Limbachiya, Frederick Clasen, Suleyman Yildirim, Saeed Shoaie, Hervé Blottière, Christian Morabito, Aymeric David, Benoit Quinquis, Nicolas Pons, Emmanuelle Le Chatelier, Franco Valzania, Francesco Cavallieri, Valentina Fioravanti, Giulia Toschi, Fabio Blandini, Mathieu Almeida, Stanislav Dusko Ehrlich, Victoria Meslier, Anthony H. V. Schapira
+Journal: Nature Medicine
+Veröffentlicht: 2026-04-20
+Abstract: Abstract
+                  
+                    Parkinson’s disease (PD) is a major cause of disability.
+                    GBA1
+                    variants are the most common genetic risk factor for PD and increase the risk up to 30-fold. Why only approximately 20% of
+                    GBA1
+                    variant carriers develop PD remains unknown. Here, by combining clinical and fecal metagenomics data from 271 patients with PD, from 43 carriers of
+                    GBA1
+                    variants not manifesting PD symptoms (GBA-NMC) and from 150 healthy controls, and using an innovative microbiome analysis, combining differential abundance of species and coherence of differential abundance variation between the groups as assessed by Cliff’s delta (
+                    δ
+                    ), we show that the composition of a large component of the gut microbiome (approximately 25%) in GBA-NMC is intermediate between healthy controls and patients with PD. This component is strongly correlated with disease progression in patients and prodromal symptoms suggestive of future development of PD in both GBA-NMC and healthy individuals. We found microbiome alterations similar to those described here in three independent cohorts from the United States, Korea and Turkey, totaling 638 patients with PD and 319 healthy controls, and we conclude that gut microbiome alterations can identify both genetically and non-genetically at-risk individuals in the general population who may be progressing toward PD, thus serving as an early marker of disease development in the premanifest phase.
+                  
+DOI: 10.1038/s41591-026-04318-5
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2026-05-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04318-5-2026-05-14-3</guid>
+			<pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Closing the gap on antifungal resistance</title>
+			<link>https://doi.org/10.1038/s41591-026-04334-5</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 571
+Autoren: Paul E. Verweij, Ana Alastruey-Izquierdo, Karin Amilon, Maiken Cavling Arendrup, Darius Armstrong-James, Elaine Bignell, David R. Boulware, João Brandão, Mike Bromley, Gordon D. Brown, Jochem B. Buil, Arunaloke Chakrabarti, Methee Chayakulkeeree, Tom Chiller, Ariya Chindamporn, Arnaldo L. Colombo, Oliver A. Cornely, Eric Dannaoui, Philippe J. Dufresne, Agustina Forastiero, Jean-Pierre Gangneux, Christian Giske, Nelesh P. Govender, Neil A. R. Gow, Jacques Guillot, Thomas Harrison, Martin Hoenigl, Dimitrios P. Kontoyiannis, Cornelia Lass-Flörl, Thuy Le, Ruoyu Li, Narda Medina, Jacques F. Meis, Joseph Meletiadis, Rita O. Oladele, Luis Ostrosky-Zeichner, Atul K. Patel, John R. Perfect, Flavio Queiroz-Telles, Juan Luis Rodriguez-Tudela, Shivaprakash M. Rudramurthy, Jon Salmanton García, Amanda Ribeiro dos Santos, Esther Segal, Amir Seyedmousavi, Yinggai Song, George R. Thompson, Antonio Vena, Adilia Warris, Nathan P. Wiederhold, Michaela Lackner, on behalf of International Society for Human and Animal Mycology (ISHAM), Cornelia Lass‑Flörl, Amanda Ribeiro dos Santos, Asia Fungal Working Group (AFWG), Atul K. Patel, Pan-Africa Mycology Working Group (PAMWG), INFOCUS LATAM ISHAM associated Working Group, Flavio Queiroz‑Telles, ISHAM/ECMM One Health Working Group (Focus AMR), Paul E. Verweij, ISHAM Environmental Fungal Exposure and Human Health Working Group, ISHAM Veterinary Mycology and One Health Working Group, ISHAM Sporotrichosis One Health Working Group, European Confederation for Medical Mycology (ECMM), ESCMID Fungal Infection Study Group (EFISG), Jon Salmanton García, Antifungal Susceptibility Testing Subcommittee of the European Committee on Antimicrobial Susceptibility Testing (EUCAST‑AFST), Maiken Cavling Arendrup, Clinical and Laboratory Standards Institute (CLSI) Subcommittee on Antifungal Susceptibility Tests, Mycoses Study Group Education and Research Consortium (MSGERC), Global Action for Fungal Infection (GAFFI), Juan Luis Rodriguez‑Tudela, Medical Research Council Centre for Medical Mycology at the University of Exeter, Fungal One Health and Antimicrobial Resistance Network (F1AMR), Darius Armstrong‑James
+Journal: Nature Medicine
+Veröffentlicht: 2026-04-15
+DOI: 10.1038/s41591-026-04334-5
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2026-05-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04334-5-2026-05-14-4</guid>
+			<pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Show us the evidence for the value of medical AI</title>
+			<link>https://doi.org/10.1038/s41591-026-04389-4</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 268
+Journal: Nature Medicine
+Veröffentlicht: 2026-04-01
+DOI: 10.1038/s41591-026-04389-4
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2026-05-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04389-4-2026-05-14-5</guid>
+			<pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

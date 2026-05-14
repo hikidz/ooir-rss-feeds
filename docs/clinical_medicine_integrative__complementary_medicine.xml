@@ -5,14 +5,82 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Integrative &amp; Complementary Medicine) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 13 May 2026 02:31:45 GMT</pubDate>
-		<lastBuildDate>Wed, 13 May 2026 02:31:45 GMT</lastBuildDate>
+		<pubDate>Thu, 14 May 2026 02:33:16 GMT</pubDate>
+		<lastBuildDate>Thu, 14 May 2026 02:33:16 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Integrative &amp; Complementary Medicine) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-integrativecomplementarymedicine-20260513023145</guid>
-			<pubDate>Wed, 13 May 2026 02:31:45 GMT</pubDate>
+			<title>Yuanzi-Shichangpu herb pair ameliorates mitochondrial energetics and restores blood-brain barrier integrity in Alzheimer's disease through the HIF-1α/GSK3β–Nrf2/PGC-1α axis</title>
+			<link>https://doi.org/10.1016/j.jep.2026.121696</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Integrative &amp; Complementary Medicine
+Score: 7
+Autoren: Qi Yao, Yaling Wu, Yuan Luo
+Journal: Journal of Ethnopharmacology
+Veröffentlicht: 2026-08-01
+DOI: 10.1016/j.jep.2026.121696
+ISSN: 0378-8741
+Tag der Erhebung (OOIR): 2026-05-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.jep.2026.121696-2026-05-14-1</guid>
+			<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Probiotics combat sarcopenia by restoring gut integrity in Alzheimer’s disease</title>
+			<link>https://doi.org/10.1016/j.explore.2026.103428</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Integrative &amp; Complementary Medicine
+Score: 7
+Autoren: Rizwan Qaisar, M. Shahid Iqbal, Firdos Ahmad, Asima Karim
+Journal: EXPLORE
+Veröffentlicht: 2026-07-01
+DOI: 10.1016/j.explore.2026.103428
+ISSN: 1550-8307
+Tag der Erhebung (OOIR): 2026-05-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.explore.2026.103428-2026-05-14-2</guid>
+			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Carpoxylon macrospermum leaf extract and its phenolic compounds: a multi-targeted therapeutic remedy for Alzheimer’s disease</title>
+			<link>https://doi.org/10.1186/s12906-026-05365-8</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Integrative &amp; Complementary Medicine
+Score: 7
+Autoren: Fadila M. Hamed, Mohamed S. Mady, Sabah H. Elgayed, Yara E. Mansour, Shahenda Mahgoub, Kuei-Hung Lai, Chia-Ying Lin, Heba E. Elsayed, Fatma A. Moharram
+Journal: BMC Complementary Medicine and Therapies
+Veröffentlicht: 2026-04-11
+DOI: 10.1186/s12906-026-05365-8
+ISSN: 2662-7671
+Tag der Erhebung (OOIR): 2026-05-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12906-026-05365-8-2026-05-14-3</guid>
+			<pubDate>Sat, 11 Apr 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Tianwang Buxin Pill improves cognitive function in APP/PS1 mice by reducing neuronal damage and regulating synaptic plasticity</title>
+			<link>https://doi.org/10.1016/j.jep.2026.121683</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Integrative &amp; Complementary Medicine
+Score: 7
+Autoren: Fengmao Zou, Xiangyu Ren, Guilan Huo, Peng Liu, Changshan Sun
+Journal: Journal of Ethnopharmacology
+Veröffentlicht: 2026-08-01
+DOI: 10.1016/j.jep.2026.121683
+ISSN: 0378-8741
+Tag der Erhebung (OOIR): 2026-05-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.jep.2026.121683-2026-05-14-4</guid>
+			<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Phytotherapy for ageing-related multimorbidity: Systems-level insights into Centella asiatica in diabetes and Alzheimer’s Disease</title>
+			<link>https://doi.org/10.1016/j.phymed.2026.158026</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Integrative &amp; Complementary Medicine
+Score: 7
+Autoren: Sandesh Kumar Pattanaik, Debajani Mohanty, Asit Ray, Sudipta Jena, Sovan Pattanaik, Diptirani Rath
+Journal: Phytomedicine
+Veröffentlicht: 2026-06-01
+DOI: 10.1016/j.phymed.2026.158026
+ISSN: 0944-7113
+Tag der Erhebung (OOIR): 2026-05-14</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.phymed.2026.158026-2026-05-14-5</guid>
+			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
