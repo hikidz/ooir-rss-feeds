@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 14 May 2026 02:33:23 GMT</pubDate>
-		<lastBuildDate>Thu, 14 May 2026 02:33:23 GMT</lastBuildDate>
+		<pubDate>Fri, 15 May 2026 02:33:05 GMT</pubDate>
+		<lastBuildDate>Fri, 15 May 2026 02:33:05 GMT</lastBuildDate>
 		<item>
 			<title>Big Tech and the Rise of Consumer-Facing Health AI Assistants</title>
 			<link>https://doi.org/10.2196/99230</link>
@@ -18,8 +18,8 @@ Journal: Journal of Medical Internet Research
 Veröffentlicht: 2026-04-30
 DOI: 10.2196/99230
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2026-05-14</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/99230-2026-05-14-1</guid>
+Tag der Erhebung (OOIR): 2026-05-15</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/99230-2026-05-15-1</guid>
 			<pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -35,8 +35,8 @@ Abstract: Abstract
                   Artificial intelligence (AI) is increasingly embedded in clinical environments, raising questions of trust, fairness, empathy, and governance. The ethical terrain surrounding AI in medicine remains unstable despite its rapid adoption. We introduce the “Seven Deadly Sins of AI in Medicine”, a conceptual framework of recurring systemic failure modes: (i) Blind Trust, (ii) Overregulation, (iii) Dehumanization, (iv) Misaligned Optimization, (v) Overinforming and False Forecasting, (vi) Misapplied Statistics, and (vii) Self-Referential Evaluation. The framework was developed through systematic synthesis of scientific literature, clinical guidelines, and regulatory frameworks prior to any empirical data collection. To validate this pre-established framework, we conducted a global, cross-professional opinion poll of 914 stakeholders from 143 countries between July 2024 and March 2025. Results confirmed broad agreement with each pre-identified risk, revealing cross-cultural convergence in ethical concern alongside persistent divides in attitudes toward regulation—particularly between technologically advanced nations and emerging economies. We further propose an inversion of the framework into seven cardinal virtues for AI in medicine, offering actionable principles to guide responsible development and governance. The goal is to move beyond scattered ethical guidelines toward a unified diagnostic tool for trustworthy, human-centered medical AI.
 DOI: 10.1038/s41746-026-02607-4
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-05-14</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02607-4-2026-05-14-2</guid>
+Tag der Erhebung (OOIR): 2026-05-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02607-4-2026-05-15-2</guid>
 			<pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -58,8 +58,8 @@ Abstract: Abstract
                   
 DOI: 10.1038/s41746-026-02642-1
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-05-14</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02642-1-2026-05-14-3</guid>
+Tag der Erhebung (OOIR): 2026-05-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02642-1-2026-05-15-3</guid>
 			<pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -73,24 +73,24 @@ Journal: Journal of Medical Internet Research
 Veröffentlicht: 2026-04-28
 DOI: 10.2196/99154
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2026-05-14</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/99154-2026-05-14-4</guid>
+Tag der Erhebung (OOIR): 2026-05-15</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/99154-2026-05-15-4</guid>
 			<pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Trust, not technology: governing access to health data as the decisive challenge for the UK</title>
-			<link>https://doi.org/10.1016/j.landig.2026.100994</link>
+			<title>The Need for Continued Investment in Digital Pain Assessment</title>
+			<link>https://doi.org/10.2196/97777</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
 Score: 22
-Autoren: Cassie Smith, Andy Boyd, Christina Pagel, Andrew Morris
-Journal: The Lancet Digital Health
-Veröffentlicht: 2026-04-01
-DOI: 10.1016/j.landig.2026.100994
-ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2026-05-14</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.100994-2026-05-14-5</guid>
-			<pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+Autoren: Vanessa Nirode
+Journal: Journal of Medical Internet Research
+Veröffentlicht: 2026-04-17
+DOI: 10.2196/97777
+ISSN: 1438-8871
+Tag der Erhebung (OOIR): 2026-05-15</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/97777-2026-05-15-5</guid>
+			<pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Orthopedics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 14 May 2026 02:33:00 GMT</pubDate>
-		<lastBuildDate>Thu, 14 May 2026 02:33:00 GMT</lastBuildDate>
+		<pubDate>Fri, 15 May 2026 02:32:48 GMT</pubDate>
+		<lastBuildDate>Fri, 15 May 2026 02:32:48 GMT</lastBuildDate>
 		<item>
 			<title>Five-Year Follow-up of a Multicenter Randomized Controlled Trial Comparing an Aragonite-Based Scaffold With Microfracture and Debridement for Chondral and Osteochondral Knee Lesions</title>
 			<link>https://doi.org/10.1177/03635465261437781</link>
@@ -52,9 +52,24 @@ Abstract:
                   
 DOI: 10.1177/03635465261437781
 ISSN: 0363-5465
-Tag der Erhebung (OOIR): 2026-05-14</description>
-			<guid isPermaLink="false">ooir-trend-10.1177/03635465261437781-2026-05-14-1</guid>
+Tag der Erhebung (OOIR): 2026-05-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1177/03635465261437781-2026-05-15-1</guid>
 			<pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>An independent validation of a clinical prediction rule for the diagnosis of cervical radiculopathy with radicular pain</title>
+			<link>https://doi.org/10.1016/j.bjpt.2026.101581</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 39
+Autoren: Francis Grondin, Chad Cook, Toby Hall, Olivier Maillard, Yannick Perdrix, Sebastien Freppel
+Journal: Brazilian Journal of Physical Therapy
+Veröffentlicht: 2026-05-01
+DOI: 10.1016/j.bjpt.2026.101581
+ISSN: 1413-3555
+Tag der Erhebung (OOIR): 2026-05-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2026.101581-2026-05-15-2</guid>
+			<pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Benchmarking Multimodal Vision Frontier Models With Lumbar Spine MRIs for Grading Lumbar Spinal Stenosis</title>
@@ -87,24 +102,9 @@ Abstract:
                   
 DOI: 10.1177/21925682261448823
 ISSN: 2192-5682
-Tag der Erhebung (OOIR): 2026-05-14</description>
-			<guid isPermaLink="false">ooir-trend-10.1177/21925682261448823-2026-05-14-2</guid>
+Tag der Erhebung (OOIR): 2026-05-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1177/21925682261448823-2026-05-15-3</guid>
 			<pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>An independent validation of a clinical prediction rule for the diagnosis of cervical radiculopathy with radicular pain</title>
-			<link>https://doi.org/10.1016/j.bjpt.2026.101581</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Orthopedics
-Score: 38
-Autoren: Francis Grondin, Chad Cook, Toby Hall, Olivier Maillard, Yannick Perdrix, Sebastien Freppel
-Journal: Brazilian Journal of Physical Therapy
-Veröffentlicht: 2026-05-01
-DOI: 10.1016/j.bjpt.2026.101581
-ISSN: 1413-3555
-Tag der Erhebung (OOIR): 2026-05-14</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.bjpt.2026.101581-2026-05-14-3</guid>
-			<pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Total hip arthroplasty compared with conservative treatment with a self-directed exercise programme in moderate-to-severe hip osteoarthritis: a randomized controlled trial</title>
@@ -138,8 +138,8 @@ Abstract:
                   
 DOI: 10.1302/0301-620x.108b5.bjj-2025-0858.r2
 ISSN: 2049-4394
-Tag der Erhebung (OOIR): 2026-05-14</description>
-			<guid isPermaLink="false">ooir-trend-10.1302/0301-620x.108b5.bjj-2025-0858.r2-2026-05-14-4</guid>
+Tag der Erhebung (OOIR): 2026-05-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1302/0301-620x.108b5.bjj-2025-0858.r2-2026-05-15-4</guid>
 			<pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -158,8 +158,8 @@ Abstract: Zusammenfassung
                   Momentan in der Literatur beschriebene funktionelle Testbatterien und die entsprechenden Zielwerte im Bereich Balance und Sprungtestung sind kritisch zu sehen und sollten in zukünftigen Studien genauer überprüft werden. Bis dahin bieten sie keine verlässliche Direktive in der Entscheidungsfindung eines sicheren Wiedereinstiegs in Laufbelastungen.
 DOI: 10.1055/a-2808-1311
 ISSN: 0932-0555
-Tag der Erhebung (OOIR): 2026-05-14</description>
-			<guid isPermaLink="false">ooir-trend-10.1055/a-2808-1311-2026-05-14-5</guid>
+Tag der Erhebung (OOIR): 2026-05-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1055/a-2808-1311-2026-05-15-5</guid>
 			<pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
