@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Sport Sciences) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Fri, 15 May 2026 02:32:53 GMT</pubDate>
-		<lastBuildDate>Fri, 15 May 2026 02:32:53 GMT</lastBuildDate>
+		<pubDate>Sat, 16 May 2026 02:14:27 GMT</pubDate>
+		<lastBuildDate>Sat, 16 May 2026 02:14:27 GMT</lastBuildDate>
 		<item>
 			<title>Five-Year Follow-up of a Multicenter Randomized Controlled Trial Comparing an Aragonite-Based Scaffold With Microfracture and Debridement for Chondral and Osteochondral Knee Lesions</title>
 			<link>https://doi.org/10.1177/03635465261437781</link>
@@ -52,9 +52,48 @@ Abstract:
                   
 DOI: 10.1177/03635465261437781
 ISSN: 0363-5465
-Tag der Erhebung (OOIR): 2026-05-15</description>
-			<guid isPermaLink="false">ooir-trend-10.1177/03635465261437781-2026-05-15-1</guid>
+Tag der Erhebung (OOIR): 2026-05-16</description>
+			<guid isPermaLink="false">ooir-trend-10.1177/03635465261437781-2026-05-16-1</guid>
 			<pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Effects of different exercise training modalities on 24-hour ambulatory blood pressure in adults with hypertension: a network meta-analysis of randomised controlled trials</title>
+			<link>https://doi.org/10.1136/bjsports-2025-111474</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 103
+Autoren: Vinícius Mallmann Schneider, Patrícia Klarmann Ziegelmann, Dalva Muniz Pereira, Rodrigo Ferrari
+Journal: British Journal of Sports Medicine
+Veröffentlicht: 2026-05-12
+Abstract: 
+                    Objective
+                    To compare the effects of exercise training modalities on 24-hour ambulatory blood pressure in adults with hypertension.
+                  
+                  
+                    Design
+                    Systematic review and network meta-analysis.
+                  
+                  
+                    Data sources
+                    MEDLINE, Embase, Cochrane Central and Regional Portal of the Virtual Health Library were systematically searched from November 2024 to August 2025.
+                  
+                  
+                    Eligibility criteria for selecting studies
+                    Randomised controlled trials evaluating the effects of exercise training (intervention duration ≥4 weeks) compared with a non-exercise control condition or another exercise modality on 24-hour systolic and diastolic blood pressure were included.
+                  
+                  
+                    Results
+                    31 trials were included, with 67 arms and 1345 participants. In the network meta-analysis, compared with the control, combined training (mean difference (MD) −6.18 mm Hg, 95% credible interval (CrI) −11.45 to −1.21), aerobic training (MD −4.73 mm Hg, 95% CrI −7.53 to −2.01), and high-intensity interval training (MD −5.71 mm Hg, 95% CrI −11.31 to −0.002) reduced 24-hour systolic blood pressure. Reductions in 24-hour diastolic blood pressure were observed with combined training (MD −3.94, 95% CrI −6.47 to −1.34), aerobic training (MD −2.76, 95% CrI −4.21 to −1.34), high-intensity interval training (MD −4.64, 95% CrI −8.21 to −0.72) and pilates (MD −4.18, 95% CrI −7.18 to −1.17). Exercise-versus-exercise comparisons were inconclusive with respect to superiority between modalities.
+                  
+                  
+                    Conclusion
+                    Aerobic training (continuous and interval) and combined training significantly reduced 24-hour blood pressure. Evidence for dynamic and isometric resistance training remains uncertain. Data on non-conventional exercise modalities such as pilates and recreational sports are limited and imprecise for the management of ambulatory blood pressure.
+                  
+DOI: 10.1136/bjsports-2025-111474
+ISSN: 0306-3674
+Tag der Erhebung (OOIR): 2026-05-16</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-111474-2026-05-16-2</guid>
+			<pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Biomechanics associated with bone stress injuries while using advanced footwear technology in elite distance runners</title>
@@ -108,60 +147,47 @@ Abstract: Abstract
                   
 DOI: 10.1002/pmrj.70153
 ISSN: 1934-1482
-Tag der Erhebung (OOIR): 2026-05-15</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/pmrj.70153-2026-05-15-2</guid>
+Tag der Erhebung (OOIR): 2026-05-16</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/pmrj.70153-2026-05-16-3</guid>
 			<pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Anaerobic and Aerobic Energy System Contribution During Maximal Exercise: A Systematic Review</title>
-			<link>https://doi.org/10.1007/s40279-026-02414-7</link>
+			<title>Supported implementation enhances injury prevention programme (Prep-to-Play) use in women and girls playing Australian Football: a pragmatic type III hybrid implementation-effectiveness stepped wedge cluster randomised trial</title>
+			<link>https://doi.org/10.1136/bjsports-2025-110894</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Sport Sciences
-Score: 56
-Autoren: Paul B. Gastin, Haresh T. Suppiah
-Journal: Sports Medicine
-Veröffentlicht: 2026-04-11
-Abstract: Abstract
-                  
-                    Background
-                    The capacity to generate energy during exercise is dependent on the bioenergetic pathways within muscle cells. These pathways include the phosphagen, glycolytic, and oxidative phosphorylation systems, which work together to resynthesize adenosine triphosphate (ATP) and meet the energy demands of exercise. Understanding the relative contributions of these systems during maximal exercise has theoretical and practical importance for optimizing athletic performance and training.
-                  
-                  
-                    Objective
-                    This study aimed to systematically review literature on the relative contributions of anaerobic and aerobic energy systems during single bouts of maximal exercise across various durations. The goal was to consolidate evidence from multiple methodologies to provide a more precise understanding of energy system interactions and inform both theoretical knowledge and practical applications in sports performance and training.
+Score: 38
+Autoren: Brooke E Patterson, Nicole M White, Sallie M Cowan, Matthew G King, Alex Donaldson, Melissa J Haberfield, Andrea B Mosler, Andrea M Bruder, Christian J Barton, Steven M McPhail, Adam G Culvenor, Karla Hemming, Martin Hägglund, Natasha A Lannin, Ilana N Ackerman, Michelle M Dowsey, Michael Makdissi, Shona Sundaraj, Nicole Livingstone, Jane Fitzpatrick, Jamie Crain, Sarah J Lampard, Karina L Chilman, Libby J Gracias, Elizabeth Birch, Christian Bonello, Kay M Crossley
+Journal: British Journal of Sports Medicine
+Veröffentlicht: 2026-05-06
+Abstract: 
+                    Objectives
+                    Evaluate the effect of supported implementation on a co-created injury prevention programme (Prep-to-Play) use and injury incidence and evaluate the dose response relationship between adherence and injury incidence.
                   
                   
                     Methods
-                    A systematic search was conducted across seven electronic databases, including CINAHL, Cochrane, Embase, MEDLINE/PubMed, Scopus, SPORTDiscus, and Web of Science, covering studies from 1984 to January 2020. Eligible studies included peer-reviewed, English-language research that examined energy system contributions during maximal exercise in adults (≥ 18 years). Data extraction focused on participant details, exercise trial specifics, assessment methods, and relative energy system contributions. Studies were categorized on the basis of their assessment approach. Nonlinear regression modeling was used to estimate anaerobic and aerobic contributions across different exercise durations.
+                    In this hybrid implementation-effectiveness stepped wedge cluster randomised trial, 165 women’s/girls’ Australian Football teams (2481 players) were randomly allocated to transition from unsupported to supported implementation at one of five time points during 2021/2022. Supported implementation included in-person workshops and support visits for coaches/team leaders. Unsupported implementation was access to online resources. Prep-to-Play includes warm-up, contact and strength activities. Primary (Prep-to-Play use) and secondary (concussion, anterior cruciate ligament (ACL)) outcomes were reported weekly. Weekly Prep-to-Play use (yes/no) was defined as using ≥75% of programme elements, ≥two-thirds of sessions each week. Analyses compared outcomes between supported and unsupported phases, adjusted for clustering, period, age group, competition level and region.
                   
                   
                     Results
-                    A total of 102 studies were included, providing 311 individual data points (mean results from studies comprising 78% male, 12% female, 11% mixed adult samples). The oxygen deficit (OD) method was used in 66 studies, mixed methods (MM) in 33 studies, and theoretical models (TM) in 7 studies. The data reviewed indicated that the anaerobic system predominates in short-duration maximal exercise, up until approximately 75–80 s. The maximal exercise duration that derived equal contributions from both the anaerobic and aerobic energy systems was 78.6 s (95% confidence interval [95% CI] ± 1.1 s), with longer durations contributing an increasingly greater proportion of aerobic energy to the total energy supply. Comparison of regression curves showed no differences between running and cycling or training status but revealed small significant effects of measurement method and pacing strategy.
+                    Average weekly Prep-to-Play use by teams was 13.1% (95% CI 11.5% to 14.9%) in the unsupported and 29.7% (95% CI 27.6% to 31.9%) in supported phase (OR 3.7 95% CI 2.4 to 5.7). The concussion and ACL injury incidence (per 1000 game hours) was 6.80 (95% CI 5.75 to 8.05) and 1.36 (95% CI 0.98 to 1.89) in unsupported, and 3.50 (95% CI 2.72 to 4.52) and 0.69 (95% CI 0.44 to 1.15) in supported, respectively, but the effect of supported implementation on injury incidence was unclear (concussion: incidence rate ratios (IRR) 1.36; 95% CI 0.74 to 2.49; ACL: IRR 2.27 (0.56 to 9.12). Higher Prep-to-Play adherence was associated with fewer total injuries (IRR: 0.95 95% CI 0.92 to 0.99).
                   
                   
                     Conclusions
-                    This review refines previous estimates of energy system contributions during maximal exercise, reaffirming the dynamic interplay between anaerobic and aerobic metabolism. The findings emphasize the importance of considering both energy systems in training strategies and highlight the need for more precise measurement techniques. Athletes and coaches can optimize performance by tailoring high-intensity training, work–rest ratios, and pacing strategies to improve anaerobic capacity, oxygen uptake efficiency, and short-term recovery.
+                    Supported implementation via in-person workshops and support visits was associated with greater Prep-to-Play use compared with unsupported implementation, and greater adherence was associated with fewer injuries.
                   
-DOI: 10.1007/s40279-026-02414-7
-ISSN: 0112-1642
-Tag der Erhebung (OOIR): 2026-05-15</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s40279-026-02414-7-2026-05-15-3</guid>
-			<pubDate>Sat, 11 Apr 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Safety and Efficacy of Approved and Unapproved Peptide Therapies for Musculoskeletal Injuries and Athletic Performance</title>
-			<link>https://doi.org/10.1007/s40279-026-02437-0</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Sport Sciences
-Score: 36
-Autoren: Christopher L. Mendias, Tariq M. Awan
-Journal: Sports Medicine
-Veröffentlicht: 2026-04-12
-DOI: 10.1007/s40279-026-02437-0
-ISSN: 0112-1642
-Tag der Erhebung (OOIR): 2026-05-15</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s40279-026-02437-0-2026-05-15-4</guid>
-			<pubDate>Sun, 12 Apr 2026 00:00:00 GMT</pubDate>
+                  
+                    Trial registration number
+                    
+                      NCT04856241
+                      .
+                    
+                  
+DOI: 10.1136/bjsports-2025-110894
+ISSN: 0306-3674
+Tag der Erhebung (OOIR): 2026-05-16</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-110894-2026-05-16-4</guid>
+			<pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Greatest of All Time: Development of a Ranking System to Determine the Most Successful Olympic and World Championship Runners Since 1896</title>
@@ -191,8 +217,8 @@ Abstract: Abstract
                   
 DOI: 10.1007/s40279-026-02443-2
 ISSN: 0112-1642
-Tag der Erhebung (OOIR): 2026-05-15</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s40279-026-02443-2-2026-05-15-5</guid>
+Tag der Erhebung (OOIR): 2026-05-16</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s40279-026-02443-2-2026-05-16-5</guid>
 			<pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>

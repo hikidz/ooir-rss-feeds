@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rheumatology) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Fri, 15 May 2026 02:33:34 GMT</pubDate>
-		<lastBuildDate>Fri, 15 May 2026 02:33:34 GMT</lastBuildDate>
+		<pubDate>Sat, 16 May 2026 02:15:09 GMT</pubDate>
+		<lastBuildDate>Sat, 16 May 2026 02:15:09 GMT</lastBuildDate>
 		<item>
 			<title>A pathogenic gut lipoglycan drives systemic thromboinflammation in lupus nephritis</title>
 			<link>https://doi.org/10.1016/j.ard.2026.03.002</link>
@@ -18,8 +18,8 @@ Journal: Annals of the Rheumatic Diseases
 Veröffentlicht: 2026-04-01
 DOI: 10.1016/j.ard.2026.03.002
 ISSN: 0003-4967
-Tag der Erhebung (OOIR): 2026-05-15</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2026.03.002-2026-05-15-1</guid>
+Tag der Erhebung (OOIR): 2026-05-16</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2026.03.002-2026-05-16-1</guid>
 			<pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -33,8 +33,8 @@ Journal: Annals of the Rheumatic Diseases
 Veröffentlicht: 2026-04-01
 DOI: 10.1016/j.ard.2026.03.006
 ISSN: 0003-4967
-Tag der Erhebung (OOIR): 2026-05-15</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2026.03.006-2026-05-15-2</guid>
+Tag der Erhebung (OOIR): 2026-05-16</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2026.03.006-2026-05-16-2</guid>
 			<pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -48,8 +48,8 @@ Journal: The Lancet Rheumatology
 Veröffentlicht: 2026-04-01
 DOI: 10.1016/s2665-9913(26)00074-3
 ISSN: 2665-9913
-Tag der Erhebung (OOIR): 2026-05-15</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(26)00074-3-2026-05-15-3</guid>
+Tag der Erhebung (OOIR): 2026-05-16</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(26)00074-3-2026-05-16-3</guid>
 			<pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -90,40 +90,40 @@ Abstract:
                   
 DOI: 10.1002/art.70092
 ISSN: 2326-5191
-Tag der Erhebung (OOIR): 2026-05-15</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/art.70092-2026-05-15-4</guid>
+Tag der Erhebung (OOIR): 2026-05-16</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/art.70092-2026-05-16-4</guid>
 			<pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Artificial Intelligence–Aided Lung Ultrasound Detection of Interstitial Lung Disease in Systemic Sclerosis and Inflammatory Myopathy</title>
-			<link>https://doi.org/10.1002/acr.80054</link>
+			<title>Differences in SARS‐CoV‐2 antigen persistence in individuals with systemic autoimmune rheumatic diseases compared to the general population: A RECOVER‐Adult Cohort Study</title>
+			<link>https://doi.org/10.1002/art.70205</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Rheumatology
 Score: 27
-Autoren: Robert M. Fairchild, Mariani D. Deluna, Mojtaba Fazli, Diane A. Mar, Melody Chung, Srijana Davuluri, Yumeko Kawano, Henry Guo, Matthew C. Baker, David Fiorentino, Suzanne Tamang, Lorinda Chung
-Journal: Arthritis Care &amp;amp; Research
-Veröffentlicht: 2026-04-29
+Autoren: Naomi J. Patel, Zoe Swank, Jiaqi Wang, Xiaosong Wang, Lauren A. O'Keeffe, Madison Negron, Liya S. Getachew, Louise L. Hansen, Grace Qian, Alene A. Saavedra, Kevin T. Mueller, Natalie A. Davis, Kathleen M.M. Vanni, Sandria Savage, Julie S. Lam, Zachary S. Wallace, David R. Walt, Jeffrey A. Sparks, RECOVER‐Adult
+Journal: Arthritis &amp;amp; Rheumatology
+Veröffentlicht: 2026-04-27
 Abstract: 
-                    Objective
-                    Lung ultrasound (LUS) is a sensitive, low‐cost, and radiation‐free modality for interstitial lung disease (ILD) detection. We previously developed and validated LUS interpretation criteria in systemic sclerosis (SSc) and idiopathic inflammatory myopathy (IIM) showing excellent diagnostic performance and correlations with ILD severity. In this study, we applied deep learning to evaluate whether convolutional neural networks (CNNs) can accurately detect ILD and its severity on LUS.
+                    Background
+                    Individuals with systemic autoimmune rheumatic diseases (SARDs) are at risk for worse acute and post‐acute COVID‐19 outcomes, though whether individuals with SARDs have longer persistence of viral antigens after COVID‐19 has not been studied.
                   
                   
                     Methods
-                    Patients with SSc or IIM ± ILD and paired LUS and chest computed tomography (CT) were included. LUS images were labeled using CT results and human LUS‐ILD 2024 (LUS‐ILD‐24) interpretation. Three pretrained CNN architectures (InceptionV3, ResNet‐50, VGG‐16) were fine‐tuned via transfer learning, and a de novo lightweight architecture (LUS‐Net) was developed. Model performance for ILD detection was assessed at image and patient levels using area under the curve (AUC), sensitivity, specificity, and agreement with expert interpretation. CNN outputs were correlated with pulmonary function tests (PFTs) and CT‐based Computer‐Aided Lung Informatics for Pathology Evaluation and Rating indices. Gradient‐weighted Class Activation Mapping (Grad‐CAM) visualized regions driving predictions.
+                    This retrospective cohort study evaluated post‐COVID‐19 differences in SARS‐CoV‐2 antigen (spike, S1, and nucleocapsid) positivity between individuals with SARDs (RheumCARD) and without SARDs (RECOVER‐Adult). SARS‐CoV‐2 antigens were measured in collected samples using a validated ultra‐sensitive single molecule array. This digital enzyme‐linked immunosorbent assay used antibody‐coated magnetic beads to capture antigen molecules, which were loaded into microwell arrays and detected through enzymatic cleavage of a fluorescent substrate. We used logistic regression to estimate unadjusted and adjusted (for age, sex, infection year, vaccination status, and COVID‐19 treatment) odds ratios for SARS‐CoV‐2 antigen positivity at months 3 and 6 following COVID‐19.
                   
                   
                     Results
-                    A total of 140 patients representing 3,920 LUS images were included and split into development (74) and independent test sets (66). VGG‐16 achieved the best patient‐level performance (AUC 0.972, sensitivity 97.4%, specificity 92.6%) showing strong correlations with PFTs and CT severity. Grad‐CAM highlighted pleural features as the primary regions influencing model predictions. CNN performance matched or exceeded LUS‐ILD‐24 interpretation.
+                    Among 210 individuals with SARDs in RheumCARD and 348 individuals without SARDs in RECOVER‐Adult, any SARS‐CoV‐2 antigen positivity was more common in those with SARDs (36.7% in RheumCARD vs. 18.9% in RECOVER‐Adult; p&amp;lt;0.001). Those with SARDs had higher odds of nucleocapsid antigen positivity (adjusted OR 3.73, 95% CI: 1.28‐10.85) or any antigen positivity (adjusted OR 2.89, 95% CI: 1.43‐5.85) 3 months after COVID‐19 infection and higher odds of nucleocapsid antigen positivity (adjusted OR 6.62, 95% CI: 1.09‐40.30) 6 months after COVID‐19 infection.
                   
                   
                     Conclusion
-                    Deep learning applied to LUS enables accurate ILD detection in connective tissue disease and can enhance expert interpretation. Explainable artificial intelligence suggests pleural features, even when B‐lines are infrequent, are sufficient for reliable ILD recognition.
+                    Individuals with SARDs were more likely to have SARS‐CoV‐2 antigen positivity at months 3 and 6 following COVID‐19 infection compared with individuals without SARDs, not explained by demographics, variant, vaccination, or treatment.
                   
-DOI: 10.1002/acr.80054
-ISSN: 2151-464X
-Tag der Erhebung (OOIR): 2026-05-15</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/acr.80054-2026-05-15-5</guid>
-			<pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+DOI: 10.1002/art.70205
+ISSN: 2326-5191
+Tag der Erhebung (OOIR): 2026-05-16</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/art.70205-2026-05-16-5</guid>
+			<pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
