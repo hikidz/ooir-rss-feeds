@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rheumatology) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 19 May 2026 02:39:08 GMT</pubDate>
-		<lastBuildDate>Tue, 19 May 2026 02:39:08 GMT</lastBuildDate>
+		<pubDate>Wed, 20 May 2026 02:39:40 GMT</pubDate>
+		<lastBuildDate>Wed, 20 May 2026 02:39:40 GMT</lastBuildDate>
 		<item>
 			<title>A pathogenic gut lipoglycan drives systemic thromboinflammation in lupus nephritis</title>
 			<link>https://doi.org/10.1016/j.ard.2026.03.002</link>
@@ -18,8 +18,8 @@ Journal: Annals of the Rheumatic Diseases
 Veröffentlicht: 2026-04-01
 DOI: 10.1016/j.ard.2026.03.002
 ISSN: 0003-4967
-Tag der Erhebung (OOIR): 2026-05-19</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2026.03.002-2026-05-19-1</guid>
+Tag der Erhebung (OOIR): 2026-05-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2026.03.002-2026-05-20-1</guid>
 			<pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -33,66 +33,40 @@ Journal: Annals of the Rheumatic Diseases
 Veröffentlicht: 2026-04-01
 DOI: 10.1016/j.ard.2026.03.006
 ISSN: 0003-4967
-Tag der Erhebung (OOIR): 2026-05-19</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2026.03.006-2026-05-19-2</guid>
+Tag der Erhebung (OOIR): 2026-05-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2026.03.006-2026-05-20-2</guid>
 			<pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Detection of GLP-1 and DPP-4 in synovial fluid: implications for therapeutical strategies in arthritis</title>
-			<link>https://doi.org/10.1016/s2665-9913(26)00074-3</link>
+			<title>Artificial Intelligence–Aided Lung Ultrasound Detection of Interstitial Lung Disease in Systemic Sclerosis and Inflammatory Myopathy</title>
+			<link>https://doi.org/10.1002/acr.80054</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Rheumatology
-Score: 56
-Autoren: Amalie Dyrelund Broksø, Mads Brüner, Bolette Hartmann, Knud Josefsen, Jens Juul Holst, Tue Wenzel Kragstrup
-Journal: The Lancet Rheumatology
-Veröffentlicht: 2026-04-01
-DOI: 10.1016/s2665-9913(26)00074-3
-ISSN: 2665-9913
-Tag der Erhebung (OOIR): 2026-05-19</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(26)00074-3-2026-05-19-3</guid>
-			<pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Efficacy and Safety of Guselkumab in Participants With Active Psoriatic Arthritis After Inadequate Response to One Prior Tumor Necrosis Factor Inhibitor: Week‐24 Results of a Phase 3, Randomized, Placebo‐Controlled Study</title>
-			<link>https://doi.org/10.1002/art.70092</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rheumatology
-Score: 31
-Autoren: Alexis Ogdie, Joseph F. Merola, Philip J. Mease, Christopher T. Ritchlin, Jose U. Scher, Kimberly Parnell Lafferty, Daphne Chan, Soumya D. Chakravarty, Wayne Langholff, Yanli Wang, Jie Shao, Yevgeniy Krol, Alice B. Gottlieb
-Journal: Arthritis &amp;amp; Rheumatology
-Veröffentlicht: 2026-04-16
+Score: 27
+Autoren: Robert M. Fairchild, Mariani D. Deluna, Mojtaba Fazli, Diane A. Mar, Melody Chung, Srijana Davuluri, Yumeko Kawano, Henry Guo, Matthew C. Baker, David Fiorentino, Suzanne Tamang, Lorinda Chung
+Journal: Arthritis Care &amp;amp; Research
+Veröffentlicht: 2026-04-29
 Abstract: 
                     Objective
-                    To evaluate the efficacy and safety of guselkumab, an interleukin‐23p19 subunit inhibitor, in participants with active psoriatic arthritis (PsA) and inadequate response (inadequate efficacy and/or intolerance) to one prior tumor necrosis factor (TNF) inhibitor.
+                    Lung ultrasound (LUS) is a sensitive, low‐cost, and radiation‐free modality for interstitial lung disease (ILD) detection. We previously developed and validated LUS interpretation criteria in systemic sclerosis (SSc) and idiopathic inflammatory myopathy (IIM) showing excellent diagnostic performance and correlations with ILD severity. In this study, we applied deep learning to evaluate whether convolutional neural networks (CNNs) can accurately detect ILD and its severity on LUS.
                   
                   
                     Methods
-                    In SOLSTICE (phase 3b, randomized, multicenter, double‐blind, placebo‐controlled study), enrolled adults with active PsA (three or more swollen joints; three or more tender joints; C‐reactive protein ≥ 0.3 mg/dL) and inadequate response to one prior TNF inhibitor were randomized to guselkumab 100 mg every 4 weeks (Q4W), guselkumab 100 mg at weeks 0 and 4 and then Q8W, or placebo with crossover to guselkumab Q4W at week 24. The primary endpoint was ≥20% improvement in American College of Rheumatology criteria (ACR20) at week 24. Secondary endpoints included ACR50, ACR70, Investigator's Global Assessment of psoriasis (IGA) score of 0 or 1 with ≥2‐grade improvement, ≥90% improvement in Psoriasis Area and Severity Index (PASI90), and minimal disease activity (MDA) at week 24 and were analyzed by intention‐to‐treat.
+                    Patients with SSc or IIM ± ILD and paired LUS and chest computed tomography (CT) were included. LUS images were labeled using CT results and human LUS‐ILD 2024 (LUS‐ILD‐24) interpretation. Three pretrained CNN architectures (InceptionV3, ResNet‐50, VGG‐16) were fine‐tuned via transfer learning, and a de novo lightweight architecture (LUS‐Net) was developed. Model performance for ILD detection was assessed at image and patient levels using area under the curve (AUC), sensitivity, specificity, and agreement with expert interpretation. CNN outputs were correlated with pulmonary function tests (PFTs) and CT‐based Computer‐Aided Lung Informatics for Pathology Evaluation and Rating indices. Gradient‐weighted Class Activation Mapping (Grad‐CAM) visualized regions driving predictions.
                   
                   
                     Results
-                    
-                      Analyses included 451 randomized participants (Q4W n = 150; Q8W n = 151; placebo n = 150). At week 24, significantly greater proportions of guselkumab (Q4W/Q8W)‐treated participants versus placebo‐treated participants, respectively, achieved ACR20 (primary endpoint: 58.6%/62.2% vs 34.8%), ACR50 (31.4%/32.1% vs 12.2%), ACR70 (17.5%/17.3% vs 2.0%), IGA 0/1 response (50.0%/57.3% vs 17.4%), PASI90 (49.4%/45.5% vs 12.0%), and MDA (18.8%/23.9% vs 5.4%) (all
-                      P
-                       &amp;lt; 0.001). Through week 24, 46.7%, 53.6%, and 48.3% of participants receiving guselkumab Q4W, guselkumab Q8W, and placebo, respectively, had one or more adverse event. One death occurred (myocardial infarction).
-                    
+                    A total of 140 patients representing 3,920 LUS images were included and split into development (74) and independent test sets (66). VGG‐16 achieved the best patient‐level performance (AUC 0.972, sensitivity 97.4%, specificity 92.6%) showing strong correlations with PFTs and CT severity. Grad‐CAM highlighted pleural features as the primary regions influencing model predictions. CNN performance matched or exceeded LUS‐ILD‐24 interpretation.
                   
                   
                     Conclusion
-                    Comparable efficacy was observed with both guselkumab regimens in participants with active PsA and inadequate response to one prior TNF inhibitor; safety findings were consistent with the known profile of guselkumab in patients with psoriatic disease.
-                    
-                      
-                        
-                          image
-                        
-                      
-                    
+                    Deep learning applied to LUS enables accurate ILD detection in connective tissue disease and can enhance expert interpretation. Explainable artificial intelligence suggests pleural features, even when B‐lines are infrequent, are sufficient for reliable ILD recognition.
                   
-DOI: 10.1002/art.70092
-ISSN: 2326-5191
-Tag der Erhebung (OOIR): 2026-05-19</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/art.70092-2026-05-19-4</guid>
-			<pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+DOI: 10.1002/acr.80054
+ISSN: 2151-464X
+Tag der Erhebung (OOIR): 2026-05-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/acr.80054-2026-05-20-3</guid>
+			<pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Differences in SARS‐CoV‐2 antigen persistence in individuals with systemic autoimmune rheumatic diseases compared to the general population: A RECOVER‐Adult Cohort Study</title>
@@ -121,9 +95,40 @@ Abstract:
                   
 DOI: 10.1002/art.70205
 ISSN: 2326-5191
-Tag der Erhebung (OOIR): 2026-05-19</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/art.70205-2026-05-19-5</guid>
+Tag der Erhebung (OOIR): 2026-05-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/art.70205-2026-05-20-4</guid>
 			<pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Coverage Generosity of Novel Antirheumatic Drugs in Medicare Advantage and Stand‐Alone Part D Plans</title>
+			<link>https://doi.org/10.1002/art.70132</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 24
+Autoren: Youngmin Kwon, Robert W. Corty, Stacie B. Dusetzina
+Journal: Arthritis &amp;amp; Rheumatology
+Veröffentlicht: 2026-04-20
+Abstract: 
+                    Objective
+                    We examine coverage of self‐administered disease‐modifying antirheumatic drugs (DMARDs) in Medicare Part D.
+                  
+                  
+                    Methods
+                    Using 2022–2026 Part D formulary data, we assessed coverage of the following DMARD classes that treat relapsed rheumatoid arthritis (RA): tumor necrosis factor (TNF) inhibitors, T cell costimulatory modulator, interleukin‐6 (IL‐6) inhibitors, and JAK inhibitors. We measured (1) coverage of individual DMARDs and (2) the generosity of coverage between classes (the share of plans covering at least one drug in each class) and within classes (the share of covered drugs within each class).
+                  
+                  
+                    Results
+                    We included 26,915 plan‐year observations, representing 217.6 million enrolled beneficiaries from 2022 to 2026. In the five‐year period, coverage was relatively complete (&amp;gt;94%) for etanercept and adalimumab (TNF inhibitors) and upadacitinib (JAK inhibitor). However, coverage was lower for golimumab and certolizumab (TNF inhibitors), abatacept (the sole T cell costimulatory modulator), sarilumab (IL‐6 inhibitor), and baricitinib (JAK inhibitor). Moreover, only 10.4% and 37.6% of stand‐alone and Medicare Advantage (MA) Part D plans, respectively, covered all mechanisms of action, mostly due to low coverage of abatacept. In 2026, only 0.3% and 21.2% of stand‐alone and MA Part D plans, respectively, covered abatacept. On the other hand, coverage increased for IL‐6 inhibitors, likely due to the availability of biosimilar drugs for tocilizumab in 2024.
+                  
+                  
+                    Conclusion
+                    The growing exclusions of self‐administered DMARDs across several mechanisms of action and heterogeneity in coverage by plan type suggest potential barriers to accessing optimal RA treatments. Further monitoring of formulary adequacy and research into the clinical impacts of formulary exclusions are warranted.
+                  
+DOI: 10.1002/art.70132
+ISSN: 2326-5191
+Tag der Erhebung (OOIR): 2026-05-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/art.70132-2026-05-20-5</guid>
+			<pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
