@@ -5,46 +5,21 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Pharmacology &amp; Pharmacy) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 21 May 2026 02:41:00 GMT</pubDate>
-		<lastBuildDate>Thu, 21 May 2026 02:41:00 GMT</lastBuildDate>
-		<item>
-			<title>Longitudinal neurocognitive trajectories in a large cohort of youth who use cannabis: combining self-report and toxicology</title>
-			<link>https://doi.org/10.1038/s41386-026-02395-1</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Pharmacology &amp; Pharmacy
-Score: 538
-Autoren: Natasha E. Wade, Ryan M. Sullivan, Alexander L. Wallace, Rachel Visontay, Veronica Szpak, Krista M. Lisdahl, Marilyn A. Huestis, Priscila Dib Gonçalves, Hollie Byrne, Louise Mewton, Joanna Jacobus, Susan F. Tapert
-Journal: Neuropsychopharmacology
-Veröffentlicht: 2026-04-20
-Abstract: Abstract
-                  
-                    Adolescents experience extensive neurocognitive development, with cannabis use potentially impacting developmental trajectories. Here, we comprehensively assess the influence of adolescent cannabis use onset on neurocognitive trajectories and consider how recent delta-9-tetrahydrocannabinol (THC) and cannabidiol (CBD) may influence neurocognition. We use the large, diverse longitudinal Adolescent Brain Cognitive Development (ABCD) Study dataset, combining self-reported substance use with objective toxicological tests (hair, urine, breath, oral fluid). Longitudinal mixed methods of the full cohort (n = 11,036, ages 9-17; 47% Female/53% Male) investigate time-varying cannabis onset on neurocognitive performance. Primary model covariates include sociodemographics, family history of substance use disorder, prenatal substance exposure, early psychopathology, other substance use, and nesting for participant ID, study site, and family ID. Secondarily, in participants with repeat toxicological hair testing (n = 645; 38% Female/62% Male) at ages 12-16, we consider the influence of THC v. CBD v. Controls. Primary models included false discovery rate corrections (FDR-
-                    p
-                     &amp;lt; .05) while secondary models were interpreted at
-                    p
-                     &amp;lt; .01. Cannabis group interacted with age to show altered neurocognitive trajectories across domains (immediate recall and delayed memory, processing speed, inhibitory control, visuospatial processing, language, and working memory; βs = -0.11- -0.52). Secondary models indicated hair-identified THC exposure*age predicted worse episodic memory than in Controls (β = -0.60,
-                    p
-                     = .007), with no difference between CBD exposed and Controls. Data suggest those who use cannabis show likely pre-existing better cognitive performance during late childhood, with reduced improvement or flattened trajectories over time. These neurocognitive trajectories in youth (ages 9-17) who initiate cannabis use were demonstrated after accounting for within-person change and numerous known confounds and improving accuracy in identifying cannabis use through incorporating toxicological measures. Continued monitoring of this cohort will clarify cannabinoid-cognition relationships into young adulthood, including the impact of timing of cannabis use initiation.
-                  
-DOI: 10.1038/s41386-026-02395-1
-ISSN: 0893-133X
-Tag der Erhebung (OOIR): 2026-05-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41386-026-02395-1-2026-05-21-1</guid>
-			<pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
-		</item>
+		<pubDate>Fri, 22 May 2026 02:42:48 GMT</pubDate>
+		<lastBuildDate>Fri, 22 May 2026 02:42:48 GMT</lastBuildDate>
 		<item>
 			<title>Oribatid Mites Supply Tetrodotoxin to Poisonous Newts</title>
 			<link>https://doi.org/10.1021/acs.jnatprod.6c00280</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Pharmacology &amp; Pharmacy
-Score: 292
+Score: 293
 Autoren: Yuto Nakazawa, Satoshi Shimano, Tadachika Miyasaka, Masaatsu Adachi, Toshio Nishikawa, Kazutoshi Yoshitake, Masafumi Amano, Shigeru Sato, Kentaro Takada
 Journal: Journal of Natural Products
 Veröffentlicht: 2026-04-24
 DOI: 10.1021/acs.jnatprod.6c00280
 ISSN: 0163-3864
-Tag der Erhebung (OOIR): 2026-05-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1021/acs.jnatprod.6c00280-2026-05-21-2</guid>
+Tag der Erhebung (OOIR): 2026-05-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1021/acs.jnatprod.6c00280-2026-05-22-1</guid>
 			<pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -52,7 +27,7 @@ Tag der Erhebung (OOIR): 2026-05-21</description>
 			<link>https://doi.org/10.1038/s41386-026-02436-9</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Pharmacology &amp; Pharmacy
-Score: 180
+Score: 181
 Autoren: Yao Wu, Nickie Andescavage, Katherine L. Wisner, Kushal Kapse, Jonathan Murnick, Julius S. Ngwa, Catherine Limperopoulos
 Journal: Neuropsychopharmacology
 Veröffentlicht: 2026-05-09
@@ -60,8 +35,8 @@ Abstract: Abstract
                   Maternal mental health is associated with fetal neurodevelopment. Identifying effective treatments for maternal psychiatric conditions is a public health priority. SRIs (SSRIs and SNRIs) are commonly prescribed for prenatal mental health conditions; however, their impact on fetal brain development remains understudied. In this observational cohort study, we compared fetal brain and placental structures between SRI-exposed and unexposed pregnancies divided by categories of maternal depressive symptom severity from the Edinburgh Postnatal Depression Scale (EPDS). Pregnant women treated with SRIs and controls without mental illness or antidepressant exposure underwent fetal MRI studies between 20-40 weeks’ gestation. Fetal brain motion correction and 3D reconstructions were performed using slice-to-volume registration. Fetal brain volumes (cortical gray matter, white matter, deep gray matter, cerebellum, brainstem, and hippocampi) were quantified using deep learning-based segmentation with manual correction. Cerebral cortical folding measures included local gyrification index, sulcal depth, curvedness, and surface area. Placental volume and microstructure were assessed with T2-weighted and diffusion-weighted MRI, respectively. EPDS scores were categorized as low ( ≤ 4), moderate (5–9), and high ( ≥ 10). A total of 182 pregnant women were included [62 SRI-exposed (59 SSRIs, 3 SNRIs); 120 controls]. Notably, 29% of SRI-exposed women continued to report elevated depression. SRI-exposed fetuses had smaller hippocampal volumes and reduced cortical gyrification, curvedness, and surface area. Subgroup analysis of stratification by EPDS scores revealed that SRI-exposed fetuses had reduced hippocampal volumes compared to unexposed fetuses with low and moderate, but not high, EPDS scores, and reduced cortical curvedness compared to unexposed subgroups. Among unexposed subgroups, fetuses exposed to high maternal EPDS scores had smaller hippocampal volumes compared to those with low scores. Placenta volume and microstructural diffusion were increased in the SRI-exposed compared to the unexposed group. Larger placental volume was associated with larger total fetal brain volume, and higher placental diffusion was associated with larger fetal white matter and cerebellar volumes in the SRI-exposed group. These findings suggest that prenatal SRI exposure may be associated with altered fetal hippocampal volumes, cerebral cortical maturation, and placental volume and microstructural diffusion. The clinical significance and long-term neurodevelopmental consequences of these structural alterations remain unknown and are currently under study.
 DOI: 10.1038/s41386-026-02436-9
 ISSN: 0893-133X
-Tag der Erhebung (OOIR): 2026-05-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41386-026-02436-9-2026-05-21-3</guid>
+Tag der Erhebung (OOIR): 2026-05-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41386-026-02436-9-2026-05-22-2</guid>
 			<pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -75,8 +50,8 @@ Journal: Journal of Managed Care &amp;amp; Specialty Pharmacy
 Veröffentlicht: 2026-05-04
 DOI: 10.18553/jmcp.2026.25356
 ISSN: 2376-0540
-Tag der Erhebung (OOIR): 2026-05-21</description>
-			<guid isPermaLink="false">ooir-trend-10.18553/jmcp.2026.25356-2026-05-21-4</guid>
+Tag der Erhebung (OOIR): 2026-05-22</description>
+			<guid isPermaLink="false">ooir-trend-10.18553/jmcp.2026.25356-2026-05-22-3</guid>
 			<pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -90,9 +65,24 @@ Journal: Journal of Controlled Release
 Veröffentlicht: 2026-07-01
 DOI: 10.1016/j.jconrel.2026.114954
 ISSN: 0168-3659
-Tag der Erhebung (OOIR): 2026-05-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.jconrel.2026.114954-2026-05-21-5</guid>
+Tag der Erhebung (OOIR): 2026-05-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.jconrel.2026.114954-2026-05-22-4</guid>
 			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Overview of novel cefepime-based β-lactam/β-lactamase inhibitor combinations</title>
+			<link>https://doi.org/10.1080/14787210.2026.2669588</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 79
+Autoren: Luca Pipitò, Antonio Cascio
+Journal: Expert Review of Anti-infective Therapy
+Veröffentlicht: 2026-05-06
+DOI: 10.1080/14787210.2026.2669588
+ISSN: 1478-7210
+Tag der Erhebung (OOIR): 2026-05-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1080/14787210.2026.2669588-2026-05-22-5</guid>
+			<pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
