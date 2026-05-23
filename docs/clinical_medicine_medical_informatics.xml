@@ -5,21 +5,57 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Fri, 22 May 2026 02:42:18 GMT</pubDate>
-		<lastBuildDate>Fri, 22 May 2026 02:42:18 GMT</lastBuildDate>
+		<pubDate>Sat, 23 May 2026 02:27:51 GMT</pubDate>
+		<lastBuildDate>Sat, 23 May 2026 02:27:51 GMT</lastBuildDate>
+		<item>
+			<title>Why People Conceal Mental Health Problems: Qualitative Analysis of TikTok Posts</title>
+			<link>https://doi.org/10.2196/88244</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 110
+Autoren: Chloe Roske, Kael Ragnini, Qinchun Zhu, Ashari Palmer, Meredith R Kells, Heather A Davis, Matthew K Nock
+Journal: Journal of Medical Internet Research
+Veröffentlicht: 2026-05-19
+Abstract: Abstract
+                  
+                    Background
+                    Concealment of psychiatric symptoms is a barrier to effective mental health treatment, particularly among patients with suicidal thoughts and behaviors. Prior research on concealment has relied on retrospective self-report or laboratory-based interviews, which may not capture real-world decision-making about disclosure. Social media platforms such as TikTok provide a context in which individuals publicly narrate their experiences about concealing psychiatric symptoms, offering insight into motivations for concealment uninfluenced by experimenter demand characteristics.
+                  
+                  
+                    Objective
+                    To understand patient decision-making about when to conceal and when to disclose psychiatric symptoms, this study examined social media content about patient experiences of concealing mental health symptoms. TikTok was chosen because it is the fastest-growing social media platform, and social media platforms provide an open-ended format for people to express their thoughts and feelings on various topics.
+                  
+                  
+                    Methods
+                    Using a newly created TikTok account to minimize algorithmic bias, we identified and downloaded the 25 most-viewed English-language videos from 4 search terms about concealment in clinical contexts (“lying to therapist,” “lying to my therapist,” “lying to doctor about mental health,” and “lying to doctors about mental health”). After exclusions, 98 videos were included in the analysis. Videos were analyzed using reflexive thematic analysis. Four coders collaboratively developed a codebook through iterative review, triangulation, and consensus discussions. Engagement metrics (views, likes, comments, shares, saves) were recorded and summarized.
+                  
+                  
+                    Results
+                    The 98 videos had 73,252,531 views, 14,356,874 likes, 74,954 comments, 770,027 shares, and 1,204,006 saves. Four themes were constructed among the 90 videos that explicitly discussed motivations for concealment: (1) disclosure perceived as punitive (31/90, 34.4% of videos), including desire to avoid hospitalization (17/90, 18.8%); (2) managing others’ feelings and impressions (28/90, 31.1%), including fear of upsetting therapists (5/90, 5.5%) and maintaining a façade of wellness (7/90, 7.7%); (3) negative emotions or inability to identify feelings (21/90, 23.3%), including fear of vulnerability (6/90, 6.6%); and (4) negative opinions of psychiatric treatment (17/90, 18.8%), including concerns about confidentiality (3/90, 3.3%). An exploratory theme captured ambivalence and guilt surrounding nondisclosure.
+                  
+                  
+                    Conclusions
+                    Results provide insight into patient motivations for concealing their suicidal thoughts and behaviors and offer potential avenues for improving rates of disclosure, which is critical to reducing death by suicide. TikTok creators frequently described concealment as a strategy to avoid perceived punitive consequences, manage interpersonal dynamics, or cope with emotional distress. Findings suggest that current risk management practices and stigma surrounding psychiatric care may unintentionally reinforce concealment behaviors. These insights may inform interventions aimed at improving the therapeutic alliance, enhancing transparency around hospitalization criteria, and reducing barriers to honest reporting of suicide risk.
+                  
+DOI: 10.2196/88244
+ISSN: 1438-8871
+Tag der Erhebung (OOIR): 2026-05-23</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/88244-2026-05-23-1</guid>
+			<pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Adolescent obesity in the digital age: navigating risks and opportunities</title>
 			<link>https://doi.org/10.1016/j.landig.2026.101006</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 90
+Score: 91
 Autoren: Stephanie R Partridge, Allyson R Todd, Julie Redfern, Surabhi Dogra, Elena Wang, Blessing T Akinsanya, Rebecca Raeside, Sisi Jia
 Journal: The Lancet Digital Health
 Veröffentlicht: 2026-05-01
 DOI: 10.1016/j.landig.2026.101006
 ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2026-05-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.101006-2026-05-22-1</guid>
+Tag der Erhebung (OOIR): 2026-05-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.101006-2026-05-23-2</guid>
 			<pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -27,14 +63,14 @@ Tag der Erhebung (OOIR): 2026-05-22</description>
 			<link>https://doi.org/10.2196/99230</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 68
+Score: 67
 Autoren: Tejas S Athni
 Journal: Journal of Medical Internet Research
 Veröffentlicht: 2026-04-30
 DOI: 10.2196/99230
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2026-05-22</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/99230-2026-05-22-2</guid>
+Tag der Erhebung (OOIR): 2026-05-23</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/99230-2026-05-23-3</guid>
 			<pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -54,8 +90,8 @@ Abstract: Abstract
                   
 DOI: 10.1038/s41746-026-02655-w
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-05-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02655-w-2026-05-22-3</guid>
+Tag der Erhebung (OOIR): 2026-05-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02655-w-2026-05-23-4</guid>
 			<pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -69,24 +105,9 @@ Journal: Journal of Medical Internet Research
 Veröffentlicht: 2026-04-28
 DOI: 10.2196/99154
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2026-05-22</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/99154-2026-05-22-4</guid>
+Tag der Erhebung (OOIR): 2026-05-23</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/99154-2026-05-23-5</guid>
 			<pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Immortal AI, Mortal Life: Long-Term Perspectives on AI and Human Knowledge</title>
-			<link>https://doi.org/10.2196/98707</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 22
-Autoren: Hyunjin Shim
-Journal: Journal of Medical Internet Research
-Veröffentlicht: 2026-04-29
-DOI: 10.2196/98707
-ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2026-05-22</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/98707-2026-05-22-5</guid>
-			<pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

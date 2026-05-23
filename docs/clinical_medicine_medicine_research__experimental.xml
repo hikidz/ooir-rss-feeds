@@ -5,64 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, Research &amp; Experimental) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Fri, 22 May 2026 02:42:33 GMT</pubDate>
-		<lastBuildDate>Fri, 22 May 2026 02:42:33 GMT</lastBuildDate>
-		<item>
-			<title>Epigenetic fingerprints link early-onset colon and rectal cancer to pesticide exposure</title>
-			<link>https://doi.org/10.1038/s41591-026-04342-5</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, Research &amp; Experimental
-Score: 980
-Autoren: Silvana C. E. Maas, Iosune Baraibar, Lea Lemler, Maria Butjosa-Espín, Odei Blanco Irazuegui, Josep Tabernero, Elena Elez, Jose A. Seoane
-Journal: Nature Medicine
-Veröffentlicht: 2026-04-21
-DOI: 10.1038/s41591-026-04342-5
-ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2026-05-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04342-5-2026-05-22-1</guid>
-			<pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Microbiome signature of Parkinson’s disease in healthy and genetically at-risk individuals</title>
-			<link>https://doi.org/10.1038/s41591-026-04318-5</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, Research &amp; Experimental
-Score: 628
-Autoren: Elisa Menozzi, Yani Ren, Mallia Geiger, Jane Macnaughtan, Micol Avenali, Marco Toffoli, Marine Gilles, Rosaria Calabrese, Pierfrancesco Mitrotti, Luca Gallo, Alexandre Famechon, Sara Lucas Del Pozo, Roxana Mezabrovschi, Sofia Koletsi, Nadine Loefflad, Selen Yalkic, Naomi Limbachiya, Frederick Clasen, Suleyman Yildirim, Saeed Shoaie, Hervé Blottière, Christian Morabito, Aymeric David, Benoit Quinquis, Nicolas Pons, Emmanuelle Le Chatelier, Franco Valzania, Francesco Cavallieri, Valentina Fioravanti, Giulia Toschi, Fabio Blandini, Mathieu Almeida, Stanislav Dusko Ehrlich, Victoria Meslier, Anthony H. V. Schapira
-Journal: Nature Medicine
-Veröffentlicht: 2026-04-20
-Abstract: Abstract
-                  
-                    Parkinson’s disease (PD) is a major cause of disability.
-                    GBA1
-                    variants are the most common genetic risk factor for PD and increase the risk up to 30-fold. Why only approximately 20% of
-                    GBA1
-                    variant carriers develop PD remains unknown. Here, by combining clinical and fecal metagenomics data from 271 patients with PD, from 43 carriers of
-                    GBA1
-                    variants not manifesting PD symptoms (GBA-NMC) and from 150 healthy controls, and using an innovative microbiome analysis, combining differential abundance of species and coherence of differential abundance variation between the groups as assessed by Cliff’s delta (
-                    δ
-                    ), we show that the composition of a large component of the gut microbiome (approximately 25%) in GBA-NMC is intermediate between healthy controls and patients with PD. This component is strongly correlated with disease progression in patients and prodromal symptoms suggestive of future development of PD in both GBA-NMC and healthy individuals. We found microbiome alterations similar to those described here in three independent cohorts from the United States, Korea and Turkey, totaling 638 patients with PD and 319 healthy controls, and we conclude that gut microbiome alterations can identify both genetically and non-genetically at-risk individuals in the general population who may be progressing toward PD, thus serving as an early marker of disease development in the premanifest phase.
-                  
-DOI: 10.1038/s41591-026-04318-5
-ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2026-05-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04318-5-2026-05-22-2</guid>
-			<pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Show us the evidence for the value of medical AI</title>
-			<link>https://doi.org/10.1038/s41591-026-04389-4</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, Research &amp; Experimental
-Score: 490
-Journal: Nature Medicine
-Veröffentlicht: 2026-04-01
-DOI: 10.1038/s41591-026-04389-4
-ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2026-05-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04389-4-2026-05-22-3</guid>
-			<pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
-		</item>
+		<pubDate>Sat, 23 May 2026 02:28:10 GMT</pubDate>
+		<lastBuildDate>Sat, 23 May 2026 02:28:10 GMT</lastBuildDate>
 		<item>
 			<title>Orforglipron for maintenance of body weight reduction: the double-blind, randomized phase 3b ATTAIN-MAINTAIN trial</title>
 			<link>https://doi.org/10.1038/s41591-026-04386-7</link>
@@ -88,8 +32,8 @@ Abstract: Abstract
                   
 DOI: 10.1038/s41591-026-04386-7
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2026-05-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04386-7-2026-05-22-4</guid>
+Tag der Erhebung (OOIR): 2026-05-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04386-7-2026-05-23-1</guid>
 			<pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -104,9 +48,61 @@ Veröffentlicht: 2026-04-25
 Abstract: Cancer immunotherapy has revolutionized oncology by harnessing the immune system to eliminate malignant cells, yet its efficacy remains constrained by insufficient antigen presentation, limited T cell infiltration, and the immunosuppressive tumor microenvironment (TME). Nanotechnology provides strategies to address these barriers by enabling the precise delivery of antigens, adjuvants, cytokines, checkpoint inhibitors, and nucleic acids, while protecting labile cargos and allowing for controlled release. Beyond serving as carriers, nanoparticles can regulate antitumor immunity by enhancing antigen presentation, promoting T cell priming and infiltration, and remodeling the TME. This review outlines key physiological barriers to in vivo nanoparticle delivery and the corresponding engineering optimization strategies, and systematically summarizes representative advances in using nanomaterials to enhance antigen presentation, promote T cell priming and intratumoral infiltration, and remodel the tumor microenvironment. We further discuss major translational limitations, including heterogeneous tumor accumulation, intracellular trafficking bottlenecks, safety considerations, and manufacturing consistency, and finally highlight the realizable potential of nano-immunotherapy to improve both the efficacy and specificity of cancer immunotherapy.
 DOI: 10.20892/j.issn.2095-3941.2025.0737
 ISSN: 2095-3941
-Tag der Erhebung (OOIR): 2026-05-22</description>
-			<guid isPermaLink="false">ooir-trend-10.20892/j.issn.2095-3941.2025.0737-2026-05-22-5</guid>
+Tag der Erhebung (OOIR): 2026-05-23</description>
+			<guid isPermaLink="false">ooir-trend-10.20892/j.issn.2095-3941.2025.0737-2026-05-23-2</guid>
 			<pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>CRISPR−Cas9 CD33-deleted allogeneic hematopoietic cell transplantation with gemtuzumab ozogamicin maintenance in AML: a phase 1/2 trial</title>
+			<link>https://doi.org/10.1038/s41591-026-04362-1</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 307
+Autoren: John F. DiPersio, Guenther Koehne, Nirali N. Shah, Léa Bernard, Hyung C. Suh, Divya Koura, Roni Tamari, Muhammad Umair Mushtaq, Joseph Maakaron, Joseph Rimando, Vanessa E. Kennedy, Sagar S. Patel, Chad Hudson, Michael R. Loken, Christopher A. Slapak, Deborah M. Lloyd, Darren A. Stanizzi, Melissa M. Lee-Sundlov, Sanjana Thosar, Guy Mundelboim, Guangwu Guo, Huanying Gary Ge, Bin E. Li, Juliana Xavier-Ferrucio, Sharon L. Hyzy, Michelle I. Lin, Glen D. Raffel, Brenda W. Cooper
+Journal: Nature Medicine
+Veröffentlicht: 2026-05-01
+DOI: 10.1038/s41591-026-04362-1
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2026-05-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04362-1-2026-05-23-3</guid>
+			<pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Data-driven prioritization of high-risk individuals for weight loss interventions</title>
+			<link>https://doi.org/10.1038/s41591-026-04353-2</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 272
+Autoren: Kamil Demircan, Julia Carrasco-Zanini, Alice Williamson, Carl Beuchel, Linsey Jackson, Werner Römisch-Margl, Aleksander L. Hansen, Sarah Finer, David A. van Heel, Genes &amp; Health Research Team, David A. van Heel, Gabi Kastenmüller, Matthew Coghlan, Ida Moeller, Nicholas J. Wareham, Maik Pietzner, Claudia Langenberg
+Journal: Nature Medicine
+Veröffentlicht: 2026-04-30
+Abstract: Abstract
+                  
+                    New obesity medications have demonstrated efficacy in trials, but their real-world deployment is partly limited by the absence of approaches that identify individuals for treatment based on risks for obesity-related complications. Here we present a risk prediction model to guide prioritization of high-risk individuals. In a population-based sample of ~200,000 individuals with a body mass index (BMI) exceeding 27 kg m
+                    −
+                    2
+                    , our machine learning framework identified the 20 most informative features, from among thousands tested, that predict future onset of 18 complications of obesity, providing information beyond BMI. An integrated model (OBSCORE) successfully stratified individuals into risk groups based on incidence over 10 years: for example, 5.7%, 1.8%, 0.9%, 0.4% and 0.1% for cardiovascular mortality. We demonstrate generalizability of the model in independent populations of European and non-European ancestry and, in SURMOUNT-1 trial participants, show that weight loss was similar across baseline OBSCORE risk groups and that predicted risks decreased following treatment with tirzepatide. In summary, OBSCORE provides a framework for prioritizing high-risk individuals with overweight or obesity based on their risk of obesity-related complications, complementing BMI-based frameworks.
+                  
+DOI: 10.1038/s41591-026-04353-2
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2026-05-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04353-2-2026-05-23-4</guid>
+			<pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Targeted removal of soluble Fms-like tyrosine kinase 1 in very preterm preeclampsia: a pilot trial</title>
+			<link>https://doi.org/10.1038/s41591-026-04333-6</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 241
+Autoren: Ravi Thadhani, Thomas F. Hiemstra, Manu Vatish, Holger Stepan, Ana Sofia Cerdeira, Jeremy Brockelsby, Tim James, Massimiliano Lia, Alissa Cornelis, Elena Krause, Martin R. Spath, Berthold Grüttner, Polina Todorova, Henning Hagmann, Kristen R. Yeung, Bei Xu, Scott Heffernan, Suzanne Pears, Richard Waugh, John Thompson, Jim Iliopoulos, Neroli Sunderland, Murray Killingsworth, Angela Makris, Annemarie Hennessy, Agnes Lo, Adelene Y. Tan, Paul Kussie, Yuchiao Chang, Linda Hanssens, Stefan Miltenyi, Thomas Benzing, S. Ananth Karumanchi
+Journal: Nature Medicine
+Veröffentlicht: 2026-04-27
+DOI: 10.1038/s41591-026-04333-6
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2026-05-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04333-6-2026-05-23-5</guid>
+			<pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
