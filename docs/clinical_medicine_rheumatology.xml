@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rheumatology) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 23 May 2026 02:28:32 GMT</pubDate>
-		<lastBuildDate>Sat, 23 May 2026 02:28:32 GMT</lastBuildDate>
+		<pubDate>Sun, 24 May 2026 02:38:14 GMT</pubDate>
+		<lastBuildDate>Sun, 24 May 2026 02:38:14 GMT</lastBuildDate>
 		<item>
 			<title>A pathogenic gut lipoglycan drives systemic thromboinflammation in lupus nephritis</title>
 			<link>https://doi.org/10.1016/j.ard.2026.03.002</link>
@@ -18,8 +18,8 @@ Journal: Annals of the Rheumatic Diseases
 Veröffentlicht: 2026-04-01
 DOI: 10.1016/j.ard.2026.03.002
 ISSN: 0003-4967
-Tag der Erhebung (OOIR): 2026-05-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2026.03.002-2026-05-23-1</guid>
+Tag der Erhebung (OOIR): 2026-05-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2026.03.002-2026-05-24-1</guid>
 			<pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -33,40 +33,9 @@ Journal: Annals of the Rheumatic Diseases
 Veröffentlicht: 2026-04-01
 DOI: 10.1016/j.ard.2026.03.006
 ISSN: 0003-4967
-Tag der Erhebung (OOIR): 2026-05-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2026.03.006-2026-05-23-2</guid>
+Tag der Erhebung (OOIR): 2026-05-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2026.03.006-2026-05-24-2</guid>
 			<pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Artificial Intelligence–Aided Lung Ultrasound Detection of Interstitial Lung Disease in Systemic Sclerosis and Inflammatory Myopathy</title>
-			<link>https://doi.org/10.1002/acr.80054</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rheumatology
-Score: 27
-Autoren: Robert M. Fairchild, Mariani D. Deluna, Mojtaba Fazli, Diane A. Mar, Melody Chung, Srijana Davuluri, Yumeko Kawano, Henry Guo, Matthew C. Baker, David Fiorentino, Suzanne Tamang, Lorinda Chung
-Journal: Arthritis Care &amp;amp; Research
-Veröffentlicht: 2026-04-29
-Abstract: 
-                    Objective
-                    Lung ultrasound (LUS) is a sensitive, low‐cost, and radiation‐free modality for interstitial lung disease (ILD) detection. We previously developed and validated LUS interpretation criteria in systemic sclerosis (SSc) and idiopathic inflammatory myopathy (IIM) showing excellent diagnostic performance and correlations with ILD severity. In this study, we applied deep learning to evaluate whether convolutional neural networks (CNNs) can accurately detect ILD and its severity on LUS.
-                  
-                  
-                    Methods
-                    Patients with SSc or IIM ± ILD and paired LUS and chest computed tomography (CT) were included. LUS images were labeled using CT results and human LUS‐ILD 2024 (LUS‐ILD‐24) interpretation. Three pretrained CNN architectures (InceptionV3, ResNet‐50, VGG‐16) were fine‐tuned via transfer learning, and a de novo lightweight architecture (LUS‐Net) was developed. Model performance for ILD detection was assessed at image and patient levels using area under the curve (AUC), sensitivity, specificity, and agreement with expert interpretation. CNN outputs were correlated with pulmonary function tests (PFTs) and CT‐based Computer‐Aided Lung Informatics for Pathology Evaluation and Rating indices. Gradient‐weighted Class Activation Mapping (Grad‐CAM) visualized regions driving predictions.
-                  
-                  
-                    Results
-                    A total of 140 patients representing 3,920 LUS images were included and split into development (74) and independent test sets (66). VGG‐16 achieved the best patient‐level performance (AUC 0.972, sensitivity 97.4%, specificity 92.6%) showing strong correlations with PFTs and CT severity. Grad‐CAM highlighted pleural features as the primary regions influencing model predictions. CNN performance matched or exceeded LUS‐ILD‐24 interpretation.
-                  
-                  
-                    Conclusion
-                    Deep learning applied to LUS enables accurate ILD detection in connective tissue disease and can enhance expert interpretation. Explainable artificial intelligence suggests pleural features, even when B‐lines are infrequent, are sufficient for reliable ILD recognition.
-                  
-DOI: 10.1002/acr.80054
-ISSN: 2151-464X
-Tag der Erhebung (OOIR): 2026-05-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/acr.80054-2026-05-23-3</guid>
-			<pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Differences in SARS‐CoV‐2 antigen persistence in individuals with systemic autoimmune rheumatic diseases compared to the general population: A RECOVER‐Adult Cohort Study</title>
@@ -95,40 +64,55 @@ Abstract:
                   
 DOI: 10.1002/art.70205
 ISSN: 2326-5191
-Tag der Erhebung (OOIR): 2026-05-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/art.70205-2026-05-23-4</guid>
+Tag der Erhebung (OOIR): 2026-05-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/art.70205-2026-05-24-3</guid>
 			<pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Coverage Generosity of Novel Antirheumatic Drugs in Medicare Advantage and Stand‐Alone Part D Plans</title>
-			<link>https://doi.org/10.1002/art.70132</link>
+			<title>Efficacy and safety of enpatoran, a Toll-like receptor 7/8 inhibitor, in patients with skin manifestations of cutaneous lupus erythematosus or systemic lupus erythematosus: findings from Cohort A of a multicentre, international, double-blind, placebo-controlled, dose-finding phase 2 trial</title>
+			<link>https://doi.org/10.1016/s2665-9913(25)00337-6</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Rheumatology
-Score: 24
-Autoren: Youngmin Kwon, Robert W. Corty, Stacie B. Dusetzina
-Journal: Arthritis &amp;amp; Rheumatology
-Veröffentlicht: 2026-04-20
+Score: 27
+Autoren: Eric F Morand, Victoria P Werth, Joerg Wenzel, Richard Furie, Maria Dall’Era, Jorge Sanchez-Guerrero, Sanjeev Roy, Summer G Goodson, Flavie Moreau, Hans Gühring, Evridiki Sgouroudi, Lena Klopp-Schulze, David R Pearson
+Journal: The Lancet Rheumatology
+Veröffentlicht: 2026-05-01
+DOI: 10.1016/s2665-9913(25)00337-6
+ISSN: 2665-9913
+Tag der Erhebung (OOIR): 2026-05-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(25)00337-6-2026-05-24-4</guid>
+			<pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Artificial Intelligence–Aided Lung Ultrasound Detection of Interstitial Lung Disease in Systemic Sclerosis and Inflammatory Myopathy</title>
+			<link>https://doi.org/10.1002/acr.80054</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 27
+Autoren: Robert M. Fairchild, Mariani D. Deluna, Mojtaba Fazli, Diane A. Mar, Melody Chung, Srijana Davuluri, Yumeko Kawano, Henry Guo, Matthew C. Baker, David Fiorentino, Suzanne Tamang, Lorinda Chung
+Journal: Arthritis Care &amp;amp; Research
+Veröffentlicht: 2026-04-29
 Abstract: 
                     Objective
-                    We examine coverage of self‐administered disease‐modifying antirheumatic drugs (DMARDs) in Medicare Part D.
+                    Lung ultrasound (LUS) is a sensitive, low‐cost, and radiation‐free modality for interstitial lung disease (ILD) detection. We previously developed and validated LUS interpretation criteria in systemic sclerosis (SSc) and idiopathic inflammatory myopathy (IIM) showing excellent diagnostic performance and correlations with ILD severity. In this study, we applied deep learning to evaluate whether convolutional neural networks (CNNs) can accurately detect ILD and its severity on LUS.
                   
                   
                     Methods
-                    Using 2022–2026 Part D formulary data, we assessed coverage of the following DMARD classes that treat relapsed rheumatoid arthritis (RA): tumor necrosis factor (TNF) inhibitors, T cell costimulatory modulator, interleukin‐6 (IL‐6) inhibitors, and JAK inhibitors. We measured (1) coverage of individual DMARDs and (2) the generosity of coverage between classes (the share of plans covering at least one drug in each class) and within classes (the share of covered drugs within each class).
+                    Patients with SSc or IIM ± ILD and paired LUS and chest computed tomography (CT) were included. LUS images were labeled using CT results and human LUS‐ILD 2024 (LUS‐ILD‐24) interpretation. Three pretrained CNN architectures (InceptionV3, ResNet‐50, VGG‐16) were fine‐tuned via transfer learning, and a de novo lightweight architecture (LUS‐Net) was developed. Model performance for ILD detection was assessed at image and patient levels using area under the curve (AUC), sensitivity, specificity, and agreement with expert interpretation. CNN outputs were correlated with pulmonary function tests (PFTs) and CT‐based Computer‐Aided Lung Informatics for Pathology Evaluation and Rating indices. Gradient‐weighted Class Activation Mapping (Grad‐CAM) visualized regions driving predictions.
                   
                   
                     Results
-                    We included 26,915 plan‐year observations, representing 217.6 million enrolled beneficiaries from 2022 to 2026. In the five‐year period, coverage was relatively complete (&amp;gt;94%) for etanercept and adalimumab (TNF inhibitors) and upadacitinib (JAK inhibitor). However, coverage was lower for golimumab and certolizumab (TNF inhibitors), abatacept (the sole T cell costimulatory modulator), sarilumab (IL‐6 inhibitor), and baricitinib (JAK inhibitor). Moreover, only 10.4% and 37.6% of stand‐alone and Medicare Advantage (MA) Part D plans, respectively, covered all mechanisms of action, mostly due to low coverage of abatacept. In 2026, only 0.3% and 21.2% of stand‐alone and MA Part D plans, respectively, covered abatacept. On the other hand, coverage increased for IL‐6 inhibitors, likely due to the availability of biosimilar drugs for tocilizumab in 2024.
+                    A total of 140 patients representing 3,920 LUS images were included and split into development (74) and independent test sets (66). VGG‐16 achieved the best patient‐level performance (AUC 0.972, sensitivity 97.4%, specificity 92.6%) showing strong correlations with PFTs and CT severity. Grad‐CAM highlighted pleural features as the primary regions influencing model predictions. CNN performance matched or exceeded LUS‐ILD‐24 interpretation.
                   
                   
                     Conclusion
-                    The growing exclusions of self‐administered DMARDs across several mechanisms of action and heterogeneity in coverage by plan type suggest potential barriers to accessing optimal RA treatments. Further monitoring of formulary adequacy and research into the clinical impacts of formulary exclusions are warranted.
+                    Deep learning applied to LUS enables accurate ILD detection in connective tissue disease and can enhance expert interpretation. Explainable artificial intelligence suggests pleural features, even when B‐lines are infrequent, are sufficient for reliable ILD recognition.
                   
-DOI: 10.1002/art.70132
-ISSN: 2326-5191
-Tag der Erhebung (OOIR): 2026-05-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/art.70132-2026-05-23-5</guid>
-			<pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+DOI: 10.1002/acr.80054
+ISSN: 2151-464X
+Tag der Erhebung (OOIR): 2026-05-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/acr.80054-2026-05-24-5</guid>
+			<pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

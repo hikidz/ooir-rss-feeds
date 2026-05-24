@@ -5,8 +5,41 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 23 May 2026 02:27:51 GMT</pubDate>
-		<lastBuildDate>Sat, 23 May 2026 02:27:51 GMT</lastBuildDate>
+		<pubDate>Sun, 24 May 2026 02:37:41 GMT</pubDate>
+		<lastBuildDate>Sun, 24 May 2026 02:37:41 GMT</lastBuildDate>
+		<item>
+			<title>The effect of medical explanations from large language models on diagnostic accuracy in radiology</title>
+			<link>https://doi.org/10.1038/s41746-026-02619-0</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 148
+Autoren: Philipp Spitzer, Daniel Hendriks, Jan Rudolph, Sarah Schlaeger, Jens Ricke, Niklas Kühl, Boj Friedrich Hoppe, Stefan Feuerriegel
+Journal: npj Digital Medicine
+Veröffentlicht: 2026-04-23
+Abstract: Abstract
+                  
+                    Large language models (LLMs) are increasingly used by physicians for diagnostic support. A key advantage of LLMs is the ability to generate explanations that can help physicians understand the reasoning behind a diagnosis. However, the best-suited format for LLM-generated explanations remains unclear. In this large-scale study, we examined the effect of different formats for LLM explanations on clinical decision-making. For this, we conducted a randomized experiment with radiologists reviewing patient cases with radiological images (
+                    N
+                    = 2020 assessments). Participants received either no LLM support (control group) or were supported by one of three LLM-generated explanations: (1) a
+                    standard output
+                    providing the diagnosis without explanation; (2) a
+                    differential diagnosis
+                    comparing multiple possible diagnoses; or (3) a
+                    chain-of-thought
+                    explanation offering a detailed reasoning process for the diagnosis. We find that the format of explanations significantly influences diagnostic accuracy. The chain-of-thought explanations yielded the best performance, improving the diagnostic accuracy by 12.2% compared to the control condition without LLM support (
+                    P
+                    = 0.001). The chain-of-thought explanations are also superior to the standard output without explanation ( + 7.2%;
+                    P
+                    = 0.040) and the differential diagnosis format ( + 9.7%;
+                    P
+                    = 0.004). We further assessed the robustness of these findings across case difficulty and different physician backgrounds, such as general vs. specialized radiologists. Evidently, in the controlled setting of our vignette study, explaining the reasoning for a diagnosis helps physicians to identify and correct potential errors in LLM predictions and thus improve overall decisions. Altogether, the results highlight the importance of explanations in medical LLMs to support the reasoning processes of physicians, so that medical LLMs can improve diagnostic performance and, ultimately, patient outcomes.
+                  
+DOI: 10.1038/s41746-026-02619-0
+ISSN: 2398-6352
+Tag der Erhebung (OOIR): 2026-05-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02619-0-2026-05-24-1</guid>
+			<pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Why People Conceal Mental Health Problems: Qualitative Analysis of TikTok Posts</title>
 			<link>https://doi.org/10.2196/88244</link>
@@ -39,8 +72,8 @@ Abstract: Abstract
                   
 DOI: 10.2196/88244
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2026-05-23</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/88244-2026-05-23-1</guid>
+Tag der Erhebung (OOIR): 2026-05-24</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/88244-2026-05-24-2</guid>
 			<pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -54,8 +87,8 @@ Journal: The Lancet Digital Health
 Veröffentlicht: 2026-05-01
 DOI: 10.1016/j.landig.2026.101006
 ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2026-05-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.101006-2026-05-23-2</guid>
+Tag der Erhebung (OOIR): 2026-05-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.101006-2026-05-24-3</guid>
 			<pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -69,8 +102,8 @@ Journal: Journal of Medical Internet Research
 Veröffentlicht: 2026-04-30
 DOI: 10.2196/99230
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2026-05-23</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/99230-2026-05-23-3</guid>
+Tag der Erhebung (OOIR): 2026-05-24</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/99230-2026-05-24-4</guid>
 			<pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -90,24 +123,9 @@ Abstract: Abstract
                   
 DOI: 10.1038/s41746-026-02655-w
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-05-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02655-w-2026-05-23-4</guid>
+Tag der Erhebung (OOIR): 2026-05-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02655-w-2026-05-24-5</guid>
 			<pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>AI-Quantified Breast Arterial Calcification Can Predict Heart Disease Risk From Mammograms</title>
-			<link>https://doi.org/10.2196/99154</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 24
-Autoren: Shalini Kathuria Narang
-Journal: Journal of Medical Internet Research
-Veröffentlicht: 2026-04-28
-DOI: 10.2196/99154
-ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2026-05-23</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/99154-2026-05-23-5</guid>
-			<pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

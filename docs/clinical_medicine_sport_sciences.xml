@@ -5,14 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Sport Sciences) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 23 May 2026 02:27:32 GMT</pubDate>
-		<lastBuildDate>Sat, 23 May 2026 02:27:32 GMT</lastBuildDate>
+		<pubDate>Sun, 24 May 2026 02:37:27 GMT</pubDate>
+		<lastBuildDate>Sun, 24 May 2026 02:37:27 GMT</lastBuildDate>
 		<item>
 			<title>Effects of different exercise training modalities on 24-hour ambulatory blood pressure in adults with hypertension: a network meta-analysis of randomised controlled trials</title>
 			<link>https://doi.org/10.1136/bjsports-2025-111474</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Sport Sciences
-Score: 152
+Score: 164
 Autoren: Vinícius Mallmann Schneider, Patrícia Klarmann Ziegelmann, Dalva Muniz Pereira, Rodrigo Ferrari
 Journal: British Journal of Sports Medicine
 Veröffentlicht: 2026-05-12
@@ -42,8 +42,8 @@ Abstract:
                   
 DOI: 10.1136/bjsports-2025-111474
 ISSN: 0306-3674
-Tag der Erhebung (OOIR): 2026-05-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-111474-2026-05-23-1</guid>
+Tag der Erhebung (OOIR): 2026-05-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-111474-2026-05-24-1</guid>
 			<pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -98,23 +98,62 @@ Abstract: Abstract
                   
 DOI: 10.1002/pmrj.70153
 ISSN: 1934-1482
-Tag der Erhebung (OOIR): 2026-05-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/pmrj.70153-2026-05-23-2</guid>
+Tag der Erhebung (OOIR): 2026-05-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/pmrj.70153-2026-05-24-2</guid>
 			<pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Sport-related trauma and motor neurone disease: a scoping review of epidemiology, mechanisms and future directions</title>
+			<link>https://doi.org/10.1136/bjsports-2025-111410</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 61
+Autoren: Josh Bate, Jackie Fealey, Carolyn Young, Anne McArdle, Caroline Amy Staunton, Graeme L Close
+Journal: British Journal of Sports Medicine
+Veröffentlicht: 2026-05-14
+Abstract: 
+                    Objective
+                    To map existing epidemiological evidence assessing the relationship of sport-related trauma and Motor Neurone Disease/Amyotrophic Lateral Sclerosis (MND/ALS), identify potential mechanistic pathways through which athletic exposures may influence disease risk and highlight gaps informing future research priorities.
+                  
+                  
+                    Design
+                    Scoping Review. Online databases were used to retrieve data from available sources to 25 September 2025.
+                  
+                  
+                    Data sources
+                    Published and grey literature in English were identified through searches of ProQuest Central, Web of Science, Scopus, Sport Discus and PubMed. Studies were deemed eligible if they examined MND/ALS in the context of sport-related physical trauma.
+                  
+                  
+                    Methods
+                    The scoping review was carried out in accordance with Preferred Reporting Items for Systematic reviews and Meta-analyses extension for Scoping Reviews (PRISMA-ScR) guidelines. A three-step search strategy identified primary studies, secondary literature and grey literature. Following screening, data were extracted using a standardised charting tool to develop a descriptive analysis and thematic synthesis.
+                  
+                  
+                    Results
+                    The search identified 3307 records, with 45 studies meeting inclusion criteria. General physical activity does not elevate MND/ALS risk; however, professional participation in high-impact sports, particularly those involving repetitive head impacts, has been associated with a 4–15-fold increased risk of MND/ALS. However, current evidence is largely descriptive, correlative and lacks mechanistic insights to verify causation.
+                  
+                  
+                    Conclusion
+                    This scoping review highlights a plausible association between repeated physical trauma in sport and MND/ALS, particularly in professional sports with high exposure to repeated head impacts. Future research should identify biological mechanisms linking trauma exposure with MND/ALS, integrating biomarker, experimental and longitudinal study designs to clarify causal mechanisms and inform risk mitigation in sport.
+                  
+DOI: 10.1136/bjsports-2025-111410
+ISSN: 0306-3674
+Tag der Erhebung (OOIR): 2026-05-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-111410-2026-05-24-3</guid>
+			<pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Unlocking the potential of light-intensity physical activity for public health: a call to action for research</title>
 			<link>https://doi.org/10.1136/bjsports-2025-111179</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Sport Sciences
-Score: 41
+Score: 42
 Autoren: Stephanie A Prince, Jean-Philippe Chaput, Rachel C Colley, Paddy C Dempsey, Ulf Ekelund, Ian Janssen, Justin J Lang, Emmanuel Stamatakis, Jakob Tarp, Mark S Tremblay, Marisol T Betancourt, Gregory P Butler, Karen C Roberts
 Journal: British Journal of Sports Medicine
 Veröffentlicht: 2026-05-04
 DOI: 10.1136/bjsports-2025-111179
 ISSN: 0306-3674
-Tag der Erhebung (OOIR): 2026-05-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-111179-2026-05-23-3</guid>
+Tag der Erhebung (OOIR): 2026-05-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-111179-2026-05-24-4</guid>
 			<pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -151,96 +190,9 @@ Abstract:
                   
 DOI: 10.1136/bjsports-2025-110894
 ISSN: 0306-3674
-Tag der Erhebung (OOIR): 2026-05-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-110894-2026-05-23-4</guid>
+Tag der Erhebung (OOIR): 2026-05-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-110894-2026-05-24-5</guid>
 			<pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>35 Years of Joyner’s Endurance Performance Model: Assessing the Contribution of Physiological Determinants of Performance Proxies in 888 Individuals from Recreational to World Class</title>
-			<link>https://doi.org/10.1007/s40279-026-02439-y</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Sport Sciences
-Score: 37
-Autoren: Loïs Mougin, Stephen J. Bailey, Andrew M. Jones, Michael J. Joyner, Stephen A. Mears, Rhona Pearce, Michele Zanini
-Journal: Sports Medicine
-Veröffentlicht: 2026-05-03
-Abstract: Abstract
-                  
-                    Background
-                    
-                      Endurance performance is predicted by maximal oxygen uptake, its fractional utilisation at lactate threshold (FU
-                      LT
-                      ) and exercise economy. These variables are used to estimate speed or power at lactate threshold (LT) and lactate turnpoint (LTP), which serve as performance proxies.
-                    
-                  
-                  
-                    Objective
-                    This study examined the relationships between these variables in a large cohort of runners and cyclists and quantified their relative contributions to performance prediction.
-                  
-                  
-                    Methods
-                    
-                      495 runners (105 females) and 393 cyclists (42 females) completed incremental exercise tests to determine maximal oxygen uptake (running [R]: 56 mL/kg/min, 3.94 L/min; cycling [C]: 52 mL/kg/min, 3.99 L/min), economy (R: 220 mL/kg/km; C: 14.7 mL/min/W), FU
-                      LT
-                       (R: 78%; C: 70%), FU
-                      LTP
-                       (R: 88%; C: 84%), and speed or power at LT (R: 12.0 km/h; C: 190 W) and LTP (R: 13.9 km/h; C: 240 W). Single and multiple linear regression models were used to examine the relationship and relative contribution of physiological determinants to performance proxies.
-                    
-                  
-                  
-                    Results
-                    
-                      Speed or power at LT and LTP correlated strongly and positively with maximal oxygen uptake (
-                      R
-                      2
-                       = 0.65–0.77; 
-                      P
-                       &amp;lt; 0.001), and inversely with economy (
-                      R
-                      2
-                       = 0.24–0.26; 
-                      P
-                       &amp;lt; 0.001). In contrast, trivial relationships were observed with FU
-                      LT
-                      (
-                      R
-                      2
-                       ≤ 0.04; 
-                      P
-                       = 0.01–0.05) or FU
-                      LTP
-                       (
-                      R
-                      2
-                       ≤ 0.01; 
-                      P
-                       = 0.01–0.09). Regression models estimating LT and LTP from physiological determinants showed very strong agreement with measured performance proxies (
-                      R
-                      2
-                       = 0.94–0.99; 
-                      P
-                       &amp;lt; 0.001), indicating consistency in their relative contribution to performance proxies. Maximal oxygen uptake contributed most to performance proxies (65–76%) followed by running economy (20–24%), with marginal contributions from FU
-                      LT
-                      or FU
-                      LTP
-                       (4–11%).
-                    
-                  
-                  
-                    Conclusions
-                    
-                      These results indicate that maximal oxygen uptake and economy collectively predict ~ 95% of speed or power at LT and LTP, and by extension performance, whilst the contribution of FU
-                      LT
-                      or FU
-                      LTP
-                       is limited in populations with heterogeneous characteristics.
-                    
-                  
-DOI: 10.1007/s40279-026-02439-y
-ISSN: 0112-1642
-Tag der Erhebung (OOIR): 2026-05-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s40279-026-02439-y-2026-05-23-5</guid>
-			<pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
