@@ -5,14 +5,45 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Sport Sciences) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Mon, 25 May 2026 02:46:13 GMT</pubDate>
-		<lastBuildDate>Mon, 25 May 2026 02:46:13 GMT</lastBuildDate>
+		<pubDate>Tue, 26 May 2026 02:34:51 GMT</pubDate>
+		<lastBuildDate>Tue, 26 May 2026 02:34:51 GMT</lastBuildDate>
+		<item>
+			<title>Joint non-linear dose–response associations of device-measured physical activity and cardiorespiratory fitness with cardiovascular disease: a cohort and Mendelian randomisation study</title>
+			<link>https://doi.org/10.1136/bjsports-2025-111351</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 612
+Autoren: Zhide Liang, Senyao Du, Shiao Zhao, Xianfei Wang, Qiang Yan, Baichao Xu, Sanfan Ng, Ziheng Ning
+Journal: British Journal of Sports Medicine
+Veröffentlicht: 2026-05-19
+Abstract: 
+                    Objectives
+                    To characterise the non-linear joint dose–response relationship of accelerometer-measured moderate-to-vigorous physical activity (MVPA) and cardiorespiratory fitness (CRF, estimated as maximal oxygen uptake (VO₂max)) with incident cardiovascular disease (CVD), and to assess causal consistency using Mendelian randomisation (MR).
+                  
+                  
+                    Methods
+                    We conducted a cohort study in the UK Biobank using accelerometer data linked to hospital and death registries. A Cox generalised additive model characterised the joint MVPA–CRF association with incident CVD (atrial fibrillation, myocardial infarction, heart failure (HF) and stroke), adjusting for confounders. We derived a fitness-stratified matrix quantifying the weekly MVPA minutes associated with prespecified relative hazard reductions. Complementary two-sample MR analyses leveraged genome-wide association study summary statistics for device-measured physical activity (PA) traits and CRF to assess potential causal effects on cardiovascular outcomes.
+                  
+                  
+                    Results
+                    Among 17 088 participants, 1233 incident CVD events occurred over a median follow-up of 7.85 years (IQR, 7.39–8.27). A significant non-linear interaction between MVPA and CRF was observed (p&amp;lt;0.001). Meeting the 150 min/week guideline yielded a modest ~8%–9% risk reduction across fitness levels, whereas achieving a &amp;gt;30% risk reduction required threefold to fourfold higher volumes (~560–610 min/week). Residual analysis indicated that fitness beyond what MVPA and covariates predicted retained a modest protective association with CVD risk (HR, 0.98 per 1 mL/kg/min; 95% CI 0.97 to 0.99; p&amp;lt;0.001). In MR analyses, genetically proxied higher CRF was associated with lower HF risk (OR, 0.79; 95% CI 0.63 to 0.99), whereas genetic evidence for PA traits was weaker and less consistent.
+                  
+                  
+                    Conclusion
+                    Current MVPA guidelines provide a universal but modest safety margin, whereas optimal cardiovascular protection may require substantially higher activity volumes. The fitness-stratified prescription matrix offers quantitative behavioural targets, and genetic findings reinforce the independent importance of CRF in cardiovascular risk reduction.
+                  
+DOI: 10.1136/bjsports-2025-111351
+ISSN: 0306-3674
+Tag der Erhebung (OOIR): 2026-05-26</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-111351-2026-05-26-1</guid>
+			<pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Effects of different exercise training modalities on 24-hour ambulatory blood pressure in adults with hypertension: a network meta-analysis of randomised controlled trials</title>
 			<link>https://doi.org/10.1136/bjsports-2025-111474</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Sport Sciences
-Score: 164
+Score: 172
 Autoren: Vinícius Mallmann Schneider, Patrícia Klarmann Ziegelmann, Dalva Muniz Pereira, Rodrigo Ferrari
 Journal: British Journal of Sports Medicine
 Veröffentlicht: 2026-05-12
@@ -42,8 +73,8 @@ Abstract:
                   
 DOI: 10.1136/bjsports-2025-111474
 ISSN: 0306-3674
-Tag der Erhebung (OOIR): 2026-05-25</description>
-			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-111474-2026-05-25-1</guid>
+Tag der Erhebung (OOIR): 2026-05-26</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-111474-2026-05-26-2</guid>
 			<pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -51,7 +82,7 @@ Tag der Erhebung (OOIR): 2026-05-25</description>
 			<link>https://doi.org/10.1136/bjsports-2025-111410</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Sport Sciences
-Score: 61
+Score: 62
 Autoren: Josh Bate, Jackie Fealey, Carolyn Young, Anne McArdle, Caroline Amy Staunton, Graeme L Close
 Journal: British Journal of Sports Medicine
 Veröffentlicht: 2026-05-14
@@ -81,8 +112,8 @@ Abstract:
                   
 DOI: 10.1136/bjsports-2025-111410
 ISSN: 0306-3674
-Tag der Erhebung (OOIR): 2026-05-25</description>
-			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-111410-2026-05-25-2</guid>
+Tag der Erhebung (OOIR): 2026-05-26</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-111410-2026-05-26-3</guid>
 			<pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -96,8 +127,8 @@ Journal: British Journal of Sports Medicine
 Veröffentlicht: 2026-05-04
 DOI: 10.1136/bjsports-2025-111179
 ISSN: 0306-3674
-Tag der Erhebung (OOIR): 2026-05-25</description>
-			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-111179-2026-05-25-3</guid>
+Tag der Erhebung (OOIR): 2026-05-26</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-111179-2026-05-26-4</guid>
 			<pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -183,47 +214,9 @@ Abstract: Abstract
                   
 DOI: 10.1007/s40279-026-02439-y
 ISSN: 0112-1642
-Tag der Erhebung (OOIR): 2026-05-25</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s40279-026-02439-y-2026-05-25-4</guid>
+Tag der Erhebung (OOIR): 2026-05-26</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s40279-026-02439-y-2026-05-26-5</guid>
 			<pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Supported implementation enhances injury prevention programme (Prep-to-Play) use in women and girls playing Australian Football: a pragmatic type III hybrid implementation-effectiveness stepped wedge cluster randomised trial</title>
-			<link>https://doi.org/10.1136/bjsports-2025-110894</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Sport Sciences
-Score: 38
-Autoren: Brooke E Patterson, Nicole M White, Sallie M Cowan, Matthew G King, Alex Donaldson, Melissa J Haberfield, Andrea B Mosler, Andrea M Bruder, Christian J Barton, Steven M McPhail, Adam G Culvenor, Karla Hemming, Martin Hägglund, Natasha A Lannin, Ilana N Ackerman, Michelle M Dowsey, Michael Makdissi, Shona Sundaraj, Nicole Livingstone, Jane Fitzpatrick, Jamie Crain, Sarah J Lampard, Karina L Chilman, Libby J Gracias, Elizabeth Birch, Christian Bonello, Kay M Crossley
-Journal: British Journal of Sports Medicine
-Veröffentlicht: 2026-05-06
-Abstract: 
-                    Objectives
-                    Evaluate the effect of supported implementation on a co-created injury prevention programme (Prep-to-Play) use and injury incidence and evaluate the dose response relationship between adherence and injury incidence.
-                  
-                  
-                    Methods
-                    In this hybrid implementation-effectiveness stepped wedge cluster randomised trial, 165 women’s/girls’ Australian Football teams (2481 players) were randomly allocated to transition from unsupported to supported implementation at one of five time points during 2021/2022. Supported implementation included in-person workshops and support visits for coaches/team leaders. Unsupported implementation was access to online resources. Prep-to-Play includes warm-up, contact and strength activities. Primary (Prep-to-Play use) and secondary (concussion, anterior cruciate ligament (ACL)) outcomes were reported weekly. Weekly Prep-to-Play use (yes/no) was defined as using ≥75% of programme elements, ≥two-thirds of sessions each week. Analyses compared outcomes between supported and unsupported phases, adjusted for clustering, period, age group, competition level and region.
-                  
-                  
-                    Results
-                    Average weekly Prep-to-Play use by teams was 13.1% (95% CI 11.5% to 14.9%) in the unsupported and 29.7% (95% CI 27.6% to 31.9%) in supported phase (OR 3.7 95% CI 2.4 to 5.7). The concussion and ACL injury incidence (per 1000 game hours) was 6.80 (95% CI 5.75 to 8.05) and 1.36 (95% CI 0.98 to 1.89) in unsupported, and 3.50 (95% CI 2.72 to 4.52) and 0.69 (95% CI 0.44 to 1.15) in supported, respectively, but the effect of supported implementation on injury incidence was unclear (concussion: incidence rate ratios (IRR) 1.36; 95% CI 0.74 to 2.49; ACL: IRR 2.27 (0.56 to 9.12). Higher Prep-to-Play adherence was associated with fewer total injuries (IRR: 0.95 95% CI 0.92 to 0.99).
-                  
-                  
-                    Conclusions
-                    Supported implementation via in-person workshops and support visits was associated with greater Prep-to-Play use compared with unsupported implementation, and greater adherence was associated with fewer injuries.
-                  
-                  
-                    Trial registration number
-                    
-                      NCT04856241
-                      .
-                    
-                  
-DOI: 10.1136/bjsports-2025-110894
-ISSN: 0306-3674
-Tag der Erhebung (OOIR): 2026-05-25</description>
-			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-110894-2026-05-25-5</guid>
-			<pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
