@@ -5,23 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Pharmacology &amp; Pharmacy) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 26 May 2026 02:35:27 GMT</pubDate>
-		<lastBuildDate>Tue, 26 May 2026 02:35:27 GMT</lastBuildDate>
-		<item>
-			<title>Oribatid Mites Supply Tetrodotoxin to Poisonous Newts</title>
-			<link>https://doi.org/10.1021/acs.jnatprod.6c00280</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Pharmacology &amp; Pharmacy
-Score: 293
-Autoren: Yuto Nakazawa, Satoshi Shimano, Tadachika Miyasaka, Masaatsu Adachi, Toshio Nishikawa, Kazutoshi Yoshitake, Masafumi Amano, Shigeru Sato, Kentaro Takada
-Journal: Journal of Natural Products
-Veröffentlicht: 2026-04-24
-DOI: 10.1021/acs.jnatprod.6c00280
-ISSN: 0163-3864
-Tag der Erhebung (OOIR): 2026-05-26</description>
-			<guid isPermaLink="false">ooir-trend-10.1021/acs.jnatprod.6c00280-2026-05-26-1</guid>
-			<pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
-		</item>
+		<pubDate>Wed, 27 May 2026 02:45:25 GMT</pubDate>
+		<lastBuildDate>Wed, 27 May 2026 02:45:25 GMT</lastBuildDate>
 		<item>
 			<title>Prenatal serotonin reuptake inhibitor exposure and maternal depression symptoms are associated with altered fetal brain and placental development</title>
 			<link>https://doi.org/10.1038/s41386-026-02436-9</link>
@@ -35,8 +20,8 @@ Abstract: Abstract
                   Maternal mental health is associated with fetal neurodevelopment. Identifying effective treatments for maternal psychiatric conditions is a public health priority. SRIs (SSRIs and SNRIs) are commonly prescribed for prenatal mental health conditions; however, their impact on fetal brain development remains understudied. In this observational cohort study, we compared fetal brain and placental structures between SRI-exposed and unexposed pregnancies divided by categories of maternal depressive symptom severity from the Edinburgh Postnatal Depression Scale (EPDS). Pregnant women treated with SRIs and controls without mental illness or antidepressant exposure underwent fetal MRI studies between 20-40 weeks’ gestation. Fetal brain motion correction and 3D reconstructions were performed using slice-to-volume registration. Fetal brain volumes (cortical gray matter, white matter, deep gray matter, cerebellum, brainstem, and hippocampi) were quantified using deep learning-based segmentation with manual correction. Cerebral cortical folding measures included local gyrification index, sulcal depth, curvedness, and surface area. Placental volume and microstructure were assessed with T2-weighted and diffusion-weighted MRI, respectively. EPDS scores were categorized as low ( ≤ 4), moderate (5–9), and high ( ≥ 10). A total of 182 pregnant women were included [62 SRI-exposed (59 SSRIs, 3 SNRIs); 120 controls]. Notably, 29% of SRI-exposed women continued to report elevated depression. SRI-exposed fetuses had smaller hippocampal volumes and reduced cortical gyrification, curvedness, and surface area. Subgroup analysis of stratification by EPDS scores revealed that SRI-exposed fetuses had reduced hippocampal volumes compared to unexposed fetuses with low and moderate, but not high, EPDS scores, and reduced cortical curvedness compared to unexposed subgroups. Among unexposed subgroups, fetuses exposed to high maternal EPDS scores had smaller hippocampal volumes compared to those with low scores. Placenta volume and microstructural diffusion were increased in the SRI-exposed compared to the unexposed group. Larger placental volume was associated with larger total fetal brain volume, and higher placental diffusion was associated with larger fetal white matter and cerebellar volumes in the SRI-exposed group. These findings suggest that prenatal SRI exposure may be associated with altered fetal hippocampal volumes, cerebral cortical maturation, and placental volume and microstructural diffusion. The clinical significance and long-term neurodevelopmental consequences of these structural alterations remain unknown and are currently under study.
 DOI: 10.1038/s41386-026-02436-9
 ISSN: 0893-133X
-Tag der Erhebung (OOIR): 2026-05-26</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41386-026-02436-9-2026-05-26-2</guid>
+Tag der Erhebung (OOIR): 2026-05-27</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41386-026-02436-9-2026-05-27-1</guid>
 			<pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -50,8 +35,8 @@ Journal: Journal of Managed Care &amp;amp; Specialty Pharmacy
 Veröffentlicht: 2026-05-04
 DOI: 10.18553/jmcp.2026.25356
 ISSN: 2376-0540
-Tag der Erhebung (OOIR): 2026-05-26</description>
-			<guid isPermaLink="false">ooir-trend-10.18553/jmcp.2026.25356-2026-05-26-3</guid>
+Tag der Erhebung (OOIR): 2026-05-27</description>
+			<guid isPermaLink="false">ooir-trend-10.18553/jmcp.2026.25356-2026-05-27-2</guid>
 			<pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -65,24 +50,48 @@ Journal: Nature Reviews Drug Discovery
 Veröffentlicht: 2026-05-13
 DOI: 10.1038/s41573-026-01427-1
 ISSN: 1474-1776
-Tag der Erhebung (OOIR): 2026-05-26</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41573-026-01427-1-2026-05-26-4</guid>
+Tag der Erhebung (OOIR): 2026-05-27</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41573-026-01427-1-2026-05-27-3</guid>
 			<pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Multifunctional amino acid-based nanoparticles for sequential drug delivery to overcome multidrug resistant cancer</title>
-			<link>https://doi.org/10.1016/j.jconrel.2026.114954</link>
+			<title>Overview of novel cefepime-based β-lactam/β-lactamase inhibitor combinations</title>
+			<link>https://doi.org/10.1080/14787210.2026.2669588</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Pharmacology &amp; Pharmacy
-Score: 82
-Autoren: Tengfei Wang, Nina Sang, Cécilia Ménard-Moyon, Eijiro Miyako, Alberto Bianco
-Journal: Journal of Controlled Release
-Veröffentlicht: 2026-07-01
-DOI: 10.1016/j.jconrel.2026.114954
-ISSN: 0168-3659
-Tag der Erhebung (OOIR): 2026-05-26</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.jconrel.2026.114954-2026-05-26-5</guid>
-			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+Score: 79
+Autoren: Luca Pipitò, Antonio Cascio
+Journal: Expert Review of Anti-infective Therapy
+Veröffentlicht: 2026-05-06
+DOI: 10.1080/14787210.2026.2669588
+ISSN: 1478-7210
+Tag der Erhebung (OOIR): 2026-05-27</description>
+			<guid isPermaLink="false">ooir-trend-10.1080/14787210.2026.2669588-2026-05-27-4</guid>
+			<pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Synergistic antiviral effects of structure-guided peptides and a mutagenic base analog on SARS-CoV-2 replication</title>
+			<link>https://doi.org/10.1128/aac.01885-25</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 74
+Autoren: Sergio Ortega Del Campo, Gregorio Joaquín Fernández Ballester, Clara Blanes Mira, Víctor Guirado Osorio, Luis Díaz Martínez, Ana Isabel de Ávila, María Eugenia Soria, Brenda Martínez-González, Francisco José Villena González, Josefa Gómez-Maldonado, María Isabel Viciana Ramos, Encarnación Clavijo Frutos, Jesús L. Santos González, Ugo Bastolla, Celia Perales, Esteban Domingo, Enrique Viguera, Ana María Fernández Escamilla, Ana Grande Pérez
+Journal: Antimicrobial Agents and Chemotherapy
+Veröffentlicht: 2026-04-27
+Abstract: ABSTRACT
+                  
+                    
+                    
+                      The limited durability of vaccine protection and the rapid emergence of SARS-CoV-2 variants highlight the need for antiviral strategies that extend beyond vaccination and conventional small-molecule inhibitors. Here, we explored a dual approach combining structure-guided peptides predicted to interfere with the viral replication complex with lethal mutagenesis to limit SARS-CoV-2 replication. Using the crystallographic interfaces of nsp10 with nsp14 and nsp16, we designed short inhibitory peptides predicted to interact with the viral proofreading and RNA-capping machinery. In parallel, the mutagenic analog 5-fluorouracil was evaluated to determine its effect on SARS-CoV-2 in Vero E6 cells. Peptides P1 and P6 exhibited potent antiviral activity with minimal cytotoxicity, whereas 5-FU reduced specific infectivity without impairing genome replication. Combined treatment with 5-FU and peptide P1 resulted in &amp;gt;10
+                      4
+                      -fold reduction in infectious virus, achieving near-complete loss of infectivity at non-cytotoxic concentrations. Next-generation sequencing revealed that dual treatment increased mutation frequency, altered mutant spectra, and decreased genome stability, consistent with progression toward error catastrophe. Principal component analysis confirmed that combined treatment generated mutant spectra distinct from either monotherapy. These findings are consistent with a dual antiviral strategy in which structure-guided peptides designed to interact with components of the SARS-CoV-2 replication complex act in combination with lethal mutagenesis to produce a synergistic interaction between these two complementary processes. This integrated approach suggests a potential broad-spectrum antiviral strategy with applicability to other coronaviruses.
+                    
+                  
+DOI: 10.1128/aac.01885-25
+ISSN: 0066-4804
+Tag der Erhebung (OOIR): 2026-05-27</description>
+			<guid isPermaLink="false">ooir-trend-10.1128/aac.01885-25-2026-05-27-5</guid>
+			<pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
