@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rheumatology) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 28 May 2026 02:32:48 GMT</pubDate>
-		<lastBuildDate>Thu, 28 May 2026 02:32:48 GMT</lastBuildDate>
+		<pubDate>Fri, 29 May 2026 02:37:38 GMT</pubDate>
+		<lastBuildDate>Fri, 29 May 2026 02:37:38 GMT</lastBuildDate>
 		<item>
 			<title>EULAR recommendations for physical activity in people with inflammatory arthritis and osteoarthritis: 2025 update</title>
 			<link>https://doi.org/10.1016/j.ard.2026.03.006</link>
@@ -18,8 +18,8 @@ Journal: Annals of the Rheumatic Diseases
 Veröffentlicht: 2026-04-01
 DOI: 10.1016/j.ard.2026.03.006
 ISSN: 0003-4967
-Tag der Erhebung (OOIR): 2026-05-28</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2026.03.006-2026-05-28-1</guid>
+Tag der Erhebung (OOIR): 2026-05-29</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2026.03.006-2026-05-29-1</guid>
 			<pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -33,9 +33,40 @@ Journal: The Lancet Rheumatology
 Veröffentlicht: 2026-05-01
 DOI: 10.1016/s2665-9913(25)00337-6
 ISSN: 2665-9913
-Tag der Erhebung (OOIR): 2026-05-28</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(25)00337-6-2026-05-28-2</guid>
+Tag der Erhebung (OOIR): 2026-05-29</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(25)00337-6-2026-05-29-2</guid>
 			<pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Differences in SARS‐CoV‐2 antigen persistence in individuals with systemic autoimmune rheumatic diseases compared to the general population: A RECOVER‐Adult Cohort Study</title>
+			<link>https://doi.org/10.1002/art.70205</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 34
+Autoren: Naomi J. Patel, Zoe Swank, Jiaqi Wang, Xiaosong Wang, Lauren A. O'Keeffe, Madison Negron, Liya S. Getachew, Louise L. Hansen, Grace Qian, Alene A. Saavedra, Kevin T. Mueller, Natalie A. Davis, Kathleen M.M. Vanni, Sandria Savage, Julie S. Lam, Zachary S. Wallace, David R. Walt, Jeffrey A. Sparks, RECOVER‐Adult
+Journal: Arthritis &amp;amp; Rheumatology
+Veröffentlicht: 2026-04-27
+Abstract: 
+                    Background
+                    Individuals with systemic autoimmune rheumatic diseases (SARDs) are at risk for worse acute and post‐acute COVID‐19 outcomes, though whether individuals with SARDs have longer persistence of viral antigens after COVID‐19 has not been studied.
+                  
+                  
+                    Methods
+                    This retrospective cohort study evaluated post‐COVID‐19 differences in SARS‐CoV‐2 antigen (spike, S1, and nucleocapsid) positivity between individuals with SARDs (RheumCARD) and without SARDs (RECOVER‐Adult). SARS‐CoV‐2 antigens were measured in collected samples using a validated ultra‐sensitive single molecule array. This digital enzyme‐linked immunosorbent assay used antibody‐coated magnetic beads to capture antigen molecules, which were loaded into microwell arrays and detected through enzymatic cleavage of a fluorescent substrate. We used logistic regression to estimate unadjusted and adjusted (for age, sex, infection year, vaccination status, and COVID‐19 treatment) odds ratios for SARS‐CoV‐2 antigen positivity at months 3 and 6 following COVID‐19.
+                  
+                  
+                    Results
+                    Among 210 individuals with SARDs in RheumCARD and 348 individuals without SARDs in RECOVER‐Adult, any SARS‐CoV‐2 antigen positivity was more common in those with SARDs (36.7% in RheumCARD vs. 18.9% in RECOVER‐Adult; p&amp;lt;0.001). Those with SARDs had higher odds of nucleocapsid antigen positivity (adjusted OR 3.73, 95% CI: 1.28‐10.85) or any antigen positivity (adjusted OR 2.89, 95% CI: 1.43‐5.85) 3 months after COVID‐19 infection and higher odds of nucleocapsid antigen positivity (adjusted OR 6.62, 95% CI: 1.09‐40.30) 6 months after COVID‐19 infection.
+                  
+                  
+                    Conclusion
+                    Individuals with SARDs were more likely to have SARS‐CoV‐2 antigen positivity at months 3 and 6 following COVID‐19 infection compared with individuals without SARDs, not explained by demographics, variant, vaccination, or treatment.
+                  
+DOI: 10.1002/art.70205
+ISSN: 2326-5191
+Tag der Erhebung (OOIR): 2026-05-29</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/art.70205-2026-05-29-3</guid>
+			<pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Artificial Intelligence–Aided Lung Ultrasound Detection of Interstitial Lung Disease in Systemic Sclerosis and Inflammatory Myopathy</title>
@@ -64,40 +95,9 @@ Abstract:
                   
 DOI: 10.1002/acr.80054
 ISSN: 2151-464X
-Tag der Erhebung (OOIR): 2026-05-28</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/acr.80054-2026-05-28-3</guid>
+Tag der Erhebung (OOIR): 2026-05-29</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/acr.80054-2026-05-29-4</guid>
 			<pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Differences in SARS‐CoV‐2 antigen persistence in individuals with systemic autoimmune rheumatic diseases compared to the general population: A RECOVER‐Adult Cohort Study</title>
-			<link>https://doi.org/10.1002/art.70205</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rheumatology
-Score: 27
-Autoren: Naomi J. Patel, Zoe Swank, Jiaqi Wang, Xiaosong Wang, Lauren A. O'Keeffe, Madison Negron, Liya S. Getachew, Louise L. Hansen, Grace Qian, Alene A. Saavedra, Kevin T. Mueller, Natalie A. Davis, Kathleen M.M. Vanni, Sandria Savage, Julie S. Lam, Zachary S. Wallace, David R. Walt, Jeffrey A. Sparks, RECOVER‐Adult
-Journal: Arthritis &amp;amp; Rheumatology
-Veröffentlicht: 2026-04-27
-Abstract: 
-                    Background
-                    Individuals with systemic autoimmune rheumatic diseases (SARDs) are at risk for worse acute and post‐acute COVID‐19 outcomes, though whether individuals with SARDs have longer persistence of viral antigens after COVID‐19 has not been studied.
-                  
-                  
-                    Methods
-                    This retrospective cohort study evaluated post‐COVID‐19 differences in SARS‐CoV‐2 antigen (spike, S1, and nucleocapsid) positivity between individuals with SARDs (RheumCARD) and without SARDs (RECOVER‐Adult). SARS‐CoV‐2 antigens were measured in collected samples using a validated ultra‐sensitive single molecule array. This digital enzyme‐linked immunosorbent assay used antibody‐coated magnetic beads to capture antigen molecules, which were loaded into microwell arrays and detected through enzymatic cleavage of a fluorescent substrate. We used logistic regression to estimate unadjusted and adjusted (for age, sex, infection year, vaccination status, and COVID‐19 treatment) odds ratios for SARS‐CoV‐2 antigen positivity at months 3 and 6 following COVID‐19.
-                  
-                  
-                    Results
-                    Among 210 individuals with SARDs in RheumCARD and 348 individuals without SARDs in RECOVER‐Adult, any SARS‐CoV‐2 antigen positivity was more common in those with SARDs (36.7% in RheumCARD vs. 18.9% in RECOVER‐Adult; p&amp;lt;0.001). Those with SARDs had higher odds of nucleocapsid antigen positivity (adjusted OR 3.73, 95% CI: 1.28‐10.85) or any antigen positivity (adjusted OR 2.89, 95% CI: 1.43‐5.85) 3 months after COVID‐19 infection and higher odds of nucleocapsid antigen positivity (adjusted OR 6.62, 95% CI: 1.09‐40.30) 6 months after COVID‐19 infection.
-                  
-                  
-                    Conclusion
-                    Individuals with SARDs were more likely to have SARS‐CoV‐2 antigen positivity at months 3 and 6 following COVID‐19 infection compared with individuals without SARDs, not explained by demographics, variant, vaccination, or treatment.
-                  
-DOI: 10.1002/art.70205
-ISSN: 2326-5191
-Tag der Erhebung (OOIR): 2026-05-28</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/art.70205-2026-05-28-4</guid>
-			<pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Treatment strategies in giant cell arteritis and polymyalgia rheumatica: beyond glucocorticoids</title>
@@ -110,8 +110,8 @@ Journal: Nature Reviews Rheumatology
 Veröffentlicht: 2026-05-20
 DOI: 10.1038/s41584-026-01379-1
 ISSN: 1759-4790
-Tag der Erhebung (OOIR): 2026-05-28</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41584-026-01379-1-2026-05-28-5</guid>
+Tag der Erhebung (OOIR): 2026-05-29</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41584-026-01379-1-2026-05-29-5</guid>
 			<pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
