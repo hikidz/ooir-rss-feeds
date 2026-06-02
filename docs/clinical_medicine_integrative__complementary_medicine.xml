@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Integrative &amp; Complementary Medicine) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Mon, 01 Jun 2026 02:56:21 GMT</pubDate>
-		<lastBuildDate>Mon, 01 Jun 2026 02:56:21 GMT</lastBuildDate>
+		<pubDate>Tue, 02 Jun 2026 02:53:23 GMT</pubDate>
+		<lastBuildDate>Tue, 02 Jun 2026 02:53:23 GMT</lastBuildDate>
 		<item>
 			<title>Marine-derived products as pharmaceutical treasure troves: a focus on recent research techniques and potential bioactive activities of marine peptides</title>
 			<link>https://doi.org/10.1016/s1875-5364(26)61178-8</link>
@@ -18,8 +18,8 @@ Journal: Chinese Journal of Natural Medicines
 Veröffentlicht: 2026-05-01
 DOI: 10.1016/s1875-5364(26)61178-8
 ISSN: 1875-5364
-Tag der Erhebung (OOIR): 2026-06-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/s1875-5364(26)61178-8-2026-06-01-1</guid>
+Tag der Erhebung (OOIR): 2026-06-02</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/s1875-5364(26)61178-8-2026-06-02-1</guid>
 			<pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -38,8 +38,8 @@ Abstract:
                   
 DOI: 10.1142/s0192415x26500266
 ISSN: 0192-415X
-Tag der Erhebung (OOIR): 2026-06-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1142/s0192415x26500266-2026-06-01-2</guid>
+Tag der Erhebung (OOIR): 2026-06-02</description>
+			<guid isPermaLink="false">ooir-trend-10.1142/s0192415x26500266-2026-06-02-2</guid>
 			<pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -95,24 +95,9 @@ Abstract: Abstract
                   
 DOI: 10.1186/s13020-025-01276-x
 ISSN: 1749-8546
-Tag der Erhebung (OOIR): 2026-06-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1186/s13020-025-01276-x-2026-06-01-3</guid>
+Tag der Erhebung (OOIR): 2026-06-02</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s13020-025-01276-x-2026-06-02-3</guid>
 			<pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Recent applications of Traditional Chinese Medicine in cosmetology: a Review</title>
-			<link>https://doi.org/10.1016/s1875-5364(26)61176-4</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Integrative &amp; Complementary Medicine
-Score: 7
-Autoren: Hanzi Zheng, Sicheng Wu, Shuhan Wang, Benjamin Winkeljann, Liqiong Liao, Jian Song
-Journal: Chinese Journal of Natural Medicines
-Veröffentlicht: 2026-05-01
-DOI: 10.1016/s1875-5364(26)61176-4
-ISSN: 1875-5364
-Tag der Erhebung (OOIR): 2026-06-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/s1875-5364(26)61176-4-2026-06-01-4</guid>
-			<pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Epimedium brevicornu flavonoids alleviate neuroinflammation and Alzheimer’s disease pathology via immune-related pathways</title>
@@ -125,9 +110,24 @@ Journal: Phytomedicine
 Veröffentlicht: 2026-07-01
 DOI: 10.1016/j.phymed.2026.158299
 ISSN: 0944-7113
-Tag der Erhebung (OOIR): 2026-06-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.phymed.2026.158299-2026-06-01-5</guid>
+Tag der Erhebung (OOIR): 2026-06-02</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.phymed.2026.158299-2026-06-02-4</guid>
 			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Silk fibroin@polydopamine for acupoint catgut-embedding therapy in Alzheimer’s disease</title>
+			<link>https://doi.org/10.1016/j.joim.2026.01.010</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Integrative &amp; Complementary Medicine
+Score: 7
+Autoren: Chun Wang, Xing Liu, Ying Fan, Guang-ya Liu, Ping Wu, Sheng-cun Li, Yan-jun Du
+Journal: Journal of Integrative Medicine
+Veröffentlicht: 2026-05-01
+DOI: 10.1016/j.joim.2026.01.010
+ISSN: 2095-4964
+Tag der Erhebung (OOIR): 2026-06-02</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.joim.2026.01.010-2026-06-02-5</guid>
+			<pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
