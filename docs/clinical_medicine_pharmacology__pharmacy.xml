@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Pharmacology &amp; Pharmacy) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 10 Jun 2026 02:46:04 GMT</pubDate>
-		<lastBuildDate>Wed, 10 Jun 2026 02:46:04 GMT</lastBuildDate>
+		<pubDate>Thu, 11 Jun 2026 02:55:03 GMT</pubDate>
+		<lastBuildDate>Thu, 11 Jun 2026 02:55:03 GMT</lastBuildDate>
 		<item>
 			<title>Prenatal serotonin reuptake inhibitor exposure and maternal depression symptoms are associated with altered fetal brain and placental development</title>
 			<link>https://doi.org/10.1038/s41386-026-02436-9</link>
@@ -20,8 +20,8 @@ Abstract: Abstract
                   Maternal mental health is associated with fetal neurodevelopment. Identifying effective treatments for maternal psychiatric conditions is a public health priority. SRIs (SSRIs and SNRIs) are commonly prescribed for prenatal mental health conditions; however, their impact on fetal brain development remains understudied. In this observational cohort study, we compared fetal brain and placental structures between SRI-exposed and unexposed pregnancies divided by categories of maternal depressive symptom severity from the Edinburgh Postnatal Depression Scale (EPDS). Pregnant women treated with SRIs and controls without mental illness or antidepressant exposure underwent fetal MRI studies between 20-40 weeks’ gestation. Fetal brain motion correction and 3D reconstructions were performed using slice-to-volume registration. Fetal brain volumes (cortical gray matter, white matter, deep gray matter, cerebellum, brainstem, and hippocampi) were quantified using deep learning-based segmentation with manual correction. Cerebral cortical folding measures included local gyrification index, sulcal depth, curvedness, and surface area. Placental volume and microstructure were assessed with T2-weighted and diffusion-weighted MRI, respectively. EPDS scores were categorized as low ( ≤ 4), moderate (5–9), and high ( ≥ 10). A total of 182 pregnant women were included [62 SRI-exposed (59 SSRIs, 3 SNRIs); 120 controls]. Notably, 29% of SRI-exposed women continued to report elevated depression. SRI-exposed fetuses had smaller hippocampal volumes and reduced cortical gyrification, curvedness, and surface area. Subgroup analysis of stratification by EPDS scores revealed that SRI-exposed fetuses had reduced hippocampal volumes compared to unexposed fetuses with low and moderate, but not high, EPDS scores, and reduced cortical curvedness compared to unexposed subgroups. Among unexposed subgroups, fetuses exposed to high maternal EPDS scores had smaller hippocampal volumes compared to those with low scores. Placenta volume and microstructural diffusion were increased in the SRI-exposed compared to the unexposed group. Larger placental volume was associated with larger total fetal brain volume, and higher placental diffusion was associated with larger fetal white matter and cerebellar volumes in the SRI-exposed group. These findings suggest that prenatal SRI exposure may be associated with altered fetal hippocampal volumes, cerebral cortical maturation, and placental volume and microstructural diffusion. The clinical significance and long-term neurodevelopmental consequences of these structural alterations remain unknown and are currently under study.
 DOI: 10.1038/s41386-026-02436-9
 ISSN: 0893-133X
-Tag der Erhebung (OOIR): 2026-06-10</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41386-026-02436-9-2026-06-10-1</guid>
+Tag der Erhebung (OOIR): 2026-06-11</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41386-026-02436-9-2026-06-11-1</guid>
 			<pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -35,8 +35,8 @@ Journal: Nature Reviews Drug Discovery
 Veröffentlicht: 2026-05-13
 DOI: 10.1038/s41573-026-01427-1
 ISSN: 1474-1776
-Tag der Erhebung (OOIR): 2026-06-10</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41573-026-01427-1-2026-06-10-2</guid>
+Tag der Erhebung (OOIR): 2026-06-11</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41573-026-01427-1-2026-06-11-2</guid>
 			<pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -50,8 +50,8 @@ Journal: Vascular Pharmacology
 Veröffentlicht: 2026-06-01
 DOI: 10.1016/j.vph.2026.107654
 ISSN: 1537-1891
-Tag der Erhebung (OOIR): 2026-06-10</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.vph.2026.107654-2026-06-10-3</guid>
+Tag der Erhebung (OOIR): 2026-06-11</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.vph.2026.107654-2026-06-11-3</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -74,65 +74,43 @@ Abstract: ABSTRACT
                   
 DOI: 10.1128/aac.01885-25
 ISSN: 0066-4804
-Tag der Erhebung (OOIR): 2026-06-10</description>
-			<guid isPermaLink="false">ooir-trend-10.1128/aac.01885-25-2026-06-10-4</guid>
+Tag der Erhebung (OOIR): 2026-06-11</description>
+			<guid isPermaLink="false">ooir-trend-10.1128/aac.01885-25-2026-06-11-4</guid>
 			<pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Exploring the Potential Molecular Mechanisms of Berberine against Gastric Cancer Liver Metastasis Based on Network Pharmacology and
-Bioinformatics</title>
-			<link>https://doi.org/10.2174/0113894501471952260514050508</link>
+			<title>Neuroplastic Mechanisms of Acupuncture in Post‐Stroke Motor Recovery: A Randomized Multimodal
+                    MRI
+                    Trial</title>
+			<link>https://doi.org/10.1002/cns.70955</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Pharmacology &amp; Pharmacy
-Score: 48
-Autoren: Tong Shao, Ying Wang, Yeyi Lv, Xiaohui Huang, Kangli Xue, Xing Jiang
-Journal: Current Drug Targets
-Veröffentlicht: 2026-05-22
-Abstract: 
-                    Introduction:
-                    Gastric cancer (GC) is a common malignancy with a tendency for liver
-metastasis, leading to poor prognosis. Berberine (BBR), derived from Coptis chinensis Franch., exhibits
-potent anticancer effects on GC. However, the mechanism by which BBR affects gastric cancer
-liver metastasis (GCLM) remains unclear. This study employed network pharmacology and bioinformatics
-approaches to investigate the potential targets and molecular mechanisms of BBR as a
-candidate therapeutic drug for GCLM.
+Score: 55
+Autoren: Xin Yu, Nana Zhao, Yuchen Liu, Shizhong Zheng, Dongtao Luo, Qianji Chen, Fufu Zeng, Jiao Chen, Yanfei Jia, Yihuai Zou
+Journal: CNS Neuroscience &amp;amp; Therapeutics
+Veröffentlicht: 2026-06-01
+Abstract: ABSTRACT
+                  
+                    Background
+                    Hemiplegia is a common motor impairment following ischemic stroke. Post‐stroke recovery involves extensive reorganization of structural and functional brain networks, which correlates with clinical deficits and recovery. While acupuncture has demonstrated safety and efficacy in improving motor function, robust neuroimaging evidence elucidating its central mechanisms remains limited. This study aimed to investigate the specific neuroplastic effects of acupuncture by focusing on its modulation of cortical gray matter volume (GMV) and multilayer dynamic functional network topology.
                   
                   
-                    Methods:
-                    The targets of GCLM and BBR were acquired from public databases. Subsequently, the
-Protein-Protein Interaction (PPI) network and enrichment analyses were conducted to identify key
-targets and underlying mechanisms. Pivotal target genes were screened using machine learning algorithms.
-CIBERSORT analysis was applied to explore the involvement of immune cells in GCLM
-samples and their correlation with pivotal genes. Ultimately, molecular docking was performed to
-evaluate the binding affinities between BBR and pivotal target proteins.
+                    Methods
+                    Patients with stroke were randomly allocated in a 2:1 ratio to receive either true‐acupoint (TA) or sham‐acupoint (SA) over a two‐week intervention period. Clinical outcomes were assessed using the Fugl‐Meyer Assessment (FMA), Brunnstrom Scale, and the National Institutes of Health Stroke Scale (NIHSS). Neuroplastic changes were evaluated through GMV analysis and dynamic functional network metrics. Correlation analyses were performed to examine the relationships between post‐acupuncture improvements in clinical scores and changes in neuroimaging indices.
                   
                   
-                    Results:
-                    A total of 120 common targets were obtained after screening. These targets were primarily
-enriched in the PI3K/Akt signaling pathway. By employing a PPI network, the top 16 targets were
-acquired. Subsequently, three pivotal target genes (CCL2, SPP1, and ALB) were further identified
-using machine learning models. CIBERSORT analysis demonstrated significant correlations between
-three pivotal genes and the tumor immune microenvironment in GCLM patients, especially in the
-regulation of M0/M2 macrophage infiltration and dendritic cell activation. Molecular docking confirmed
-stable binding affinities between three pivotal target proteins and BBR.
+                    Results
+                    The results demonstrated that: (1) Clinically, post‐treatment improvements in NIHSS and FMA scores, but only the TA group exhibited significant gains in Brunnstrom scores, indicating superior motor recovery. (2) Functionally, TA modulated default mode network (DMN) dynamics, manifesting as significantly reduced disjointedness and a trend toward decreased flexibility. These changes correlated with better motor outcomes. No such modulatory effect was observed in the SA group. (3) Structurally, TA increased GMV in the right middle frontal gyrus, right postcentral gyrus, right angular gyrus, left superior parietal gyrus, left cerebellar Crus 1–2, 4–5, 7, bilateral middle occipital gyrus, superior temporal gyrus, angular gyrus of inferior parietal margin, dorsolateral superior frontal gyrus, inferior frontal gyrus of operculum, and cerebellar area 10. Increases in GMV in the right opercular inferior frontal gyrus, postcentral gyrus, and cerebellar region 10 were positively correlated with motor recovery in the TA group. No significant changes in GMV were detected in the SA group.
                   
                   
-                    Discussion:
-                    This study suggests that BBR may inhibit GCLM by targeting pivotal genes CCL2,
-SPP1, and ALB, blocking the PI3K/Akt pathway and remodeling the immunosuppressive microenvironment.
-However, further experimental validation is required to confirm these findings.
+                    Conclusions
+                    TA treatment significantly alleviated neurological impairment and enhanced motor recovery. Its therapeutic effect is underpinned by specific neuroplastic changes: Functional modulation of DMN dynamics and structural promotion of gray matter plasticity in regions critical for sensorimotor and cognitive‐motor integration, which are essential for movement control.
                   
-                  
-                    Conclusion:
-                    This study revealed the molecular mechanism behind GCLM suppression and identified
-BBR as a promising therapeutic candidate, providing a basis for the development of novel treatment
-strategies for GCLM.
-                  
-DOI: 10.2174/0113894501471952260514050508
-ISSN: 1389-4501
-Tag der Erhebung (OOIR): 2026-06-10</description>
-			<guid isPermaLink="false">ooir-trend-10.2174/0113894501471952260514050508-2026-06-10-5</guid>
-			<pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+DOI: 10.1002/cns.70955
+ISSN: 1755-5930
+Tag der Erhebung (OOIR): 2026-06-11</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/cns.70955-2026-06-11-5</guid>
+			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
