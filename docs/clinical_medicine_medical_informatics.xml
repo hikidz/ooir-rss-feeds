@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 11 Jun 2026 02:54:29 GMT</pubDate>
-		<lastBuildDate>Thu, 11 Jun 2026 02:54:29 GMT</lastBuildDate>
+		<pubDate>Fri, 12 Jun 2026 02:51:26 GMT</pubDate>
+		<lastBuildDate>Fri, 12 Jun 2026 02:51:26 GMT</lastBuildDate>
 		<item>
 			<title>Deep learning for H&amp;amp;E-based meningioma molecular classification and outcome prediction: a retrospective cohort study</title>
 			<link>https://doi.org/10.1016/j.landig.2026.100986</link>
@@ -18,8 +18,8 @@ Journal: The Lancet Digital Health
 Veröffentlicht: 2026-06-01
 DOI: 10.1016/j.landig.2026.100986
 ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2026-06-11</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.100986-2026-06-11-1</guid>
+Tag der Erhebung (OOIR): 2026-06-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.100986-2026-06-12-1</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -54,8 +54,8 @@ Abstract: Abstract
                   
 DOI: 10.2196/88244
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2026-06-11</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/88244-2026-06-11-2</guid>
+Tag der Erhebung (OOIR): 2026-06-12</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/88244-2026-06-12-2</guid>
 			<pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -75,26 +75,26 @@ Abstract: Abstract
                   
 DOI: 10.1038/s41746-026-02655-w
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-06-11</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02655-w-2026-06-11-3</guid>
+Tag der Erhebung (OOIR): 2026-06-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02655-w-2026-06-12-3</guid>
 			<pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Mapping AI regulation in health care with the Health &amp;amp; AI Policy Index</title>
-			<link>https://doi.org/10.1038/s41746-026-02734-y</link>
+			<title>Prospective deployment of AI-based risk stratification to enable expedited mammography workflow in a safety-net setting</title>
+			<link>https://doi.org/10.1038/s41746-026-02743-x</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 38
-Autoren: Will Moss, Benjamin S. Glicksberg, Sabina Lim, Alexis Zebrowski, Girish N. Nadkarni
+Score: 51
+Autoren: Maggie Chung, Eric Davis, Heather Greenwood, Jessica Hayward, Shinn-Huey Shirley Chou, Bonnie Joe, Loretta Strachowski, Tatiana Kelil, Rita Freimanis, Elissa Price, Kimberly Ray, Amie Lee, Adam Yala
 Journal: npj Digital Medicine
-Veröffentlicht: 2026-05-25
+Veröffentlicht: 2026-05-18
 Abstract: Abstract
-                  Artificial intelligence (AI) policy for health care is expanding in a fragmented landscape. In a January 1, 2026 snapshot of the Health &amp;amp; AI Policy Index (240 policies), we find that transparency-oriented advisory instruments dominate, equity and safety are usually addressed within broader governance requirements, and obligations fall mainly on providers, regulators, and developers. We describe how this health-specific registry can guide oversight decisions by health systems, vendors, and policymakers.
-DOI: 10.1038/s41746-026-02734-y
+                  Delays between screening and diagnostic mammography contribute to disparities in breast cancer outcomes and reduce screening adherence. We prospectively evaluated the operational feasibility and impact of integrating AI risk stratification into screening workflows at an urban safety net facility. In this HIPAA-compliant, IRB-approved, controlled study, Mirai 1-year risk scores were generated in real time from screening mammograms. Patients in the top 10% of risk were flagged as high-risk and, on enrollment days, were offered immediate screening interpretation and same-day diagnostic evaluation when indicated. Outcomes included operational feasibility, care delivery timelines for screening results, diagnostic evaluation, and biopsy, and cancer detection rate, compared with high-risk controls on non-enrollment days. Among 4145 screening mammograms, 525 were flagged as high-risk and 100 women consented to expedited care, of whom 94 percent received immediate reads and 26 received same-day diagnostic evaluation. Time to screening results, diagnostic evaluation, and biopsy were significantly shorter in expedited patients versus control patients with screen-detected cancers, with reductions of 99.1%, 99.1%, and 87.2%, respectively. The expedited cohort demonstrated a cancer detection rate of 60/1000 compared with 2.3/1000 among non-high-risk participants. Integrating AI risk models into clinical workflows substantially improved care delivery timelines and provides a translational framework to improve care and reduce disparities.
+DOI: 10.1038/s41746-026-02743-x
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-06-11</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02734-y-2026-06-11-4</guid>
-			<pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+Tag der Erhebung (OOIR): 2026-06-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02743-x-2026-06-12-4</guid>
+			<pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>How Machine Learning Can Help Close Evidence Gaps for Drug Safety in Pregnant Women</title>
@@ -113,8 +113,8 @@ Abstract: Abstract
                   
 DOI: 10.2196/101042
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2026-06-11</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/101042-2026-06-11-5</guid>
+Tag der Erhebung (OOIR): 2026-06-12</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/101042-2026-06-12-5</guid>
 			<pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>

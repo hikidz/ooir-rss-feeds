@@ -5,52 +5,67 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rheumatology) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 11 Jun 2026 02:55:11 GMT</pubDate>
-		<lastBuildDate>Thu, 11 Jun 2026 02:55:11 GMT</lastBuildDate>
+		<pubDate>Fri, 12 Jun 2026 02:51:58 GMT</pubDate>
+		<lastBuildDate>Fri, 12 Jun 2026 02:51:58 GMT</lastBuildDate>
+		<item>
+			<title>Repurposing leflunomide and hydroxychloroquine to treat Sjögren's disease (RepurpSS-II): a randomised, double-blind, placebo-controlled, phase 2b trial</title>
+			<link>https://doi.org/10.1016/s2665-9913(26)00075-5</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 31
+Autoren: Wing-Yi Wong, Dewi Rijnenberg, Valentin M D Baloche, Sofie L M Blokland, Paco M J Welsing, Femke Bonte-Mineur, Cornelis P J Bekker, Safae Hamkour, Céline Bogers, Noortje Groot, Helen L Leavis, Joël A G van Roon
+Journal: The Lancet Rheumatology
+Veröffentlicht: 2026-05-01
+DOI: 10.1016/s2665-9913(26)00075-5
+ISSN: 2665-9913
+Tag der Erhebung (OOIR): 2026-06-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(26)00075-5-2026-06-12-1</guid>
+			<pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Treatment strategies in giant cell arteritis and polymyalgia rheumatica: beyond glucocorticoids</title>
 			<link>https://doi.org/10.1038/s41584-026-01379-1</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Rheumatology
-Score: 27
+Score: 26
 Autoren: Francesco Muratore, Kenneth J. Warrington, Christian Dejaco, Maria C. Cid, Bernhard Hellmich, Ann W. Morgan, Stefania Croci, Carlo Salvarani
 Journal: Nature Reviews Rheumatology
 Veröffentlicht: 2026-05-20
 DOI: 10.1038/s41584-026-01379-1
 ISSN: 1759-4790
-Tag der Erhebung (OOIR): 2026-06-11</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41584-026-01379-1-2026-06-11-1</guid>
+Tag der Erhebung (OOIR): 2026-06-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41584-026-01379-1-2026-06-12-2</guid>
 			<pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Treat-to-target in Behçet syndrome</title>
-			<link>https://doi.org/10.1038/s41584-026-01381-7</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rheumatology
-Score: 24
-Autoren: Alessandra Bettiol, George Bertsias, Bahram Bodaghi, Aykut Ferhat Celik, George E. Fragoulis, David Saadoun, Rosaria Talarico, Uğur Uygunoğlu, Giacomo Emmi, Petros P. Sfikakis, Gülen Hatemi
-Journal: Nature Reviews Rheumatology
-Veröffentlicht: 2026-05-21
-DOI: 10.1038/s41584-026-01381-7
-ISSN: 1759-4790
-Tag der Erhebung (OOIR): 2026-06-11</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41584-026-01381-7-2026-06-11-2</guid>
-			<pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Towards global clinical practice guidelines for the management of non-specific low back pain in primary care: a review of current guideline recommendations and how they have changed over the last 30 years</title>
 			<link>https://doi.org/10.1016/s2665-9913(26)00077-9</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Rheumatology
-Score: 24
+Score: 25
 Autoren: Crystian B Oliveira, Bart W Koes, Rafael Z Pinto, Adrian C Traeger, Gustavo C Machado, Chung-Wei Christine Lin, Jill A Hayden, Jan Hartvigsen, Caitlin M P Jones, Qiuzhe Chen, Alessandro Chiarotto, Chris G Maher
 Journal: The Lancet Rheumatology
 Veröffentlicht: 2026-06-01
 DOI: 10.1016/s2665-9913(26)00077-9
 ISSN: 2665-9913
-Tag der Erhebung (OOIR): 2026-06-11</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(26)00077-9-2026-06-11-3</guid>
+Tag der Erhebung (OOIR): 2026-06-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(26)00077-9-2026-06-12-3</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Treat-to-target in Behçet syndrome</title>
+			<link>https://doi.org/10.1038/s41584-026-01381-7</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 23
+Autoren: Alessandra Bettiol, George Bertsias, Bahram Bodaghi, Aykut Ferhat Celik, George E. Fragoulis, David Saadoun, Rosaria Talarico, Uğur Uygunoğlu, Giacomo Emmi, Petros P. Sfikakis, Gülen Hatemi
+Journal: Nature Reviews Rheumatology
+Veröffentlicht: 2026-05-21
+DOI: 10.1038/s41584-026-01381-7
+ISSN: 1759-4790
+Tag der Erhebung (OOIR): 2026-06-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41584-026-01381-7-2026-06-12-4</guid>
+			<pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Real‐World Longitudinal Data on the Impact of Hydroxychloroquine Blood Level Monitoring on Lupus Outcomes: Results of a Prospective Longitudinal Cohort Study</title>
@@ -90,42 +105,9 @@ Abstract:
                   
 DOI: 10.1002/acr.80059
 ISSN: 2151-464X
-Tag der Erhebung (OOIR): 2026-06-11</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/acr.80059-2026-06-11-4</guid>
+Tag der Erhebung (OOIR): 2026-06-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/acr.80059-2026-06-12-5</guid>
 			<pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>One-month delay in methotrexate initiation on rheumatoid arthritis outcomes: One-year ancillary analysis of the VACIMRA trial</title>
-			<link>https://doi.org/10.1093/rheumatology/keag270</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rheumatology
-Score: 20
-Autoren: Theresa Than, Gael Mouterde, Claire Immediato Daien, Cedric Lukas, Anouck Rémy-Moulard, Cécile Gaujoux Viala, Joana Pissarra, Héléna Huguet, Marie-Christine Picot, Jacques Morel
-Journal: Rheumatology
-Veröffentlicht: 2026-05-22
-Abstract: Abstract
-                  
-                    Objectives
-                    The VACIMRA trial demonstrated that delaying methotrexate initiation in rheumatoid arthritis (RA) by one month after the 13-valent pneumococcal conjugate vaccine (PCV13) improves humoral responses at 1 and 12 months. Whether this delay impacts disease activity and radiographic progression over one year remains uncertain.
-                  
-                  
-                    Methods
-                    This ancillary study compared changes in disease activity (DAS28-ESR) from inclusion (M0) to months 1, 2, 3, 6, and 12 between patients with early RA who started methotrexate immediately vs one month after PCV13. Structural progression was assessed using the van der Heijde-modified Sharp score (mSHS) on X-rays at inclusion, 6 and 12 months. The primary outcome was the proportion of patients in remission (DAS28-ESR &amp;amp;lt; 2.6) or low disease activity (LDA) (DAS28-ESR ≤ 3.2) at one year.
-                  
-                  
-                    Results
-                    Among 276 VACIMRA participants, 100 were enrolled at the Montpellier center (96 analyzable at M0, 83 at M12). Both groups had similar baseline characteristics: mean age 58 ± 14 years, DAS28-ESR 4.88 ± 0.94, total mSHS 1.53 ± 3.62. Treatments during follow-up were comparable except for methotrexate cumulative dose at 1, 3, 6 months. At 12 months, remission (53.7% vs 46.3%, p= 0.51) and LDA rate (75.6% vs 61.0%, p= 0.15) were similar.
-                    DAS28-ESR was similar at 1 and 3 months but favored the DELAY group at 6 (2.66 ± 1.07 vs 3.28 ± 1.34, p= 0.02) and 12 months (2.23 ± 1.03 vs 3.00 ± 1.16, p&amp;amp;lt; 0.01). mSHS progression was comparable at 6 and 12 months.
-                  
-                  
-                    Conclusion
-                    Deferring methotrexate for one month after PCV13 to enhance immunity did not worsen RA disease control, radiographic progression, or treatment escalation after one year of follow-up.
-                  
-DOI: 10.1093/rheumatology/keag270
-ISSN: 1462-0324
-Tag der Erhebung (OOIR): 2026-06-11</description>
-			<guid isPermaLink="false">ooir-trend-10.1093/rheumatology/keag270-2026-06-11-5</guid>
-			<pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

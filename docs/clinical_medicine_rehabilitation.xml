@@ -5,8 +5,23 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rehabilitation) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 11 Jun 2026 02:54:01 GMT</pubDate>
-		<lastBuildDate>Thu, 11 Jun 2026 02:54:01 GMT</lastBuildDate>
+		<pubDate>Fri, 12 Jun 2026 02:51:01 GMT</pubDate>
+		<lastBuildDate>Fri, 12 Jun 2026 02:51:01 GMT</lastBuildDate>
+		<item>
+			<title>“Stepping forward” wearable overground exoskeletons can improve gait and balance in people with cerebral palsy: a systematic review with meta-analysis</title>
+			<link>https://doi.org/10.1080/09638288.2026.2679901</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 36
+Autoren: Nicola Postol, Darryl Chiu, Wesley Bobby-Joy, Annabel Webb, Ismail Sadozai, Luke Wakely, Jodie Marquez, Alistair McEwan, Petra Karlsson
+Journal: Disability and Rehabilitation
+Veröffentlicht: 2026-06-02
+DOI: 10.1080/09638288.2026.2679901
+ISSN: 0963-8288
+Tag der Erhebung (OOIR): 2026-06-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1080/09638288.2026.2679901-2026-06-12-1</guid>
+			<pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Many Paths to Recovery: The Case for Treatment Pluralism</title>
 			<link>https://doi.org/10.2519/jospt.2026.13992</link>
@@ -19,24 +34,9 @@ Veröffentlicht: 2026-06-01
 Abstract: SYNOPSIS: Decades of research have not identified a consistently superior treatment for musculoskeletal (MSK) pain conditions. Across trials, interventions such as exercise therapy and manual techniques demonstrate modest, broadly equivalent average treatment effects, likely mediated by overlapping, nonspecific, and contextual mechanisms. Treatment pluralism provides a practical way to interpret this evidence. It acknowledges that while treatments may appear comparable at the group level, substantial heterogeneity in treatment effects means that individual patients can respond quite differently. Frameworks such as the person-centered hypothesis aim to integrate pain phenotype, context, and pattern recognition to refine treatment selection. For now, predictive precision remains aspirational. Pluralism encourages a bounded range of safe, plausible, evidence-informed treatment options; it allows clinicians to practice with different orientations provided these are communicated transparently and aligned with patient values, goals, and preferences. Rather than enforcing uniformity, embracing pluralism offers an honest and patient-centered way to navigate uncertainty in MSK care. J Orthop Sports Phys Ther 2026;56(6):331-333. Epub 25 March 2026. doi:10.2519/jospt.2026.13992
 DOI: 10.2519/jospt.2026.13992
 ISSN: 0190-6011
-Tag der Erhebung (OOIR): 2026-06-11</description>
-			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2026.13992-2026-06-11-1</guid>
+Tag der Erhebung (OOIR): 2026-06-12</description>
+			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2026.13992-2026-06-12-2</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Pain Characteristics and Mechanisms Across Gait Disability Levels in Individuals with Multiple Sclerosis</title>
-			<link>https://doi.org/10.1016/j.apmr.2026.02.392</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rehabilitation
-Score: 21
-Autoren: Libak Abou, Nora Fritz, Anna L Kratz
-Journal: Archives of Physical Medicine and Rehabilitation
-Veröffentlicht: 2026-05-01
-DOI: 10.1016/j.apmr.2026.02.392
-ISSN: 0003-9993
-Tag der Erhebung (OOIR): 2026-06-11</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.apmr.2026.02.392-2026-06-11-2</guid>
-			<pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Ischiofemoral impingement: Clinical perspectives for enhancing diagnosis, and rehabilitation</title>
@@ -49,9 +49,24 @@ Journal: Musculoskeletal Science and Practice
 Veröffentlicht: 2026-08-01
 DOI: 10.1016/j.msksp.2026.103592
 ISSN: 2468-7812
-Tag der Erhebung (OOIR): 2026-06-11</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.msksp.2026.103592-2026-06-11-3</guid>
+Tag der Erhebung (OOIR): 2026-06-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.msksp.2026.103592-2026-06-12-3</guid>
 			<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>“Designing my support in daily living” – Co-production and feasibility of a brief tool for enhancing service user engagement among neurodivergent young adults</title>
+			<link>https://doi.org/10.1080/09638288.2026.2674620</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 16
+Autoren: Maria Löthberg, Andrea Niman, Sergej Engström, Jenny Meyer, Eda Wirström, Sonya Girdler, Sven Bölte, Ulf Jonsson
+Journal: Disability and Rehabilitation
+Veröffentlicht: 2026-05-21
+DOI: 10.1080/09638288.2026.2674620
+ISSN: 0963-8288
+Tag der Erhebung (OOIR): 2026-06-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1080/09638288.2026.2674620-2026-06-12-4</guid>
+			<pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Prevention and management of cardiovascular disease in adults with cancer: an International Cardio-Oncology Society (IC-OS) and Multinational Association of Supportive Care in Cancer (MASCC) clinical practice statement</title>
@@ -64,34 +79,9 @@ Journal: Supportive Care in Cancer
 Veröffentlicht: 2026-05-29
 DOI: 10.1007/s00520-026-10741-8
 ISSN: 0941-4355
-Tag der Erhebung (OOIR): 2026-06-11</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s00520-026-10741-8-2026-06-11-4</guid>
+Tag der Erhebung (OOIR): 2026-06-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s00520-026-10741-8-2026-06-12-5</guid>
 			<pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Cost-Effectiveness of Individualized Occupational Therapy for Inpatients With Schizophrenia: Two-Year Follow-Up of a Multicenter Randomized Controlled Trial</title>
-			<link>https://doi.org/10.5014/ajot.2026.051323</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rehabilitation
-Score: 13
-Autoren: Hirofumi Nagayama, Takeshi Shimada, Takafumi Morimoto, Kohei Ikeda, Masayoshi Kobayashi
-Journal: The American Journal of Occupational Therapy
-Veröffentlicht: 2026-05-08
-Abstract: Importance: Schizophrenia typically requires long-term treatment, making cost-effective interventions essential, yet the cost-effectiveness of individualized occupational therapy (IOT) remains unclear.
-                  Objective: To compare the cost-effectiveness of IOT plus group occupational therapy (GOT) with GOT alone for inpatients with schizophrenia over 2 yr.
-                  Design: Secondary analysis of data from a multicenter, two-arm, parallel randomized controlled trial.
-                  Setting: Fourteen clinical facilities.
-                  Participants: Sixty-two inpatients with schizophrenia who completed 2-yr follow-up.
-                  Intervention: GOT alone or IOT+GOT during 3 mo of hospitalization.
-                  Outcomes and Measures: Quality-adjusted life-years (QALYs) and total medical costs from a health care payer perspective over 2 yr.
-                  Results: Compared with GOT alone (n = 30), IOT+GOT (n = 32) produced greater cumulative QALYs (M difference = 0.156) and lower total medical costs (M difference = −¥290,784). The incremental cost-effectiveness ratio was −¥3,304,420 per QALY gained. Incremental net benefit was positive at willingness-to-pay thresholds of ¥5,000,000 and ¥6,000,000 per QALY. The cost-effectiveness acceptability curves showed a 94.2% probability of cost-effectiveness at a threshold of ¥6,000,000. Cost data were complete for approximately 40% of participants; missingness was addressed using multiple imputation, with complete-case sensitivity analysis yielding directionally consistent findings.
-                  Conclusions and Relevance: IOT+GOT was more cost-effective than GOT alone over 2 yr, supporting its wider adoption as an economically sound rehabilitation strategy for clients with schizophrenia. Given the extent of missing cost data, the results should be interpreted with appropriate caution. These findings offer long-term economic evidence to inform mental health policies and resource allocation in psychiatric care.
-                  Plain-Language Summary: Schizophrenia often requires long-term treatment, resulting in substantial health care costs. This study examined whether adding individualized occupational therapy to standard group occupational therapy offers a more cost-effective approach for inpatients with schizophrenia. Sixty-two patients were followed for 2 years after receiving either group occupational therapy alone or a combination of individualized occupational therapy and group occupational therapy during hospitalization. The results indicated that patients who received individualized occupational therapy and group occupational therapy experienced greater improvements in quality of life and slightly lower total medical costs. Furthermore, the cost-effectiveness analysis showed a 94.2% probability that the intervention would be cost-effective under Japan’s commonly accepted willingness-to-pay threshold. These findings suggest that individualized occupational therapy combined with group occupational therapy is a potentially cost-effective strategy for schizophrenia rehabilitation. This evidence supports the integration of individualized occupational therapy into standard psychiatric rehabilitation programs and may inform future mental health policy and resource allocation.
-DOI: 10.5014/ajot.2026.051323
-ISSN: 0272-9490
-Tag der Erhebung (OOIR): 2026-06-11</description>
-			<guid isPermaLink="false">ooir-trend-10.5014/ajot.2026.051323-2026-06-11-5</guid>
-			<pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
