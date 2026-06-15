@@ -5,14 +5,107 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Endocrinology &amp; Metabolism) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sun, 14 Jun 2026 02:55:32 GMT</pubDate>
-		<lastBuildDate>Sun, 14 Jun 2026 02:55:32 GMT</lastBuildDate>
+		<pubDate>Mon, 15 Jun 2026 03:28:45 GMT</pubDate>
+		<lastBuildDate>Mon, 15 Jun 2026 03:28:45 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Endocrinology &amp; Metabolism) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-endocrinologymetabolism-20260614025532</guid>
-			<pubDate>Sun, 14 Jun 2026 02:55:32 GMT</pubDate>
+			<title>Protein Decoys, Alcohol, and Energy Intake: Testing a Mechanistic‐Ecological Model</title>
+			<link>https://doi.org/10.1111/obr.70138</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 243
+Autoren: Amanda Grech, Stephen J. Simpson, David Raubenheimer
+Journal: Obesity Reviews
+Veröffentlicht: 2026-05-19
+Abstract: ABSTRACT
+                  Ultra‐processed diets are associated with excessive energy intake, but studies examining the role of alcohol have produced conflicting results, despite the high energy density of ethanol. We constructed a mechanistic‐ecological model to explain this inconsistency and tested its predictions using population dietary data. The model builds on experimentally established mechanisms to predict that, whereas alcohol will contribute ethanol calories irrespective of diet, its impact on total macronutrient energy intake varies depending on dietary pattern. Alcohol consumption stimulates FGF21, a hormone that increases savory (umami) preference and reduces sweet preference. In minimally processed food environments—where umami flavor is a relatively reliable indicator of protein in foods—umami‐seeking should direct consumers toward satiating, high‐protein foods, with limited effect on macronutrient energy intake. In contrast, on diets rich in ultra‐processed savory foods and/or high‐fat unprocessed meats, the correlation between umami flavor characteristics and protein is broken by umami‐flavored low‐protein foods (protein decoys), so alcohol instead drives dietary protein dilution and, through attenuated protein satiation, increased food and macronutrient energy intake (protein leverage). Mixture analysis paired with nutritional geometry confirmed these predictions in population data, suggesting the model may generalize to ecological contexts. Our results potentially explain why alcohol has variable effects on energy balance across dietary patterns and suggest that it exacerbates the obesogenic effects of ultra‐processed diets—a potentially important interaction given their global rise.
+DOI: 10.1111/obr.70138
+ISSN: 1467-7881
+Tag der Erhebung (OOIR): 2026-06-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1111/obr.70138-2026-06-15-1</guid>
+			<pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Is weight cycling clinically harmful?</title>
+			<link>https://doi.org/10.1016/s2213-8587(26)00037-9</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 240
+Autoren: Faidon Magkos, Norbert Stefan
+Journal: The Lancet Diabetes &amp;amp; Endocrinology
+Veröffentlicht: 2026-05-01
+DOI: 10.1016/s2213-8587(26)00037-9
+ISSN: 2213-8587
+Tag der Erhebung (OOIR): 2026-06-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/s2213-8587(26)00037-9-2026-06-15-2</guid>
+			<pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>The exercise hormone irisin has neuroprotective effects in a mouse model of multiple sclerosis</title>
+			<link>https://doi.org/10.1038/s42255-026-01527-7</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 230
+Autoren: Sina C. Rosenkranz, Joana F. da Rocha, Luis Moreira, Pius Schlachter, Jasmina Bier, Kaela Healy, Daniela Neves Silva, Mohamed Ariff Iqbal, Marjan Gharagozloo, Yueyue Xiong, Matthew A. Murphy, Helena C. Lichtenfeld, Lukas Raich, Michaela Schweizer, Asude Ertaş, Marcel S. Woo, Vanessa Vieira, Samuel E. Honeycutt, James P. White, Gregory A. Wyant, Manuel A. Friese, Peter A. Calabresi, Ruxandra F. Sîrbulescu, Christiane D. Wrann
+Journal: Nature Metabolism
+Veröffentlicht: 2026-05-21
+Abstract: Abstract
+                  
+                    Aerobic exercise is a disease-modifying intervention in multiple sclerosis (MS) that ameliorates several progressive neurological symptoms in people with MS. Here we show that the exercise hormone irisin mediates neuroprotective effects of exercise in the experimental autoimmune encephalomyelitis (EAE) mouse model of MS. We demonstrate that voluntary free-wheel running exercise protects against inflammation-induced neurodegeneration in EAE, but these neuroprotective effects are abrogated in mice lacking
+                    Fndc5
+                    /irisin. Peripheral delivery of irisin increases irisin plasma levels and reduces both clinical symptoms and neuronal loss in EAE. Although peripheral irisin does not alter peripheral and central immune responses in EAE, it induces a direct neuroprotective gene programme in spinal cord neurons and preserves synapses and mitochondrial activity, probably through direct binding to motor neurons. Taken together, these findings suggest that irisin induction in response to exercise confers direct neuroprotective effects in an inflammation-driven neurodegenerative condition, making it an attractive therapeutic candidate for MS.
+                  
+DOI: 10.1038/s42255-026-01527-7
+ISSN: 2522-5812
+Tag der Erhebung (OOIR): 2026-06-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s42255-026-01527-7-2026-06-15-3</guid>
+			<pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Human whole-blood NAD+ levels do not vary with age or lifestyle interventions</title>
+			<link>https://doi.org/10.1038/s42255-026-01537-5</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 226
+Autoren: Maria M. Trętowicz, Angelique M. L. Scantlebery, Bauke V. Schomakers, Kaan D. Eroğlu, Michel van Weeghel, Vera Spek, Kasper T. Vinten, Luc Legon, Evrim Coskun, Fernando Millan-Domingo, Gloria Olaso-Gonzalez, Maria Carmen Gomez-Cabrera, Silvia Montoro-García, Clara Noguera-Navarro, André B. P. van Kuilenburg, Sofia Moco, Juliette C. van Hattum, Harald T. Jørstad, Mohammed Benali, Jantine van der Helder, Esmee J. M. Biersteker, Maheswary Muniandy, Kirsi H. Pietiläinen, Eija Pirinen, P. Eline Slagboom, Marian Beekman, Joris Deelen, Rubén Zapata-Pérez, Peter J. M. Weijs, Michael Tieland, Georges E. Janssens, Riekelt H. Houtkooper
+Journal: Nature Metabolism
+Veröffentlicht: 2026-05-14
+DOI: 10.1038/s42255-026-01537-5
+ISSN: 2522-5812
+Tag der Erhebung (OOIR): 2026-06-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s42255-026-01537-5-2026-06-15-4</guid>
+			<pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Sex differences in modifiable risk factors of dementia and their associations with cognition</title>
+			<link>https://doi.org/10.1186/s13293-026-00908-7</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 198
+Autoren: Megan C. Fitzhugh, Judy Pa
+Journal: Biology of Sex Differences
+Veröffentlicht: 2026-05-20
+Abstract: Abstract
+                  
+                    Background
+                    Women have a greater lifetime risk of developing dementia. Despite clear sex differences, studies investigating modifiable dementia risk factors often overlook differences between sexes and age. This study examined sex and age differences in the prevalence of modifiable dementia risk factors and their associations with cognition.
+                  
+                  
+                    Methods
+                    Participants were from the Health and Retirement Study, a nationally representative cohort study. Thirteen risk factors were examined, including education, hearing loss, cholesterol, depression, physical inactivity, diabetes, smoking, hypertension, obesity, excessive alcohol use, social isolation, poor vision, and poor sleep. A global cognitive summary score was also examined. Chi-square and t-tests examined sex and age differences in prevalence; linear regression examined interactions between sex, age, and risk factors on cognition.
+                  
+                  
+                    Results
+                    This study included 17,182 participants with a mean age of 69.2 ± 10.6 years, 59.2% of which were women. Ten out of 13 risk factors had sex differences in prevalence. Women had higher prevalence of elevated cholesterol, depression, physical inactivity, smoking, poor vision, and poor sleep. Women also had fewer years of education. Men had a higher prevalence of hearing loss, diabetes, and excessive alcohol use. Hearing loss, diabetes, and hypertension were associated with greater effects on cognitive performance in woman than men. BMI was negatively associated with cognitive performance in women compared to men in their 50s and 60s, but not at older ages. Education and cholesterol had stronger, positive associations with cognitive performance in women compared to men.
+                  
+                  
+                    Conclusions
+                    These data suggest that women’s greater risk of dementia may be due to a higher prevalence of multiple risk factors and stronger cognitive effects of risk factors. Results may inform future personalized prevention strategies for dementia risk reduction, particularly in women.
+                  
+DOI: 10.1186/s13293-026-00908-7
+ISSN: 2042-6410
+Tag der Erhebung (OOIR): 2026-06-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s13293-026-00908-7-2026-06-15-5</guid>
+			<pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
