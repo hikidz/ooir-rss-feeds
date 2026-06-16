@@ -5,14 +5,167 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Pharmacology &amp; Pharmacy) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Mon, 15 Jun 2026 03:28:31 GMT</pubDate>
-		<lastBuildDate>Mon, 15 Jun 2026 03:28:31 GMT</lastBuildDate>
+		<pubDate>Tue, 16 Jun 2026 03:26:36 GMT</pubDate>
+		<lastBuildDate>Tue, 16 Jun 2026 03:26:36 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Pharmacology &amp; Pharmacy) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-pharmacologypharmacy-20260615032831</guid>
-			<pubDate>Mon, 15 Jun 2026 03:28:31 GMT</pubDate>
+			<title>Synergistic antiviral effects of structure-guided peptides and a mutagenic base analog on SARS-CoV-2 replication</title>
+			<link>https://doi.org/10.1128/aac.01885-25</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 74
+Autoren: Sergio Ortega Del Campo, Gregorio Joaquín Fernández Ballester, Clara Blanes Mira, Víctor Guirado Osorio, Luis Díaz Martínez, Ana Isabel de Ávila, María Eugenia Soria, Brenda Martínez-González, Francisco José Villena González, Josefa Gómez-Maldonado, María Isabel Viciana Ramos, Encarnación Clavijo Frutos, Jesús L. Santos González, Ugo Bastolla, Celia Perales, Esteban Domingo, Enrique Viguera, Ana María Fernández Escamilla, Ana Grande Pérez
+Journal: Antimicrobial Agents and Chemotherapy
+Veröffentlicht: 2026-06-03
+Abstract: ABSTRACT
+                  
+                    
+                    
+                      The limited durability of vaccine protection and the rapid emergence of SARS-CoV-2 variants highlight the need for antiviral strategies that extend beyond vaccination and conventional small-molecule inhibitors. Here, we explored a dual approach combining structure-guided peptides predicted to interfere with the viral replication complex with lethal mutagenesis to limit SARS-CoV-2 replication. Using the crystallographic interfaces of nsp10 with nsp14 and nsp16, we designed short inhibitory peptides predicted to interact with the viral proofreading and RNA-capping machinery. In parallel, the mutagenic analog 5-fluorouracil was evaluated to determine its effect on SARS-CoV-2 in Vero E6 cells. Peptides P1 and P6 exhibited potent antiviral activity with minimal cytotoxicity, whereas 5-FU reduced specific infectivity without impairing genome replication. Combined treatment with 5-FU and peptide P1 resulted in &amp;gt;10
+                      4
+                      -fold reduction in infectious virus, achieving near-complete loss of infectivity at non-cytotoxic concentrations. Next-generation sequencing revealed that dual treatment increased mutation frequency, altered mutant spectra, and decreased genome stability, consistent with progression toward error catastrophe. Principal component analysis confirmed that combined treatment generated mutant spectra distinct from either monotherapy. These findings are consistent with a dual antiviral strategy in which structure-guided peptides designed to interact with components of the SARS-CoV-2 replication complex act in combination with lethal mutagenesis to produce a synergistic interaction between these two complementary processes. This integrated approach suggests a potential broad-spectrum antiviral strategy with applicability to other coronaviruses.
+                    
+                  
+DOI: 10.1128/aac.01885-25
+ISSN: 0066-4804
+Tag der Erhebung (OOIR): 2026-06-16</description>
+			<guid isPermaLink="false">ooir-trend-10.1128/aac.01885-25-2026-06-16-1</guid>
+			<pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Neuroplastic Mechanisms of Acupuncture in Post‐Stroke Motor Recovery: A Randomized Multimodal
+                    MRI
+                    Trial</title>
+			<link>https://doi.org/10.1002/cns.70955</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 59
+Autoren: Xin Yu, Nana Zhao, Yuchen Liu, Shizhong Zheng, Dongtao Luo, Qianji Chen, Fufu Zeng, Jiao Chen, Yanfei Jia, Yihuai Zou
+Journal: CNS Neuroscience &amp;amp; Therapeutics
+Veröffentlicht: 2026-06-01
+Abstract: ABSTRACT
+                  
+                    Background
+                    Hemiplegia is a common motor impairment following ischemic stroke. Post‐stroke recovery involves extensive reorganization of structural and functional brain networks, which correlates with clinical deficits and recovery. While acupuncture has demonstrated safety and efficacy in improving motor function, robust neuroimaging evidence elucidating its central mechanisms remains limited. This study aimed to investigate the specific neuroplastic effects of acupuncture by focusing on its modulation of cortical gray matter volume (GMV) and multilayer dynamic functional network topology.
+                  
+                  
+                    Methods
+                    Patients with stroke were randomly allocated in a 2:1 ratio to receive either true‐acupoint (TA) or sham‐acupoint (SA) over a two‐week intervention period. Clinical outcomes were assessed using the Fugl‐Meyer Assessment (FMA), Brunnstrom Scale, and the National Institutes of Health Stroke Scale (NIHSS). Neuroplastic changes were evaluated through GMV analysis and dynamic functional network metrics. Correlation analyses were performed to examine the relationships between post‐acupuncture improvements in clinical scores and changes in neuroimaging indices.
+                  
+                  
+                    Results
+                    The results demonstrated that: (1) Clinically, post‐treatment improvements in NIHSS and FMA scores, but only the TA group exhibited significant gains in Brunnstrom scores, indicating superior motor recovery. (2) Functionally, TA modulated default mode network (DMN) dynamics, manifesting as significantly reduced disjointedness and a trend toward decreased flexibility. These changes correlated with better motor outcomes. No such modulatory effect was observed in the SA group. (3) Structurally, TA increased GMV in the right middle frontal gyrus, right postcentral gyrus, right angular gyrus, left superior parietal gyrus, left cerebellar Crus 1–2, 4–5, 7, bilateral middle occipital gyrus, superior temporal gyrus, angular gyrus of inferior parietal margin, dorsolateral superior frontal gyrus, inferior frontal gyrus of operculum, and cerebellar area 10. Increases in GMV in the right opercular inferior frontal gyrus, postcentral gyrus, and cerebellar region 10 were positively correlated with motor recovery in the TA group. No significant changes in GMV were detected in the SA group.
+                  
+                  
+                    Conclusions
+                    TA treatment significantly alleviated neurological impairment and enhanced motor recovery. Its therapeutic effect is underpinned by specific neuroplastic changes: Functional modulation of DMN dynamics and structural promotion of gray matter plasticity in regions critical for sensorimotor and cognitive‐motor integration, which are essential for movement control.
+                  
+DOI: 10.1002/cns.70955
+ISSN: 1755-5930
+Tag der Erhebung (OOIR): 2026-06-16</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/cns.70955-2026-06-16-2</guid>
+			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Exploring the Potential Molecular Mechanisms of Berberine against Gastric Cancer Liver Metastasis Based on Network Pharmacology and
+Bioinformatics</title>
+			<link>https://doi.org/10.2174/0113894501471952260514050508</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 48
+Autoren: Tong Shao, Ying Wang, Yeyi Lv, Xiaohui Huang, Kangli Xue, Xing Jiang
+Journal: Current Drug Targets
+Veröffentlicht: 2026-05-22
+Abstract: 
+                    Introduction:
+                    Gastric cancer (GC) is a common malignancy with a tendency for liver
+metastasis, leading to poor prognosis. Berberine (BBR), derived from Coptis chinensis Franch., exhibits
+potent anticancer effects on GC. However, the mechanism by which BBR affects gastric cancer
+liver metastasis (GCLM) remains unclear. This study employed network pharmacology and bioinformatics
+approaches to investigate the potential targets and molecular mechanisms of BBR as a
+candidate therapeutic drug for GCLM.
+                  
+                  
+                    Methods:
+                    The targets of GCLM and BBR were acquired from public databases. Subsequently, the
+Protein-Protein Interaction (PPI) network and enrichment analyses were conducted to identify key
+targets and underlying mechanisms. Pivotal target genes were screened using machine learning algorithms.
+CIBERSORT analysis was applied to explore the involvement of immune cells in GCLM
+samples and their correlation with pivotal genes. Ultimately, molecular docking was performed to
+evaluate the binding affinities between BBR and pivotal target proteins.
+                  
+                  
+                    Results:
+                    A total of 120 common targets were obtained after screening. These targets were primarily
+enriched in the PI3K/Akt signaling pathway. By employing a PPI network, the top 16 targets were
+acquired. Subsequently, three pivotal target genes (CCL2, SPP1, and ALB) were further identified
+using machine learning models. CIBERSORT analysis demonstrated significant correlations between
+three pivotal genes and the tumor immune microenvironment in GCLM patients, especially in the
+regulation of M0/M2 macrophage infiltration and dendritic cell activation. Molecular docking confirmed
+stable binding affinities between three pivotal target proteins and BBR.
+                  
+                  
+                    Discussion:
+                    This study suggests that BBR may inhibit GCLM by targeting pivotal genes CCL2,
+SPP1, and ALB, blocking the PI3K/Akt pathway and remodeling the immunosuppressive microenvironment.
+However, further experimental validation is required to confirm these findings.
+                  
+                  
+                    Conclusion:
+                    This study revealed the molecular mechanism behind GCLM suppression and identified
+BBR as a promising therapeutic candidate, providing a basis for the development of novel treatment
+strategies for GCLM.
+                  
+DOI: 10.2174/0113894501471952260514050508
+ISSN: 1389-4501
+Tag der Erhebung (OOIR): 2026-06-16</description>
+			<guid isPermaLink="false">ooir-trend-10.2174/0113894501471952260514050508-2026-06-16-3</guid>
+			<pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Drugs associated with behavioral addictions: Real world analysis using the WHO pharmacovigilance database</title>
+			<link>https://doi.org/10.1016/j.therap.2025.07.002</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 42
+Autoren: Louis Asselin, Edouard-Jules Laforgue, Mélanie Duval, Bruno Revol, Gwenaëlle Veyrac, Marie Grall-Bronnec, Caroline Victorri-Vigneau
+Journal: Therapies
+Veröffentlicht: 2026-05-01
+DOI: 10.1016/j.therap.2025.07.002
+ISSN: 0040-5957
+Tag der Erhebung (OOIR): 2026-06-16</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.therap.2025.07.002-2026-06-16-4</guid>
+			<pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Donepezil ameliorates fatigue and depression in PASC patients with HHV-6B SITH-1-induced acetylcholine deficiency</title>
+			<link>https://doi.org/10.3389/fphar.2026.1807203</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 40
+Autoren: Naomi Oka, Kensuke Nakamura, Koichi Hirahata, Azusa Ishii, Kazuma Yamakawa, Kenya Ie, Tadahiro Goto, Kazuya Shimada, Shigeki Fujitani, Kazuhiro Kondo
+Journal: Frontiers in Pharmacology
+Veröffentlicht: 2026-06-04
+Abstract: 
+                    Introduction
+                    The pathogenesis of post-acute sequelae of SARS-CoV-2 infection (PASC) remains poorly understood, and no effective treatment has been established. Reactivation of latent herpesviruses, particularly human herpesvirus 6B (HHV-6B), has been proposed as a possible contributor to the neuropsychiatric symptoms observed in PASC. SITH-1, a latency-associated protein expressed during HHV-6B reactivation in olfactory bulb astrocytes, induces specific antibody responses that can be detected in peripheral blood. Importantly, SITH-1 has also been identified as a risk factor for depression, suggesting a mechanistic link between HHV-6B reactivation and the development of neuropsychiatric symptoms.
+                  
+                  
+                    Methods
+                    We measured serum anti-SITH-1 antibody titers in 156 PASC patients and compared them to healthy controls. In this PASC cohort, neuropsychiatric symptoms were assessed using numerical rating scales. In parallel, we developed a mouse model in which SITH-1 was transiently expressed in the olfactory bulb to assess its impact on brain function and behavior. We also conducted a subgroup analysis of a previously reported randomized clinical trial (RCT) of donepezil, stratifying PASC patients by anti-SITH-1 antibody status.
+                  
+                  
+                    Results
+                    Anti-SITH-1 antibody positivity was observed in 62.8% of PASC patients, a significantly higher proportion than in controls. Seropositive patients exhibited more severe fatigue and depressive symptoms. In the mouse model, SITH-1 expression led to reduced acetylcholine production and depression-like behavior, both of which were ameliorated by donepezil. In the clinical trial subgroup of 73 PASC patients, 71.7% were seropositive for anti-SITH-1 antibodies. Among these individuals, donepezil significantly improved fatigue and depression scores, as measured by the Chalder Fatigue Scale and the depression subscale of the Hospital Anxiety and Depression Scale (HADS).
+                  
+                  
+                    Conclusion
+                    These findings suggest that HHV-6B reactivation in the olfactory bulb, as indicated by anti-SITH-1 antibody titers, may contribute to fatigue and depression in a subset of PASC patients. Donepezil may be effective in this subgroup, and these findings support the use of anti-SITH-1 antibody titers as a companion diagnostic marker for targeted treatment in PASC.
+                  
+DOI: 10.3389/fphar.2026.1807203
+ISSN: 1663-9812
+Tag der Erhebung (OOIR): 2026-06-16</description>
+			<guid isPermaLink="false">ooir-trend-10.3389/fphar.2026.1807203-2026-06-16-5</guid>
+			<pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

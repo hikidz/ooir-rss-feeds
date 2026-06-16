@@ -5,21 +5,21 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Mon, 15 Jun 2026 03:28:07 GMT</pubDate>
-		<lastBuildDate>Mon, 15 Jun 2026 03:28:07 GMT</lastBuildDate>
+		<pubDate>Tue, 16 Jun 2026 03:25:52 GMT</pubDate>
+		<lastBuildDate>Tue, 16 Jun 2026 03:25:52 GMT</lastBuildDate>
 		<item>
 			<title>Deep learning for H&amp;amp;E-based meningioma molecular classification and outcome prediction: a retrospective cohort study</title>
 			<link>https://doi.org/10.1016/j.landig.2026.100986</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 171
+Score: 172
 Autoren: Alexander P Landry, Farshad Nassiri, Leeor S Yefet, H Lalchungnunga, Eldad D Shulman, Justin Z Wang, Yosef Ellenbogen, Chloe Gui, Andrew Ajisebutu, Vikas Patil, Jeff Liu, Qingxia Wei, Olivia Singh, Julio Sosa, Sheila Mansouri, Shihao Ma, Bo Wang, Rachael Vaubel, Caterina Giannini, Aditya Raghunathan, Andrew Gao, Eytan Ruppin, Kenneth Aldape, Gelareh Zadeh
 Journal: The Lancet Digital Health
 Veröffentlicht: 2026-06-01
 DOI: 10.1016/j.landig.2026.100986
 ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2026-06-15</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.100986-2026-06-15-1</guid>
+Tag der Erhebung (OOIR): 2026-06-16</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.100986-2026-06-16-1</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -54,9 +54,36 @@ Abstract: Abstract
                   
 DOI: 10.2196/88244
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2026-06-15</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/88244-2026-06-15-2</guid>
+Tag der Erhebung (OOIR): 2026-06-16</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/88244-2026-06-16-2</guid>
 			<pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Smartphone-based detection of subtle memory decline in prodromal Alzheimer’s disease</title>
+			<link>https://doi.org/10.1038/s41746-026-02731-1</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 71
+Autoren: Sarah E. Polk, Lindsay R. Clark, Kristin Basche, Luca Kleineidam, Wenzel Glanz, Michaela Butryn, Robert Perneczky, Katharina Buerger, Klaus Fliessbach, Christoph Laske, Annika Spottke, Anja Schneider, Jens Wiltfang, Stefan Teipel, Claudia Bartels, Ayda Rostamzadeh, Daniel Janowitz, Boris-Stephan Rauchmann, Ingo Kilimann, Sebastian Sodenkamp, Marie Coenjaerts, Frederic Brosseron, Michael Wagner, Ingo Frommann, Melina Stark, Matthias Schmid, Björn H. Schott, Sterling C. Johnson, Frank Jessen, Emrah Düzel, David Berron
+Journal: npj Digital Medicine
+Veröffentlicht: 2026-06-10
+Abstract: Abstract
+                  
+                    The slow progression of Alzheimer’s disease (AD) poses a challenge for the quantification of early disease-driven cognitive decline. Here, we show that frequently administered remote and unsupervised digital cognitive assessments can detect differences in cognitive decline within 30 weeks in early AD. The sample comprised 202 individuals (52–85 years old) recruited from longitudinal observational studies, who were cognitively unimpaired (CU,
+                    n
+                     = 152) or had a diagnosis of mild cognitive impairment (MCI,
+                    n
+                     = 50). Participants self-administered remote tasks testing memory precision for objects and scenes, associative memory, and familiarity-dependent memory. The MCI group showed greater decline than the CU group in the familiarity-dependent task, while stratifying the MCI group by beta-amyloid (Aβ) status (
+                    n
+                     = 21 Aβ−;
+                    n
+                     = 24 Aβ+) revealed greater change in memory precision for objects and familiarity-dependent memory in the MCI Aβ+ group. A 30-week change in the remote familiarity-dependent task was correlated with a multi-year change in annual in-person neuropsychological assessments. In conclusion, frequent remote cognitive testing is a promising tool to feasibly capture and monitor subtle and short-term cognitive decline.
+                  
+DOI: 10.1038/s41746-026-02731-1
+ISSN: 2398-6352
+Tag der Erhebung (OOIR): 2026-06-16</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02731-1-2026-06-16-3</guid>
+			<pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Development and validation of a digital biomarker for peripheral artery disease</title>
@@ -75,43 +102,24 @@ Abstract: Abstract
                   
 DOI: 10.1038/s41746-026-02655-w
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-06-15</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02655-w-2026-06-15-3</guid>
+Tag der Erhebung (OOIR): 2026-06-16</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02655-w-2026-06-16-4</guid>
 			<pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Prospective deployment of AI-based risk stratification to enable expedited mammography workflow in a safety-net setting</title>
-			<link>https://doi.org/10.1038/s41746-026-02743-x</link>
+			<title>Large language models as experimental systems in human psychopathology: a modelling study</title>
+			<link>https://doi.org/10.1016/j.landig.2026.101014</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 51
-Autoren: Maggie Chung, Eric Davis, Heather Greenwood, Jessica Hayward, Shinn-Huey Shirley Chou, Bonnie Joe, Loretta Strachowski, Tatiana Kelil, Rita Freimanis, Elissa Price, Kimberly Ray, Amie Lee, Adam Yala
-Journal: npj Digital Medicine
-Veröffentlicht: 2026-05-18
-Abstract: Abstract
-                  Delays between screening and diagnostic mammography contribute to disparities in breast cancer outcomes and reduce screening adherence. We prospectively evaluated the operational feasibility and impact of integrating AI risk stratification into screening workflows at an urban safety net facility. In this HIPAA-compliant, IRB-approved, controlled study, Mirai 1-year risk scores were generated in real time from screening mammograms. Patients in the top 10% of risk were flagged as high-risk and, on enrollment days, were offered immediate screening interpretation and same-day diagnostic evaluation when indicated. Outcomes included operational feasibility, care delivery timelines for screening results, diagnostic evaluation, and biopsy, and cancer detection rate, compared with high-risk controls on non-enrollment days. Among 4145 screening mammograms, 525 were flagged as high-risk and 100 women consented to expedited care, of whom 94 percent received immediate reads and 26 received same-day diagnostic evaluation. Time to screening results, diagnostic evaluation, and biopsy were significantly shorter in expedited patients versus control patients with screen-detected cancers, with reductions of 99.1%, 99.1%, and 87.2%, respectively. The expedited cohort demonstrated a cancer detection rate of 60/1000 compared with 2.3/1000 among non-high-risk participants. Integrating AI risk models into clinical workflows substantially improved care delivery timelines and provides a translational framework to improve care and reduce disparities.
-DOI: 10.1038/s41746-026-02743-x
-ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-06-15</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02743-x-2026-06-15-4</guid>
-			<pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Mapping AI regulation in health care with the Health &amp;amp; AI Policy Index</title>
-			<link>https://doi.org/10.1038/s41746-026-02734-y</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 38
-Autoren: Will Moss, Benjamin S. Glicksberg, Sabina Lim, Alexis Zebrowski, Girish N. Nadkarni
-Journal: npj Digital Medicine
-Veröffentlicht: 2026-05-25
-Abstract: Abstract
-                  Artificial intelligence (AI) policy for health care is expanding in a fragmented landscape. In a January 1, 2026 snapshot of the Health &amp;amp; AI Policy Index (240 policies), we find that transparency-oriented advisory instruments dominate, equity and safety are usually addressed within broader governance requirements, and obligations fall mainly on providers, regulators, and developers. We describe how this health-specific registry can guide oversight decisions by health systems, vendors, and policymakers.
-DOI: 10.1038/s41746-026-02734-y
-ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-06-15</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02734-y-2026-06-15-5</guid>
-			<pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+Score: 53
+Autoren: Magdalena Katharina Wekenborg, Elizabeth Anna Mathilde Michels, Georg Kurze, Matti Lasse Kropp, Fabian Wolf, Josi Harzbecker, Isabella C Wiest, Jakob Nikolas Kather
+Journal: The Lancet Digital Health
+Veröffentlicht: 2026-06-01
+DOI: 10.1016/j.landig.2026.101014
+ISSN: 2589-7500
+Tag der Erhebung (OOIR): 2026-06-16</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.101014-2026-06-16-5</guid>
+			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
