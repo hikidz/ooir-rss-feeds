@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 16 Jun 2026 03:25:52 GMT</pubDate>
-		<lastBuildDate>Tue, 16 Jun 2026 03:25:52 GMT</lastBuildDate>
+		<pubDate>Wed, 17 Jun 2026 02:58:28 GMT</pubDate>
+		<lastBuildDate>Wed, 17 Jun 2026 02:58:28 GMT</lastBuildDate>
 		<item>
 			<title>Deep learning for H&amp;amp;E-based meningioma molecular classification and outcome prediction: a retrospective cohort study</title>
 			<link>https://doi.org/10.1016/j.landig.2026.100986</link>
@@ -18,8 +18,8 @@ Journal: The Lancet Digital Health
 Veröffentlicht: 2026-06-01
 DOI: 10.1016/j.landig.2026.100986
 ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2026-06-16</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.100986-2026-06-16-1</guid>
+Tag der Erhebung (OOIR): 2026-06-17</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.100986-2026-06-17-1</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -54,8 +54,8 @@ Abstract: Abstract
                   
 DOI: 10.2196/88244
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2026-06-16</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/88244-2026-06-16-2</guid>
+Tag der Erhebung (OOIR): 2026-06-17</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/88244-2026-06-17-2</guid>
 			<pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -81,30 +81,9 @@ Abstract: Abstract
                   
 DOI: 10.1038/s41746-026-02731-1
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-06-16</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02731-1-2026-06-16-3</guid>
+Tag der Erhebung (OOIR): 2026-06-17</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02731-1-2026-06-17-3</guid>
 			<pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Development and validation of a digital biomarker for peripheral artery disease</title>
-			<link>https://doi.org/10.1038/s41746-026-02655-w</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 55
-Autoren: Mattheus Ramsis, Ava J. Fascetti, Mustafa H. Naguib, Shamim Nemati, Pam R. Taub, Christopher A. Longhurst, Elsie G. Ross, Edward J. Wang
-Journal: npj Digital Medicine
-Veröffentlicht: 2026-05-12
-Abstract: Abstract
-                  
-                    Peripheral artery disease (PAD) is a common manifestation of atherosclerotic cardiovascular disease (ASCVD) that is underdiagnosed in clinical practice. Photoplethysmography (PPG) serves as a widely available tool that captures peripheral vascular physiology, yet the quantitative links between PPG signal characteristics and the presence of PAD are underexplored. In analyzing 5,237 legs from
-                    N
-                     = 2362 unique patients, we find significant correlations with multiple PPG features and the ankle-brachial index (ABI), a commonly used non-invasive diagnostic test for PAD. Using these explainable features, we develop a machine learning model to detect PAD solely from PPG features (AUC = 0.83) and develop an enhanced model incorporating clinical information (AUC = 0.85). Additionally, our model is highly generalizable, performing similarly across demographics and comorbidities. These findings represent an initial step toward identifying an accessible, physiologically grounded digital biomarker associated with PAD, and lay the foundation for prospective studies to evaluate performance across clinical workflows and reference standards.
-                  
-DOI: 10.1038/s41746-026-02655-w
-ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-06-16</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02655-w-2026-06-16-4</guid>
-			<pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Large language models as experimental systems in human psychopathology: a modelling study</title>
@@ -117,9 +96,26 @@ Journal: The Lancet Digital Health
 Veröffentlicht: 2026-06-01
 DOI: 10.1016/j.landig.2026.101014
 ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2026-06-16</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.101014-2026-06-16-5</guid>
+Tag der Erhebung (OOIR): 2026-06-17</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.101014-2026-06-17-4</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Prospective deployment of AI-based risk stratification to enable expedited mammography workflow in a safety-net setting</title>
+			<link>https://doi.org/10.1038/s41746-026-02743-x</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 51
+Autoren: Maggie Chung, Eric Davis, Heather Greenwood, Jessica Hayward, Shinn-Huey Shirley Chou, Bonnie Joe, Loretta Strachowski, Tatiana Kelil, Rita Freimanis, Elissa Price, Kimberly Ray, Amie Lee, Adam Yala
+Journal: npj Digital Medicine
+Veröffentlicht: 2026-05-18
+Abstract: Abstract
+                  Delays between screening and diagnostic mammography contribute to disparities in breast cancer outcomes and reduce screening adherence. We prospectively evaluated the operational feasibility and impact of integrating AI risk stratification into screening workflows at an urban safety net facility. In this HIPAA-compliant, IRB-approved, controlled study, Mirai 1-year risk scores were generated in real time from screening mammograms. Patients in the top 10% of risk were flagged as high-risk and, on enrollment days, were offered immediate screening interpretation and same-day diagnostic evaluation when indicated. Outcomes included operational feasibility, care delivery timelines for screening results, diagnostic evaluation, and biopsy, and cancer detection rate, compared with high-risk controls on non-enrollment days. Among 4145 screening mammograms, 525 were flagged as high-risk and 100 women consented to expedited care, of whom 94 percent received immediate reads and 26 received same-day diagnostic evaluation. Time to screening results, diagnostic evaluation, and biopsy were significantly shorter in expedited patients versus control patients with screen-detected cancers, with reductions of 99.1%, 99.1%, and 87.2%, respectively. The expedited cohort demonstrated a cancer detection rate of 60/1000 compared with 2.3/1000 among non-high-risk participants. Integrating AI risk models into clinical workflows substantially improved care delivery timelines and provides a translational framework to improve care and reduce disparities.
+DOI: 10.1038/s41746-026-02743-x
+ISSN: 2398-6352
+Tag der Erhebung (OOIR): 2026-06-17</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02743-x-2026-06-17-5</guid>
+			<pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

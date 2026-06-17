@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Orthopedics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 16 Jun 2026 03:25:13 GMT</pubDate>
-		<lastBuildDate>Tue, 16 Jun 2026 03:25:13 GMT</lastBuildDate>
+		<pubDate>Wed, 17 Jun 2026 02:57:36 GMT</pubDate>
+		<lastBuildDate>Wed, 17 Jun 2026 02:57:36 GMT</lastBuildDate>
 		<item>
 			<title>Many Paths to Recovery: The Case for Treatment Pluralism</title>
 			<link>https://doi.org/10.2519/jospt.2026.13992</link>
@@ -19,8 +19,8 @@ Veröffentlicht: 2026-06-01
 Abstract: SYNOPSIS: Decades of research have not identified a consistently superior treatment for musculoskeletal (MSK) pain conditions. Across trials, interventions such as exercise therapy and manual techniques demonstrate modest, broadly equivalent average treatment effects, likely mediated by overlapping, nonspecific, and contextual mechanisms. Treatment pluralism provides a practical way to interpret this evidence. It acknowledges that while treatments may appear comparable at the group level, substantial heterogeneity in treatment effects means that individual patients can respond quite differently. Frameworks such as the person-centered hypothesis aim to integrate pain phenotype, context, and pattern recognition to refine treatment selection. For now, predictive precision remains aspirational. Pluralism encourages a bounded range of safe, plausible, evidence-informed treatment options; it allows clinicians to practice with different orientations provided these are communicated transparently and aligned with patient values, goals, and preferences. Rather than enforcing uniformity, embracing pluralism offers an honest and patient-centered way to navigate uncertainty in MSK care. J Orthop Sports Phys Ther 2026;56(6):331-333. Epub 25 March 2026. doi:10.2519/jospt.2026.13992
 DOI: 10.2519/jospt.2026.13992
 ISSN: 0190-6011
-Tag der Erhebung (OOIR): 2026-06-16</description>
-			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2026.13992-2026-06-16-1</guid>
+Tag der Erhebung (OOIR): 2026-06-17</description>
+			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2026.13992-2026-06-17-1</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -51,8 +51,8 @@ Abstract: Abstract
                   
 DOI: 10.1007/s00586-026-09932-y
 ISSN: 0940-6719
-Tag der Erhebung (OOIR): 2026-06-16</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s00586-026-09932-y-2026-06-16-2</guid>
+Tag der Erhebung (OOIR): 2026-06-17</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s00586-026-09932-y-2026-06-17-2</guid>
 			<pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -66,8 +66,8 @@ Journal: European Spine Journal
 Veröffentlicht: 2026-06-02
 DOI: 10.1007/s00586-026-10051-x
 ISSN: 0940-6719
-Tag der Erhebung (OOIR): 2026-06-16</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s00586-026-10051-x-2026-06-16-3</guid>
+Tag der Erhebung (OOIR): 2026-06-17</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s00586-026-10051-x-2026-06-17-3</guid>
 			<pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -117,44 +117,25 @@ Abstract:
                   
 DOI: 10.1097/brs.0000000000005755
 ISSN: 0362-2436
-Tag der Erhebung (OOIR): 2026-06-16</description>
-			<guid isPermaLink="false">ooir-trend-10.1097/brs.0000000000005755-2026-06-16-4</guid>
+Tag der Erhebung (OOIR): 2026-06-17</description>
+			<guid isPermaLink="false">ooir-trend-10.1097/brs.0000000000005755-2026-06-17-4</guid>
 			<pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Current Artificial Intelligence Large Language Models Exhibit Sycophantic Behavior in Orthopaedic Contexts</title>
-			<link>https://doi.org/10.2106/jbjs.25.01576</link>
+			<title>Musculoskeletal Treatment Mechanisms: A Puzzle That May Never Be Fully Solved</title>
+			<link>https://doi.org/10.2519/jospt.2026.14486</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Orthopedics
 Score: 10
-Autoren: Arthur J. Perry, Swara Kalva, Dario Fucich, Srikar Muppidi, Manan Aggarwal, Mandeep S. Virk, Joseph D. Zuckerman, Jie J. Yao
-Journal: Journal of Bone and Joint Surgery
-Veröffentlicht: 2026-05-21
-Abstract: 
-                    Background:
-                    The use of large language models (LLMs) is increasingly common. However, LLMs may exhibit sycophancy, echoing users’ beliefs while avoiding contradiction. In the present study, we describe sycophancy in general-purpose LLMs when applied to orthopaedic contexts.
-                  
-                  
-                    Methods:
-                    We investigated sycophancy in 2 general-purpose LLMs. We evaluated performance on 3 tasks: (1) accuracy on benchmark answering: LLMs were tested on validated benchmark orthopaedic questions, with correct and incorrect cues, and the change in accuracy and sycophancy error rate were determined; (2) user belief agreement: LLMs were provided with ambiguous statements and a user belief, and LLM agreement, contradiction, and uncertainty were described; and (3) false information detection: false information was placed within a task prompt to measure noncontradiction and propagation rates.
-                  
-                  
-                    Results:
-                    Baseline factual accuracy on benchmark questioning was 78%, decreasing with correct hints (71%) (p = 0.49). With incorrect hints, LLM accuracy declined significantly (48%) (p &amp;lt; 0.001), with a sycophancy error rate of 52%. Presented with user beliefs about an indefinite, controversial statement, models echoed user beliefs in 56%, expressed uncertainty in 12%, and contradicted users in 32% of statements. In noncontradiction tasks, models perpetuated incorrect attributions 99% of the time yet reliably corrected statistical distortions 97% of the time.
-                  
-                  
-                    Conclusions:
-                    Although popular general-purpose LLMs have useful orthopaedic applications, they exhibit sycophancy, with a tendency toward agreement and without recognition of ambiguity. This is a key weakness to be addressed. Findings should be interpreted cautiously given the variability in model design, prompting, and models evaluated.
-                  
-                  
-                    Clinical Relevance:
-                    The tendency of general-purpose LLMs to agree without recognizing clinical ambiguity may limit their reliability in orthopaedic applications.
-                  
-DOI: 10.2106/jbjs.25.01576
-ISSN: 0021-9355
-Tag der Erhebung (OOIR): 2026-06-16</description>
-			<guid isPermaLink="false">ooir-trend-10.2106/jbjs.25.01576-2026-06-16-5</guid>
-			<pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+Autoren: Chad E. Cook, Damian L. Keter
+Journal: Journal of Orthopaedic &amp;amp; Sports Physical Therapy
+Veröffentlicht: 2026-06-03
+Abstract: Musculoskeletal treatments often appear simple, yet the mechanisms underlying their effects remain difficult to explain. Patients and clinicians routinely ask why exercises, manual techniques, or psychologically informed interventions help, but current evidence rarely supports the intuitive explanations offered in practice. Although mechanistic research promises more precise and individualized care, most studies isolate single pathways under controlled conditions that fail to reflect the complexity of human recovery. In real-world musculoskeletal care, physiological, psychological, and social processes interact continuously, producing therapeutic effects that are multifactorial, dynamic, and only partially measurable. This interconnectedness creates an inverse relationship between what is easy to study and what meaningfully explains clinical outcomes. Persistent uncertainty should not be interpreted as treatment inefficacy but as a reflection of living systems in which no single mechanism dictates recovery. Embracing complexity allows the field to move beyond reductionist debates and toward more meaningful scientific and clinical questions.
+DOI: 10.2519/jospt.2026.14486
+ISSN: 0190-6011
+Tag der Erhebung (OOIR): 2026-06-17</description>
+			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2026.14486-2026-06-17-5</guid>
+			<pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
