@@ -5,21 +5,21 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, Research &amp; Experimental) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 17 Jun 2026 02:58:51 GMT</pubDate>
-		<lastBuildDate>Wed, 17 Jun 2026 02:58:51 GMT</lastBuildDate>
+		<pubDate>Thu, 18 Jun 2026 02:52:25 GMT</pubDate>
+		<lastBuildDate>Thu, 18 Jun 2026 02:52:25 GMT</lastBuildDate>
 		<item>
 			<title>AI-induced never-skilling in medical education</title>
 			<link>https://doi.org/10.1038/s41591-026-04438-y</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medicine, Research &amp; Experimental
-Score: 342
+Score: 344
 Autoren: Yuhe Ke, Liyuan Jin, Jasmine Chiat Ling Ong, Arun J. Thirunavukarasu, Josip Car, Carol Y. Cheung, Yih Chung Tham, Daniel Shu Wei Ting, Marcus Eng Hock Ong, Scott Compton, Aditee Narayan, Pearse A. Keane, Tien Yin Wong, David W. Bates, Patrick Tan, Nan Liu
 Journal: Nature Medicine
 Veröffentlicht: 2026-05-22
 DOI: 10.1038/s41591-026-04438-y
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2026-06-17</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04438-y-2026-06-17-1</guid>
+Tag der Erhebung (OOIR): 2026-06-18</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04438-y-2026-06-18-1</guid>
 			<pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -27,14 +27,14 @@ Tag der Erhebung (OOIR): 2026-06-17</description>
 			<link>https://doi.org/10.1038/s41591-026-04407-5</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medicine, Research &amp; Experimental
-Score: 299
+Score: 306
 Autoren: Kurt Hager, Matthew Alcusky, Fang Fang Zhang, Gary Sing, Arlene Ash, Eric Mick, Jean Terranova, Erin DiBacco, Stephanie Buckler, Allison Rich, Jessica Bowman, Sara Folta, Kim Prendergast, Jasper Frank, Cheryl Ball, Jenny S. Chiang, Dariush Mozaffarian
 Journal: Nature Medicine
 Veröffentlicht: 2026-06-02
 DOI: 10.1038/s41591-026-04407-5
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2026-06-17</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04407-5-2026-06-17-2</guid>
+Tag der Erhebung (OOIR): 2026-06-18</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04407-5-2026-06-18-2</guid>
 			<pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -49,9 +49,26 @@ Veröffentlicht: 2026-05-28
 Abstract: Although most prostate tumors are relatively indolent, advanced disease can progress to aggressive, often lethal variants, including neuroendocrine prostate cancer (NEPC). To identify drivers of aggressive prostate cancer, we used Sleeping Beauty (SB) transposon mutagenesis in a mouse model having prostate-specific loss of Pten and Tp53 (NPp53 mice). Compared with control NPp53-SB(−) mice, experimental NPp53-SB(+) mice developed more aggressive tumors with increased metastasis. Notably, NPp53-SB(+) mice exhibited NEPC phenotypes with transcriptomic features that recapitulate human NEPC. Analysis of recurrent common insertion sites (CIS) and associated genes (CIS genes) identified genes differentially expressed between NEPC and non-NEPC tumors. Analysis of NEPC-enriched CIS genes by cross-species integration of genomic and transcriptomic data prioritized sirtuin 1 (Sirt1) as a candidate mechanistic determinant of NEPC. Gain- and loss-of-function studies in human prostate cancer cells and mouse NEPC organoids confirmed that SIRT1 promotes NEPC, while pharmacological inhibition suppresses it. Thus, integration of cross-species analyses with an unbiased forward genetic screen uncovered novel drivers of NEPC.
 DOI: 10.1084/jem.20241484
 ISSN: 0022-1007
-Tag der Erhebung (OOIR): 2026-06-17</description>
-			<guid isPermaLink="false">ooir-trend-10.1084/jem.20241484-2026-06-17-3</guid>
+Tag der Erhebung (OOIR): 2026-06-18</description>
+			<guid isPermaLink="false">ooir-trend-10.1084/jem.20241484-2026-06-18-3</guid>
 			<pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Long-term independent use of an intracortical brain–computer interface for speech and cursor control</title>
+			<link>https://doi.org/10.1038/s41591-026-04414-6</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 247
+Autoren: Nicholas S. Card, Tyler Singer-Clark, Hamza Peracha, Carrina Iacobacci, Xianda Hou, Maitreyee Wairagkar, Zachery Fogg, Elena C. Offenberg, Leigh R. Hochberg, Sergey D. Stavisky, David M. Brandman
+Journal: Nature Medicine
+Veröffentlicht: 2026-06-15
+Abstract: Abstract
+                  Brain–computer interfaces (BCIs) can provide naturalistic communication and digital access to people with severe paralysis by decoding neural activity associated with attempted speech and movement. Recent work has demonstrated highly accurate intracortical BCIs for speech and cursor control, but two critical capabilities needed for practical viability were unmet: independent at-home operation without researcher assistance and reliable long-term performance supporting accurate speech and cursor decoding. Here we demonstrate the independent and near-daily use of a multimodal BCI with novel brain-to-text speech and computer cursor decoders by a man with paralysis and severe dysarthria due to amyotrophic lateral sclerosis. Over nearly 2 years, the participant used the BCI for more than 3,800 h at home with no researchers present to maintain rich interpersonal communication with his family and friends, independently control his personal computer and sustain full-time employment—despite being paralyzed. He communicated 183,060 sentences—totaling 1,960,163 words—at an average rate of 56 words per minute. He labeled 92% of sentences as being decoded at least mostly correctly. In formal quantifications of performance where he was asked to say words presented on a screen, attempted speech was consistently decoded with more than 99% word accuracy (125,000 word vocabulary). The participant also used the speech BCI as keyboard input and the cursor BCI as mouse input to control his personal computer, enabling him to send text messages and emails and to browse the internet. These results demonstrate that intracortical BCIs have the potential to support independent use in the home, marking a critical step toward practical assistive technology for people with severe motor impairment.
+DOI: 10.1038/s41591-026-04414-6
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2026-06-18</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04414-6-2026-06-18-4</guid>
+			<pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>15-strain live biotherapeutic product or same donor fecal microbiota transplant for recurrent Clostridioides difficile infection: a randomized phase 1b trial</title>
@@ -64,26 +81,9 @@ Journal: Nature Medicine
 Veröffentlicht: 2026-06-02
 DOI: 10.1038/s41591-026-04442-2
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2026-06-17</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04442-2-2026-06-17-4</guid>
+Tag der Erhebung (OOIR): 2026-06-18</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04442-2-2026-06-18-5</guid>
 			<pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Human microglial transitions at the Aβ–tau inflection point associate with divergent pathways to dementia and resilience</title>
-			<link>https://doi.org/10.1038/s41591-026-04393-8</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, Research &amp; Experimental
-Score: 164
-Autoren: Ashley Lu, Wei-Ting Chen, Maria Dalby, Diego Sainz Garcia, Marisa Vanheusden, Luuk E. de Vries, Veerle van Lieshout, Araks Martirosyan, Katleen Craessaerts, Sebastiaan Moonen, Magdalena Zielonka, Iordana Chrysidou, Anke Misbaer, Leen Wolfs, Benjamin Pavie, Dick Swaab, Dietmar Rudolf Thal, Inge Huitinga, Annemieke Rozemuller, Susan Karijn Rohde, Marc Hulsman, Henne Holstege, Rita Balice-Gordon, Niels Plath, Mark Fiers, Bart De Strooper
-Journal: Nature Medicine
-Veröffentlicht: 2026-06-04
-Abstract: Abstract
-                  Alzheimer’s disease (AD) is not an inevitable outcome of pathology but a dynamic process shaped by how brain cells respond to amyloid-β (Aβ) and tau. To disentangle these responses, we combined spatial transcriptomics and single-nucleus RNA sequencing of the superior frontal cortex from octogenarians living with or without dementia and from cognitively intact centenarians with comparable Aβ accumulation. We identified six distinct tissue domains representing a spatial pathological continuum of AD, with a key inflection point marked by a shift from Aβ-associated inflammatory changes to tau-associated cellular programs. This transition was accompanied by a change in microglial states, from early inflammatory to late antigen-presenting phenotypes, termed early and late plaque-induced gene (PIG) programs. Resilient individuals showed distinct pathological patterns: octogenarians without dementia lacked late PIGs, whereas centenarians showed late PIG activation that was uncoupled from tau accumulation. Together, these findings highlight divergent resilience-associated mechanisms in human aging and position microglial state transitions at the Aβ−tau interface as candidate points of resilience with potential therapeutic relevance.
-DOI: 10.1038/s41591-026-04393-8
-ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2026-06-17</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04393-8-2026-06-17-5</guid>
-			<pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
