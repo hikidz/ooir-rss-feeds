@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rheumatology) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sun, 21 Jun 2026 03:00:07 GMT</pubDate>
-		<lastBuildDate>Sun, 21 Jun 2026 03:00:07 GMT</lastBuildDate>
+		<pubDate>Mon, 22 Jun 2026 03:29:52 GMT</pubDate>
+		<lastBuildDate>Mon, 22 Jun 2026 03:29:52 GMT</lastBuildDate>
 		<item>
 			<title>Differences in
                     SARS
@@ -44,8 +44,8 @@ Abstract:
                   
 DOI: 10.1002/art.70205
 ISSN: 2326-5191
-Tag der Erhebung (OOIR): 2026-06-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/art.70205-2026-06-21-1</guid>
+Tag der Erhebung (OOIR): 2026-06-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/art.70205-2026-06-22-1</guid>
 			<pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -59,24 +59,9 @@ Journal: The Lancet Rheumatology
 Veröffentlicht: 2026-05-01
 DOI: 10.1016/s2665-9913(26)00075-5
 ISSN: 2665-9913
-Tag der Erhebung (OOIR): 2026-06-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(26)00075-5-2026-06-21-2</guid>
+Tag der Erhebung (OOIR): 2026-06-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(26)00075-5-2026-06-22-2</guid>
 			<pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Treatment strategies in giant cell arteritis and polymyalgia rheumatica: beyond glucocorticoids</title>
-			<link>https://doi.org/10.1038/s41584-026-01379-1</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rheumatology
-Score: 27
-Autoren: Francesco Muratore, Kenneth J. Warrington, Christian Dejaco, Maria C. Cid, Bernhard Hellmich, Ann W. Morgan, Stefania Croci, Carlo Salvarani
-Journal: Nature Reviews Rheumatology
-Veröffentlicht: 2026-05-20
-DOI: 10.1038/s41584-026-01379-1
-ISSN: 1759-4790
-Tag der Erhebung (OOIR): 2026-06-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41584-026-01379-1-2026-06-21-3</guid>
-			<pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Towards global clinical practice guidelines for the management of non-specific low back pain in primary care: a review of current guideline recommendations and how they have changed over the last 30 years</title>
@@ -89,24 +74,79 @@ Journal: The Lancet Rheumatology
 Veröffentlicht: 2026-06-01
 DOI: 10.1016/s2665-9913(26)00077-9
 ISSN: 2665-9913
-Tag der Erhebung (OOIR): 2026-06-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(26)00077-9-2026-06-21-4</guid>
+Tag der Erhebung (OOIR): 2026-06-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(26)00077-9-2026-06-22-3</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Treat-to-target in Behçet syndrome</title>
-			<link>https://doi.org/10.1038/s41584-026-01381-7</link>
+			<title>Safety of Prescription Nonsteroidal Anti‐inflammatory Drugs in Adults With Inflammatory Bowel Disease: Data From a Large Administrative Claims Cohort</title>
+			<link>https://doi.org/10.1002/acr.80067</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Rheumatology
-Score: 24
-Autoren: Alessandra Bettiol, George Bertsias, Bahram Bodaghi, Aykut Ferhat Celik, George E. Fragoulis, David Saadoun, Rosaria Talarico, Uğur Uygunoğlu, Giacomo Emmi, Petros P. Sfikakis, Gülen Hatemi
-Journal: Nature Reviews Rheumatology
-Veröffentlicht: 2026-05-21
-DOI: 10.1038/s41584-026-01381-7
-ISSN: 1759-4790
-Tag der Erhebung (OOIR): 2026-06-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41584-026-01381-7-2026-06-21-5</guid>
-			<pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+Score: 22
+Autoren: Adam S. Mayer, Rui Xiao, Meenakshi Bewtra, Michael D. George, Pamela F. Weiss
+Journal: Arthritis Care &amp;amp; Research
+Veröffentlicht: 2026-05-05
+Abstract: 
+                    Objective
+                    The concern that nonsteroidal anti‐inflammatory drugs (NSAIDs) may precipitate flares of inflammatory bowel disease (IBD) has limited their use in managing musculoskeletal symptoms in those with IBD, but safety data are mixed.
+                  
+                  
+                    Methods
+                    This retrospective cohort study included patients with IBD aged at least 18 years from Optum's deidentified Clinformatics Data Mart Database (2000–2022). Patients with a new NSAID prescription fill were matched to those without an NSAID fill during the study period. The index date for exposed patients was the date of first NSAID fill, with a matched date for unexposed. Propensity score‐based inverse probability of treatment‐weighted Cox proportional hazards models evaluated the association between NSAID exposure and time to IBD‐related hospitalization across IBD subtypes. A hazard ratio (HR) of 1.2 was prespecified as the non‐inferiority margin.
+                  
+                  
+                    Results
+                    Among 348,095 patients with IBD, 23.2% were NSAID‐exposed. NSAID exposure was associated with a small increase in IBD‐related hospitalization in the overall cohort but demonstrated non‐inferiority (HR 1.07, 95% confidence interval [CI] 1.04–1.10). Non‐inferiority was met with no significantly increased risk of IBD‐related hospitalization in patients with ulcerative colitis (HR 0.97, 95% CI 0.93–1.02). In contrast, non‐inferiority was not met in the Crohn disease subgroup (HR 1.16, 95% CI 1.12–1.21).
+                  
+                  
+                    Conclusion
+                    Patients with ulcerative colitis did not have a significantly increased risk of IBD‐related hospitalization associated with NSAID exposure and met non‐inferiority, whereas non‐inferiority could not be established for those with Crohn disease. These results suggest that NSAID use may be acceptable for select patients with IBD who have significant musculoskeletal symptoms, especially those with ulcerative colitis.
+                    
+                      
+                        
+                          image
+                        
+                      
+                    
+                  
+DOI: 10.1002/acr.80067
+ISSN: 2151-464X
+Tag der Erhebung (OOIR): 2026-06-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/acr.80067-2026-06-22-4</guid>
+			<pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>One-month delay in MTX initiation on RA outcomes: 1-year ancillary analysis of the VACIMRA trial</title>
+			<link>https://doi.org/10.1093/rheumatology/keag270</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 20
+Autoren: Theresa Than, Gael Mouterde, Claire Immediato Daien, Cedric Lukas, Anouck Rémy-Moulard, Cécile Gaujoux Viala, Joana Pissarra, Héléna Huguet, Marie-Christine Picot, Jacques Morel
+Journal: Rheumatology
+Veröffentlicht: 2026-05-22
+Abstract: Abstract
+                  
+                    Objectives
+                    The VACIMRA trial demonstrated that delaying MTX initiation in RA by 1 month after the 13-valent pneumococcal conjugate vaccine (PCV13) improves humoral responses at 1 and 12 months. Whether this delay impacts disease activity and radiographic progression over 1 year remains uncertain.
+                  
+                  
+                    Methods
+                    This ancillary study compared changes in disease activity (DAS28-ESR) from inclusion (M0) to months 1, 2, 3, 6 and 12 between patients with early RA who started MTX immediately vs 1 month after PCV13. Structural progression was assessed using the van der Heijde–modified Sharp score (mSHS) on X-rays at inclusion, 6 and 12 months. The primary outcome was the proportion of patients in remission (DAS28-ESR &amp;amp;lt; 2.6) or low disease activity (LDA) (DAS28-ESR ≤ 3.2) at 1 year.
+                  
+                  
+                    Results
+                    Among 276 VACIMRA participants, 100 were enrolled at the Montpellier centre (96 analysable at M0, 83 at M12). Both groups had similar baseline characteristics: mean age 58 ± 14 years, DAS28-ESR 4.88 ± 0.94, total mSHS 1.53 ± 3.62. Treatments during follow-up were comparable except for MTX cumulative dose at 1, 3, 6 months. At 12 months, remission (53.7% vs 46.3%, P = 0.51) and LDA rate (75.6% vs 61.0%, P = 0.15) were similar. DAS28-ESR was similar at 1 and 3 months but favoured the DELAY group at 6 (2.66 ± 1.07 vs 3.28 ± 1.34, P = 0.02) and 12 months (2.23 ± 1.03 vs 3.00 ± 1.16, P &amp;amp;lt; 0.01). mSHS progression was comparable at 6 and 12 months.
+                  
+                  
+                    Conclusion
+                    Deferring MTX for 1 month after PCV13 to enhance immunity did not worsen RA disease control, radiographic progression or treatment escalation after 1 year of follow-up.
+                  
+DOI: 10.1093/rheumatology/keag270
+ISSN: 1462-0324
+Tag der Erhebung (OOIR): 2026-06-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1093/rheumatology/keag270-2026-06-22-5</guid>
+			<pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
