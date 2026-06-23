@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Mon, 22 Jun 2026 03:29:20 GMT</pubDate>
-		<lastBuildDate>Mon, 22 Jun 2026 03:29:20 GMT</lastBuildDate>
+		<pubDate>Tue, 23 Jun 2026 02:37:13 GMT</pubDate>
+		<lastBuildDate>Tue, 23 Jun 2026 02:37:13 GMT</lastBuildDate>
 		<item>
 			<title>Deep learning for H&amp;amp;E-based meningioma molecular classification and outcome prediction: a retrospective cohort study</title>
 			<link>https://doi.org/10.1016/j.landig.2026.100986</link>
@@ -18,8 +18,8 @@ Journal: The Lancet Digital Health
 Veröffentlicht: 2026-05-01
 DOI: 10.1016/j.landig.2026.100986
 ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2026-06-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.100986-2026-06-22-1</guid>
+Tag der Erhebung (OOIR): 2026-06-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.100986-2026-06-23-1</guid>
 			<pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -33,8 +33,8 @@ Journal: The Lancet Digital Health
 Veröffentlicht: 2026-06-01
 DOI: 10.1016/j.landig.2026.101020
 ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2026-06-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.101020-2026-06-22-2</guid>
+Tag der Erhebung (OOIR): 2026-06-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.101020-2026-06-23-2</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -60,31 +60,16 @@ Abstract: Abstract
                   
 DOI: 10.1038/s41746-026-02731-1
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-06-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02731-1-2026-06-22-3</guid>
+Tag der Erhebung (OOIR): 2026-06-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02731-1-2026-06-23-3</guid>
 			<pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Large language models as experimental systems in human psychopathology: a modelling study</title>
-			<link>https://doi.org/10.1016/j.landig.2026.101014</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 60
-Autoren: Magdalena Katharina Wekenborg, Elizabeth Anna Mathilde Michels, Georg Kurze, Matti Lasse Kropp, Fabian Wolf, Josi Harzbecker, Isabella C Wiest, Jakob Nikolas Kather
-Journal: The Lancet Digital Health
-Veröffentlicht: 2026-06-01
-DOI: 10.1016/j.landig.2026.101014
-ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2026-06-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.101014-2026-06-22-4</guid>
-			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>The Effects of Open-World and Fun, Accessible Games on Perceived Loneliness and Stoicism in Adults: Cross-Sectional Survey Study</title>
 			<link>https://doi.org/10.2196/89304</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 58
+Score: 70
 Autoren: Congcong Hou, Winze Tam, Andini Ayu Rahmadianty, Pradana Rajendra, Andreas Benedikt Eisingerich
 Journal: JMIR Serious Games
 Veröffentlicht: 2026-06-17
@@ -148,9 +133,24 @@ Abstract: Abstract
                   
 DOI: 10.2196/89304
 ISSN: 2291-9279
-Tag der Erhebung (OOIR): 2026-06-22</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/89304-2026-06-22-5</guid>
+Tag der Erhebung (OOIR): 2026-06-23</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/89304-2026-06-23-4</guid>
 			<pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Large language models as experimental systems in human psychopathology: a modelling study</title>
+			<link>https://doi.org/10.1016/j.landig.2026.101014</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 60
+Autoren: Magdalena Katharina Wekenborg, Elizabeth Anna Mathilde Michels, Georg Kurze, Matti Lasse Kropp, Fabian Wolf, Josi Harzbecker, Isabella C Wiest, Jakob Nikolas Kather
+Journal: The Lancet Digital Health
+Veröffentlicht: 2026-06-01
+DOI: 10.1016/j.landig.2026.101014
+ISSN: 2589-7500
+Tag der Erhebung (OOIR): 2026-06-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.101014-2026-06-23-5</guid>
+			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

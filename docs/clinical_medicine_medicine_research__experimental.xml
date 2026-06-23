@@ -5,14 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, Research &amp; Experimental) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Mon, 22 Jun 2026 03:29:33 GMT</pubDate>
-		<lastBuildDate>Mon, 22 Jun 2026 03:29:33 GMT</lastBuildDate>
+		<pubDate>Tue, 23 Jun 2026 02:37:30 GMT</pubDate>
+		<lastBuildDate>Tue, 23 Jun 2026 02:37:30 GMT</lastBuildDate>
 		<item>
 			<title>Long-term independent use of an intracortical brain–computer interface for speech and cursor control</title>
 			<link>https://doi.org/10.1038/s41591-026-04414-6</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medicine, Research &amp; Experimental
-Score: 403
+Score: 593
 Autoren: Nicholas S. Card, Tyler Singer-Clark, Hamza Peracha, Carrina Iacobacci, Xianda Hou, Maitreyee Wairagkar, Zachery Fogg, Elena C. Offenberg, Leigh R. Hochberg, Sergey D. Stavisky, David M. Brandman
 Journal: Nature Medicine
 Veröffentlicht: 2026-06-15
@@ -20,8 +20,8 @@ Abstract: Abstract
                   Brain–computer interfaces (BCIs) can provide naturalistic communication and digital access to people with severe paralysis by decoding neural activity associated with attempted speech and movement. Recent work has demonstrated highly accurate intracortical BCIs for speech and cursor control, but two critical capabilities needed for practical viability were unmet: independent at-home operation without researcher assistance and reliable long-term performance supporting accurate speech and cursor decoding. Here we demonstrate the independent and near-daily use of a multimodal BCI with novel brain-to-text speech and computer cursor decoders by a man with paralysis and severe dysarthria due to amyotrophic lateral sclerosis. Over nearly 2 years, the participant used the BCI for more than 3,800 h at home with no researchers present to maintain rich interpersonal communication with his family and friends, independently control his personal computer and sustain full-time employment—despite being paralyzed. He communicated 183,060 sentences—totaling 1,960,163 words—at an average rate of 56 words per minute. He labeled 92% of sentences as being decoded at least mostly correctly. In formal quantifications of performance where he was asked to say words presented on a screen, attempted speech was consistently decoded with more than 99% word accuracy (125,000 word vocabulary). The participant also used the speech BCI as keyboard input and the cursor BCI as mouse input to control his personal computer, enabling him to send text messages and emails and to browse the internet. These results demonstrate that intracortical BCIs have the potential to support independent use in the home, marking a critical step toward practical assistive technology for people with severe motor impairment.
 DOI: 10.1038/s41591-026-04414-6
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2026-06-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04414-6-2026-06-22-1</guid>
+Tag der Erhebung (OOIR): 2026-06-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04414-6-2026-06-23-1</guid>
 			<pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -35,8 +35,8 @@ Journal: eBioMedicine
 Veröffentlicht: 2026-06-01
 DOI: 10.1016/j.ebiom.2026.106316
 ISSN: 2352-3964
-Tag der Erhebung (OOIR): 2026-06-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ebiom.2026.106316-2026-06-22-2</guid>
+Tag der Erhebung (OOIR): 2026-06-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ebiom.2026.106316-2026-06-23-2</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -50,8 +50,8 @@ Journal: Nature Medicine
 Veröffentlicht: 2026-05-22
 DOI: 10.1038/s41591-026-04438-y
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2026-06-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04438-y-2026-06-22-3</guid>
+Tag der Erhebung (OOIR): 2026-06-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04438-y-2026-06-23-3</guid>
 			<pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -65,8 +65,8 @@ Journal: Nature Medicine
 Veröffentlicht: 2026-06-01
 DOI: 10.1038/s41591-026-04407-5
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2026-06-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04407-5-2026-06-22-4</guid>
+Tag der Erhebung (OOIR): 2026-06-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04407-5-2026-06-23-4</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -81,8 +81,8 @@ Veröffentlicht: 2026-05-28
 Abstract: Although most prostate tumors are relatively indolent, advanced disease can progress to aggressive, often lethal variants, including neuroendocrine prostate cancer (NEPC). To identify drivers of aggressive prostate cancer, we used Sleeping Beauty (SB) transposon mutagenesis in a mouse model having prostate-specific loss of Pten and Tp53 (NPp53 mice). Compared with control NPp53-SB(−) mice, experimental NPp53-SB(+) mice developed more aggressive tumors with increased metastasis. Notably, NPp53-SB(+) mice exhibited NEPC phenotypes with transcriptomic features that recapitulate human NEPC. Analysis of recurrent common insertion sites (CIS) and associated genes (CIS genes) identified genes differentially expressed between NEPC and non-NEPC tumors. Analysis of NEPC-enriched CIS genes by cross-species integration of genomic and transcriptomic data prioritized sirtuin 1 (Sirt1) as a candidate mechanistic determinant of NEPC. Gain- and loss-of-function studies in human prostate cancer cells and mouse NEPC organoids confirmed that SIRT1 promotes NEPC, while pharmacological inhibition suppresses it. Thus, integration of cross-species analyses with an unbiased forward genetic screen uncovered novel drivers of NEPC.
 DOI: 10.1084/jem.20241484
 ISSN: 0022-1007
-Tag der Erhebung (OOIR): 2026-06-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1084/jem.20241484-2026-06-22-5</guid>
+Tag der Erhebung (OOIR): 2026-06-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1084/jem.20241484-2026-06-23-5</guid>
 			<pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>

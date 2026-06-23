@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Pharmacology &amp; Pharmacy) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Mon, 22 Jun 2026 03:29:45 GMT</pubDate>
-		<lastBuildDate>Mon, 22 Jun 2026 03:29:45 GMT</lastBuildDate>
+		<pubDate>Tue, 23 Jun 2026 02:37:45 GMT</pubDate>
+		<lastBuildDate>Tue, 23 Jun 2026 02:37:45 GMT</lastBuildDate>
 		<item>
 			<title>Synergistic antiviral effects of structure-guided peptides and a mutagenic base analog on SARS-CoV-2 replication</title>
 			<link>https://doi.org/10.1128/aac.01885-25</link>
@@ -27,8 +27,8 @@ Abstract: ABSTRACT
                   
 DOI: 10.1128/aac.01885-25
 ISSN: 0066-4804
-Tag der Erhebung (OOIR): 2026-06-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1128/aac.01885-25-2026-06-22-1</guid>
+Tag der Erhebung (OOIR): 2026-06-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1128/aac.01885-25-2026-06-23-1</guid>
 			<pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -61,8 +61,8 @@ Abstract: ABSTRACT
                   
 DOI: 10.1002/cns.70955
 ISSN: 1755-5930
-Tag der Erhebung (OOIR): 2026-06-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/cns.70955-2026-06-22-2</guid>
+Tag der Erhebung (OOIR): 2026-06-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/cns.70955-2026-06-23-2</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -117,24 +117,9 @@ strategies for GCLM.
                   
 DOI: 10.2174/0113894501471952260514050508
 ISSN: 1389-4501
-Tag der Erhebung (OOIR): 2026-06-22</description>
-			<guid isPermaLink="false">ooir-trend-10.2174/0113894501471952260514050508-2026-06-22-3</guid>
+Tag der Erhebung (OOIR): 2026-06-23</description>
+			<guid isPermaLink="false">ooir-trend-10.2174/0113894501471952260514050508-2026-06-23-3</guid>
 			<pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Drugs associated with behavioral addictions: Real world analysis using the WHO pharmacovigilance database</title>
-			<link>https://doi.org/10.1016/j.therap.2025.07.002</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Pharmacology &amp; Pharmacy
-Score: 42
-Autoren: Louis Asselin, Edouard-Jules Laforgue, Mélanie Duval, Bruno Revol, Gwenaëlle Veyrac, Marie Grall-Bronnec, Caroline Victorri-Vigneau
-Journal: Therapies
-Veröffentlicht: 2026-05-01
-DOI: 10.1016/j.therap.2025.07.002
-ISSN: 0040-5957
-Tag der Erhebung (OOIR): 2026-06-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.therap.2025.07.002-2026-06-22-4</guid>
-			<pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Donepezil ameliorates fatigue and depression in PASC patients with HHV-6B SITH-1-induced acetylcholine deficiency</title>
@@ -163,9 +148,24 @@ Abstract:
                   
 DOI: 10.3389/fphar.2026.1807203
 ISSN: 1663-9812
-Tag der Erhebung (OOIR): 2026-06-22</description>
-			<guid isPermaLink="false">ooir-trend-10.3389/fphar.2026.1807203-2026-06-22-5</guid>
+Tag der Erhebung (OOIR): 2026-06-23</description>
+			<guid isPermaLink="false">ooir-trend-10.3389/fphar.2026.1807203-2026-06-23-4</guid>
 			<pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Aztreonam-Avibactam for Carbapenem-Resistant Gram-Negative Infections: Mechanisms, Clinical Efficacy, the Challenge of Resistance and Susceptibility Testing</title>
+			<link>https://doi.org/10.1016/j.ijantimicag.2026.107861</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 36
+Autoren: Fangting He, Xian Zhang, Haiyan Ye, Jun Luo, Yao Wang
+Journal: International Journal of Antimicrobial Agents
+Veröffentlicht: 2026-05-01
+DOI: 10.1016/j.ijantimicag.2026.107861
+ISSN: 0924-8579
+Tag der Erhebung (OOIR): 2026-06-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ijantimicag.2026.107861-2026-06-23-5</guid>
+			<pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

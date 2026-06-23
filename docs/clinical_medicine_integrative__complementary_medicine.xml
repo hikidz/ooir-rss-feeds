@@ -5,25 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Integrative &amp; Complementary Medicine) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Mon, 22 Jun 2026 03:29:14 GMT</pubDate>
-		<lastBuildDate>Mon, 22 Jun 2026 03:29:14 GMT</lastBuildDate>
-		<item>
-			<title>Antidotes in Homeopathy: Classical Doctrine, Clinical Relevance and Scientific Re-interpretation</title>
-			<link>https://doi.org/10.1055/a-2797-3848</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Integrative &amp; Complementary Medicine
-Score: 10
-Autoren: Jozélio Freire de Carvalho
-Journal: Homeopathy
-Veröffentlicht: 2026-05-25
-Abstract: Abstract
-                  The concept of antidotes in homeopathy holds a central place in classical doctrine and daily clinical practice, yet remains largely unexplored in scientific literature. Antidotes are traditionally defined as substances, remedies, environmental factors or physiological and emotional influences capable of suppressing, altering or interrupting the action of a homeopathic medicine. From a classical homeopathic perspective, any factor capable of modifying the totality of symptoms—thereby influencing remedy selection and follow-up—may be regarded as a potential antidoting influence. Unlike conventional pharmacological antidotes, which act through molecular interactions, homeopathic antidoting is conceived as an interference with the organism's adaptive and regulatory response. This review revisits the historical foundations of antidotes, examines their clinical importance and explores potential scientific re-interpretations grounded in contemporary neurobiology, psychophysiology and systems medicine. Classical authors, including Hahnemann, Kent, Allen and Boericke, are critically reviewed, and the phenomenon of antidoting is discussed in light of stress physiology, placebo–nocebo mechanisms, hormesis and network regulation. We propose that antidotes represent early empirical descriptions of system-level modulation rather than substance antagonism. Finally, research perspectives are outlined to encourage methodological investigation of antidoting using modern biomedical tools.
-DOI: 10.1055/a-2797-3848
-ISSN: 1475-4916
-Tag der Erhebung (OOIR): 2026-06-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1055/a-2797-3848-2026-06-22-1</guid>
-			<pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
-		</item>
+		<pubDate>Tue, 23 Jun 2026 02:36:57 GMT</pubDate>
+		<lastBuildDate>Tue, 23 Jun 2026 02:36:57 GMT</lastBuildDate>
 		<item>
 			<title>Hyperoside protects against poly-GR-mediated neurodegeneration via regulation of mitochondrial fission and oxidative stress in C9orf72-associated ALS</title>
 			<link>https://doi.org/10.1186/s13020-026-01433-w</link>
@@ -78,9 +61,41 @@ Abstract: Abstract
                   
 DOI: 10.1186/s13020-026-01433-w
 ISSN: 1749-8546
-Tag der Erhebung (OOIR): 2026-06-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1186/s13020-026-01433-w-2026-06-22-2</guid>
+Tag der Erhebung (OOIR): 2026-06-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s13020-026-01433-w-2026-06-23-1</guid>
 			<pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Antidotes in Homeopathy: Classical Doctrine, Clinical Relevance and Scientific Re-interpretation</title>
+			<link>https://doi.org/10.1055/a-2797-3848</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Integrative &amp; Complementary Medicine
+Score: 10
+Autoren: Jozélio Freire de Carvalho
+Journal: Homeopathy
+Veröffentlicht: 2026-05-25
+Abstract: Abstract
+                  The concept of antidotes in homeopathy holds a central place in classical doctrine and daily clinical practice, yet remains largely unexplored in scientific literature. Antidotes are traditionally defined as substances, remedies, environmental factors or physiological and emotional influences capable of suppressing, altering or interrupting the action of a homeopathic medicine. From a classical homeopathic perspective, any factor capable of modifying the totality of symptoms—thereby influencing remedy selection and follow-up—may be regarded as a potential antidoting influence. Unlike conventional pharmacological antidotes, which act through molecular interactions, homeopathic antidoting is conceived as an interference with the organism's adaptive and regulatory response. This review revisits the historical foundations of antidotes, examines their clinical importance and explores potential scientific re-interpretations grounded in contemporary neurobiology, psychophysiology and systems medicine. Classical authors, including Hahnemann, Kent, Allen and Boericke, are critically reviewed, and the phenomenon of antidoting is discussed in light of stress physiology, placebo–nocebo mechanisms, hormesis and network regulation. We propose that antidotes represent early empirical descriptions of system-level modulation rather than substance antagonism. Finally, research perspectives are outlined to encourage methodological investigation of antidoting using modern biomedical tools.
+DOI: 10.1055/a-2797-3848
+ISSN: 1475-4916
+Tag der Erhebung (OOIR): 2026-06-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1055/a-2797-3848-2026-06-23-2</guid>
+			<pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Chinese herbal and natural compounds for Parkinson's disease: Myth or truth</title>
+			<link>https://doi.org/10.1016/j.jep.2026.122047</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Integrative &amp; Complementary Medicine
+Score: 7
+Autoren: Ruining Zhang, Yujie Chen, Yingtong Qian, Chengxi Zhu, Jian Yang, Jiquan Zhang
+Journal: Journal of Ethnopharmacology
+Veröffentlicht: 2026-11-01
+DOI: 10.1016/j.jep.2026.122047
+ISSN: 0378-8741
+Tag der Erhebung (OOIR): 2026-06-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.jep.2026.122047-2026-06-23-3</guid>
+			<pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Silk fibroin@polydopamine for acupoint catgut-embedding therapy in Alzheimer’s disease</title>
@@ -93,8 +108,8 @@ Journal: Journal of Integrative Medicine
 Veröffentlicht: 2026-05-01
 DOI: 10.1016/j.joim.2026.01.010
 ISSN: 2095-4964
-Tag der Erhebung (OOIR): 2026-06-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.joim.2026.01.010-2026-06-22-3</guid>
+Tag der Erhebung (OOIR): 2026-06-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.joim.2026.01.010-2026-06-23-4</guid>
 			<pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -108,24 +123,9 @@ Journal: Journal of Ethnopharmacology
 Veröffentlicht: 2026-10-01
 DOI: 10.1016/j.jep.2026.121918
 ISSN: 0378-8741
-Tag der Erhebung (OOIR): 2026-06-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.jep.2026.121918-2026-06-22-4</guid>
+Tag der Erhebung (OOIR): 2026-06-23</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.jep.2026.121918-2026-06-23-5</guid>
 			<pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Manual therapy treatment mechanisms are complex: Challenges and a call to action</title>
-			<link>https://doi.org/10.1016/j.ctim.2026.103393</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Integrative &amp; Complementary Medicine
-Score: 7
-Autoren: Chad E. Cook, Damian Keter, Vitaly Napadow, Mary F. Barbe, Stephen M. Perle, Jennifer Bent, Kenneth Learman, William R. Reed
-Journal: Complementary Therapies in Medicine
-Veröffentlicht: 2026-09-01
-DOI: 10.1016/j.ctim.2026.103393
-ISSN: 0965-2299
-Tag der Erhebung (OOIR): 2026-06-22</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ctim.2026.103393-2026-06-22-5</guid>
-			<pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
