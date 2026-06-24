@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Sport Sciences) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 23 Jun 2026 02:36:42 GMT</pubDate>
-		<lastBuildDate>Tue, 23 Jun 2026 02:36:42 GMT</lastBuildDate>
+		<pubDate>Wed, 24 Jun 2026 02:37:05 GMT</pubDate>
+		<lastBuildDate>Wed, 24 Jun 2026 02:37:05 GMT</lastBuildDate>
 		<item>
 			<title>Long-term resistance training with all-cause and cause-specific mortality: assessing dose-response and joint associations with aerobic physical activity</title>
 			<link>https://doi.org/10.1136/bjsports-2025-110503</link>
@@ -34,40 +34,9 @@ Abstract:
                   
 DOI: 10.1136/bjsports-2025-110503
 ISSN: 0306-3674
-Tag der Erhebung (OOIR): 2026-06-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-110503-2026-06-23-1</guid>
+Tag der Erhebung (OOIR): 2026-06-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-110503-2026-06-24-1</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Joint non-linear dose–response associations of device-measured physical activity and cardiorespiratory fitness with cardiovascular disease: a cohort and Mendelian randomisation study</title>
-			<link>https://doi.org/10.1136/bjsports-2025-111351</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Sport Sciences
-Score: 801
-Autoren: Zhide Liang, Senyao Du, Shiao Zhao, Xianfei Wang, Qiang Yan, Baichao Xu, Sanfan Ng, Ziheng Ning
-Journal: British Journal of Sports Medicine
-Veröffentlicht: 2026-05-19
-Abstract: 
-                    Objectives
-                    To characterise the non-linear joint dose–response relationship of accelerometer-measured moderate-to-vigorous physical activity (MVPA) and cardiorespiratory fitness (CRF, estimated as maximal oxygen uptake (VO₂max)) with incident cardiovascular disease (CVD), and to assess causal consistency using Mendelian randomisation (MR).
-                  
-                  
-                    Methods
-                    We conducted a cohort study in the UK Biobank using accelerometer data linked to hospital and death registries. A Cox generalised additive model characterised the joint MVPA–CRF association with incident CVD (atrial fibrillation, myocardial infarction, heart failure (HF) and stroke), adjusting for confounders. We derived a fitness-stratified matrix quantifying the weekly MVPA minutes associated with prespecified relative hazard reductions. Complementary two-sample MR analyses leveraged genome-wide association study summary statistics for device-measured physical activity (PA) traits and CRF to assess potential causal effects on cardiovascular outcomes.
-                  
-                  
-                    Results
-                    Among 17 088 participants, 1233 incident CVD events occurred over a median follow-up of 7.85 years (IQR, 7.39–8.27). A significant non-linear interaction between MVPA and CRF was observed (p&amp;lt;0.001). Meeting the 150 min/week guideline yielded a modest ~8%–9% risk reduction across fitness levels, whereas achieving a &amp;gt;30% risk reduction required threefold to fourfold higher volumes (~560–610 min/week). Residual analysis indicated that fitness beyond what MVPA and covariates predicted retained a modest protective association with CVD risk (HR, 0.98 per 1 mL/kg/min; 95% CI 0.97 to 0.99; p&amp;lt;0.001). In MR analyses, genetically proxied higher CRF was associated with lower HF risk (OR, 0.79; 95% CI 0.63 to 0.99), whereas genetic evidence for PA traits was weaker and less consistent.
-                  
-                  
-                    Conclusion
-                    Current MVPA guidelines provide a universal but modest safety margin, whereas optimal cardiovascular protection may require substantially higher activity volumes. The fitness-stratified prescription matrix offers quantitative behavioural targets, and genetic findings reinforce the independent importance of CRF in cardiovascular risk reduction.
-                  
-DOI: 10.1136/bjsports-2025-111351
-ISSN: 0306-3674
-Tag der Erhebung (OOIR): 2026-06-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-111351-2026-06-23-2</guid>
-			<pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Post-concussion screen time duration and type and its association with symptom resolution in youth aged 11–17 years</title>
@@ -96,8 +65,8 @@ Abstract:
                   
 DOI: 10.1136/bjsports-2025-110310
 ISSN: 0306-3674
-Tag der Erhebung (OOIR): 2026-06-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-110310-2026-06-23-3</guid>
+Tag der Erhebung (OOIR): 2026-06-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-110310-2026-06-24-2</guid>
 			<pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -116,8 +85,8 @@ Abstract:
                   
 DOI: 10.1152/japplphysiol.00280.2026
 ISSN: 8750-7587
-Tag der Erhebung (OOIR): 2026-06-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1152/japplphysiol.00280.2026-2026-06-23-4</guid>
+Tag der Erhebung (OOIR): 2026-06-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1152/japplphysiol.00280.2026-2026-06-24-3</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -136,9 +105,54 @@ Abstract:
                   
 DOI: 10.1152/japplphysiol.00279.2026
 ISSN: 8750-7587
-Tag der Erhebung (OOIR): 2026-06-23</description>
-			<guid isPermaLink="false">ooir-trend-10.1152/japplphysiol.00279.2026-2026-06-23-5</guid>
+Tag der Erhebung (OOIR): 2026-06-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1152/japplphysiol.00279.2026-2026-06-24-4</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Optimal 24-hour movement behaviour compositions across trimesters and risk of hypertensive disorders of pregnancy: the Pregnancy 24/7 cohort study</title>
+			<link>https://doi.org/10.1136/bjsports-2025-111091</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 55
+Autoren: Kara Whitaker, Alex Crisp, Jacob Gallagher, Melissa Jones, Jaemyung Kim, Katrina Wilhite, Karina Smith, Sabera Rahman, Alexis Thrower, Janet Catov, Christopher Kline, Maisa Feghali, Donna Santillan, Mark Santillan, Iqra Sheikh, Bridget Zimmerman, Bethany Barone Gibbs
+Journal: British Journal of Sports Medicine
+Veröffentlicht: 2026-06-10
+Abstract: 
+                    Objectives
+                    Hypertensive disorders of pregnancy (HDP) are primary antecedents of maternal cardiovascular morbidity during and after pregnancy. Despite evidence that 24-hour movement behaviours, including moderate-to-vigorous and light-intensity physical activity (MVPA, LPA), sedentary behaviour (SED) and sleep, relate to cardiovascular disease risk, associations with HDP are unknown. This study identified optimal 24-hour behavioural compositions across pregnancy associated with lower HDP risk.
+                  
+                  
+                    Methods
+                    
+                      The Pregnancy 24/7 cohort study (N=500) quantified 24-hour movement behaviours in each trimester (10
+                      0
+                      –12
+                      6
+                      , 20
+                      0
+                      –22
+                      6
+                      and 32
+                      0
+                      –34
+                      6
+                      weeks gestation) and examined associations with HDP. Participants were enrolled between 2021–2024 from three US study sites. Movement behaviours were quantified from 7-day × 24-hour monitor wear using the activPAL3 micro (MVPA, LPA and SED) and Actiwatch Spectrum Plus (sleep). HDP (gestational hypertension and pre-eclampsia) was abstracted from medical records. Compositional binomial regression models predicted HDP risk based on isometric log-ratio transformation of 24-hour movement behaviours. Optimal overlapping behavioural compositions were identified by aggregating up to three repeated assessments of 24-hour data.
+                    
+                  
+                  
+                    Results
+                    Among 470 participants with complete data, 86 (18.3%) developed HDP. The optimal overlapping daily composition (0–5th percentile) associated with the lowest HDP risk (7.2%) consisted of 5.9 (5.5–6.6) hours SED, 7.9 (6.4–8.9) hours LPA, 7 (2–22) minutes MVPA and 10.1 (8.5–11.3) hours sleep. Risk increased exponentially among participants with more than 10 hours/day of SED or less than 5 hours/day of LPA.
+                  
+                  
+                    Conclusion
+                    SED and LPA were the strongest modifiable predictors of HDP, independent of trimester. These findings inform behavioural intervention targets to reduce the risk of HDP.
+                  
+DOI: 10.1136/bjsports-2025-111091
+ISSN: 0306-3674
+Tag der Erhebung (OOIR): 2026-06-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-111091-2026-06-24-5</guid>
+			<pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
