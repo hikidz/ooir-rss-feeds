@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Pharmacology &amp; Pharmacy) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 24 Jun 2026 02:37:48 GMT</pubDate>
-		<lastBuildDate>Wed, 24 Jun 2026 02:37:48 GMT</lastBuildDate>
+		<pubDate>Thu, 25 Jun 2026 02:38:37 GMT</pubDate>
+		<lastBuildDate>Thu, 25 Jun 2026 02:38:37 GMT</lastBuildDate>
 		<item>
 			<title>Lowering salivary pH with sugar‐containing gum augments salivary nitrite production and blood pressure reduction with dietary nitrate (beetroot juice)</title>
 			<link>https://doi.org/10.1002/bcp.70640</link>
@@ -54,8 +54,8 @@ Abstract:
                   
 DOI: 10.1002/bcp.70640
 ISSN: 0306-5251
-Tag der Erhebung (OOIR): 2026-06-24</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/bcp.70640-2026-06-24-1</guid>
+Tag der Erhebung (OOIR): 2026-06-25</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/bcp.70640-2026-06-25-1</guid>
 			<pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -78,9 +78,40 @@ Abstract: ABSTRACT
                   
 DOI: 10.1128/aac.01885-25
 ISSN: 0066-4804
-Tag der Erhebung (OOIR): 2026-06-24</description>
-			<guid isPermaLink="false">ooir-trend-10.1128/aac.01885-25-2026-06-24-2</guid>
+Tag der Erhebung (OOIR): 2026-06-25</description>
+			<guid isPermaLink="false">ooir-trend-10.1128/aac.01885-25-2026-06-25-2</guid>
 			<pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Donepezil ameliorates fatigue and depression in PASC patients with HHV-6B SITH-1-induced acetylcholine deficiency</title>
+			<link>https://doi.org/10.3389/fphar.2026.1807203</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 68
+Autoren: Naomi Oka, Kensuke Nakamura, Koichi Hirahata, Azusa Ishii, Kazuma Yamakawa, Kenya Ie, Tadahiro Goto, Kazuya Shimada, Shigeki Fujitani, Kazuhiro Kondo
+Journal: Frontiers in Pharmacology
+Veröffentlicht: 2026-06-04
+Abstract: 
+                    Introduction
+                    The pathogenesis of post-acute sequelae of SARS-CoV-2 infection (PASC) remains poorly understood, and no effective treatment has been established. Reactivation of latent herpesviruses, particularly human herpesvirus 6B (HHV-6B), has been proposed as a possible contributor to the neuropsychiatric symptoms observed in PASC. SITH-1, a latency-associated protein expressed during HHV-6B reactivation in olfactory bulb astrocytes, induces specific antibody responses that can be detected in peripheral blood. Importantly, SITH-1 has also been identified as a risk factor for depression, suggesting a mechanistic link between HHV-6B reactivation and the development of neuropsychiatric symptoms.
+                  
+                  
+                    Methods
+                    We measured serum anti-SITH-1 antibody titers in 156 PASC patients and compared them to healthy controls. In this PASC cohort, neuropsychiatric symptoms were assessed using numerical rating scales. In parallel, we developed a mouse model in which SITH-1 was transiently expressed in the olfactory bulb to assess its impact on brain function and behavior. We also conducted a subgroup analysis of a previously reported randomized clinical trial (RCT) of donepezil, stratifying PASC patients by anti-SITH-1 antibody status.
+                  
+                  
+                    Results
+                    Anti-SITH-1 antibody positivity was observed in 62.8% of PASC patients, a significantly higher proportion than in controls. Seropositive patients exhibited more severe fatigue and depressive symptoms. In the mouse model, SITH-1 expression led to reduced acetylcholine production and depression-like behavior, both of which were ameliorated by donepezil. In the clinical trial subgroup of 73 PASC patients, 71.7% were seropositive for anti-SITH-1 antibodies. Among these individuals, donepezil significantly improved fatigue and depression scores, as measured by the Chalder Fatigue Scale and the depression subscale of the Hospital Anxiety and Depression Scale (HADS).
+                  
+                  
+                    Conclusion
+                    These findings suggest that HHV-6B reactivation in the olfactory bulb, as indicated by anti-SITH-1 antibody titers, may contribute to fatigue and depression in a subset of PASC patients. Donepezil may be effective in this subgroup, and these findings support the use of anti-SITH-1 antibody titers as a companion diagnostic marker for targeted treatment in PASC.
+                  
+DOI: 10.3389/fphar.2026.1807203
+ISSN: 1663-9812
+Tag der Erhebung (OOIR): 2026-06-25</description>
+			<guid isPermaLink="false">ooir-trend-10.3389/fphar.2026.1807203-2026-06-25-3</guid>
+			<pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Neuroplastic Mechanisms of Acupuncture in Post‐Stroke Motor Recovery: A Randomized Multimodal
@@ -112,8 +143,8 @@ Abstract: ABSTRACT
                   
 DOI: 10.1002/cns.70955
 ISSN: 1755-5930
-Tag der Erhebung (OOIR): 2026-06-24</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/cns.70955-2026-06-24-3</guid>
+Tag der Erhebung (OOIR): 2026-06-25</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/cns.70955-2026-06-25-4</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -168,24 +199,9 @@ strategies for GCLM.
                   
 DOI: 10.2174/0113894501471952260514050508
 ISSN: 1389-4501
-Tag der Erhebung (OOIR): 2026-06-24</description>
-			<guid isPermaLink="false">ooir-trend-10.2174/0113894501471952260514050508-2026-06-24-4</guid>
+Tag der Erhebung (OOIR): 2026-06-25</description>
+			<guid isPermaLink="false">ooir-trend-10.2174/0113894501471952260514050508-2026-06-25-5</guid>
 			<pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Perivascular adipose tissue modulates aortic reactivity in Marfan syndrome mice in a sex- and region-specific manner: Redox-dependent anticontractile effects in the female ascending aorta</title>
-			<link>https://doi.org/10.1016/j.bcp.2026.118095</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Pharmacology &amp; Pharmacy
-Score: 45
-Autoren: Jana Hua-Monclús, Clara Penas, Belén Pérez, Rafael Almendra-Pegueros, María Galán, Julián García-Aranda, Martin Kreuzer, Gemma Manich, Cristina Rodríguez, José Martínez-González, Ana P. Davel, Francesc Jiménez-Altayó
-Journal: Biochemical Pharmacology
-Veröffentlicht: 2026-08-01
-DOI: 10.1016/j.bcp.2026.118095
-ISSN: 0006-2952
-Tag der Erhebung (OOIR): 2026-06-24</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.bcp.2026.118095-2026-06-24-5</guid>
-			<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

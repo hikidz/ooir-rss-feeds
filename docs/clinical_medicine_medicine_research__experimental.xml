@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, Research &amp; Experimental) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 24 Jun 2026 02:37:35 GMT</pubDate>
-		<lastBuildDate>Wed, 24 Jun 2026 02:37:35 GMT</lastBuildDate>
+		<pubDate>Thu, 25 Jun 2026 02:38:25 GMT</pubDate>
+		<lastBuildDate>Thu, 25 Jun 2026 02:38:25 GMT</lastBuildDate>
 		<item>
 			<title>Long-term independent use of an intracortical brain–computer interface for speech and cursor control</title>
 			<link>https://doi.org/10.1038/s41591-026-04414-6</link>
@@ -20,9 +20,65 @@ Abstract: Abstract
                   Brain–computer interfaces (BCIs) can provide naturalistic communication and digital access to people with severe paralysis by decoding neural activity associated with attempted speech and movement. Recent work has demonstrated highly accurate intracortical BCIs for speech and cursor control, but two critical capabilities needed for practical viability were unmet: independent at-home operation without researcher assistance and reliable long-term performance supporting accurate speech and cursor decoding. Here we demonstrate the independent and near-daily use of a multimodal BCI with novel brain-to-text speech and computer cursor decoders by a man with paralysis and severe dysarthria due to amyotrophic lateral sclerosis. Over nearly 2 years, the participant used the BCI for more than 3,800 h at home with no researchers present to maintain rich interpersonal communication with his family and friends, independently control his personal computer and sustain full-time employment—despite being paralyzed. He communicated 183,060 sentences—totaling 1,960,163 words—at an average rate of 56 words per minute. He labeled 92% of sentences as being decoded at least mostly correctly. In formal quantifications of performance where he was asked to say words presented on a screen, attempted speech was consistently decoded with more than 99% word accuracy (125,000 word vocabulary). The participant also used the speech BCI as keyboard input and the cursor BCI as mouse input to control his personal computer, enabling him to send text messages and emails and to browse the internet. These results demonstrate that intracortical BCIs have the potential to support independent use in the home, marking a critical step toward practical assistive technology for people with severe motor impairment.
 DOI: 10.1038/s41591-026-04414-6
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2026-06-24</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04414-6-2026-06-24-1</guid>
+Tag der Erhebung (OOIR): 2026-06-25</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04414-6-2026-06-25-1</guid>
 			<pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Metabolomic Profiling of Leukemic Hematopoiesis: Effects of BNT162b2 mRNA COVID-19 Vaccine Administration</title>
+			<link>https://doi.org/10.2174/0115665240361878250601074746</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 430
+Autoren: Batuhan Erdogdu, Ozan Kaplan, Bilge Basak Fidan, Mustafa Celebier, Umit Yavuz Malkan, Ibrahim C. Haznedaroglu
+Journal: Current Molecular Medicine
+Veröffentlicht: 2026-06-19
+Abstract: 
+                    Background:
+                    Leukemia is marked by clonal hematopoietic stem cell
+expansion and metabolic reprogramming. The BNT162b2 mRNA COVID-19 vaccine
+has been proven effective, though questions remain about its broader physiological
+effects. This study investigates metabolomic alterations in leukemic bone marrow
+potentially associated with BNT162b2 vaccination.
+                  
+                  
+                    Objective:
+                    To compare the bone marrow metabolomic profiles of leukemia patients
+with and without BNT162b2 vaccination, and healthy unvaccinated controls, to explore
+potential metabolic differences.
+                  
+                  
+                    Methods:
+                    Bone marrow samples were obtained from three groups: vaccinated
+leukemia patients (n=7), unvaccinated leukemia patients without COVID-19 history
+(n=2), and unvaccinated healthy controls (n=7). Untargeted metabolomics was
+performed using LC-QTOF-MS. Data were analyzed using XCMS and MetaboAnalyst
+5.0 to identify statistically significant metabolite differences and affected pathways.
+Fold change &amp;gt;1.5 and p&amp;lt;0.05 were considered significant.
+                  
+                  
+                    Results and Discussion:
+                    Distinct metabolic profiles were observed between the leukemia and control
+groups. Increased glycolysis, pentose phosphate pathway activity, and altered
+tryptophan, lipid, and heme metabolism were noted in leukemia samples. Metabolic
+changes in vaccinated patients (ASL) were more similar to unvaccinated leukemia
+patients (LO) than to healthy controls, with minor vaccine-associated variations.
+Notable metabolites included 5-methoxyindoleacetate, phosphorylcholine, and
+tetrahydrofolic acid.
+                  
+                  
+                    Conclusion:
+                    This preliminary study identified altered metabolic pathways in leukemia
+bone marrow and suggests metabolomic differences associated with BNT162b2
+vaccination. While the findings do not support a causal link between mRNA
+vaccination and leukemia development, they highlight the need for further studies to
+understand vaccine-induced metabolic modulation in hematological contexts.
+                  
+DOI: 10.2174/0115665240361878250601074746
+ISSN: 1566-5240
+Tag der Erhebung (OOIR): 2026-06-25</description>
+			<guid isPermaLink="false">ooir-trend-10.2174/0115665240361878250601074746-2026-06-25-2</guid>
+			<pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>CNS target engagement of high-dose DHA supplementation in older adults at risk for dementia: a randomised, double-blind, placebo-controlled trial</title>
@@ -35,8 +91,8 @@ Journal: eBioMedicine
 Veröffentlicht: 2026-06-01
 DOI: 10.1016/j.ebiom.2026.106316
 ISSN: 2352-3964
-Tag der Erhebung (OOIR): 2026-06-24</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ebiom.2026.106316-2026-06-24-2</guid>
+Tag der Erhebung (OOIR): 2026-06-25</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ebiom.2026.106316-2026-06-25-3</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -50,8 +106,8 @@ Journal: Nature Medicine
 Veröffentlicht: 2026-05-22
 DOI: 10.1038/s41591-026-04438-y
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2026-06-24</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04438-y-2026-06-24-3</guid>
+Tag der Erhebung (OOIR): 2026-06-25</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04438-y-2026-06-25-4</guid>
 			<pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -65,25 +121,9 @@ Journal: Nature Medicine
 Veröffentlicht: 2026-06-01
 DOI: 10.1038/s41591-026-04407-5
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2026-06-24</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04407-5-2026-06-24-4</guid>
+Tag der Erhebung (OOIR): 2026-06-25</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04407-5-2026-06-25-5</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>A forward genetic screen identifies Sirtuin1 as a driver of neuroendocrine prostate cancer</title>
-			<link>https://doi.org/10.1084/jem.20241484</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, Research &amp; Experimental
-Score: 265
-Autoren: Francisca Nunes de Almeida, Alessandro Vasciaveo, Arianna Giacobbe, Matteo Di Bernardo, Min Zou, Ainsley Mike Antao, Simone de Brot, Antonio Rodriguez-Calero, Alexander Chui, Alexander L.E. Wang, Nicolas Floc’h, Jaime Y. Kim, Soonbum Park, Stephanie N. Afari, Timur Mukhammadov, Nicholas Ortega, Sai Sampath Josyula, Juan Martin Arriaga, Jingqiang Wang, Jinqiu Lu, Michael M. Shen, Mark A. Rubin, Andrea Califano, Cory Abate-Shen
-Journal: Journal of Experimental Medicine
-Veröffentlicht: 2026-05-28
-Abstract: Although most prostate tumors are relatively indolent, advanced disease can progress to aggressive, often lethal variants, including neuroendocrine prostate cancer (NEPC). To identify drivers of aggressive prostate cancer, we used Sleeping Beauty (SB) transposon mutagenesis in a mouse model having prostate-specific loss of Pten and Tp53 (NPp53 mice). Compared with control NPp53-SB(−) mice, experimental NPp53-SB(+) mice developed more aggressive tumors with increased metastasis. Notably, NPp53-SB(+) mice exhibited NEPC phenotypes with transcriptomic features that recapitulate human NEPC. Analysis of recurrent common insertion sites (CIS) and associated genes (CIS genes) identified genes differentially expressed between NEPC and non-NEPC tumors. Analysis of NEPC-enriched CIS genes by cross-species integration of genomic and transcriptomic data prioritized sirtuin 1 (Sirt1) as a candidate mechanistic determinant of NEPC. Gain- and loss-of-function studies in human prostate cancer cells and mouse NEPC organoids confirmed that SIRT1 promotes NEPC, while pharmacological inhibition suppresses it. Thus, integration of cross-species analyses with an unbiased forward genetic screen uncovered novel drivers of NEPC.
-DOI: 10.1084/jem.20241484
-ISSN: 0022-1007
-Tag der Erhebung (OOIR): 2026-06-24</description>
-			<guid isPermaLink="false">ooir-trend-10.1084/jem.20241484-2026-06-24-5</guid>
-			<pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
