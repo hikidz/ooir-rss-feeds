@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rheumatology) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 25 Jun 2026 02:38:42 GMT</pubDate>
-		<lastBuildDate>Thu, 25 Jun 2026 02:38:42 GMT</lastBuildDate>
+		<pubDate>Fri, 26 Jun 2026 02:41:41 GMT</pubDate>
+		<lastBuildDate>Fri, 26 Jun 2026 02:41:41 GMT</lastBuildDate>
 		<item>
 			<title>Differences in
                     SARS
@@ -44,8 +44,8 @@ Abstract:
                   
 DOI: 10.1002/art.70205
 ISSN: 2326-5191
-Tag der Erhebung (OOIR): 2026-06-25</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/art.70205-2026-06-25-1</guid>
+Tag der Erhebung (OOIR): 2026-06-26</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/art.70205-2026-06-26-1</guid>
 			<pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -59,8 +59,8 @@ Journal: The Lancet Rheumatology
 Veröffentlicht: 2026-06-01
 DOI: 10.1016/s2665-9913(26)00077-9
 ISSN: 2665-9913
-Tag der Erhebung (OOIR): 2026-06-25</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(26)00077-9-2026-06-25-2</guid>
+Tag der Erhebung (OOIR): 2026-06-26</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(26)00077-9-2026-06-26-2</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -97,8 +97,8 @@ Abstract:
                   
 DOI: 10.1002/acr.80067
 ISSN: 2151-464X
-Tag der Erhebung (OOIR): 2026-06-25</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/acr.80067-2026-06-25-3</guid>
+Tag der Erhebung (OOIR): 2026-06-26</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/acr.80067-2026-06-26-3</guid>
 			<pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -129,41 +129,47 @@ Abstract: Abstract
                   
 DOI: 10.1093/rheumatology/keag281
 ISSN: 1462-0324
-Tag der Erhebung (OOIR): 2026-06-25</description>
-			<guid isPermaLink="false">ooir-trend-10.1093/rheumatology/keag281-2026-06-25-4</guid>
+Tag der Erhebung (OOIR): 2026-06-26</description>
+			<guid isPermaLink="false">ooir-trend-10.1093/rheumatology/keag281-2026-06-26-4</guid>
 			<pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>One-month delay in MTX initiation on RA outcomes: 1-year ancillary analysis of the VACIMRA trial</title>
-			<link>https://doi.org/10.1093/rheumatology/keag270</link>
+			<title>Determinants of Difficult‐to‐Manage and Treatment‐Refractory Axial Spondyloarthritis: A Cross‐Sectional Analysis Within a Longitudinal Cohort</title>
+			<link>https://doi.org/10.1002/art.70202</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Rheumatology
-Score: 20
-Autoren: Theresa Than, Gael Mouterde, Claire Immediato Daien, Cedric Lukas, Anouck Rémy-Moulard, Cécile Gaujoux Viala, Joana Pissarra, Héléna Huguet, Marie-Christine Picot, Jacques Morel
-Journal: Rheumatology
-Veröffentlicht: 2026-05-22
-Abstract: Abstract
-                  
-                    Objectives
-                    The VACIMRA trial demonstrated that delaying MTX initiation in RA by 1 month after the 13-valent pneumococcal conjugate vaccine (PCV13) improves humoral responses at 1 and 12 months. Whether this delay impacts disease activity and radiographic progression over 1 year remains uncertain.
+Score: 18
+Autoren: Patricia Remalante‐Rayco, Laura Passalent, Tina Chim, Hannah Vijayan, Manal Alnasser, Zeynep Baskurt, Robert D. Inman, Nigil Haroon, Denis Poddubnyy
+Journal: Arthritis &amp;amp; Rheumatology
+Veröffentlicht: 2026-05-10
+Abstract: 
+                    Objective
+                    The purpose of this study was to estimate the prevalence of difficult‐to‐manage (D2M) and treatment‐refractory (TR) axial spondyloarthritis (axSpA) and to identify factors associated with D2M and TR disease in a longitudinal cohort.
                   
                   
                     Methods
-                    This ancillary study compared changes in disease activity (DAS28-ESR) from inclusion (M0) to months 1, 2, 3, 6 and 12 between patients with early RA who started MTX immediately vs 1 month after PCV13. Structural progression was assessed using the van der Heijde–modified Sharp score (mSHS) on X-rays at inclusion, 6 and 12 months. The primary outcome was the proportion of patients in remission (DAS28-ESR &amp;amp;lt; 2.6) or low disease activity (LDA) (DAS28-ESR ≤ 3.2) at 1 year.
+                    We performed a cross‐sectional analysis on data from the Schroeder Arthritis Institute Spondylitis Program cohort. Assessment of SpondyloArthritis International Society (ASAS) definitions for D2M and TR disease were applied to patients with axSpA. Sociodemographic and disease‐related characteristics were compared between groups, and multivariable logistic regression was performed to estimate odds ratios (ORs) for factors associated with D2M.
                   
                   
                     Results
-                    Among 276 VACIMRA participants, 100 were enrolled at the Montpellier centre (96 analysable at M0, 83 at M12). Both groups had similar baseline characteristics: mean age 58 ± 14 years, DAS28-ESR 4.88 ± 0.94, total mSHS 1.53 ± 3.62. Treatments during follow-up were comparable except for MTX cumulative dose at 1, 3, 6 months. At 12 months, remission (53.7% vs 46.3%, P = 0.51) and LDA rate (75.6% vs 61.0%, P = 0.15) were similar. DAS28-ESR was similar at 1 and 3 months but favoured the DELAY group at 6 (2.66 ± 1.07 vs 3.28 ± 1.34, P = 0.02) and 12 months (2.23 ± 1.03 vs 3.00 ± 1.16, P &amp;amp;lt; 0.01). mSHS progression was comparable at 6 and 12 months.
+                    Among 536 patients, 49 (9.1%) met the ASAS D2M definition and 12 (2.2%) were classified as having TR axSpA. Compared with patients with non‐D2M axSpA, those with D2M axSpA exhibited higher disease activity, worse function and spinal mobility, and a higher prevalence of comorbidities, degenerative spine disease, and fibromyalgia. patients with TR axSpA showed greater disease burden and more often were male, were HLA‐B27–positive, and had radiographic axSpA, but they were less affected by noninflammatory pain contributors. In multivariable analysis, higher spinal pain scores (OR 1.48 [95% confidence interval (CI) 1.29–1.70]) and fibromyalgia (OR 3.09 [95% CI 1.33–7.15]) were independently associated with D2M.
                   
                   
                     Conclusion
-                    Deferring MTX for 1 month after PCV13 to enhance immunity did not worsen RA disease control, radiographic progression or treatment escalation after 1 year of follow-up.
+                    Approximately 1 in 10 patients with axSpA in this cohort fulfilled the ASAS D2M definition, with a smaller proportion classified as having TR axSpA. D2M status was associated with higher spinal pain and fibromyalgia, whereas patients with TR axSpA had active disease with fewer noninflammatory pain contributors. These findings support the clinical relevance of the D2M construct and highlight the need for a tailored management approach in clinical practice.
+                    
+                      
+                        
+                          image
+                        
+                      
+                    
                   
-DOI: 10.1093/rheumatology/keag270
-ISSN: 1462-0324
-Tag der Erhebung (OOIR): 2026-06-25</description>
-			<guid isPermaLink="false">ooir-trend-10.1093/rheumatology/keag270-2026-06-25-5</guid>
-			<pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+DOI: 10.1002/art.70202
+ISSN: 2326-5191
+Tag der Erhebung (OOIR): 2026-06-26</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/art.70202-2026-06-26-5</guid>
+			<pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
