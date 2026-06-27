@@ -5,22 +5,39 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Endocrinology &amp; Metabolism) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Fri, 26 Jun 2026 02:41:46 GMT</pubDate>
-		<lastBuildDate>Fri, 26 Jun 2026 02:41:46 GMT</lastBuildDate>
+		<pubDate>Sat, 27 Jun 2026 02:34:34 GMT</pubDate>
+		<lastBuildDate>Sat, 27 Jun 2026 02:34:34 GMT</lastBuildDate>
 		<item>
 			<title>Hyperglycosylation is a metabolic driver of Alzheimer’s disease</title>
 			<link>https://doi.org/10.1038/s42255-026-01538-4</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Endocrinology &amp; Metabolism
-Score: 890
+Score: 1082
 Autoren: Tara R. Hawkinson, Zizhen Liu, Roberto A. Ribas, Terrymar Medina, Rikke S. Nielsen, Harrison A. Clarke, Xin Ma, Angela C. Mueller, Adrielle F. Plasencia, Alexander L. Sheer, Samantha T. Simpson, Charles M. Soto, Jessica Sudderth, Feng Cai, Alex R. Cantrell, Matthieu G. Colpaert, Cameron J. Shedlock, Lei Wu, Lyndsay E. A. Young, Damon D. Kooser, Li Chen, Alison M. Ryan, Sadi Quinones, Jihye Son, Parastoo Azadi, Ralph J. Deberardinis, Stefan Prokop, Derek Allison, Shuang Yang, Hongyu Chen, Yu Huang, Xing He, Kimberly M. Alonge, Jingchuan Guo, Yi Guo, Jiang Bian, Craig W. Vander Kooi, Matthew S. Gentry, Ramon C. Sun
 Journal: Nature Metabolism
 Veröffentlicht: 2026-06-09
 DOI: 10.1038/s42255-026-01538-4
 ISSN: 2522-5812
-Tag der Erhebung (OOIR): 2026-06-26</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s42255-026-01538-4-2026-06-26-1</guid>
+Tag der Erhebung (OOIR): 2026-06-27</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s42255-026-01538-4-2026-06-27-1</guid>
 			<pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Adiposity and cancer: systematic review and meta-analysis</title>
+			<link>https://doi.org/10.1038/s42255-026-01542-8</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 254
+Autoren: Eleanor L. Watts, Amparo Gonzalez-Feliciano, Marc J. Gunter, Nilanjan Chatterjee, Steven C. Moore
+Journal: Nature Metabolism
+Veröffentlicht: 2026-06-15
+Abstract: Abstract
+                  Obesity is a major health challenge. Here we show that body mass index is positively associated with risk of 19 cancers and inversely associated with 3, based on a systematic review and meta-analysis of prospective studies of 25 cancer types. We searched PubMed, EMBASE and Scopus through to 23 April 2025, identifying 226 articles comprising 1.5 million incident cancers. We identified positive associations for leukaemia, non-Hodgkin lymphoma, bladder cancer and glioma, not previously identified by major consensus reports. Associations differed according to region and sex, with stronger associations for postmenopausal breast and ovarian cancers in East Asia, weaker associations for gallbladder cancer in East Asia and in men, and stronger associations for colorectal cancer in men. Body mass index and waist circumference showed similar associations with cancer. We reviewed Mendelian randomization and imaging-based studies; genetic findings were generally consistent with observational associations, while imaging data were limited. Our findings underscore the impact of obesity on cancer risk.
+DOI: 10.1038/s42255-026-01542-8
+ISSN: 2522-5812
+Tag der Erhebung (OOIR): 2026-06-27</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s42255-026-01542-8-2026-06-27-2</guid>
+			<pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Central precocious puberty: an Endocrine Society clinical practice guideline</title>
@@ -54,9 +71,24 @@ Abstract: Abstract
                   
 DOI: 10.1210/clinem/dgag168
 ISSN: 0021-972X
-Tag der Erhebung (OOIR): 2026-06-26</description>
-			<guid isPermaLink="false">ooir-trend-10.1210/clinem/dgag168-2026-06-26-2</guid>
+Tag der Erhebung (OOIR): 2026-06-27</description>
+			<guid isPermaLink="false">ooir-trend-10.1210/clinem/dgag168-2026-06-27-3</guid>
 			<pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Adiposity and cancer: epidemiology, mechanisms and future perspectives</title>
+			<link>https://doi.org/10.1038/s42255-026-01529-5</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 139
+Autoren: Eleanor L. Watts, Amparo Gonzalez-Feliciano, Marc J. Gunter, Nilanjan Chatterjee, Steven C. Moore
+Journal: Nature Metabolism
+Veröffentlicht: 2026-06-15
+DOI: 10.1038/s42255-026-01529-5
+ISSN: 2522-5812
+Tag der Erhebung (OOIR): 2026-06-27</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s42255-026-01529-5-2026-06-27-4</guid>
+			<pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Methionine-supplemented longevity diet increases growth hormone, GLP-1, and FGF21; reduces frailty; and promotes healthspan</title>
@@ -69,51 +101,8 @@ Journal: Cell Metabolism
 Veröffentlicht: 2026-06-01
 DOI: 10.1016/j.cmet.2026.05.015
 ISSN: 1550-4131
-Tag der Erhebung (OOIR): 2026-06-26</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2026.05.015-2026-06-26-3</guid>
-			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>The Role of Fathers in the Intergenerational Transmission of Obesity</title>
-			<link>https://doi.org/10.1007/s13679-026-00720-9</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Endocrinology &amp; Metabolism
-Score: 86
-Autoren: Matthew J. Landry, John James Parker
-Journal: Current Obesity Reports
-Veröffentlicht: 2026-05-26
-Abstract: Abstract
-                  
-                    Purpose of Review
-                    This narrative review aims to synthesize recent evidence demonstrating that paternal influences can significantly affect child obesity risk through biological, psychosocial, and behavioral pathways and to highlight implications for clinical practice, public health, and research.
-                  
-                  
-                    Recent Findings
-                    Paternal obesity influences offspring metabolic health through three primary mechanisms. Biologically, paternal obesity alters sperm epigenetic signatures, which are transmissible to offspring and modifiable through preconception lifestyle interventions. Behaviorally, fathers’ dietary quality, physical activity, feeding practices, and parenting styles directly shape children’s eating patterns and activity levels, with the transition to fatherhood representing a critical period when paternal weight gain and lifestyle changes commonly occur. Socioecologically, social determinants of health including food insecurity, neighborhood characteristics, and paternal mental health create shared family-level exposures that simultaneously influence paternal physiology, parenting behaviors, and childhood adversity, compounding obesity risk across generations.
-                  
-                  
-                    Summary
-                    Fathers play a pivotal role in shaping child obesity risk from preconception through childhood. Advancing obesity prevention requires expanding preconception counseling to include fathers, implementing father-inclusive perinatal education and obesity prevention programs, adopting workplace policies that support paternal engagement, and prioritizing research that elucidates paternal contributions to intergenerational obesity transmission.
-                  
-DOI: 10.1007/s13679-026-00720-9
-ISSN: 2162-4968
-Tag der Erhebung (OOIR): 2026-06-26</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s13679-026-00720-9-2026-06-26-4</guid>
-			<pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>The gut microbiota alleviates depression by remodeling gut-brain energy metabolism</title>
-			<link>https://doi.org/10.1016/j.cmet.2026.03.002</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Endocrinology &amp; Metabolism
-Score: 86
-Autoren: Cheng-Lin Lu, Jing Ren, Yueshiyuan Lei, Xiao-Ying Lian, Hao-Tian Jiang, Fang Guo, Liang-Yu Chen, Jia-Wen Mo, Hongyun Mao, Jun Fan, Guangyan Wu, Wan-Qian Ye, You-Lu Wen, Haitao Sun, Yan He, Jiubo Zhao, Xiong Cao
-Journal: Cell Metabolism
-Veröffentlicht: 2026-06-01
-DOI: 10.1016/j.cmet.2026.03.002
-ISSN: 1550-4131
-Tag der Erhebung (OOIR): 2026-06-26</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2026.03.002-2026-06-26-5</guid>
+Tag der Erhebung (OOIR): 2026-06-27</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2026.05.015-2026-06-27-5</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
