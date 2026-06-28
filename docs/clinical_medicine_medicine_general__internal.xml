@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, General &amp; Internal) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 27 Jun 2026 02:34:01 GMT</pubDate>
-		<lastBuildDate>Sat, 27 Jun 2026 02:34:01 GMT</lastBuildDate>
+		<pubDate>Sun, 28 Jun 2026 02:47:02 GMT</pubDate>
+		<lastBuildDate>Sun, 28 Jun 2026 02:47:02 GMT</lastBuildDate>
 		<item>
 			<title>Daraxonrasib or Chemotherapy in Previously Treated Metastatic Pancreatic Cancer</title>
 			<link>https://doi.org/10.1056/nejmoa2605555</link>
@@ -18,8 +18,8 @@ Journal: New England Journal of Medicine
 Veröffentlicht: 2026-05-31
 DOI: 10.1056/nejmoa2605555
 ISSN: 0028-4793
-Tag der Erhebung (OOIR): 2026-06-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1056/nejmoa2605555-2026-06-27-1</guid>
+Tag der Erhebung (OOIR): 2026-06-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1056/nejmoa2605555-2026-06-28-1</guid>
 			<pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -27,15 +27,58 @@ Tag der Erhebung (OOIR): 2026-06-27</description>
 			<link>https://doi.org/10.1016/s0140-6736(26)00918-9</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medicine, General &amp; Internal
-Score: 2475
+Score: 2509
 Autoren: Peter Sasieni, Milena Falcaro
 Journal: The Lancet
 Veröffentlicht: 2026-06-01
 DOI: 10.1016/s0140-6736(26)00918-9
 ISSN: 0140-6736
-Tag der Erhebung (OOIR): 2026-06-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/s0140-6736(26)00918-9-2026-06-27-2</guid>
+Tag der Erhebung (OOIR): 2026-06-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/s0140-6736(26)00918-9-2026-06-28-2</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Interim Estimated Effectiveness of 2025-2026 COVID-19 Vaccines in Adults Using a Test-Negative Design</title>
+			<link>https://doi.org/10.1001/jamanetworkopen.2026.25152</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, General &amp; Internal
+Score: 1705
+Autoren: Ryan E. Wiegand, Sean Chickery, Duck-Hye Yang, Sarah W. Ball, Malini B. DeSilva, Kristin Dascomb, Stephanie A. Irving, Karthik Natarajan, Nicola P. Klein, Shaun J. Grannis, Toan C. Ong, Elizabeth A. K. Rowley, Adam Yates, Yan Zhuang, Sarah Wilson, Charlene E. McEvoy, Inih J. Essien, Omobosola O. Akinsete, Allison L. Naleway, Padma Koppolu, Ousseny Zerbo, John R. Hansen, Karen B. Jacobson, Lawrence Block, Brian E. Dixon, Thomas Duszynski, Colin Rogerson, Michelle A. Barron, Catia Chavez, Josephine Mak, Allison Avrich Ciesla, Monica Godfrey, Amber Kautz, Morgan Najdowski, Ruth Link-Gelles, Jennifer DeCuir, Amanda B. Payne
+Journal: JAMA Network Open
+Veröffentlicht: 2026-06-23
+Abstract: 
+                    Importance
+                    The 2025-2026 COVID-19 vaccine, targeting JN.1 and JN.1-derived sublineages, became available in the US in September 2025.
+                  
+                  
+                    Objective
+                    To assess the estimated interim effectiveness of 2025-2026 COVID-19 vaccines against medically attended COVID-19 among immunocompetent adults aged 18 years or older in the US.
+                  
+                  
+                    Design, Setting, and Participants
+                    This case-control study used a test-negative design to investigate patient encounters captured in the Virtual SARS-CoV-2, Influenza, and Other Respiratory Viruses Network, an electronic medical record–based network of health care systems (253 emergency departments/urgent cares [ED/UCs] and 179 hospitals in 7 states) from September 3, 2025, to December 31, 2025. Patient encounters with COVID-19–like illness and a molecular or antigen SARS-CoV-2 test 10 days before to 3 days after the encounter date were included.
+                  
+                  
+                    Exposure
+                    2025-2026 COVID-19 vaccination regardless of prior COVID-19 vaccination.
+                  
+                  
+                    Main Outcomes and Measures
+                    The main outcomes were COVID-19–associated ED/UC encounters and COVID-19–associated hospitalizations. Cases were defined as encounters with a positive molecular or antigen SARS-CoV-2 test and controls as encounters with a negative molecular SARS-CoV-2 test. The odds of 2025-2026 COVID-19 vaccination among cases and controls, adjusting for confounders, were compared and used to estimate vaccine effectiveness (VE) as (1 − adjusted odds ratio) × 100%.
+                  
+                  
+                    Results
+                    In 85 725 ED/UC encounters among adults aged 18 years and older (51 841 [60%] aged 18-64 years; 51 775 female [60%]), 206 of 3941 cases (5%) and 9453 of 81 784 controls (12%) received a 2025-2026 COVID-19 vaccination. Estimated VE against COVID-19–associated ED/UC encounters was 50% (95% CI, 42%-57%; median [IQR] time since 2025-2026 COVID-19 vaccine dose receipt, 47 [27-69] days). In 26 073 hospitalizations with a COVID-19–like illness (17 530 [67%] aged ≥65 years; 13 985 female [54%]), 60 of 1022 cases (6%) received a 2025-2026 COVID-19 vaccination compared with 3080 of 25 051 controls (12%). Estimated VE against COVID-19–associated hospitalization was 55% (95% CI, 41%-66%; median [IQR] time since 2025-2026 COVID-19 vaccine dose receipt, 46 [26-68] days). Among patients aged 65 years or older, estimated VE against ED/UC encounters was 48% (95% CI, 37%-56%; median [IQR] time since dose receipt, 48 [27-69] days; 33 884 encounters) and against hospitalization was 53% (95% CI, 37%-65%; median [IQR] time since dose receipt, 46 [26-69] days; 17 530 hospitalizations).
+                  
+                  
+                    Conclusions and Relevance
+                    In this study, receipt of 2025-2026 COVID-19 vaccination was associated with additional protection beyond existing immunity in adults against medically attended COVID-19, including ED/UC encounters and hospitalizations, compared with no receipt of a 2025-2026 vaccine dose. These findings suggest that adults can reduce their likelihood of severe COVID-19–associated outcomes by obtaining a 2025-2026 COVID-19 vaccination.
+                  
+DOI: 10.1001/jamanetworkopen.2026.25152
+ISSN: 2574-3805
+Tag der Erhebung (OOIR): 2026-06-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1001/jamanetworkopen.2026.25152-2026-06-28-3</guid>
+			<pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Phase 3 Results of Bepirovirsen Treatment for Chronic Hepatitis B Virus Infection</title>
@@ -48,8 +91,8 @@ Journal: New England Journal of Medicine
 Veröffentlicht: 2026-06-25
 DOI: 10.1056/nejmoa2515131
 ISSN: 0028-4793
-Tag der Erhebung (OOIR): 2026-06-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1056/nejmoa2515131-2026-06-27-3</guid>
+Tag der Erhebung (OOIR): 2026-06-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1056/nejmoa2515131-2026-06-28-4</guid>
 			<pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -64,26 +107,9 @@ Veröffentlicht: 2026-05-19
 Abstract: This study uses data from the National Vital Statistics System to examine quarterly suicide mortality among individuals aged 15 to 34 years.
 DOI: 10.1001/jama.2026.5157
 ISSN: 0098-7484
-Tag der Erhebung (OOIR): 2026-06-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1001/jama.2026.5157-2026-06-27-4</guid>
+Tag der Erhebung (OOIR): 2026-06-28</description>
+			<guid isPermaLink="false">ooir-trend-10.1001/jama.2026.5157-2026-06-28-5</guid>
 			<pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>In Vivo Base Editing of
-                    PCSK9
-                    with VERVE-102 for Hypercholesterolemia</title>
-			<link>https://doi.org/10.1056/nejmoa2601283</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, General &amp; Internal
-Score: 805
-Autoren: Scott B. Vafai, Jörg Täubel, Thomas Ashdown, Riyaz S. Patel, Sadaf Diamondali, Jaimini Cegla, Handrean Soran, Bilal Bashir, Alexander Abitbol, Daniel Gaudet, Alex Lauzière, Liam R. Brunham, David E. Newby, Stephen J. Nicholls, Russell S. Scott, Jane Kerr, Jean-Claude Tardif, Catherine Lunken, Steve E. Humphries, Verena Karsten, Patrick D. Tyler, Xinyan Zhang, Nidal Huniti, Patrick A. Flight, Chelsey L. Jensen, Rick Falzone, Joseph C. Biedenkapp, Troy Lister, Leslie E. Stolz, Amit V. Khera, Sekar Kathiresan
-Journal: New England Journal of Medicine
-Veröffentlicht: 2026-05-25
-DOI: 10.1056/nejmoa2601283
-ISSN: 0028-4793
-Tag der Erhebung (OOIR): 2026-06-27</description>
-			<guid isPermaLink="false">ooir-trend-10.1056/nejmoa2601283-2026-06-27-5</guid>
-			<pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
