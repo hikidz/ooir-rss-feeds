@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rheumatology) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sun, 28 Jun 2026 02:47:25 GMT</pubDate>
-		<lastBuildDate>Sun, 28 Jun 2026 02:47:25 GMT</lastBuildDate>
+		<pubDate>Mon, 29 Jun 2026 02:49:14 GMT</pubDate>
+		<lastBuildDate>Mon, 29 Jun 2026 02:49:14 GMT</lastBuildDate>
 		<item>
 			<title>Differences in
                     SARS
@@ -44,9 +44,24 @@ Abstract:
                   
 DOI: 10.1002/art.70205
 ISSN: 2326-5191
-Tag der Erhebung (OOIR): 2026-06-28</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/art.70205-2026-06-28-1</guid>
+Tag der Erhebung (OOIR): 2026-06-29</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/art.70205-2026-06-29-1</guid>
 			<pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>TLR7 in systemic lupus erythematosus: genetics and emerging therapies</title>
+			<link>https://doi.org/10.1038/s41584-026-01388-0</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 25
+Autoren: Carola G. Vinuesa, Madhumita Shrotri, Anisur Rahman
+Journal: Nature Reviews Rheumatology
+Veröffentlicht: 2026-06-19
+DOI: 10.1038/s41584-026-01388-0
+ISSN: 1759-4790
+Tag der Erhebung (OOIR): 2026-06-29</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41584-026-01388-0-2026-06-29-2</guid>
+			<pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Cycling versus swapping strategies for treatment of psoriatic arthritis after primary tumour necrosis factor inhibitors failure: a systematic review and meta-analysis</title>
@@ -76,8 +91,8 @@ Abstract: Abstract
                   
 DOI: 10.1093/rheumatology/keag281
 ISSN: 1462-0324
-Tag der Erhebung (OOIR): 2026-06-28</description>
-			<guid isPermaLink="false">ooir-trend-10.1093/rheumatology/keag281-2026-06-28-2</guid>
+Tag der Erhebung (OOIR): 2026-06-29</description>
+			<guid isPermaLink="false">ooir-trend-10.1093/rheumatology/keag281-2026-06-29-3</guid>
 			<pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -119,8 +134,8 @@ Abstract:
                   
 DOI: 10.1002/art.70223
 ISSN: 2326-5191
-Tag der Erhebung (OOIR): 2026-06-28</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/art.70223-2026-06-28-3</guid>
+Tag der Erhebung (OOIR): 2026-06-29</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/art.70223-2026-06-29-4</guid>
 			<pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -157,24 +172,9 @@ Abstract:
                   
 DOI: 10.1002/art.70202
 ISSN: 2326-5191
-Tag der Erhebung (OOIR): 2026-06-28</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/art.70202-2026-06-28-4</guid>
+Tag der Erhebung (OOIR): 2026-06-29</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/art.70202-2026-06-29-5</guid>
 			<pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>The evolving comorbidity landscape of rheumatoid arthritis</title>
-			<link>https://doi.org/10.1038/s41584-026-01386-2</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rheumatology
-Score: 16
-Autoren: Rebecca T. Brooks, Bryant R. England, Vanessa L. Kronzer, Cynthia S. Crowson
-Journal: Nature Reviews Rheumatology
-Veröffentlicht: 2026-05-29
-DOI: 10.1038/s41584-026-01386-2
-ISSN: 1759-4790
-Tag der Erhebung (OOIR): 2026-06-28</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41584-026-01386-2-2026-06-28-5</guid>
-			<pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
