@@ -5,22 +5,22 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Nutrition &amp; Dietetics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 07 Jul 2026 02:27:14 GMT</pubDate>
-		<lastBuildDate>Tue, 07 Jul 2026 02:27:14 GMT</lastBuildDate>
+		<pubDate>Wed, 08 Jul 2026 02:01:10 GMT</pubDate>
+		<lastBuildDate>Wed, 08 Jul 2026 02:01:10 GMT</lastBuildDate>
 		<item>
 			<title>Beyond the bare minimum: the case for revised physical activity guidelines and protein intake recommendations that maximise healthspan</title>
 			<link>https://doi.org/10.3389/fnut.2026.1853124</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Nutrition &amp; Dietetics
-Score: 132
+Score: 139
 Autoren: Chris Macdonald
 Journal: Frontiers in Nutrition
 Veröffentlicht: 2026-06-17
 Abstract: Current physical activity and protein intake guidelines are framed around minimum thresholds, aimed primarily at preventing deficiency rather than optimising long-term health and functional capacity. Emerging evidence demonstrates that higher volumes and intensities of exercise (notably combining aerobic and resistance training) dramatically reduce all-cause mortality, enhance cognitive function, improve immune resilience, and preserve psychological well-being. Similarly, protein intakes well above existing recommendations support strength, recovery, and quality of life across diverse populations, including older adults and pregnant women. Importantly, well-planned high-protein diets can be safe, ethical, and environmentally sustainable. This perspective paper argues for a shift from ‘bare minimum’ public health targets to guidelines that promote optimal healthspan, empowering individuals to remain strong, independent, and cognitively capable throughout life. The paper recommends that governments update physical activity and protein guidelines to reflect contemporary evidence, accompanied by clear, actionable communications to ensure public awareness and uptake. In doing so, society can prevent avoidable declines in physical and cognitive function, reduce chronic disease burden, and cultivate a culture that values resilience, independence, and lifelong vitality.
 DOI: 10.3389/fnut.2026.1853124
 ISSN: 2296-861X
-Tag der Erhebung (OOIR): 2026-07-07</description>
-			<guid isPermaLink="false">ooir-trend-10.3389/fnut.2026.1853124-2026-07-07-1</guid>
+Tag der Erhebung (OOIR): 2026-07-08</description>
+			<guid isPermaLink="false">ooir-trend-10.3389/fnut.2026.1853124-2026-07-08-1</guid>
 			<pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -58,9 +58,41 @@ Abstract: ABSTRACT
                   
 DOI: 10.1002/oby.70239
 ISSN: 1930-7381
-Tag der Erhebung (OOIR): 2026-07-07</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/oby.70239-2026-07-07-2</guid>
+Tag der Erhebung (OOIR): 2026-07-08</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/oby.70239-2026-07-08-2</guid>
 			<pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Effects of Resistance Exercise to Failure Versus Nonfailure on Appetite, Hormones, and Energy Intake in Young Healthy Males</title>
+			<link>https://doi.org/10.1123/ijsnem.2025-0094</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Nutrition &amp; Dietetics
+Score: 88
+Autoren: Hao-Chien Cheng, Hung-Wen Liu, Yee-Chin Kuo, Pei-Hsuan Yu, Kuan-Tsen Yeh, Chia-Han Hsieh
+Journal: International Journal of Sport Nutrition and Exercise Metabolism
+Veröffentlicht: 2026-07-01
+Abstract: 
+                    This study examined how resistance exercise (RE) volume, a potential key factor in appetite regulation, influences subjective appetite, gut appetite hormones, and energy intake. Eighteen males (aged 21–27 years) completed failure RE (FRE; three sets of failure reps at 70% (at 1 RM), non-FRE (NFRE; 3 × 7 reps at 70% 1 RM), and control (CON) trials. Appetite and acyl-ghrelin, peptide YY, lactate, and glucose were measured pre- and postexercise 0–90 min. Ad libitum meal was provided after exercise. Participants recorded energy intake for the day before, the day of, and the day after each session. The incremental area under the curve (iAUC) for acyl-ghrelin (AG) in the FRE and NFRE were significantly lower than in the CON (
+                    p
+                     &amp;lt; .001). Peptide YY iAUC and glucose iAUC in the FRE were significantly higher than in the CON (
+                    p
+                     &amp;lt; .001;
+                    p
+                     = .003). There was a dose–response for lactate iAUC (FRE &amp;gt; NFRE &amp;gt; CON;
+                    p
+                     &amp;lt; .001). Appetite iAUC was significantly lower in the FRE than in the CON (
+                    p
+                     = .012). There were no significant differences in postexercise ad libitum meal and self-reported free-living energy intake between the three sessions (
+                    p
+                     = .246,
+                    p
+                     = .226). Acyl-ghrelin was negatively correlated with lactate and positively correlated with overall appetite in both RE sessions. Lactate was negatively correlated with overall appetite in both RE sessions. Moderate-intensity RE with moderate volume-induced temporary appetite suppression, whereas FRE led to prolonged suppression and greater appetite-related hormonal responses, yet neither affected energy intake in young males.
+                  
+DOI: 10.1123/ijsnem.2025-0094
+ISSN: 1526-484X
+Tag der Erhebung (OOIR): 2026-07-08</description>
+			<guid isPermaLink="false">ooir-trend-10.1123/ijsnem.2025-0094-2026-07-08-3</guid>
+			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Age-Specific Analysis of the Effects of Intermittent Fasting on Body Composition and Cardiometabolic Markers in Healthy Adults and Individuals with Overweight or Obesity: A Systematic Review and Meta-Analysis of Randomized Controlled Trials</title>
@@ -74,8 +106,8 @@ Veröffentlicht: 2026-06-03
 Abstract: Background: Intermittent fasting (IF) is a popular dietary strategy for improving weight and cardiometabolic health. However, its effectiveness and potential risks across different adult age trajectories remain unclear. This systematic review and meta-analysis evaluated the age-specific effects of IF on body composition and cardiometabolic markers. Methods: Following PRISMA 2020 guidelines, PubMed, Scopus, and Web of Science were searched for randomized controlled trials (RCTs) up to September 2025. Participants were stratified into three cohorts: &amp;lt;30 years, 30–44 years, and ≥45 years. Random-effects meta-analyses and leave-one-out sensitivity analyses were conducted on body composition, lipid profiles, glycemic markers, and blood pressure. Additionally, a conservative methodological sensitivity analysis (imputed correlation r = 0.5) and subgroup analyses by fasting modality (TRF vs. intermittent energy restriction) were performed. Risk of bias was assessed using the RoB 2 tool. Results: Analysis of 28 RCTs (N = 1833) demonstrated that IF significantly reduced body weight and BMI across all age groups. Notably, subgroup analyses revealed comparable physiological responses between TRF and intermittent energy restriction modalities. Cardiometabolic adaptations were highly age-dependent. Young adults exhibited significant reductions in fasting insulin and HOMA-IR, alongside a robust reduction in fat mass. However, a significant loss of fat-free mass (FFM) was observed in both young and older cohorts. While middle-aged and older adults experienced the most pronounced improvements in triglycerides, systolic blood pressure, and insulin sensitivity, our conservative sensitivity analysis unmasked a significant elevation in low-density lipoprotein cholesterol (LDL-C) in this group, mirroring the robust LDL-C increase observed in young adults. Early middle-aged adults exhibited highly variable responses with no significant overall improvements in cardiometabolic parameters. Conclusions: IF is an effective weight-management tool, but elicits distinct, age-specific metabolic trajectories. While middle-aged and older adults derive pronounced cardiometabolic benefits, they face critical risks of lean mass depletion, necessitating a combined “IF+” strategy (adequate protein and resistance training). Crucially, the age-specific risk of LDL-C elevation dictates a mandate for vigilant lipid monitoring. Given that the certainty of evidence was rated as low to very low per GRADE criteria, these age-specific patterns should be interpreted as hypothesis-generating, warranting validation in future large-scale trials.
 DOI: 10.3390/nu18111799
 ISSN: 2072-6643
-Tag der Erhebung (OOIR): 2026-07-07</description>
-			<guid isPermaLink="false">ooir-trend-10.3390/nu18111799-2026-07-07-3</guid>
+Tag der Erhebung (OOIR): 2026-07-08</description>
+			<guid isPermaLink="false">ooir-trend-10.3390/nu18111799-2026-07-08-4</guid>
 			<pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -144,57 +176,9 @@ Abstract: Abstract
                   
 DOI: 10.1038/s41366-026-02113-3
 ISSN: 0307-0565
-Tag der Erhebung (OOIR): 2026-07-07</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41366-026-02113-3-2026-07-07-4</guid>
+Tag der Erhebung (OOIR): 2026-07-08</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41366-026-02113-3-2026-07-08-5</guid>
 			<pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Increasing Obesity Severity Is Associated With Less Surgical Care in the United States</title>
-			<link>https://doi.org/10.1002/oby.70240</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Nutrition &amp; Dietetics
-Score: 63
-Autoren: Michael Kachmar, Florina Corpodean, Hector J. Garcia Navas, Molly Perkins, Carlos Galvani, Michael W. Cook, Denise M. Danos, David A. Hughes, Philip R. Schauer, Vance L. Albaugh
-Journal: Obesity
-Veröffentlicht: 2026-06-08
-Abstract: ABSTRACT
-                  
-                    Objective
-                    
-                      Approximately 41% of the US population has obesity, though the prevalence of the highest BMI populations (e.g., ≥ 60 kg/m
-                      2
-                      ) is increasing most rapidly. Given the association between obesity and surgical disease burden, we hypothesized that higher BMI groups would account for a growing proportion of operative volume over time. This study examined whether individuals with higher BMI have been receiving proportionally more surgical care over time.
-                    
-                  
-                  
-                    Methods
-                    
-                      All multispecialty National Surgical Quality Improvement Program (NSQIP) cases from 2005 to 2022 were analyzed (
-                      n
-                       = 11,634,075). Multinomial logistic regression was performed to analyze trends among BMI categories (&amp;lt; 30.0, 30.0–39.9, 40.0–49.9, 50.0–59.9, 60.0–69.9, and ≥ 70 kg/m
-                      2
-                      ), while adjusting for demographics and comorbidities.
-                    
-                  
-                  
-                    Results
-                    
-                      Regression models demonstrated decreased odds of patients with BMI ≥ 50 kg/m
-                      2
-                      undergoing surgery over consecutive years, with increasingly higher BMI groups representing greater declines. Patients with BMI 30.0–39.9 kg/m
-                      2
-                      demonstrated increased proportional operative volume.
-                    
-                  
-                  
-                    Conclusions
-                    Despite increased growth in higher BMI populations, individuals in these categories undergo fewer surgical operations annually. These findings demonstrate a critical need to understand these inequalities, which are underscored by rising obesity prevalence that may be contributing to poor access to surgical care as well as increased morbidity/mortality of presentation with more advanced disease.
-                  
-DOI: 10.1002/oby.70240
-ISSN: 1930-7381
-Tag der Erhebung (OOIR): 2026-07-07</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/oby.70240-2026-07-07-5</guid>
-			<pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
