@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rehabilitation) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 11 Jul 2026 01:58:26 GMT</pubDate>
-		<lastBuildDate>Sat, 11 Jul 2026 01:58:26 GMT</lastBuildDate>
+		<pubDate>Sun, 12 Jul 2026 02:02:01 GMT</pubDate>
+		<lastBuildDate>Sun, 12 Jul 2026 02:02:01 GMT</lastBuildDate>
 		<item>
 			<title>Wearable Myoelectric Interface for Neurorehabilitation (MINT) to Recover Arm Activity After Stroke: A Randomized Controlled Trial</title>
 			<link>https://doi.org/10.1177/15459683261454937</link>
@@ -50,8 +50,8 @@ Abstract:
                   
 DOI: 10.1177/15459683261454937
 ISSN: 1552-6844
-Tag der Erhebung (OOIR): 2026-07-11</description>
-			<guid isPermaLink="false">ooir-trend-10.1177/15459683261454937-2026-07-11-1</guid>
+Tag der Erhebung (OOIR): 2026-07-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1177/15459683261454937-2026-07-12-1</guid>
 			<pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -65,24 +65,9 @@ Journal: European Journal of Physical and Rehabilitation Medicine
 Veröffentlicht: 2026-06-01
 DOI: 10.23736/s1973-9087.26.09064-7
 ISSN: 1973-9087
-Tag der Erhebung (OOIR): 2026-07-11</description>
-			<guid isPermaLink="false">ooir-trend-10.23736/s1973-9087.26.09064-7-2026-07-11-2</guid>
+Tag der Erhebung (OOIR): 2026-07-12</description>
+			<guid isPermaLink="false">ooir-trend-10.23736/s1973-9087.26.09064-7-2026-07-12-2</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Diagnostic and prognostic accuracy of Berg Balance Scale and Mini-Balance Evaluation Systems Test in individuals with stroke: A systematic review and meta-analysis</title>
-			<link>https://doi.org/10.1080/09593985.2026.2685324</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rehabilitation
-Score: 22
-Autoren: Sota Kobayashi, Tomohiko Kamo, Hirofumi Ogihara, Shuntaro Tamura, Hiroki Kubo, Tatsuya Igarashi, Hiroyuki Saito, Yoichi Kaizu, Kazuhiro Miyata
-Journal: Physiotherapy Theory and Practice
-Veröffentlicht: 2026-06-10
-DOI: 10.1080/09593985.2026.2685324
-ISSN: 0959-3985
-Tag der Erhebung (OOIR): 2026-07-11</description>
-			<guid isPermaLink="false">ooir-trend-10.1080/09593985.2026.2685324-2026-07-11-3</guid>
-			<pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Cross-education of upper-limb strength and muscle thickness following unilateral resistance training: a systematic review and meta-analysis</title>
@@ -95,8 +80,8 @@ Journal: Physiotherapy Theory and Practice
 Veröffentlicht: 2026-06-21
 DOI: 10.1080/09593985.2026.2689440
 ISSN: 0959-3985
-Tag der Erhebung (OOIR): 2026-07-11</description>
-			<guid isPermaLink="false">ooir-trend-10.1080/09593985.2026.2689440-2026-07-11-4</guid>
+Tag der Erhebung (OOIR): 2026-07-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1080/09593985.2026.2689440-2026-07-12-3</guid>
 			<pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -126,9 +111,41 @@ Abstract:
                   
 DOI: 10.1044/2026_ajslp-25-00494
 ISSN: 1058-0360
-Tag der Erhebung (OOIR): 2026-07-11</description>
-			<guid isPermaLink="false">ooir-trend-10.1044/2026_ajslp-25-00494-2026-07-11-5</guid>
+Tag der Erhebung (OOIR): 2026-07-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1044/2026_ajslp-25-00494-2026-07-12-4</guid>
 			<pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Nonpharmacological interventions for preventing delirium in adult patients with cancer: a systematic review and meta-analysis</title>
+			<link>https://doi.org/10.1007/s00520-026-10898-2</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 16
+Autoren: Yusuke Kanno, Kaoru Shinsato, Jun Kako, Yoshinobu Matsuda, Shinichiro Inoue, Hitoshi Tanimukai, Saho Wada, Takaaki Hasegawa
+Journal: Supportive Care in Cancer
+Veröffentlicht: 2026-07-01
+Abstract: Abstract
+                  
+                    Purpose
+                    To determine whether nonpharmacological interventions reduce delirium incidence in adult patients with cancer and to identify effective intervention strategies.
+                  
+                  
+                    Method
+                    We conducted a systematic review and meta-analysis following PRISMA guidelines. PubMed, CENTRAL, CINAHL, and Ichushi-Web were searched through September 30, 2024, for randomized controlled trials (RCTs). Two authors independently extracted data, assessed the risk of bias using the Cochrane Risk of Bias 2 tool, and evaluated the certainty of evidence using the Grading of Recommendations Assessment, Development and Evaluation approach. The primary outcome was delirium incidence. A random-effects model was used for the meta-analysis. The study protocol was registered with UMIN-CTR (No. UMIN000051804; registered August 2, 2023).
+                  
+                  
+                    Results
+                    Overall, 12 RCTs involving 2,747 patients were included. Interventions were categorized into multicomponent interventions, bright light therapy, rehabilitation, and anesthesia or oxygen management. The meta-analysis of five trials showed that multicomponent interventions significantly reduced delirium incidence (risk ratio [RR], 0.43; 95% confidence interval [CI], 0.31–0.60; moderate-certainty evidence), with benefit predominantly observed in postoperative settings. The evidence for bright light therapy was inconclusive (RR, 0.31; 95%CI, 0.07–1.31; very low-certainty evidence). Most of the included studies had concerns regarding the risk of bias, mainly due to a lack of blinding.
+                  
+                  
+                    Conclusion
+                    Multicomponent nonpharmacological interventions may reduce delirium incidence in adult patients with cancer, particularly in postoperative or perioperative settings. However, the certainty of evidence is moderate, and the included studies vary in patient populations, intervention components, and healthcare settings. Evidence for standalone interventions and prevention strategies in palliative or end-of-life care remains limited and inconclusive.
+                  
+DOI: 10.1007/s00520-026-10898-2
+ISSN: 0941-4355
+Tag der Erhebung (OOIR): 2026-07-12</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s00520-026-10898-2-2026-07-12-5</guid>
+			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
