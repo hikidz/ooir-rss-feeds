@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 14 Jul 2026 01:50:35 GMT</pubDate>
-		<lastBuildDate>Tue, 14 Jul 2026 01:50:35 GMT</lastBuildDate>
+		<pubDate>Wed, 15 Jul 2026 01:47:20 GMT</pubDate>
+		<lastBuildDate>Wed, 15 Jul 2026 01:47:20 GMT</lastBuildDate>
 		<item>
 			<title>Predicting the risk of serious muscle disorders in individuals eligible for statin treatment in England: derivation and validation of a clinical prediction model</title>
 			<link>https://doi.org/10.1016/j.landig.2026.101024</link>
@@ -18,8 +18,8 @@ Journal: The Lancet Digital Health
 Veröffentlicht: 2026-06-01
 DOI: 10.1016/j.landig.2026.101024
 ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2026-07-14</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.101024-2026-07-14-1</guid>
+Tag der Erhebung (OOIR): 2026-07-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.101024-2026-07-15-1</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -33,8 +33,8 @@ Journal: The Lancet Digital Health
 Veröffentlicht: 2026-06-01
 DOI: 10.1016/j.landig.2026.101020
 ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2026-07-14</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.101020-2026-07-14-2</guid>
+Tag der Erhebung (OOIR): 2026-07-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.101020-2026-07-15-2</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -106,51 +106,65 @@ Abstract: Abstract
                   
 DOI: 10.2196/89304
 ISSN: 2291-9279
-Tag der Erhebung (OOIR): 2026-07-14</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/89304-2026-07-14-3</guid>
+Tag der Erhebung (OOIR): 2026-07-15</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/89304-2026-07-15-3</guid>
 			<pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Smartphone-based detection of subtle memory decline in prodromal Alzheimer’s disease</title>
-			<link>https://doi.org/10.1038/s41746-026-02731-1</link>
+			<title>The Future of Online Misinformation Research: Tackling the Landscape With Integrity and Urgency</title>
+			<link>https://doi.org/10.2196/104526</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 92
-Autoren: Sarah E. Polk, Lindsay R. Clark, Kristin Basche, Luca Kleineidam, Wenzel Glanz, Michaela Butryn, Robert Perneczky, Katharina Buerger, Klaus Fliessbach, Christoph Laske, Annika Spottke, Anja Schneider, Jens Wiltfang, Stefan Teipel, Claudia Bartels, Ayda Rostamzadeh, Daniel Janowitz, Boris-Stephan Rauchmann, Ingo Kilimann, Sebastian Sodenkamp, Marie Coenjaerts, Frederic Brosseron, Michael Wagner, Ingo Frommann, Melina Stark, Matthias Schmid, Björn H. Schott, Sterling C. Johnson, Frank Jessen, Emrah Düzel, David Berron
-Journal: npj Digital Medicine
-Veröffentlicht: 2026-06-10
+Score: 59
+Autoren: Wen-Ying Sylvia Chou
+Journal: Journal of Medical Internet Research
+Veröffentlicht: 2026-06-22
 Abstract: Abstract
                   
-                    The slow progression of Alzheimer’s disease (AD) poses a challenge for the quantification of early disease-driven cognitive decline. Here, we show that frequently administered remote and unsupervised digital cognitive assessments can detect differences in cognitive decline within 30 weeks in early AD. The sample comprised 202 individuals (52–85 years old) recruited from longitudinal observational studies, who were cognitively unimpaired (CU,
-                    n
-                     = 152) or had a diagnosis of mild cognitive impairment (MCI,
-                    n
-                     = 50). Participants self-administered remote tasks testing memory precision for objects and scenes, associative memory, and familiarity-dependent memory. The MCI group showed greater decline than the CU group in the familiarity-dependent task, while stratifying the MCI group by beta-amyloid (Aβ) status (
-                    n
-                     = 21 Aβ−;
-                    n
-                     = 24 Aβ+) revealed greater change in memory precision for objects and familiarity-dependent memory in the MCI Aβ+ group. A 30-week change in the remote familiarity-dependent task was correlated with a multi-year change in annual in-person neuropsychological assessments. In conclusion, frequent remote cognitive testing is a promising tool to feasibly capture and monitor subtle and short-term cognitive decline.
+                    Since early 2025, the scientific research and funding landscape has faced tremendous changes and challenges in the United States. In this
+                    News and Perspectives
+                    article, health communication scholar, former program official of the National Cancer Institute, and JMIR Correspondent Wen-Ying Sylvia Chou discusses the impact on—and future of—online misinformation research in this politicized context.
                   
-DOI: 10.1038/s41746-026-02731-1
-ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-07-14</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02731-1-2026-07-14-4</guid>
-			<pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+DOI: 10.2196/104526
+ISSN: 1438-8871
+Tag der Erhebung (OOIR): 2026-07-15</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/104526-2026-07-15-4</guid>
+			<pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Large language models as experimental systems in human psychopathology: a modelling study</title>
-			<link>https://doi.org/10.1016/j.landig.2026.101014</link>
+			<title>Extracting and Classifying Drug Discontinuations From Estonian Electronic Health Records: Development and Validation Study</title>
+			<link>https://doi.org/10.2196/86183</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 65
-Autoren: Magdalena Katharina Wekenborg, Elizabeth Anna Mathilde Michels, Georg Kurze, Matti Lasse Kropp, Fabian Wolf, Josi Harzbecker, Isabella C Wiest, Jakob Nikolas Kather
-Journal: The Lancet Digital Health
-Veröffentlicht: 2026-06-01
-DOI: 10.1016/j.landig.2026.101014
-ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2026-07-14</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.101014-2026-07-14-5</guid>
-			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+Score: 47
+Autoren: Hendrik Šuvalov, Nikita Umov, Maria Malk, Markus Haug, Sven Laur, Marek Oja, Sirli Tamm, Sulev Reisberg, Jaak Vilo, Raivo Kolde
+Journal: Journal of Medical Internet Research
+Veröffentlicht: 2026-06-17
+Abstract: 
+                    Background
+                    Drug adherence is crucial for chronic disease management, yet treatment discontinuation remains common due to factors such as side effects, inefficacy, or cost. These reasons are often recorded only in free-text clinical notes, making large-scale analysis difficult. While large language models (LLMs) can interpret such unstructured data more effectively than traditional natural language processing methods, few studies have systematically categorized reasons for discontinuation or identified whether the decision was initiated by the patient or the clinician, especially in low-resource languages such as Estonian.
+                  
+                  
+                    Objective
+                    This study aimed to assess the ability of LLMs to extract and classify reasons for drug discontinuation and identify who initiated it using Estonian electronic health records and characterize the observed discontinuation patterns and initiators for statins and antidiabetic medications.
+                  
+                  
+                    Methods
+                    We combined prescription data with free-text anamneses from a 10% sample of the Estonian population (2012-2019). LLMs (Llama 3.1-70B and GPT-4o) were applied to extract discontinuation phrases and reasons, classify them into a clinician-developed taxonomy, and identify who discontinued the treatment. Performance was evaluated on 100 randomly chosen cases per drug group.
+                  
+                  
+                    Results
+                    Extraction yielded 625 antidiabetic drug and 233 statin discontinuation cases. Validation confirmed a precision of 0.93 to 0.98 for extracting phrases and 0.95 to 0.96 for extracting reasons. Classification of discontinuation reasons achieved weighted F1-scores of 0.81 to 0.84, whereas classification of who initiated discontinuation achieved weighted F1-scores of 0.64 to 0.78. Adverse reactions were the most frequent reason overall, accounting for 70% (163/233) of statin discontinuations and 44.8% (280/625) of antidiabetic drug discontinuations. Regarding antidiabetic drugs, treatment inefficacy and contraindications were more common. Patients more often stopped due to adverse reactions or nonmedical reasons, whereas physicians more often initiated discontinuation for contraindications.
+                  
+                  
+                    Conclusions
+                    LLMs can accurately extract and classify medication discontinuation reasons and show variable performance in identifying discontinuation initiators in Estonian clinical narratives. Both local and proprietary models showed promising results, enabling scalable analyses that complement structured health records. This demonstrates the potential of LLMs to unlock information from clinical notes, turning this underused electronic health record component into a valuable resource for monitoring treatment patterns and detecting adverse event signals.
+                  
+DOI: 10.2196/86183
+ISSN: 1438-8871
+Tag der Erhebung (OOIR): 2026-07-15</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/86183-2026-07-15-5</guid>
+			<pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

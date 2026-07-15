@@ -5,14 +5,126 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Sport Sciences) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 14 Jul 2026 01:50:09 GMT</pubDate>
-		<lastBuildDate>Tue, 14 Jul 2026 01:50:09 GMT</lastBuildDate>
+		<pubDate>Wed, 15 Jul 2026 01:46:51 GMT</pubDate>
+		<lastBuildDate>Wed, 15 Jul 2026 01:46:51 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Sport Sciences) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-sportsciences-20260714015009</guid>
-			<pubDate>Tue, 14 Jul 2026 01:50:09 GMT</pubDate>
+			<title>Evaluating movement breaks as a public health strategy to mitigate the harms of prolonged sitting: a large-scale pragmatic intervention</title>
+			<link>https://doi.org/10.1136/bjsports-2025-111221</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 926
+Autoren: Keith M Diaz, Margaret E Murdock, Maria A Serafini, Adriana Wu Clark, Benjamin D Boudreaux, Andrea T Duran, Sanaz Meshkinpour, Katie Monteleone, Ying Kuen Cheung, Manoush Zomorodi
+Journal: British Journal of Sports Medicine
+Veröffentlicht: 2026-06-23
+Abstract: Brief, regular movement breaks have been proposed as a public health strategy to offset the harms of prolonged sedentary behaviour; however, their real-world viability is unclear. This study aimed to assess the implementation potential, effectiveness on psychosocial outcomes and optimal dosing of movement breaks in naturalistic settings.
+                  
+                    Methods
+                    Adults (n=19 342) enrolled in a 2-week pragmatic intervention embedded within an interactive podcast; of whom 59.4% (n=11 484) initiated the intervention. Participants took 5-minute walking breaks at their self-selected break frequency (three arms: every 30, 60 or 120 min). Implementation potential was assessed using the Feasibility, Acceptability and Appropriateness of Intervention Measures (FIM, AIM, IAM). Fatigue, positive affect and negative affect were assessed pre-intervention and post-intervention.
+                  
+                  
+                    Results
+                    All arms exceeded the viability threshold (&amp;gt;3.0) for implementation outcomes. Feasibility was higher at lower break frequencies (FIM: 30 min=3.41, 60 min=3.80, 120 min=4.01), while acceptability and appropriateness were high across arms (AIM: 30 min=3.91, 60 min=4.03, 120 min=4.03; IAM: 30 min=4.00, 60 min=4.04, 120 min=3.99). Reported fatigue and negative affect decreased and reported positive affect increased significantly across all arms. Improvements showed a dose-response pattern: the 30-minute and 60-minute arms exceeded minimal important difference thresholds for fatigue (change: 30 min=−1.55, 60 min=−1.41, 120 min=−1.19) and positive affect (change: 30 min=1.86, 60 min=1.65, 120 min=1.27), with only the 30-minute arm exceeding the threshold for negative affect (change: 30 min=−1.00, 60 min=−0.92, 120 min=−0.67).
+                  
+                  
+                    Conclusion
+                    In this large-scale, pragmatic intervention, movement breaks demonstrated good implementation potential and effectiveness for improving psychosocial outcomes over the 2-week intervention period. Hourly breaks offered the best balance between feasibility and effectiveness. These findings support movement breaks as a potentially viable public health strategy to reduce the harms of prolonged sedentary behaviour.
+                  
+DOI: 10.1136/bjsports-2025-111221
+ISSN: 0306-3674
+Tag der Erhebung (OOIR): 2026-07-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-111221-2026-07-15-1</guid>
+			<pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Optimal 24-hour movement behaviour compositions across trimesters and risk of hypertensive disorders of pregnancy: the Pregnancy 24/7 cohort study</title>
+			<link>https://doi.org/10.1136/bjsports-2025-111091</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 56
+Autoren: Kara Whitaker, Alex Crisp, Jacob Gallagher, Melissa Jones, Jaemyung Kim, Katrina Wilhite, Karina Smith, Sabera Rahman, Alexis Thrower, Janet Catov, Christopher Kline, Maisa Feghali, Donna Santillan, Mark Santillan, Iqra Sheikh, Bridget Zimmerman, Bethany Barone Gibbs
+Journal: British Journal of Sports Medicine
+Veröffentlicht: 2026-06-10
+Abstract: 
+                    Objectives
+                    Hypertensive disorders of pregnancy (HDP) are primary antecedents of maternal cardiovascular morbidity during and after pregnancy. Despite evidence that 24-hour movement behaviours, including moderate-to-vigorous and light-intensity physical activity (MVPA, LPA), sedentary behaviour (SED) and sleep, relate to cardiovascular disease risk, associations with HDP are unknown. This study identified optimal 24-hour behavioural compositions across pregnancy associated with lower HDP risk.
+                  
+                  
+                    Methods
+                    
+                      The Pregnancy 24/7 cohort study (N=500) quantified 24-hour movement behaviours in each trimester (10
+                      0
+                      –12
+                      6
+                      , 20
+                      0
+                      –22
+                      6
+                      and 32
+                      0
+                      –34
+                      6
+                      weeks gestation) and examined associations with HDP. Participants were enrolled between 2021–2024 from three US study sites. Movement behaviours were quantified from 7-day × 24-hour monitor wear using the activPAL3 micro (MVPA, LPA and SED) and Actiwatch Spectrum Plus (sleep). HDP (gestational hypertension and pre-eclampsia) was abstracted from medical records. Compositional binomial regression models predicted HDP risk based on isometric log-ratio transformation of 24-hour movement behaviours. Optimal overlapping behavioural compositions were identified by aggregating up to three repeated assessments of 24-hour data.
+                    
+                  
+                  
+                    Results
+                    Among 470 participants with complete data, 86 (18.3%) developed HDP. The optimal overlapping daily composition (0–5th percentile) associated with the lowest HDP risk (7.2%) consisted of 5.9 (5.5–6.6) hours SED, 7.9 (6.4–8.9) hours LPA, 7 (2–22) minutes MVPA and 10.1 (8.5–11.3) hours sleep. Risk increased exponentially among participants with more than 10 hours/day of SED or less than 5 hours/day of LPA.
+                  
+                  
+                    Conclusion
+                    SED and LPA were the strongest modifiable predictors of HDP, independent of trimester. These findings inform behavioural intervention targets to reduce the risk of HDP.
+                  
+DOI: 10.1136/bjsports-2025-111091
+ISSN: 0306-3674
+Tag der Erhebung (OOIR): 2026-07-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-111091-2026-07-15-2</guid>
+			<pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Physical Activity Does Not Fully Offset the Health Risks of Sedentary Behaviour</title>
+			<link>https://doi.org/10.1249/mss.0000000000004055</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 53
+Autoren: Paddy C. Dempsey, Christian J. Brakenridge, Dorothea Dumuid, Neville Owen
+Journal: Medicine &amp;amp; Science in Sports &amp;amp; Exercise
+Veröffentlicht: 2026-06-23
+DOI: 10.1249/mss.0000000000004055
+ISSN: 0195-9131
+Tag der Erhebung (OOIR): 2026-07-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1249/mss.0000000000004055-2026-07-15-3</guid>
+			<pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Research into resistance training response heterogeneity: a summary of the 2025 conference at the University of Jyväskylä</title>
+			<link>https://doi.org/10.1152/japplphysiol.00289.2026</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 47
+Autoren: Michael D. Roberts, Marcas M. Bamman, Troy A. Hornberger, Abigail L. Mackey, Wim Derave, Philip J. Atherton, Stuart M. Phillips, Brad J. Schoenfeld, Gustavo A. Nader, Anne Hecksteden, Juha J. Hulmi, Elina Sillanpää, Cleiton A. Libardi, Juha P. Ahtiainen
+Journal: Journal of Applied Physiology
+Veröffentlicht: 2026-06-01
+Abstract: The Inter-Individual Variation in Resistance Training Response Conference was hosted at the University of Jyväskylä, Finland November 19–21, 2025. This paper summarizes key themes that emerged across lectures and discussions. First, resistance training induces multidimensional adaptations at the tissue, muscle fiber, and ultrastructural levels, including radial muscle fiber hypertrophy through increased myofibril number, longitudinal growth through sarcomere addition throughout the length (not ends) of muscle fibers, and metabolic adaptations that emulate other models of rapid cell growth. Second, training program variables including weekly sets, volume-load, rest interval duration, and training proximity to failure meaningfully influence hypertrophic outcomes in the general population, whereas exercise selection can be flexible. Third, age as well as molecular signatures before and in response to training influence interindividual response heterogeneity. Finally, while interindividual variability in observed hypertrophic responses is considerable, delineating true inter-individual variability from random variation remains challenging. Hence, study design considerations that can be thoughtfully applied to enhance rigor include repeat validation trials, unilateral within-subject designs, minimum clinically important difference thresholds, and multivariate composite responder classifications. This paper aims to summarize conference highlights while also providing meaningful implications for both researchers and practitioners and advancing current thinking on heterogeneity in the resistance training response.
+DOI: 10.1152/japplphysiol.00289.2026
+ISSN: 8750-7587
+Tag der Erhebung (OOIR): 2026-07-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1152/japplphysiol.00289.2026-2026-07-15-4</guid>
+			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Prospective Physical Activity, Sitting and Sleep consortium (ProPASS): addressing methodological and geographical barriers to inform global public health guidelines, interventions and precision medicine</title>
+			<link>https://doi.org/10.1136/bjsports-2025-111283</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 47
+Autoren: Emmanuel Stamatakis, Nicholas A Koemel, John J Mitchell, Andrew J Atkin, Richard Pulsford, Kar Hau Chong, Vegar Rangul, Joanna M Blodgett, Raaj Kishore Biswas, Carlos A Celis-Morales, Lauren Sherar, Gita Mishra, Joanne McVeigh, Marla K Beauchamp, Sebastian Jannas-Vela, Christina Bjørk Petersen, Mette Korshøj, Mette Aadahl, Randi Jepsen, Laura Karavirta, Sari Stenholm, Séverine Sabia, David Richter, Peter A Cistulli, Timothy Chi-yui Kwok, Yuta Nemoto, Dick H J Thijssen, Thijs Eijsvogels, Paul Jarle Mork, Abdulrahman I Alaqil, Falk Müller-Riemenschneider, Lisa Micklesfield, Katia Gallegos-Carrillo, Gianluca Severi, Parminder Raina, Verónica Cabanas-Sánchez, Amal Wanigatunga, Eleanor M Simonsick, Jennifer A Schrack, Jesús del Pozo-Cruz, Esmée A Bakker, Andreas Holtermann, I-Min Lee, Borja del Pozo Cruz, Annemarie Koster, Matthew N Ahmadi, Mark Hamer
+Journal: British Journal of Sports Medicine
+Veröffentlicht: 2026-06-22
+DOI: 10.1136/bjsports-2025-111283
+ISSN: 0306-3674
+Tag der Erhebung (OOIR): 2026-07-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-111283-2026-07-15-5</guid>
+			<pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

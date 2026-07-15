@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rheumatology) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 14 Jul 2026 01:51:34 GMT</pubDate>
-		<lastBuildDate>Tue, 14 Jul 2026 01:51:34 GMT</lastBuildDate>
+		<pubDate>Wed, 15 Jul 2026 01:48:21 GMT</pubDate>
+		<lastBuildDate>Wed, 15 Jul 2026 01:48:21 GMT</lastBuildDate>
 		<item>
 			<title>The 2026 British Society for Rheumatology guideline for the management of children, young people and adults with systemic lupus erythematosus</title>
 			<link>https://doi.org/10.1093/rheumatology/keag223</link>
@@ -20,50 +20,9 @@ Abstract: Abstract
                   Systemic lupus erythematosus (SLE) is a lifelong autoimmune condition with multi-system involvement that is associated with morbidity, mortality, and poor quality of life. The key aim of management should be to empower individuals with SLE to manage their condition, suppressing systemic disease activity, and preventing organ damage. This guideline builds on and expands the recommendations developed for the first guideline published in 2017 for adults living with SLE. This comprehensive life-course guideline was developed according to the British Society for Rheumatology Guidelines Protocol by a Guideline Working Group (GWG) comprising healthcare professionals with expertise in paediatric and adult SLE, and people with lived experience. The GWG reviewed published guidelines, undertook a systematic literature review and utilised expertise from specialist lupus centres across the UK and patient representatives to formulate a list of 102 recommendations with corresponding strength of recommendations and agreement scores. These recommendations encompass advances in the assessment, diagnosis, monitoring, general approaches to management, non-pharmacological and pharmacological management of SLE, organ-specific treatment including lupus nephritis and cutaneous lupus erythematosus, as well as the delivery of care in the context of the UK healthcare system. Furthermore, we have provided research and audit recommendations to support equitable access to care and improve health outcomes in SLE.
 DOI: 10.1093/rheumatology/keag223
 ISSN: 1462-0324
-Tag der Erhebung (OOIR): 2026-07-14</description>
-			<guid isPermaLink="false">ooir-trend-10.1093/rheumatology/keag223-2026-07-14-1</guid>
+Tag der Erhebung (OOIR): 2026-07-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1093/rheumatology/keag223-2026-07-15-1</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Differences in
-                    SARS
-                    ‐
-                    CoV
-                    ‐2 Antigen Persistence in Individuals With Systemic Autoimmune Rheumatic Diseases Compared to the General Population: A
-                    RECOVER
-                    ‐Adult Cohort Study</title>
-			<link>https://doi.org/10.1002/art.70205</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rheumatology
-Score: 41
-Autoren: Naomi J. Patel, Zoe Swank, Jiaqi Wang, Xiaosong Wang, Lauren A. O'Keeffe, Madison Negron, Liya S. Getachew, Louise L. Hansen, Grace Qian, Alene A. Saavedra, Kevin T. Mueller, Natalie A. Davis, Kathleen M. M. Vanni, Sandria Savage, Julie S. Lam, Zachary S. Wallace, David R. Walt, Jeffrey A. Sparks, RECOVER‐Adult
-Journal: Arthritis &amp;amp; Rheumatology
-Veröffentlicht: 2026-06-09
-Abstract: 
-                    Objective
-                    Individuals with systemic autoimmune rheumatic diseases (SARDs) are at risk for worse acute and post–acute COVID‐19 outcomes, though whether individuals with SARDs have longer persistence of viral antigens after COVID‐19 has not been studied.
-                  
-                  
-                    Methods
-                    This retrospective cohort study evaluated post–COVID‐19 differences in SARS‐CoV‐2 antigen (spike, spike protein that contains the receptor‐binding domain, and nucleocapsid) positivity between individuals with SARDs (COVID‐19 and Rheumatic Diseases [RheumCARD]) and without SARDs (Researching COVID to Enhance Recovery [RECOVER]–Adult). SARS‐CoV‐2 antigens were measured in collected samples using a validated ultrasensitive single molecule array. This digital enzyme‐linked immunosorbent assay used antibody‐coated magnetic beads to capture antigen molecules, which were loaded into microwell arrays and detected through enzymatic cleavage of a fluorescent substrate. We used logistic regression to estimate unadjusted and adjusted (for age, sex, infection year, vaccination status, and COVID‐19 treatment) odds ratios for SARS‐CoV‐2 antigen positivity at months 3 and 6 following COVID‐19.
-                  
-                  
-                    Results
-                    
-                      Among 210 individuals with SARDs in RheumCARD and 348 individuals without SARDs in RECOVER‐Adult, any SARS‐CoV‐2 antigen positivity was more common in those with SARDs (36.7% in RheumCARD vs 18.9% in RECOVER‐Adult;
-                      P
-                       &amp;lt; 0.001). Those with SARDs had higher odds of nucleocapsid antigen positivity (adjusted odds ratio [aOR] 3.73, 95% confidence interval [CI] 1.28–10.85) or any antigen positivity (aOR 2.89, 95% CI 1.43–5.85) three months after COVID‐19 infection and higher odds of nucleocapsid antigen positivity (aOR 6.62, 95% CI 1.09–40.30) six months after COVID‐19 infection.
-                    
-                  
-                  
-                    Conclusion
-                    Individuals with SARDs were more likely to have SARS‐CoV‐2 antigen positivity at months 3 and 6 following COVID‐19 infection compared with individuals without SARDs, not explained by demographics, variant, vaccination, or treatment.
-                  
-DOI: 10.1002/art.70205
-ISSN: 2326-5191
-Tag der Erhebung (OOIR): 2026-07-14</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/art.70205-2026-07-14-2</guid>
-			<pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>TLR7 in systemic lupus erythematosus: genetics and emerging therapies</title>
@@ -76,8 +35,8 @@ Journal: Nature Reviews Rheumatology
 Veröffentlicht: 2026-06-19
 DOI: 10.1038/s41584-026-01388-0
 ISSN: 1759-4790
-Tag der Erhebung (OOIR): 2026-07-14</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41584-026-01388-0-2026-07-14-3</guid>
+Tag der Erhebung (OOIR): 2026-07-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41584-026-01388-0-2026-07-15-2</guid>
 			<pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -91,8 +50,8 @@ Journal: Annals of the Rheumatic Diseases
 Veröffentlicht: 2026-06-01
 DOI: 10.1016/j.ard.2026.05.028
 ISSN: 0003-4967
-Tag der Erhebung (OOIR): 2026-07-14</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2026.05.028-2026-07-14-4</guid>
+Tag der Erhebung (OOIR): 2026-07-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2026.05.028-2026-07-15-3</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -106,9 +65,24 @@ Journal: Annals of the Rheumatic Diseases
 Veröffentlicht: 2026-06-01
 DOI: 10.1016/j.ard.2026.05.032
 ISSN: 0003-4967
-Tag der Erhebung (OOIR): 2026-07-14</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2026.05.032-2026-07-14-5</guid>
+Tag der Erhebung (OOIR): 2026-07-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2026.05.032-2026-07-15-4</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Advances in targeting IL-1 family cytokines for the treatment of inflammatory diseases</title>
+			<link>https://doi.org/10.1038/s41584-026-01395-1</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 21
+Autoren: Cem Gabay, Charlotte Girard-Guyonvarc’h, Laurie Vaillant, Matthias Jarlborg
+Journal: Nature Reviews Rheumatology
+Veröffentlicht: 2026-07-09
+DOI: 10.1038/s41584-026-01395-1
+ISSN: 1759-4790
+Tag der Erhebung (OOIR): 2026-07-15</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41584-026-01395-1-2026-07-15-5</guid>
+			<pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
