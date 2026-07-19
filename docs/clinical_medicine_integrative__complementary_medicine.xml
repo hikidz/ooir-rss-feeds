@@ -5,14 +5,82 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Integrative &amp; Complementary Medicine) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 18 Jul 2026 01:49:49 GMT</pubDate>
-		<lastBuildDate>Sat, 18 Jul 2026 01:49:49 GMT</lastBuildDate>
+		<pubDate>Sun, 19 Jul 2026 02:00:31 GMT</pubDate>
+		<lastBuildDate>Sun, 19 Jul 2026 02:00:31 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Integrative &amp; Complementary Medicine) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-integrativecomplementarymedicine-20260718014949</guid>
-			<pubDate>Sat, 18 Jul 2026 01:49:49 GMT</pubDate>
+			<title>Damage-induced muscle regeneration after exercise in humans: Modulatory effects of ginsenoside Rg1</title>
+			<link>https://doi.org/10.1016/j.jtcme.2026.04.002</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Integrative &amp; Complementary Medicine
+Score: 14
+Autoren: Andrew Mark Edwards, Peggy Pui Lai Or, Chien-Wen Hou, Chih-Yang Huang, Chen Zheng, Fenghua Sun, Xinmin Liu, Kunanya Masodsai, Chia-Hua Kuo
+Journal: Journal of Traditional and Complementary Medicine
+Veröffentlicht: 2026-07-01
+DOI: 10.1016/j.jtcme.2026.04.002
+ISSN: 2225-4110
+Tag der Erhebung (OOIR): 2026-07-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.jtcme.2026.04.002-2026-07-19-1</guid>
+			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Role of an Ayurvedic formulation ‘Kalyanaka Ghrita’ in mild cognitive impairment: A single-patient, quasi-randomized, controlled, open-label N-of-1 trial</title>
+			<link>https://doi.org/10.1016/j.jep.2026.122089</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Integrative &amp; Complementary Medicine
+Score: 13
+Autoren: Swati Sharma, Arun Kaushik, Sankha Shubhra Chakrabarti, Kishor Patwardhan
+Journal: Journal of Ethnopharmacology
+Veröffentlicht: 2026-12-01
+DOI: 10.1016/j.jep.2026.122089
+ISSN: 0378-8741
+Tag der Erhebung (OOIR): 2026-07-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.jep.2026.122089-2026-07-19-2</guid>
+			<pubDate>Tue, 01 Dec 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Huang-Lian-Jie-Du Decoction alleviates cognitive deficits in Alzheimer’s disease via aromatase-mediated regulation of Aβ metabolism</title>
+			<link>https://doi.org/10.1016/j.phymed.2026.158467</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Integrative &amp; Complementary Medicine
+Score: 7
+Autoren: Mingguang Sun, Dongsheng Ye, Puxuan Min, Mengxiong Guo, Xiao Zhao, Yue Zhou, Lingxu Xu, Yutong Wu, Zhaoyou Meng, Gesheng Wang
+Journal: Phytomedicine
+Veröffentlicht: 2026-09-01
+DOI: 10.1016/j.phymed.2026.158467
+ISSN: 0944-7113
+Tag der Erhebung (OOIR): 2026-07-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.phymed.2026.158467-2026-07-19-3</guid>
+			<pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Polyphenols extracted from Lycium barbarum seeds regulate gut microbiota to improve type 2 diabetes mellitus in db/db mice</title>
+			<link>https://doi.org/10.1016/j.phymed.2026.158507</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Integrative &amp; Complementary Medicine
+Score: 7
+Autoren: Juntao Zhang, Rongyi Gong, Yichen Liu, Jianjun Deng, Jinfeng Wang, Haixia Yang
+Journal: Phytomedicine
+Veröffentlicht: 2026-09-01
+DOI: 10.1016/j.phymed.2026.158507
+ISSN: 0944-7113
+Tag der Erhebung (OOIR): 2026-07-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.phymed.2026.158507-2026-07-19-4</guid>
+			<pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Chrysin reprograms microglial metabolism and function via targeting SYK to alleviate the symptoms of Alzheimer's disease</title>
+			<link>https://doi.org/10.1016/j.jep.2026.122056</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Integrative &amp; Complementary Medicine
+Score: 7
+Autoren: Lixi Li, Yanjia Gu, Xinyue Luo, Jinyu Wang, Ying Jia, Tingxu Yan
+Journal: Journal of Ethnopharmacology
+Veröffentlicht: 2026-11-01
+DOI: 10.1016/j.jep.2026.122056
+ISSN: 0378-8741
+Tag der Erhebung (OOIR): 2026-07-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.jep.2026.122056-2026-07-19-5</guid>
+			<pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

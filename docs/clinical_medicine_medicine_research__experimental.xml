@@ -5,14 +5,131 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, Research &amp; Experimental) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 18 Jul 2026 01:49:53 GMT</pubDate>
-		<lastBuildDate>Sat, 18 Jul 2026 01:49:53 GMT</lastBuildDate>
+		<pubDate>Sun, 19 Jul 2026 02:01:03 GMT</pubDate>
+		<lastBuildDate>Sun, 19 Jul 2026 02:01:03 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Medicine, Research &amp; Experimental) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-medicineresearchexperimental-20260718014953</guid>
-			<pubDate>Sat, 18 Jul 2026 01:49:53 GMT</pubDate>
+			<title>Biological aging and generational shifts in early-onset cancer risk</title>
+			<link>https://doi.org/10.1038/s41591-026-04448-w</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 1023
+Autoren: Ruiyi Tian, Xiaoyu Zong, Duo Ren, Stefani Tica, Daniel Hong, Oluseye Oduyale, Jason D. Buenrostro, Ramaswamy Govindan, Yin Cao
+Journal: Nature Medicine
+Veröffentlicht: 2026-06-22
+Abstract: Abstract
+                  
+                    Incidence of early-onset cancer is rising globally in recent generations, which underscores the need to elucidate the influence of emerging generational risk factors. Systemic and organ-specific aging reflects the cumulative impact of exposures and may provide an integrative and complementary approach to understand early-onset cancer risk. Here among 154,169 young adults from the United Kingdom Biobank, systemic aging measured by PhenoAge increased across birth cohorts, with 23% s.d. increase for those born 1965–1974 versus 1950–1954, and was associated with early-onset solid cancer risk (hazard ratio (HR)
+                    per s.d.
+                    1.08; 95% confidence interval (CI), 1.03–1.13), driven by lung, gastrointestinal and uterine cancers, independent of genetic risks of aging and cancer. Patterns were consistent using alternative systemic aging measures, including the Klemera–Doubal method-defined age gap and metabolomic-based age gap. These findings were validated partially among 10,262 participants in the United States All of Us Research Program. Proteomics-based organ-specific aging analyses linked immune aging with early-onset lung cancer (HR
+                    per s.d.
+                    1.89; CI, 1.20–2.97) and adipose tissue aging to early-onset colorectal cancer (HR 1.60; CI, 1.11–2.32). Greater age gap, reflecting more advanced biological aging relative to chronological age, may serve as a driver associated with risk of early-onset solid cancers, highlighting the importance of uncovering underlying mechanisms to guide effective prevention strategies.
+                  
+DOI: 10.1038/s41591-026-04448-w
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2026-07-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04448-w-2026-07-19-1</guid>
+			<pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>CNS target engagement of high-dose DHA supplementation in older adults at risk for dementia: a randomised, double-blind, placebo-controlled trial</title>
+			<link>https://doi.org/10.1016/j.ebiom.2026.106316</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 795
+Autoren: Hussein N. Yassine, Sara Ghasem Pour, Marlene Juarez, Isabella C. Arrelanas, Nada Ali, Dante Dikeman, Ashley Sanchez, Jackson Park, Bilal Kerman, Marlon V. Duro, Isaac Asante, Stan Louie, Naoko Kono, Lina M. D'Orazio, Helena Chui, Wendy J. Mack, Michael G. Harrington, Meredith N. Braskie, Lon S. Schneider
+Journal: eBioMedicine
+Veröffentlicht: 2026-07-01
+DOI: 10.1016/j.ebiom.2026.106316
+ISSN: 2352-3964
+Tag der Erhebung (OOIR): 2026-07-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ebiom.2026.106316-2026-07-19-2</guid>
+			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Metabolomic Profiling of Leukemic Hematopoiesis: Effects of BNT162b2 mRNA COVID-19 Vaccine Administration</title>
+			<link>https://doi.org/10.2174/0115665240361878250601074746</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 428
+Autoren: Batuhan Erdogdu, Ozan Kaplan, Bilge Basak Fidan, Mustafa Celebier, Umit Yavuz Malkan, Ibrahim C. Haznedaroglu
+Journal: Current Molecular Medicine
+Veröffentlicht: 2026-06-19
+Abstract: 
+                    Background:
+                    Leukemia is marked by clonal hematopoietic stem cell
+expansion and metabolic reprogramming. The BNT162b2 mRNA COVID-19 vaccine
+has been proven effective, though questions remain about its broader physiological
+effects. This study investigates metabolomic alterations in leukemic bone marrow
+potentially associated with BNT162b2 vaccination.
+                  
+                  
+                    Objective:
+                    To compare the bone marrow metabolomic profiles of leukemia patients
+with and without BNT162b2 vaccination, and healthy unvaccinated controls, to explore
+potential metabolic differences.
+                  
+                  
+                    Methods:
+                    Bone marrow samples were obtained from three groups: vaccinated
+leukemia patients (n=7), unvaccinated leukemia patients without COVID-19 history
+(n=2), and unvaccinated healthy controls (n=7). Untargeted metabolomics was
+performed using LC-QTOF-MS. Data were analyzed using XCMS and MetaboAnalyst
+5.0 to identify statistically significant metabolite differences and affected pathways.
+Fold change &amp;gt;1.5 and p&amp;lt;0.05 were considered significant.
+                  
+                  
+                    Results and Discussion:
+                    Distinct metabolic profiles were observed between the leukemia and control
+groups. Increased glycolysis, pentose phosphate pathway activity, and altered
+tryptophan, lipid, and heme metabolism were noted in leukemia samples. Metabolic
+changes in vaccinated patients (ASL) were more similar to unvaccinated leukemia
+patients (LO) than to healthy controls, with minor vaccine-associated variations.
+Notable metabolites included 5-methoxyindoleacetate, phosphorylcholine, and
+tetrahydrofolic acid.
+                  
+                  
+                    Conclusion:
+                    This preliminary study identified altered metabolic pathways in leukemia
+bone marrow and suggests metabolomic differences associated with BNT162b2
+vaccination. While the findings do not support a causal link between mRNA
+vaccination and leukemia development, they highlight the need for further studies to
+understand vaccine-induced metabolic modulation in hematological contexts.
+                  
+DOI: 10.2174/0115665240361878250601074746
+ISSN: 1566-5240
+Tag der Erhebung (OOIR): 2026-07-19</description>
+			<guid isPermaLink="false">ooir-trend-10.2174/0115665240361878250601074746-2026-07-19-3</guid>
+			<pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Dopaminergic vulnerability in long COVID: striatal PET imaging at the brain-body interface</title>
+			<link>https://doi.org/10.1016/j.ebiom.2026.106369</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 299
+Autoren: Eric Guedj, Danielle Beckman
+Journal: eBioMedicine
+Veröffentlicht: 2026-07-01
+DOI: 10.1016/j.ebiom.2026.106369
+ISSN: 2352-3964
+Tag der Erhebung (OOIR): 2026-07-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ebiom.2026.106369-2026-07-19-4</guid>
+			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Retraction Note: Time-of-day immunochemotherapy in non-small cell lung cancer: a randomized phase 3 trial</title>
+			<link>https://doi.org/10.1038/s41591-026-04508-1</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 278
+Autoren: Zhe Huang, Liang Zeng, Zhaohui Ruan, Qun Zeng, Huan Yan, Wenjuan Jiang, Yi Xiong, Chunhua Zhou, Haiyan Yang, Li Liu, Jiacheng Dai, Nachuan Zou, Shidong Xu, Ya Wang, Zhan Wang, Jun Deng, Xue Chen, Jing Wang, Hua Xiang, Xiaomei Li, Boris Duchemann, Guoqiang Chen, Yang Xia, Tony Mok, Christoph Scheiermann, Francis Lévi, Nong Yang, Yongchang Zhang
+Journal: Nature Medicine
+Veröffentlicht: 2026-06-24
+DOI: 10.1038/s41591-026-04508-1
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2026-07-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04508-1-2026-07-19-5</guid>
+			<pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

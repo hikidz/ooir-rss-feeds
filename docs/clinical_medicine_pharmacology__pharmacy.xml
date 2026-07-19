@@ -5,14 +5,118 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Pharmacology &amp; Pharmacy) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 18 Jul 2026 01:49:55 GMT</pubDate>
-		<lastBuildDate>Sat, 18 Jul 2026 01:49:55 GMT</lastBuildDate>
+		<pubDate>Sun, 19 Jul 2026 02:01:17 GMT</pubDate>
+		<lastBuildDate>Sun, 19 Jul 2026 02:01:17 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Pharmacology &amp; Pharmacy) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-pharmacologypharmacy-20260718014955</guid>
-			<pubDate>Sat, 18 Jul 2026 01:49:55 GMT</pubDate>
+			<title>Lowering salivary pH with sugar‐containing gum augments salivary nitrite production and blood pressure reduction with dietary nitrate (beetroot juice)</title>
+			<link>https://doi.org/10.1002/bcp.70640</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 272
+Autoren: Andrew J. Webb, Harriet Clift, Callum Hill, Nur Mousa, Navanithan Arun Jayaraj, Jasmine Quraishi, Charlotte E. Mills, Kevin O'Gallagher
+Journal: British Journal of Clinical Pharmacology
+Veröffentlicht: 2026-06-18
+Abstract: 
+                    Aims
+                    
+                      The nitrate–nitrite–nitric oxide (NO) pathway has a wide range of effects including blood pressure (BP) regulation. Nitrate, produced endogenously, and absorbed from dietary sources (e.g., beetroot), is concentrated in/secreted by the salivary glands and reduced by lingual bacterial nitrate reductases to nitrite (the ‘enterosalivary circulation’). Following systemic absorption, nitrite is further reduced to vasodilating NO intravascularly. The role of salivary pH in nitrate reduction has mainly been studied in isolated oral installation studies, rather than systemic studies employing the enterosalivary circulation. Our aim was to determine the acute relationship between salivary pH, salivary nitrite production, plasma [nitrite] and the BP‐lowering effect of dietary nitrate, by altering salivary pH using sugar‐containing chewing gum (
+                      vs
+                      . sugar‐free chewing gum).
+                    
+                  
+                  
+                    Methods
+                    We performed a 7‐h crossover study, with 14 healthy volunteers consuming beetroot juice (Beet‐It®, 70‐mL, ~400‐mg nitrate) and randomized to initially chew either sugar‐containing acidic chewing (bubble) gum or sugar‐free non‐acidic chewing gum, with the alternate gum on the second visit.
+                  
+                  
+                    Results
+                    
+                      Sugar‐containing gum decreased salivary pH by 1.4 ± 0.09
+                      vs
+                      . sugar‐free gum (
+                      p
+                       &amp;lt; .0001). While there was no significant effect on salivary nitrate secretion or plasma [nitrate], salivary nitrite production was increased by 45% (30.0 ± 11.0 μmol·h
+                      −1
+                      ; [
+                      p
+                       &amp;lt; .01]), with plasma [nitrite] increasing by 25% (222.2 ± 50.3 nmol·L
+                      −1
+                      ; [
+                      p
+                       = .0001]). Systolic and diastolic BP were decreased by 2.7 ± 0.5 and 1.9 ± 0.5 mmHg, respectively (both
+                      p
+                       &amp;lt; .0001).
+                    
+                  
+                  
+                    Conclusion
+                    Acutely lowering salivary pH (with sugar‐containing gum) augments salivary nitrite production, plasma [nitrite] and BP‐lowering with dietary nitrate. This mechanism has potential to enhance other nitrate–nitrite–NO pathway effects, for example, exercise performance.
+                  
+DOI: 10.1002/bcp.70640
+ISSN: 0306-5251
+Tag der Erhebung (OOIR): 2026-07-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/bcp.70640-2026-07-19-1</guid>
+			<pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Principles and practices for successful gene therapy innovative contracting: Insights from a multistakeholder convening</title>
+			<link>https://doi.org/10.18553/jmcp.2026.25356</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 157
+Autoren: Tyler D. Wagner, Jacqlyn W. Riposo, Kendra M. Gould, Jonathan D. Campbell, James T. Kenney, Theresa Schmidt
+Journal: Journal of Managed Care &amp;amp; Specialty Pharmacy
+Veröffentlicht: 2026-07-01
+DOI: 10.18553/jmcp.2026.25356
+ISSN: 2376-0540
+Tag der Erhebung (OOIR): 2026-07-19</description>
+			<guid isPermaLink="false">ooir-trend-10.18553/jmcp.2026.25356-2026-07-19-2</guid>
+			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Single-ligand dual-targeting lipid nanoparticles for therapeutic mRNA delivery to glioblastoma across the blood-brain barrier</title>
+			<link>https://doi.org/10.1016/j.jconrel.2026.115107</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 92
+Autoren: Yoon Tae Goo, Vincent N. Cataldi, Vladislav Grigoriev, Neera Yadav, Tetiana Korzun, Chao Wang, Adam W.G. Alani, Olena R. Taratula, Oleh Taratula
+Journal: Journal of Controlled Release
+Veröffentlicht: 2026-08-01
+DOI: 10.1016/j.jconrel.2026.115107
+ISSN: 0168-3659
+Tag der Erhebung (OOIR): 2026-07-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.jconrel.2026.115107-2026-07-19-3</guid>
+			<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Tocotrienol metabolites redirect lipid mediator production in innate immune cells towards inflammation resolution</title>
+			<link>https://doi.org/10.1016/j.apsb.2026.06.056</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 47
+Autoren: Stephan Permann, Elena Brunner, Khaled Alsabil, Markus Werner, Lorenz Waltl, Guillaume Viault, Danilo D’Avino, Bill Perkowski, Anita Siller, Laura Fritsch, Sara Perna, Harald Schennach, Denis Séraphin, Solveigh C. Koeberle, Paul M. Jordan, Fiorentina Roviezzo, Pascal Richomme, Antonietta Rossi, Jean-Jacques Helesbeux, Oliver Werz, Andreas Koeberle
+Journal: Acta Pharmaceutica Sinica B
+Veröffentlicht: 2026-07-01
+DOI: 10.1016/j.apsb.2026.06.056
+ISSN: 2211-3835
+Tag der Erhebung (OOIR): 2026-07-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.apsb.2026.06.056-2026-07-19-4</guid>
+			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Lipid nanoparticles as active biointerfaces: From membrane interaction to systemic dysregulation</title>
+			<link>https://doi.org/10.1016/j.apsb.2026.07.001</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 45
+Autoren: Falko Seger, L. Maria Gutschi, Stephanie Seneff
+Journal: Acta Pharmaceutica Sinica B
+Veröffentlicht: 2026-07-01
+DOI: 10.1016/j.apsb.2026.07.001
+ISSN: 2211-3835
+Tag der Erhebung (OOIR): 2026-07-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.apsb.2026.07.001-2026-07-19-5</guid>
+			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

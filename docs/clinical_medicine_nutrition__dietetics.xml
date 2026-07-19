@@ -5,14 +5,162 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Nutrition &amp; Dietetics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 18 Jul 2026 01:49:54 GMT</pubDate>
-		<lastBuildDate>Sat, 18 Jul 2026 01:49:54 GMT</lastBuildDate>
+		<pubDate>Sun, 19 Jul 2026 02:01:09 GMT</pubDate>
+		<lastBuildDate>Sun, 19 Jul 2026 02:01:09 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Nutrition &amp; Dietetics) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-nutritiondietetics-20260718014954</guid>
-			<pubDate>Sat, 18 Jul 2026 01:49:54 GMT</pubDate>
+			<title>Chronotype and associations with dietary intake, meal timing, body composition, and metabolic biomarkers</title>
+			<link>https://doi.org/10.3389/fnut.2026.1862060</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Nutrition &amp; Dietetics
+Score: 649
+Autoren: Carlien van der Merwe, Marilize Richter-Cottle, Bernhard H. Breier, Jeroen Douwes, Mirjam Münch, Rozanne Kruger
+Journal: Frontiers in Nutrition
+Veröffentlicht: 2026-07-07
+Abstract: 
+                    Background and aims
+                    In humans, meals are important non-photic zeitgebers for the circadian timing system, which is also influenced by chronotype. This study assessed whether chronotype is associated with dietary intake (energy; nutrients), meal timing, body composition markers, and metabolic biomarkers in healthy European and Pacific New Zealand (NZ) women.
+                  
+                  
+                    Methods
+                    Whole-body fat percentage (BF%), android-to-gynoid (AG) fat percentage ratio were assessed in 287 healthy non-pregnant European and Pacific NZ women aged 18–45 years using dual-energy X-ray absorptiometry (DXA). Body mass index (BMI) was calculated, and chronotype was assessed utilizing the Munich Chronotype Questionnaire (MCTQ). A 5-day estimated food record was used to assess dietary intake. Fasting venous blood samples were collected to evaluate metabolic biomarkers.
+                  
+                  
+                    Results
+                    
+                      The majority of participants (54%) were classified as intermediate chronotypes (IT), 34% as evening types (ET), and 12% as morning types (MT). The ET group had higher BMI, BF%, and AG fat percentage ratio than the morning and intermediate-chronotypes groups (MT-IT): 31.4 vs. 26.1 kg/m
+                      2
+                      , 36 vs. 34%, and 0.98 vs. 0.87, respectively. Daily energy intake was higher in ET than in MT-IT (
+                      p
+                       = 0.03). MT-IT had higher intakes of energy, protein, carbohydrate, and fat in the morning than ET (before 10:00); in contrast, ET had higher energy, protein, carbohydrate, and fat intakes in the evening after 20:00. The ET in high BF% and high AG ratio groups were more likely to have lower energy, protein, and carbohydrate intakes before 10:00 in the morning, as well as higher energy, carbohydrate, and fat intakes after 20:00. The ET group had overall a poorer lipid profile as well as glucose homeostasis than MT-IT (all
+                      p
+                       &amp;amp;lt; 0.05).
+                    
+                  
+                  
+                    Conclusion
+                    The ET women consumed less energy and less micronutrient-dense food than the MT-IT. The ET had lower dietary intake in the morning but higher intake in the evening, with an inverse pattern observed among MT-IT. Higher energy and macronutrient intake in the evening was significantly associated with a higher BF% and AG ratio in ET, suggesting a potentially greater susceptibility to obesity.
+                  
+DOI: 10.3389/fnut.2026.1862060
+ISSN: 2296-861X
+Tag der Erhebung (OOIR): 2026-07-19</description>
+			<guid isPermaLink="false">ooir-trend-10.3389/fnut.2026.1862060-2026-07-19-1</guid>
+			<pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Association between probiotic, prebiotic, and yogurt consumption and colorectal cancer: real-world evidence from the US NHANES</title>
+			<link>https://doi.org/10.1038/s41387-026-00432-y</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Nutrition &amp; Dietetics
+Score: 189
+Autoren: Ching-Wei Tu, Ho-Li Wang
+Journal: Nutrition &amp;amp; Diabetes
+Veröffentlicht: 2026-07-06
+DOI: 10.1038/s41387-026-00432-y
+ISSN: 2044-4052
+Tag der Erhebung (OOIR): 2026-07-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41387-026-00432-y-2026-07-19-2</guid>
+			<pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Deciphering underground decarboxylase activity towards Nε-modified lysine derivatives in enterobacteria</title>
+			<link>https://doi.org/10.1016/j.foodchem.2026.150234</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Nutrition &amp; Dietetics
+Score: 167
+Autoren: Erica F. Aveta, Patroklos Vougioukas, Fei Qi, Judith Mehler, Kim Ina Behringer, Nicola Gericke, Marlene Walczak, Alexander P. Vallejo-Janeta, Thomas Blank, Michael Hellwig, Jürgen Lassak
+Journal: Food Chemistry
+Veröffentlicht: 2026-09-01
+DOI: 10.1016/j.foodchem.2026.150234
+ISSN: 0308-8146
+Tag der Erhebung (OOIR): 2026-07-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.foodchem.2026.150234-2026-07-19-3</guid>
+			<pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Beyond the bare minimum: the case for revised physical activity guidelines and protein intake recommendations that maximise healthspan</title>
+			<link>https://doi.org/10.3389/fnut.2026.1853124</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Nutrition &amp; Dietetics
+Score: 153
+Autoren: Chris Macdonald
+Journal: Frontiers in Nutrition
+Veröffentlicht: 2026-06-17
+Abstract: Current physical activity and protein intake guidelines are framed around minimum thresholds, aimed primarily at preventing deficiency rather than optimising long-term health and functional capacity. Emerging evidence demonstrates that higher volumes and intensities of exercise (notably combining aerobic and resistance training) dramatically reduce all-cause mortality, enhance cognitive function, improve immune resilience, and preserve psychological well-being. Similarly, protein intakes well above existing recommendations support strength, recovery, and quality of life across diverse populations, including older adults and pregnant women. Importantly, well-planned high-protein diets can be safe, ethical, and environmentally sustainable. This perspective paper argues for a shift from ‘bare minimum’ public health targets to guidelines that promote optimal healthspan, empowering individuals to remain strong, independent, and cognitively capable throughout life. The paper recommends that governments update physical activity and protein guidelines to reflect contemporary evidence, accompanied by clear, actionable communications to ensure public awareness and uptake. In doing so, society can prevent avoidable declines in physical and cognitive function, reduce chronic disease burden, and cultivate a culture that values resilience, independence, and lifelong vitality.
+DOI: 10.3389/fnut.2026.1853124
+ISSN: 2296-861X
+Tag der Erhebung (OOIR): 2026-07-19</description>
+			<guid isPermaLink="false">ooir-trend-10.3389/fnut.2026.1853124-2026-07-19-4</guid>
+			<pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Ethanol pharmacokinetics before and after sleeve gastrectomy and Roux-en-Y gastric bypass: a 3 year prospective study (the BAR-TRIAL)</title>
+			<link>https://doi.org/10.1038/s41366-026-02113-3</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Nutrition &amp; Dietetics
+Score: 120
+Autoren: Magnus Strømmen, Ola Dale, Christian Klöckner, Ida Tylleskär
+Journal: International Journal of Obesity
+Veröffentlicht: 2026-06-17
+Abstract: Abstract
+                  
+                    Objectives
+                    To compare ethanol pharmacokinetics before and after Roux-en-Y gastric bypass (RYGB) and sleeve gastrectomy (SG) over a three-year period.
+                  
+                  
+                    Methods
+                    
+                      This was a prospective, longitudinal, non-randomized controlled study at St. Olavs Hospital, Trondheim, including 33 adults without histories of alcohol use disorder (RYGB:
+                      n
+                       = 14; SG:
+                      n
+                       = 19). Participants underwent oral and intravenous ethanol challenge tests preoperatively and at 3, 12, and 36 months postoperatively. Primary outcomes included maximum plasma concentration (C
+                      max
+                      ), time to reach maximum concentration (T
+                      max
+                      ), and area under the curve to the last measurable concentration (AUC
+                      last
+                      ).
+                    
+                  
+                  
+                    Results
+                    
+                      The ethanol uptake after both surgical procedures was bioequivalent for AUC
+                      last
+                      , but not for C
+                      max
+                      and T
+                      max
+                      . At 12 months, RYGB gave a 27% higher C
+                      max
+                      and 31% shorter T
+                      max
+                      than SG, while no significant differences were observed for AUC
+                      last
+                      . Both procedures induced profound and persistent alterations in ethanol pharmacokinetics over the three-year period: C
+                      max
+                      and AUC
+                      last
+                      approximately doubled, and T
+                      max
+                      was reduced to about half the preoperative value. C
+                      max
+                      occurred within 9–15 min compared to 25–29 min before surgery. Patients also had concomitant reductions in total body water, averaging 3.2 kg after SG and 4.8 kg after RYGB at 12 months.
+                    
+                  
+                  
+                    Conclusion
+                    Both RYGB and SG permanently altered ethanol pharmacokinetics, resulting in faster absorption, higher peak concentrations, and higher systemic exposure of alcohol. These changes, which were more pronounced after RYGB, may increase the risk of alcohol use disorders post-surgery. Awareness of the pharmacokinetic effects on RYGB and SG may be relevant for patient education, surgical decision-making, and postoperative monitoring.
+                  
+                  
+                    Clinical trial registration
+                    This study was registered in ClinicalTrials.gov on May 15 2013. Identifier: NCT01840020.
+                  
+DOI: 10.1038/s41366-026-02113-3
+ISSN: 0307-0565
+Tag der Erhebung (OOIR): 2026-07-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41366-026-02113-3-2026-07-19-5</guid>
+			<pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
