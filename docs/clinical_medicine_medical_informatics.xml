@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Mon, 20 Jul 2026 03:30:31 GMT</pubDate>
-		<lastBuildDate>Mon, 20 Jul 2026 03:30:31 GMT</lastBuildDate>
+		<pubDate>Tue, 21 Jul 2026 02:00:00 GMT</pubDate>
+		<lastBuildDate>Tue, 21 Jul 2026 02:00:00 GMT</lastBuildDate>
 		<item>
 			<title>Predicting the risk of serious muscle disorders in individuals eligible for statin treatment in England: derivation and validation of a clinical prediction model</title>
 			<link>https://doi.org/10.1016/j.landig.2026.101024</link>
@@ -18,23 +18,8 @@ Journal: The Lancet Digital Health
 Veröffentlicht: 2026-06-01
 DOI: 10.1016/j.landig.2026.101024
 ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2026-07-20</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.101024-2026-07-20-1</guid>
-			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Artificial intelligence–based retinal imaging for brain health assessment: a scoping review</title>
-			<link>https://doi.org/10.1016/j.landig.2026.101020</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 104
-Autoren: An Ran Ran, Zhuoting Zhu, Kelly H L Cheng, Chak Fung Ng, Oscar Yui Ming Choi, Qinghua He, Chunwen Zheng, Wenyi Hu, Xiaoyan Hu, Victor T T Chan, Alvin L Young, Kunliang Qiu, Malvina B Eydelman, T Y Alvin Liu, Ching-Yu Cheng, Yih Chung Tham, Dan Milea, Siegfried K Wagner, Pearse A Keane, Clement C Tham, Ho Ko, Christopher Li-Hsian Chen, Tien Yin Wong, Vincent C T Mok, Carol Y Cheung
-Journal: The Lancet Digital Health
-Veröffentlicht: 2026-06-01
-DOI: 10.1016/j.landig.2026.101020
-ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2026-07-20</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.101020-2026-07-20-2</guid>
+Tag der Erhebung (OOIR): 2026-07-21</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.101024-2026-07-21-1</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -54,9 +39,30 @@ Abstract: Abstract
                   
 DOI: 10.2196/104526
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2026-07-20</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/104526-2026-07-20-3</guid>
+Tag der Erhebung (OOIR): 2026-07-21</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/104526-2026-07-21-2</guid>
 			<pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Should AI Be Your Personal Trainer?</title>
+			<link>https://doi.org/10.2196/106128</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 32
+Autoren: Anna Zucker
+Journal: Journal of Medical Internet Research
+Veröffentlicht: 2026-07-08
+Abstract: Abstract
+                  
+                    From providing fitness information to correcting form in real time, AI applications for physical fitness are rapidly evolving. In this
+                    News and Perspectives
+                    article, JMIR Correspondent Anna Zucker reports on the promise and limits of AI personal training.
+                  
+DOI: 10.2196/106128
+ISSN: 1438-8871
+Tag der Erhebung (OOIR): 2026-07-21</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/106128-2026-07-21-3</guid>
+			<pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Human-AI Collaboration in Healthcare: A Scoping Review</title>
@@ -71,8 +77,8 @@ Abstract: Abstract
                   Artificial intelligence is increasingly embedded in clinical pathways, making effective human-AI collaboration (HAIC) a practical and policy priority in healthcare. We conducted a scoping review of empirical studies of HAIC in healthcare published from January 2015 to October 2025, using Joanna Briggs Institute methodology and PRISMA-ScR reporting. Of 17,463 records identified, 140 studies were included. Evidence was concentrated in diagnostic interpretation, with fewer studies in screening and triage, therapeutic decision-making, and administrative workflows. Effectiveness was defined inconsistently across task contexts and was usually assessed using short-term task-level metrics rather than patient or system outcomes. Most studies, particularly in diagnostic interpretation, reported benefits for human-AI teams. These depended on task fit, workflow integration, training, and appropriately calibrated trust. Ethical and governance issues, including accountability and patient safety, were often discussed but rarely evaluated empirically. These findings provide a foundation for more task-specific, longitudinal, and governance-aware evaluation of HAIC in healthcare.
 DOI: 10.1038/s41746-026-02918-6
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-07-20</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02918-6-2026-07-20-4</guid>
+Tag der Erhebung (OOIR): 2026-07-21</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02918-6-2026-07-21-4</guid>
 			<pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -92,8 +98,8 @@ Abstract: Abstract
                   
 DOI: 10.2196/104414
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2026-07-20</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/104414-2026-07-20-5</guid>
+Tag der Erhebung (OOIR): 2026-07-21</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/104414-2026-07-21-5</guid>
 			<pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
