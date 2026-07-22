@@ -5,14 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, Research &amp; Experimental) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Jul 2026 02:00:29 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Jul 2026 02:00:29 GMT</lastBuildDate>
+		<pubDate>Wed, 22 Jul 2026 01:58:38 GMT</pubDate>
+		<lastBuildDate>Wed, 22 Jul 2026 01:58:38 GMT</lastBuildDate>
 		<item>
 			<title>Biological aging and generational shifts in early-onset cancer risk</title>
 			<link>https://doi.org/10.1038/s41591-026-04448-w</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medicine, Research &amp; Experimental
-Score: 1031
+Score: 1056
 Autoren: Ruiyi Tian, Xiaoyu Zong, Duo Ren, Stefani Tica, Daniel Hong, Oluseye Oduyale, Jason D. Buenrostro, Ramaswamy Govindan, Yin Cao
 Journal: Nature Medicine
 Veröffentlicht: 2026-06-22
@@ -26,8 +26,8 @@ Abstract: Abstract
                   
 DOI: 10.1038/s41591-026-04448-w
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2026-07-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04448-w-2026-07-21-1</guid>
+Tag der Erhebung (OOIR): 2026-07-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04448-w-2026-07-22-1</guid>
 			<pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -82,8 +82,8 @@ understand vaccine-induced metabolic modulation in hematological contexts.
                   
 DOI: 10.2174/0115665240361878250601074746
 ISSN: 1566-5240
-Tag der Erhebung (OOIR): 2026-07-21</description>
-			<guid isPermaLink="false">ooir-trend-10.2174/0115665240361878250601074746-2026-07-21-2</guid>
+Tag der Erhebung (OOIR): 2026-07-22</description>
+			<guid isPermaLink="false">ooir-trend-10.2174/0115665240361878250601074746-2026-07-22-2</guid>
 			<pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -91,14 +91,31 @@ Tag der Erhebung (OOIR): 2026-07-21</description>
 			<link>https://doi.org/10.1016/j.ebiom.2026.106369</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medicine, Research &amp; Experimental
-Score: 327
+Score: 330
 Autoren: Eric Guedj, Danielle Beckman
 Journal: eBioMedicine
 Veröffentlicht: 2026-07-01
 DOI: 10.1016/j.ebiom.2026.106369
 ISSN: 2352-3964
-Tag der Erhebung (OOIR): 2026-07-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ebiom.2026.106369-2026-07-21-3</guid>
+Tag der Erhebung (OOIR): 2026-07-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ebiom.2026.106369-2026-07-22-3</guid>
+			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>A neuroprosthesis for restoring hand movement and sensation in a person with complete tetraplegia</title>
+			<link>https://doi.org/10.1038/s41591-026-04498-0</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 323
+Autoren: Santosh Chandrasekaran, Sarah K. Wandelt, Aniket Jangam, Zeev Elias, Erona Ibroci, Christina Maffei, Isabelle A. Rosenthal, Richard Ramdeo, Joo-won Kim, Junqian Xu, Matthew F. Glasser, Allison Neuwirth, Todd A. Goldstein, Nathan E. Crone, Matthew S. Fifer, Gelana Tostaeva, Stephan Bickel, Douglas Griffin, Michael Funaro, Nicholas G. Carras, Rachel Pruitt, Netanel Ben-Shalom, Adam B. Stein, Ashesh D. Mehta, Chad E. Bouton
+Journal: Nature Medicine
+Veröffentlicht: 2026-07-01
+Abstract: Abstract
+                  Millions of people worldwide are living with movement and sensory impairments owing to spinal cord injury, stroke and other neurological conditions. Here we report a double neural bypass (DNB), a hybrid neuroprosthetic system designed to restore both immediate and lasting gains in movement and sensation after a severe, complete spinal cord injury. The DNB links an intracortical brain–computer interface with targeted and patterned neuromodulation of the spinal cord and cortex. This allows brain signals associated with movement intention to directly control the movement of the user’s own hand in real time while also promoting long-term sensorimotor recovery—even after the system is turned off. The DNB system uses recurrent artificial neural networks and reinforcement learning for fine grasp control, together with patterned spinal cord stimulation and activity-informed intracortical microstimulation (‘cortical mirroring’) to promote neuroplasticity and durable recovery of function. In a participant with chronic C4 sensory/C5 motor complete tetraplegia, this hybrid approach enabled recovery of functional abilities including self-feeding and manipulation of delicate objects, while also producing significant and persistent improvements in elbow flexion and wrist tactile sensation. These findings demonstrate the potential of combining a sensorimotor neuroprosthesis with targeted brain and spinal neuromodulation to restore clinically relevant function in severe paralysis.
+DOI: 10.1038/s41591-026-04498-0
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2026-07-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04498-0-2026-07-22-4</guid>
 			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -112,24 +129,9 @@ Journal: Nature Medicine
 Veröffentlicht: 2026-06-24
 DOI: 10.1038/s41591-026-04508-1
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2026-07-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04508-1-2026-07-21-4</guid>
+Tag der Erhebung (OOIR): 2026-07-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04508-1-2026-07-22-5</guid>
 			<pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Generalizable AI predicts immunotherapy outcomes across cancers and treatments</title>
-			<link>https://doi.org/10.1038/s41591-026-04502-7</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, Research &amp; Experimental
-Score: 214
-Autoren: Wanxiang Shen, Intae Moon, Thinh H. Nguyen, Michelle M. Li, Yepeng Huang, Nitya Nair, Daniel Marbach, Marinka Zitnik
-Journal: Nature Medicine
-Veröffentlicht: 2026-07-03
-DOI: 10.1038/s41591-026-04502-7
-ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2026-07-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04502-7-2026-07-21-5</guid>
-			<pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

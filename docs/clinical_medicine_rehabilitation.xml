@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rehabilitation) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Jul 2026 01:59:00 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Jul 2026 01:59:00 GMT</lastBuildDate>
+		<pubDate>Wed, 22 Jul 2026 01:57:26 GMT</pubDate>
+		<lastBuildDate>Wed, 22 Jul 2026 01:57:26 GMT</lastBuildDate>
 		<item>
 			<title>Cross-education of upper-limb strength and muscle thickness following unilateral resistance training: a systematic review and meta-analysis</title>
 			<link>https://doi.org/10.1080/09593985.2026.2689440</link>
@@ -18,8 +18,8 @@ Journal: Physiotherapy Theory and Practice
 Veröffentlicht: 2026-06-21
 DOI: 10.1080/09593985.2026.2689440
 ISSN: 0959-3985
-Tag der Erhebung (OOIR): 2026-07-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1080/09593985.2026.2689440-2026-07-21-1</guid>
+Tag der Erhebung (OOIR): 2026-07-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1080/09593985.2026.2689440-2026-07-22-1</guid>
 			<pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -49,8 +49,8 @@ Abstract:
                   
 DOI: 10.1044/2026_ajslp-25-00494
 ISSN: 1058-0360
-Tag der Erhebung (OOIR): 2026-07-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1044/2026_ajslp-25-00494-2026-07-21-2</guid>
+Tag der Erhebung (OOIR): 2026-07-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1044/2026_ajslp-25-00494-2026-07-22-2</guid>
 			<pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -81,24 +81,9 @@ Abstract: Abstract
                   
 DOI: 10.1007/s00520-026-10898-2
 ISSN: 0941-4355
-Tag der Erhebung (OOIR): 2026-07-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s00520-026-10898-2-2026-07-21-3</guid>
+Tag der Erhebung (OOIR): 2026-07-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s00520-026-10898-2-2026-07-22-3</guid>
 			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Expansion of Autism Spectrum Disorder: Characteristics of Broader Autism Phenotype and its Relationship with Family Members</title>
-			<link>https://doi.org/10.1007/s10882-026-10078-4</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rehabilitation
-Score: 15
-Autoren: Fu Qiang Qiao, Xiao Ying Zhou, Huan Dong Zhang
-Journal: Journal of Developmental and Physical Disabilities
-Veröffentlicht: 2026-06-22
-DOI: 10.1007/s10882-026-10078-4
-ISSN: 1056-263X
-Tag der Erhebung (OOIR): 2026-07-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s10882-026-10078-4-2026-07-21-4</guid>
-			<pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Passive sensing of gait and medication-related fluctuations in Parkinson’s disease</title>
@@ -140,9 +125,24 @@ Abstract: Abstract
                   
 DOI: 10.1186/s12984-026-02068-6
 ISSN: 1743-0003
-Tag der Erhebung (OOIR): 2026-07-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1186/s12984-026-02068-6-2026-07-21-5</guid>
+Tag der Erhebung (OOIR): 2026-07-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1186/s12984-026-02068-6-2026-07-22-4</guid>
 			<pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Expansion of Autism Spectrum Disorder: Characteristics of Broader Autism Phenotype and its Relationship with Family Members</title>
+			<link>https://doi.org/10.1007/s10882-026-10078-4</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 15
+Autoren: Fu Qiang Qiao, Xiao Ying Zhou, Huan Dong Zhang
+Journal: Journal of Developmental and Physical Disabilities
+Veröffentlicht: 2026-06-22
+DOI: 10.1007/s10882-026-10078-4
+ISSN: 1056-263X
+Tag der Erhebung (OOIR): 2026-07-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s10882-026-10078-4-2026-07-22-5</guid>
+			<pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
