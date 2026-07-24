@@ -5,14 +5,132 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, Research &amp; Experimental) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 23 Jul 2026 02:06:18 GMT</pubDate>
-		<lastBuildDate>Thu, 23 Jul 2026 02:06:18 GMT</lastBuildDate>
+		<pubDate>Fri, 24 Jul 2026 02:01:16 GMT</pubDate>
+		<lastBuildDate>Fri, 24 Jul 2026 02:01:16 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Medicine, Research &amp; Experimental) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-medicineresearchexperimental-20260723020618</guid>
-			<pubDate>Thu, 23 Jul 2026 02:06:18 GMT</pubDate>
+			<title>Metabolomic Profiling of Leukemic Hematopoiesis: Effects of BNT162b2 mRNA COVID-19 Vaccine Administration</title>
+			<link>https://doi.org/10.2174/0115665240361878250601074746</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 427
+Autoren: Batuhan Erdogdu, Ozan Kaplan, Bilge Basak Fidan, Mustafa Celebier, Umit Yavuz Malkan, Ibrahim C. Haznedaroglu
+Journal: Current Molecular Medicine
+Veröffentlicht: 2026-06-19
+Abstract: 
+                    Background:
+                    Leukemia is marked by clonal hematopoietic stem cell
+expansion and metabolic reprogramming. The BNT162b2 mRNA COVID-19 vaccine
+has been proven effective, though questions remain about its broader physiological
+effects. This study investigates metabolomic alterations in leukemic bone marrow
+potentially associated with BNT162b2 vaccination.
+                  
+                  
+                    Objective:
+                    To compare the bone marrow metabolomic profiles of leukemia patients
+with and without BNT162b2 vaccination, and healthy unvaccinated controls, to explore
+potential metabolic differences.
+                  
+                  
+                    Methods:
+                    Bone marrow samples were obtained from three groups: vaccinated
+leukemia patients (n=7), unvaccinated leukemia patients without COVID-19 history
+(n=2), and unvaccinated healthy controls (n=7). Untargeted metabolomics was
+performed using LC-QTOF-MS. Data were analyzed using XCMS and MetaboAnalyst
+5.0 to identify statistically significant metabolite differences and affected pathways.
+Fold change &amp;gt;1.5 and p&amp;lt;0.05 were considered significant.
+                  
+                  
+                    Results and Discussion:
+                    Distinct metabolic profiles were observed between the leukemia and control
+groups. Increased glycolysis, pentose phosphate pathway activity, and altered
+tryptophan, lipid, and heme metabolism were noted in leukemia samples. Metabolic
+changes in vaccinated patients (ASL) were more similar to unvaccinated leukemia
+patients (LO) than to healthy controls, with minor vaccine-associated variations.
+Notable metabolites included 5-methoxyindoleacetate, phosphorylcholine, and
+tetrahydrofolic acid.
+                  
+                  
+                    Conclusion:
+                    This preliminary study identified altered metabolic pathways in leukemia
+bone marrow and suggests metabolomic differences associated with BNT162b2
+vaccination. While the findings do not support a causal link between mRNA
+vaccination and leukemia development, they highlight the need for further studies to
+understand vaccine-induced metabolic modulation in hematological contexts.
+                  
+DOI: 10.2174/0115665240361878250601074746
+ISSN: 1566-5240
+Tag der Erhebung (OOIR): 2026-07-24</description>
+			<guid isPermaLink="false">ooir-trend-10.2174/0115665240361878250601074746-2026-07-24-1</guid>
+			<pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Generative AI-enabled clinical decision support system in primary care: a pragmatic, cluster-randomized trial</title>
+			<link>https://doi.org/10.1038/s41591-026-04503-6</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 409
+Autoren: Ambrose Agweyu, Paul Mwaniki, Vaishnavi Menon, Robert Korom, Lynda Isaaka, Conrad Wanyama, Jaspret Gill, Sarah Kiptinness, Najib Adan, Mira Emmanuel-Fabula, Richard D. Riley, Lucinda Archer, Alastair K. Denniston, Xiaoxuan Liu, Bilal A. Mateen
+Journal: Nature Medicine
+Veröffentlicht: 2026-06-26
+Abstract: Abstract
+                  
+                    Rigorous evidence on the performance of large language models (LLMs) in real-world, low-resource clinical settings remains limited. Here we conducted a pragmatic, cluster-randomized trial in 16 primary care facilities in Kenya. Clinical officers were randomized to use the electronic medical record with or without LLM assistance. The primary outcome was an expert-adjudicated composite of treatment failure events experienced within 14 days of enrollment. Between 22 April and 16 July 2025, 9,691 patients were enrolled, overseen by 103 clinical officers (52 in the LLM-assisted arm and 51 in the control arm). Treatment failure occurred in 102/4,693 patients (2.2%) in the intervention arm and 94/4,654 (2.0%) in the control arm (adjusted odds ratio 0.77, 95% confidence interval 0.55 to 1.08,
+                    P
+                     = 0.13). The primary outcome did not differ significantly between groups. No serious adverse events were judged related to the intervention, and independent review of the adverse events did not identify a safety signal. In this trial, LLM assistance was safe but did not reduce treatment failure within 14 days and any benefit, if present, is probably modest.
+                  
+                  Pan-African Clinical Trials Registry: 202502499779176.
+DOI: 10.1038/s41591-026-04503-6
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2026-07-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04503-6-2026-07-24-2</guid>
+			<pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>A neuroprosthesis for restoring hand movement and sensation in a person with complete tetraplegia</title>
+			<link>https://doi.org/10.1038/s41591-026-04498-0</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 356
+Autoren: Santosh Chandrasekaran, Sarah K. Wandelt, Aniket Jangam, Zeev Elias, Erona Ibroci, Christina Maffei, Isabelle A. Rosenthal, Richard Ramdeo, Joo-won Kim, Junqian Xu, Matthew F. Glasser, Allison Neuwirth, Todd A. Goldstein, Nathan E. Crone, Matthew S. Fifer, Gelana Tostaeva, Stephan Bickel, Douglas Griffin, Michael Funaro, Nicholas G. Carras, Rachel Pruitt, Netanel Ben-Shalom, Adam B. Stein, Ashesh D. Mehta, Chad E. Bouton
+Journal: Nature Medicine
+Veröffentlicht: 2026-07-01
+Abstract: Abstract
+                  Millions of people worldwide are living with movement and sensory impairments owing to spinal cord injury, stroke and other neurological conditions. Here we report a double neural bypass (DNB), a hybrid neuroprosthetic system designed to restore both immediate and lasting gains in movement and sensation after a severe, complete spinal cord injury. The DNB links an intracortical brain–computer interface with targeted and patterned neuromodulation of the spinal cord and cortex. This allows brain signals associated with movement intention to directly control the movement of the user’s own hand in real time while also promoting long-term sensorimotor recovery—even after the system is turned off. The DNB system uses recurrent artificial neural networks and reinforcement learning for fine grasp control, together with patterned spinal cord stimulation and activity-informed intracortical microstimulation (‘cortical mirroring’) to promote neuroplasticity and durable recovery of function. In a participant with chronic C4 sensory/C5 motor complete tetraplegia, this hybrid approach enabled recovery of functional abilities including self-feeding and manipulation of delicate objects, while also producing significant and persistent improvements in elbow flexion and wrist tactile sensation. These findings demonstrate the potential of combining a sensorimotor neuroprosthesis with targeted brain and spinal neuromodulation to restore clinically relevant function in severe paralysis.
+DOI: 10.1038/s41591-026-04498-0
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2026-07-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04498-0-2026-07-24-3</guid>
+			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Dopaminergic vulnerability in long COVID: striatal PET imaging at the brain-body interface</title>
+			<link>https://doi.org/10.1016/j.ebiom.2026.106369</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 330
+Autoren: Eric Guedj, Danielle Beckman
+Journal: eBioMedicine
+Veröffentlicht: 2026-07-01
+DOI: 10.1016/j.ebiom.2026.106369
+ISSN: 2352-3964
+Tag der Erhebung (OOIR): 2026-07-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ebiom.2026.106369-2026-07-24-4</guid>
+			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Retraction Note: Time-of-day immunochemotherapy in non-small cell lung cancer: a randomized phase 3 trial</title>
+			<link>https://doi.org/10.1038/s41591-026-04508-1</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 284
+Autoren: Zhe Huang, Liang Zeng, Zhaohui Ruan, Qun Zeng, Huan Yan, Wenjuan Jiang, Yi Xiong, Chunhua Zhou, Haiyan Yang, Li Liu, Jiacheng Dai, Nachuan Zou, Shidong Xu, Ya Wang, Zhan Wang, Jun Deng, Xue Chen, Jing Wang, Hua Xiang, Xiaomei Li, Boris Duchemann, Guoqiang Chen, Yang Xia, Tony Mok, Christoph Scheiermann, Francis Lévi, Nong Yang, Yongchang Zhang
+Journal: Nature Medicine
+Veröffentlicht: 2026-06-24
+DOI: 10.1038/s41591-026-04508-1
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2026-07-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04508-1-2026-07-24-5</guid>
+			<pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,14 +5,128 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Sport Sciences) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 23 Jul 2026 02:05:21 GMT</pubDate>
-		<lastBuildDate>Thu, 23 Jul 2026 02:05:21 GMT</lastBuildDate>
+		<pubDate>Fri, 24 Jul 2026 02:00:30 GMT</pubDate>
+		<lastBuildDate>Fri, 24 Jul 2026 02:00:30 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Sport Sciences) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-sportsciences-20260723020521</guid>
-			<pubDate>Thu, 23 Jul 2026 02:05:21 GMT</pubDate>
+			<title>Evaluating movement breaks as a public health strategy to mitigate the harms of prolonged sitting: a large-scale pragmatic intervention</title>
+			<link>https://doi.org/10.1136/bjsports-2025-111221</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 954
+Autoren: Keith M Diaz, Margaret E Murdock, Maria A Serafini, Adriana Wu Clark, Benjamin D Boudreaux, Andrea T Duran, Sanaz Meshkinpour, Katie Monteleone, Ying Kuen Cheung, Manoush Zomorodi
+Journal: British Journal of Sports Medicine
+Veröffentlicht: 2026-06-23
+Abstract: Brief, regular movement breaks have been proposed as a public health strategy to offset the harms of prolonged sedentary behaviour; however, their real-world viability is unclear. This study aimed to assess the implementation potential, effectiveness on psychosocial outcomes and optimal dosing of movement breaks in naturalistic settings.
+                  
+                    Methods
+                    Adults (n=19 342) enrolled in a 2-week pragmatic intervention embedded within an interactive podcast; of whom 59.4% (n=11 484) initiated the intervention. Participants took 5-minute walking breaks at their self-selected break frequency (three arms: every 30, 60 or 120 min). Implementation potential was assessed using the Feasibility, Acceptability and Appropriateness of Intervention Measures (FIM, AIM, IAM). Fatigue, positive affect and negative affect were assessed pre-intervention and post-intervention.
+                  
+                  
+                    Results
+                    All arms exceeded the viability threshold (&amp;gt;3.0) for implementation outcomes. Feasibility was higher at lower break frequencies (FIM: 30 min=3.41, 60 min=3.80, 120 min=4.01), while acceptability and appropriateness were high across arms (AIM: 30 min=3.91, 60 min=4.03, 120 min=4.03; IAM: 30 min=4.00, 60 min=4.04, 120 min=3.99). Reported fatigue and negative affect decreased and reported positive affect increased significantly across all arms. Improvements showed a dose-response pattern: the 30-minute and 60-minute arms exceeded minimal important difference thresholds for fatigue (change: 30 min=−1.55, 60 min=−1.41, 120 min=−1.19) and positive affect (change: 30 min=1.86, 60 min=1.65, 120 min=1.27), with only the 30-minute arm exceeding the threshold for negative affect (change: 30 min=−1.00, 60 min=−0.92, 120 min=−0.67).
+                  
+                  
+                    Conclusion
+                    In this large-scale, pragmatic intervention, movement breaks demonstrated good implementation potential and effectiveness for improving psychosocial outcomes over the 2-week intervention period. Hourly breaks offered the best balance between feasibility and effectiveness. These findings support movement breaks as a potentially viable public health strategy to reduce the harms of prolonged sedentary behaviour.
+                  
+DOI: 10.1136/bjsports-2025-111221
+ISSN: 0306-3674
+Tag der Erhebung (OOIR): 2026-07-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-111221-2026-07-24-1</guid>
+			<pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>High-impact physical activity participation and 12-month risk of joint replacement: a longitudinal mediation analysis of 17 661 patients with knee or hip osteoarthritis</title>
+			<link>https://doi.org/10.1136/bjsports-2026-111824</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 92
+Autoren: Bernard Xian Wei Liew, Dorte Thalund Grønne, Ewa M Roos, Søren T Skou
+Journal: British Journal of Sports Medicine
+Veröffentlicht: 2026-07-01
+Abstract: 
+                    Objective
+                    Clinical guidelines consistently recommend low-impact physical activity (PA) for the management of hip or knee osteoarthritis (OA). This study aimed to determine the risk and mediators of joint replacement in people with hip or knee OA who participate in high-impact PA.
+                  
+                  
+                    Methods
+                    We conducted a mediation analysis using data from the Good Life with osteoArthritis in Denmark (GLA:D) registry. Baseline PA was self-reported using the University of California, Los Angeles (UCLA) Activity Scale and categorised as high-impact, high-intensity, moderate-intensity or low-intensity. Outcomes were self-reported total hip replacement (THR) or total knee replacement (TKR) at 12 months. Candidate mediators measured at 3 months were joint pain intensity, functional capacity (30-second chair stand test) and fear of joint damage from PA.
+                  
+                  
+                    Results
+                    Among 5911 participants with hip OA (66.8 years, 69.5% women), 5.9% engaged in high-impact PA. Among 11 750 participants with knee OA (66.5 years, 72.7% women), 5.2% engaged in high-impact PA. High-impact PA was associated with 36–48% lower odds of THR and was not associated with altered risk of TKR. There was little evidence that pain intensity, functional capacity or fear of joint damage mediated these associations. However, a small indirect effect via functional capacity was observed, where a greater functional capacity was associated with a reduction in odds of TKR (OR 0.92, 95% CI 0.87 to 0.98).
+                  
+                  
+                    Conclusion
+                    High-impact PA was associated with a substantially lower risk of THR, and did not increase TKR risk. Clinicians may consider recommending higher-impact activities for individuals with hip OA, and supporting continued participation in knee OA when symptoms, capacity and patient goals allow.
+                  
+DOI: 10.1136/bjsports-2026-111824
+ISSN: 0306-3674
+Tag der Erhebung (OOIR): 2026-07-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2026-111824-2026-07-24-2</guid>
+			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Effects of Resistance Exercise to Failure Versus Nonfailure on Appetite, Hormones, and Energy Intake in Young Healthy Males</title>
+			<link>https://doi.org/10.1123/ijsnem.2025-0094</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 89
+Autoren: Hao-Chien Cheng, Hung-Wen Liu, Yee-Chin Kuo, Pei-Hsuan Yu, Kuan-Tsen Yeh, Chia-Han Hsieh
+Journal: International Journal of Sport Nutrition and Exercise Metabolism
+Veröffentlicht: 2026-07-01
+Abstract: 
+                    This study examined how resistance exercise (RE) volume, a potential key factor in appetite regulation, influences subjective appetite, gut appetite hormones, and energy intake. Eighteen males (aged 21–27 years) completed failure RE (FRE; three sets of failure reps at 70% (at 1 RM), non-FRE (NFRE; 3 × 7 reps at 70% 1 RM), and control (CON) trials. Appetite and acyl-ghrelin, peptide YY, lactate, and glucose were measured pre- and postexercise 0–90 min. Ad libitum meal was provided after exercise. Participants recorded energy intake for the day before, the day of, and the day after each session. The incremental area under the curve (iAUC) for acyl-ghrelin (AG) in the FRE and NFRE were significantly lower than in the CON (
+                    p
+                     &amp;lt; .001). Peptide YY iAUC and glucose iAUC in the FRE were significantly higher than in the CON (
+                    p
+                     &amp;lt; .001;
+                    p
+                     = .003). There was a dose–response for lactate iAUC (FRE &amp;gt; NFRE &amp;gt; CON;
+                    p
+                     &amp;lt; .001). Appetite iAUC was significantly lower in the FRE than in the CON (
+                    p
+                     = .012). There were no significant differences in postexercise ad libitum meal and self-reported free-living energy intake between the three sessions (
+                    p
+                     = .246,
+                    p
+                     = .226). Acyl-ghrelin was negatively correlated with lactate and positively correlated with overall appetite in both RE sessions. Lactate was negatively correlated with overall appetite in both RE sessions. Moderate-intensity RE with moderate volume-induced temporary appetite suppression, whereas FRE led to prolonged suppression and greater appetite-related hormonal responses, yet neither affected energy intake in young males.
+                  
+DOI: 10.1123/ijsnem.2025-0094
+ISSN: 1526-484X
+Tag der Erhebung (OOIR): 2026-07-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1123/ijsnem.2025-0094-2026-07-24-3</guid>
+			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Research priorities for advancing mental health in elite sport: a companion to the IOC consensus statement on mental health in elite athletes</title>
+			<link>https://doi.org/10.1136/bjsports-2025-111515</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 56
+Autoren: Emily Kroshus-Havril, Claudia L Reardon, Vincent Gouttebarge, Cindy Miller Aron, Roald Bahr, Cheri Blauwet, João Mauricio Castaldelli-Maia, Camille Cheng, Alan Currie, Jeffrey Lee Derevensky, Carla Edwards, Sarah Fussek, Paul Gorczynski, Michael A Grandner, Doug Hyun Han, Mary E Hitchcock, Frank Lu, Andrew Massey, David McDuff, Margo Mountjoy, Rosemary Purcell, Margot Putukian, Simon M Rice, Scott Sloan, Torbjørn Soligard, Jorunn Kaiander Sundgot-Borgen, Leslie Swartz, Jane S Thornton, Tshepang Tshube, Brian Hainline
+Journal: British Journal of Sports Medicine
+Veröffentlicht: 2026-06-22
+DOI: 10.1136/bjsports-2025-111515
+ISSN: 0306-3674
+Tag der Erhebung (OOIR): 2026-07-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2025-111515-2026-07-24-4</guid>
+			<pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Physical Activity Does Not Fully Offset the Health Risks of Sedentary Behaviour</title>
+			<link>https://doi.org/10.1249/mss.0000000000004055</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 53
+Autoren: Paddy C. Dempsey, Christian J. Brakenridge, Dorothea Dumuid, Neville Owen
+Journal: Medicine &amp;amp; Science in Sports &amp;amp; Exercise
+Veröffentlicht: 2026-06-23
+DOI: 10.1249/mss.0000000000004055
+ISSN: 0195-9131
+Tag der Erhebung (OOIR): 2026-07-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1249/mss.0000000000004055-2026-07-24-5</guid>
+			<pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
