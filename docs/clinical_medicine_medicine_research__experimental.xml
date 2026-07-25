@@ -5,64 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, Research &amp; Experimental) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Fri, 24 Jul 2026 02:01:16 GMT</pubDate>
-		<lastBuildDate>Fri, 24 Jul 2026 02:01:16 GMT</lastBuildDate>
-		<item>
-			<title>Metabolomic Profiling of Leukemic Hematopoiesis: Effects of BNT162b2 mRNA COVID-19 Vaccine Administration</title>
-			<link>https://doi.org/10.2174/0115665240361878250601074746</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medicine, Research &amp; Experimental
-Score: 427
-Autoren: Batuhan Erdogdu, Ozan Kaplan, Bilge Basak Fidan, Mustafa Celebier, Umit Yavuz Malkan, Ibrahim C. Haznedaroglu
-Journal: Current Molecular Medicine
-Veröffentlicht: 2026-06-19
-Abstract: 
-                    Background:
-                    Leukemia is marked by clonal hematopoietic stem cell
-expansion and metabolic reprogramming. The BNT162b2 mRNA COVID-19 vaccine
-has been proven effective, though questions remain about its broader physiological
-effects. This study investigates metabolomic alterations in leukemic bone marrow
-potentially associated with BNT162b2 vaccination.
-                  
-                  
-                    Objective:
-                    To compare the bone marrow metabolomic profiles of leukemia patients
-with and without BNT162b2 vaccination, and healthy unvaccinated controls, to explore
-potential metabolic differences.
-                  
-                  
-                    Methods:
-                    Bone marrow samples were obtained from three groups: vaccinated
-leukemia patients (n=7), unvaccinated leukemia patients without COVID-19 history
-(n=2), and unvaccinated healthy controls (n=7). Untargeted metabolomics was
-performed using LC-QTOF-MS. Data were analyzed using XCMS and MetaboAnalyst
-5.0 to identify statistically significant metabolite differences and affected pathways.
-Fold change &amp;gt;1.5 and p&amp;lt;0.05 were considered significant.
-                  
-                  
-                    Results and Discussion:
-                    Distinct metabolic profiles were observed between the leukemia and control
-groups. Increased glycolysis, pentose phosphate pathway activity, and altered
-tryptophan, lipid, and heme metabolism were noted in leukemia samples. Metabolic
-changes in vaccinated patients (ASL) were more similar to unvaccinated leukemia
-patients (LO) than to healthy controls, with minor vaccine-associated variations.
-Notable metabolites included 5-methoxyindoleacetate, phosphorylcholine, and
-tetrahydrofolic acid.
-                  
-                  
-                    Conclusion:
-                    This preliminary study identified altered metabolic pathways in leukemia
-bone marrow and suggests metabolomic differences associated with BNT162b2
-vaccination. While the findings do not support a causal link between mRNA
-vaccination and leukemia development, they highlight the need for further studies to
-understand vaccine-induced metabolic modulation in hematological contexts.
-                  
-DOI: 10.2174/0115665240361878250601074746
-ISSN: 1566-5240
-Tag der Erhebung (OOIR): 2026-07-24</description>
-			<guid isPermaLink="false">ooir-trend-10.2174/0115665240361878250601074746-2026-07-24-1</guid>
-			<pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-		</item>
+		<pubDate>Sat, 25 Jul 2026 02:01:00 GMT</pubDate>
+		<lastBuildDate>Sat, 25 Jul 2026 02:01:00 GMT</lastBuildDate>
 		<item>
 			<title>Generative AI-enabled clinical decision support system in primary care: a pragmatic, cluster-randomized trial</title>
 			<link>https://doi.org/10.1038/s41591-026-04503-6</link>
@@ -81,8 +25,8 @@ Abstract: Abstract
                   Pan-African Clinical Trials Registry: 202502499779176.
 DOI: 10.1038/s41591-026-04503-6
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2026-07-24</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04503-6-2026-07-24-2</guid>
+Tag der Erhebung (OOIR): 2026-07-25</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04503-6-2026-07-25-1</guid>
 			<pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -98,8 +42,8 @@ Abstract: Abstract
                   Millions of people worldwide are living with movement and sensory impairments owing to spinal cord injury, stroke and other neurological conditions. Here we report a double neural bypass (DNB), a hybrid neuroprosthetic system designed to restore both immediate and lasting gains in movement and sensation after a severe, complete spinal cord injury. The DNB links an intracortical brain–computer interface with targeted and patterned neuromodulation of the spinal cord and cortex. This allows brain signals associated with movement intention to directly control the movement of the user’s own hand in real time while also promoting long-term sensorimotor recovery—even after the system is turned off. The DNB system uses recurrent artificial neural networks and reinforcement learning for fine grasp control, together with patterned spinal cord stimulation and activity-informed intracortical microstimulation (‘cortical mirroring’) to promote neuroplasticity and durable recovery of function. In a participant with chronic C4 sensory/C5 motor complete tetraplegia, this hybrid approach enabled recovery of functional abilities including self-feeding and manipulation of delicate objects, while also producing significant and persistent improvements in elbow flexion and wrist tactile sensation. These findings demonstrate the potential of combining a sensorimotor neuroprosthesis with targeted brain and spinal neuromodulation to restore clinically relevant function in severe paralysis.
 DOI: 10.1038/s41591-026-04498-0
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2026-07-24</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04498-0-2026-07-24-3</guid>
+Tag der Erhebung (OOIR): 2026-07-25</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04498-0-2026-07-25-2</guid>
 			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -113,8 +57,8 @@ Journal: eBioMedicine
 Veröffentlicht: 2026-07-01
 DOI: 10.1016/j.ebiom.2026.106369
 ISSN: 2352-3964
-Tag der Erhebung (OOIR): 2026-07-24</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ebiom.2026.106369-2026-07-24-4</guid>
+Tag der Erhebung (OOIR): 2026-07-25</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ebiom.2026.106369-2026-07-25-3</guid>
 			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -128,9 +72,32 @@ Journal: Nature Medicine
 Veröffentlicht: 2026-06-24
 DOI: 10.1038/s41591-026-04508-1
 ISSN: 1078-8956
-Tag der Erhebung (OOIR): 2026-07-24</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04508-1-2026-07-24-5</guid>
+Tag der Erhebung (OOIR): 2026-07-25</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04508-1-2026-07-25-4</guid>
 			<pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Human embryonic stem cell-derived dopaminergic cells for Parkinson’s disease: a phase 1/2 open-label trial</title>
+			<link>https://doi.org/10.1038/s41591-026-04525-0</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, Research &amp; Experimental
+Score: 270
+Autoren: G. Paul, H. Bjartmarz, A. Kirkeby, J. Nelander, R. Smith, S. Kayhanian, A. Evans, B. Harry, E. Cutting, S. Fazal, N. P. Lao-Kaim, T. van Vliet, S. Ullén, I. Grubor, O. Hansson, P. Piccini, O. Lindvall, A. Björklund, H. Widner, M. Parmar, R. A. Barker
+Journal: Nature Medicine
+Veröffentlicht: 2026-07-09
+Abstract: Abstract
+                  
+                    Parkinson’s disease (PD) is characterized by progressive loss of nigral dopaminergic neurons, resulting in disabling motor symptoms. Intracerebral transplantation of stem cell-derived dopaminergic progenitors to replace lost endogenous dopaminergic neurons offers a new potentially restorative therapeutic approach for PD. Here we report the 12-month primary safety end point and interim efficacy outcomes from a phase 1/2, open-label, multicenter trial evaluating STEM-PD, a cryopreserved, off-the-shelf dopaminergic progenitor product derived from human pluripotent stem cells. Eight individuals with moderate PD underwent bilateral intraputaminal transplantation at two escalating doses (
+                    n
+                     = 4 per cohort), followed by 12 months of immunosuppression. Seven participants completed 12-month follow-up; one participant died from a pulmonary infection. No serious adverse events were attributed to the cell product, no graft-induced dyskinesias were observed and serial magnetic resonance imaging showed no evidence of tumor formation. These findings support the feasibility and favorable safety profile of human pluripotent stem cell-derived dopaminergic progenitor transplantation in this early-phase study, with risks primarily associated with the immunosuppression regimen. Ongoing follow-up to 36 months will further evaluate durability, clinical outcomes and graft function. ClinicalTrials.gov identifier:
+                    NCT05635409
+                    .
+                  
+DOI: 10.1038/s41591-026-04525-0
+ISSN: 1078-8956
+Tag der Erhebung (OOIR): 2026-07-25</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41591-026-04525-0-2026-07-25-5</guid>
+			<pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
