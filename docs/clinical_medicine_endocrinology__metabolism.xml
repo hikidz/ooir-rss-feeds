@@ -5,136 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Endocrinology &amp; Metabolism) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sun, 26 Jul 2026 02:06:00 GMT</pubDate>
-		<lastBuildDate>Sun, 26 Jul 2026 02:06:00 GMT</lastBuildDate>
+		<pubDate>Mon, 27 Jul 2026 02:13:31 GMT</pubDate>
+		<lastBuildDate>Mon, 27 Jul 2026 02:13:31 GMT</lastBuildDate>
 		<item>
-			<title>Steroid hormone profiling reveals altered adrenal androgen production in endometriosis</title>
-			<link>https://doi.org/10.1093/ejendo/lvag109</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Endocrinology &amp; Metabolism
-Score: 278
-Autoren: Ioannis Simitsidellis, Rebecca J Ainslie, Angela E Taylor, Lorna C Gilligan, Fozia Shaheen, Samira Blanke, Craig Anderson, Dharani Hapangama, Wiebke Arlt, Andrew W Horne, Philippa T K Saunders, Douglas A Gibson
-Journal: European Journal of Endocrinology
-Veröffentlicht: 2026-07-01
-Abstract: Abstract
-                  
-                    Objective
-                    Endometriosis is a chronic, hormone-dependent condition affecting an estimated 190 million women worldwide. Our understanding of hormonal contributions to endometriosis pathophysiology is incomplete, hindering the identification of diagnostic biomarkers and novel therapeutic targets. Although the role of estrogens is well established, research on androgens in endometriosis is limited and the contribution of adrenal-derived 11-oxygenated androgens remains largely unknown.
-                  
-                  
-                    Methods
-                    We performed steroid androgen profiling to measure androgen concentrations in serum from healthy controls and women with laparoscopically confirmed endometriosis. We found that women with endometriosis had a distinct hormone signature characterized by systemic differences in adrenal androgen concentrations and 11-ketotestosterone excess.
-                    Using metabolomic data, we generated statistical models that showed robust discrimination between healthy controls and women with endometriosis (AUC = 0.99; positive predictive power = 96.84%, negative predictive power = 92.86%) consistent with an endometriosis-specific signature. Data were partitioned into train and validation groups to assess diagnostic potential and a refined model identified &amp;amp;gt;95% of endometriosis patients in a blinded sample set.
-                  
-                  
-                    Conclusions
-                    Collectively, these data reframe endometriosis as an androgen-dependent disorder and highlight 11-oxygenated androgens as potential diagnostic biomarkers and future therapeutic targets.
-                  
-DOI: 10.1093/ejendo/lvag109
-ISSN: 0804-4643
-Tag der Erhebung (OOIR): 2026-07-26</description>
-			<guid isPermaLink="false">ooir-trend-10.1093/ejendo/lvag109-2026-07-26-1</guid>
-			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Sarcopenic Obesity and Risk of Incident Type 2 Diabetes: A Prospective Cohort Study and Landmark Analysis From the UK Biobank</title>
-			<link>https://doi.org/10.2337/dc26-0797</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Endocrinology &amp; Metabolism
-Score: 200
-Autoren: Zhongyang Guan, Blossom C.M. Stephan, Mario Siervo
-Journal: Diabetes Care
-Veröffentlicht: 2026-07-13
-Abstract: 
-                    OBJECTIVE
-                    To examine whether sarcopenic obesity (SO) is associated with incident type 2 diabetes (T2D) beyond obesity or sarcopenia alone and whether associations differ by sex, age, and transitions in body composition phenotypes over time.
-                  
-                  
-                    RESEARCH DESIGN AND METHODS
-                    We studied 479,607 diabetes-free UK Biobank participants. SO was defined using handgrip strength, skeletal muscle mass-to-weight ratio, and fat mass percentage. Cox models estimated hazard ratios (HRs). A landmark analysis (n = 53,107) examined phenotype transitions.
-                  
-                  
-                    RESULTS
-                    Over a median follow-up of 14.2 years, T2D developed in 32,948 participants. SO conferred the highest risk (HR 3.54 [95% CI 3.34–3.74]), exceeding obesity alone and sarcopenia alone. Transitioning to SO (HR 2.90 [95% CI 2.07–4.07]) and persistent SO (HR 3.07 [95% CI 1.63–5.79]) both elevated risks.
-                  
-                  
-                    CONCLUSIONS
-                    SO was associated with higher T2D risk than obesity or sarcopenia alone, supporting integrated assessment of muscle health and adiposity in T2D risk stratification.
-                  
-DOI: 10.2337/dc26-0797
-ISSN: 0149-5992
-Tag der Erhebung (OOIR): 2026-07-26</description>
-			<guid isPermaLink="false">ooir-trend-10.2337/dc26-0797-2026-07-26-2</guid>
-			<pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Association between probiotic, prebiotic, and yogurt consumption and colorectal cancer: real-world evidence from the US NHANES</title>
-			<link>https://doi.org/10.1038/s41387-026-00432-y</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Endocrinology &amp; Metabolism
-Score: 189
-Autoren: Ching-Wei Tu, Ho-Li Wang
-Journal: Nutrition &amp;amp; Diabetes
-Veröffentlicht: 2026-07-06
-DOI: 10.1038/s41387-026-00432-y
-ISSN: 2044-4052
-Tag der Erhebung (OOIR): 2026-07-26</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41387-026-00432-y-2026-07-26-3</guid>
-			<pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Beyond weight loss: multisystem benefits of obesity medications</title>
-			<link>https://doi.org/10.1016/s2213-8587(26)00100-2</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Endocrinology &amp; Metabolism
-Score: 158
-Autoren: Mesut Savas, Susanne Kuckuck, Mariëtte R Boon, Elisabeth F C van Rossum
-Journal: The Lancet Diabetes &amp;amp; Endocrinology
-Veröffentlicht: 2026-08-01
-DOI: 10.1016/s2213-8587(26)00100-2
-ISSN: 2213-8587
-Tag der Erhebung (OOIR): 2026-07-26</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/s2213-8587(26)00100-2-2026-07-26-4</guid>
-			<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>DXA
-                    ‐Measured Visceral Adipose Tissue and Accelerated Biological Aging in Middle‐Aged Adults</title>
-			<link>https://doi.org/10.1002/oby.70239</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Endocrinology &amp; Metabolism
-Score: 102
-Autoren: Riorden O'Shea, Jennie Hui, Chrianna Bharat, Kevin Murray, Gillian Arscott, Michael Hunter, John Walsh, Kun Zhu
-Journal: Obesity
-Veröffentlicht: 2026-06-28
-Abstract: ABSTRACT
-                  
-                    Objective
-                    Obesity, particularly excess visceral adipose tissue (VAT), may accelerate biological aging; however, few studies have examined this in middle‐aged adults. We investigated associations between dual‐energy X‐ray absorptiometry (DXA)‐derived VAT and two biomarkers of biological aging—phenotypic age acceleration (PhenoAgeAccel) and leukocyte telomere length (LTL)—in 4799 participants (2614 females, aged 45–69 years) from the Busselton Healthy Ageing Study.
-                  
-                  
-                    Methods
-                    
-                      Whole‐body DXA (GE Lunar) quantified VAT mass. Phenotypic age was estimated from chronological age and nine biomarkers. In a subsample of 1221 participants, LTL was measured as the telomeric DNA to single‐copy gene (
-                      T
-                      /
-                      S
-                      ) ratio. Sex‐stratified linear regressions assessed associations, adjusting for chronological age and lifestyle factors.
-                    
-                  
-                  
-                    Results
-                    Mean ± SD VAT mass was 1677 ± 873 g in males and 882 ± 598 g in females. Higher VAT was associated with greater PhenoAgeAccel in both sexes; each 1‐SD increase in VAT corresponds to 1.397 (95% CI 1.197, 1.596) and 1.919 (1.738, 2.099) years higher PhenoAgeAccel in males and females, respectively. In females only, higher VAT was associated with shorter LTL (−0.041 [−0.069, −0.013] per 1 SD). Associations mostly remained significant after adjustment for anthropometric and other DXA‐derived adiposity measures.
-                  
-                  
-                    Conclusions
-                    VAT may represent a specific marker of accelerated biological aging, independent of lifestyle and adiposity measures.
-                  
-DOI: 10.1002/oby.70239
-ISSN: 1930-7381
-Tag der Erhebung (OOIR): 2026-07-26</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/oby.70239-2026-07-26-5</guid>
-			<pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
+			<title>⚠️ Keine Trends für Clinical Medicine (Endocrinology &amp; Metabolism) verfügbar</title>
+			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
+			<link>https://ooir.org</link>
+			<guid>ooir-no-trends-clinicalmedicine-endocrinologymetabolism-20260727021331</guid>
+			<pubDate>Mon, 27 Jul 2026 02:13:31 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
