@@ -5,14 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Pharmacology &amp; Pharmacy) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 28 Jul 2026 01:54:23 GMT</pubDate>
-		<lastBuildDate>Tue, 28 Jul 2026 01:54:23 GMT</lastBuildDate>
+		<pubDate>Wed, 29 Jul 2026 01:58:12 GMT</pubDate>
+		<lastBuildDate>Wed, 29 Jul 2026 01:58:12 GMT</lastBuildDate>
 		<item>
 			<title>Silence is golden: Documenting the speech production of participants and support providers in psilocybin administration sessions for the treatment of post-traumatic stress disorder</title>
 			<link>https://doi.org/10.1177/02698811261464988</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Pharmacology &amp; Pharmacy
-Score: 98
+Score: 105
 Autoren: Robert F. Dougherty, Nadav Liam Modlin, Niall M. McGowan, Patrick Staples, Ella Williams, Patrick Clarke, Mario Shafiei, Carly Leininger, Merve Alti, Megan Croal, Lindsey Marwood, Namik Kirlić, Gregory A. Ryslik, Guy M. Goodwin
 Journal: Journal of Psychopharmacology
 Veröffentlicht: 2026-07-16
@@ -46,9 +46,25 @@ Abstract:
                   
 DOI: 10.1177/02698811261464988
 ISSN: 0269-8811
-Tag der Erhebung (OOIR): 2026-07-28</description>
-			<guid isPermaLink="false">ooir-trend-10.1177/02698811261464988-2026-07-28-1</guid>
+Tag der Erhebung (OOIR): 2026-07-29</description>
+			<guid isPermaLink="false">ooir-trend-10.1177/02698811261464988-2026-07-29-1</guid>
 			<pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>A Pilot Study of Salmon Protein Hydrolysate (ProGo®) Supplementation to Assess Its Impact on Hematologic, Integumentary and Metabolic Health</title>
+			<link>https://doi.org/10.3390/biomedicines14081663</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Pharmacology &amp; Pharmacy
+Score: 52
+Autoren: Crawford Currie, Tor Åge Myklebust, Christian Bjerknes, Bomi Framroze
+Journal: Biomedicines
+Veröffentlicht: 2026-07-24
+Abstract: Background: Healthy ageing depends on the maintenance of several interconnected biological processes including adequate oxygen-carrying capacity, control of systemic inflammation, and preservation of lean body mass. ProGo® is a salmon protein hydrolysate (SPH) with prior evidence of benefits on iron metabolism, inflammation, and metabolic health. Methods: This randomized, double-blind, active-controlled pilot study examined whether 56 days of daily ProGo® supplementation could enhance key biological drivers of healthy ageing in overweight adults, compared with an iso-nitrogenous whey protein isolate (WPI). Primary outcomes were hematological parameters and a composite integumentary (hair, nail, and skin) score, assessed with Holm–Bonferroni multiplicity adjustment. Secondary outcomes included change in body composition, inflammatory biomarkers and glucose metabolism. Results: ProGo® showed significant improvements in hemoglobin, RBC count, and ferritin, and in the integumentary composite score. Secondary analyses showed reductions in percent body fat and BMI, with preservation of lean body mass (LBM), alongside reductions in pro-inflammatory cytokines, HbA1c, and fasting blood glucose. WPI had minimal impact on any of these outcomes. Conclusions: ProGo® supplementation improved multiple key biological drivers of healthy ageing: erythropoietic function, systemic inflammation, glycemic control, and body composition. These findings are consistent with a bioactive rather than a purely nutritional effect and are hypothesis-generating with respect to a multi-domain profile relevant to healthy ageing and the maintenance of intrinsic capacity. Confirmation in larger studies is warranted.
+DOI: 10.3390/biomedicines14081663
+ISSN: 2227-9059
+Tag der Erhebung (OOIR): 2026-07-29</description>
+			<guid isPermaLink="false">ooir-trend-10.3390/biomedicines14081663-2026-07-29-2</guid>
+			<pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Lipid nanoparticles as active biointerfaces: From membrane interaction to systemic dysregulation</title>
@@ -61,8 +77,8 @@ Journal: Acta Pharmaceutica Sinica B
 Veröffentlicht: 2026-07-01
 DOI: 10.1016/j.apsb.2026.07.001
 ISSN: 2211-3835
-Tag der Erhebung (OOIR): 2026-07-28</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.apsb.2026.07.001-2026-07-28-2</guid>
+Tag der Erhebung (OOIR): 2026-07-29</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.apsb.2026.07.001-2026-07-29-3</guid>
 			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -76,8 +92,8 @@ Journal: Acta Pharmaceutica Sinica B
 Veröffentlicht: 2026-07-01
 DOI: 10.1016/j.apsb.2026.06.056
 ISSN: 2211-3835
-Tag der Erhebung (OOIR): 2026-07-28</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.apsb.2026.06.056-2026-07-28-3</guid>
+Tag der Erhebung (OOIR): 2026-07-29</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.apsb.2026.06.056-2026-07-29-4</guid>
 			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -92,26 +108,9 @@ Veröffentlicht: 2026-07-14
 Abstract: Background: Oral everolimus (Oral-EVE; EVE, Afinitor®) is an effective therapy for multiple malignancies, including HR-positive/HER2-negative breast cancer, but its clinical use is limited by low and variable oral bioavailability as well as extensive first-pass metabolism. IV-EVE is a Deciparticle™ intravenous formulation of everolimus developed to bypass gastrointestinal absorption and improve systemic pharmacokinetic (PK) predictability. Methods: In vitro ADME properties were assessed across multiple species. IV-EVE (Intravenous EVE, Sapu003) and EVE demonstrated comparable plasma protein binding, metabolic stability, and CYP-mediated metabolism. Pharmacokinetics, tissue distribution, metabolism, and excretion of IV-EVE were evaluated following intravenous administration in rats, with Oral-EVE as a comparator. Results: Elimination of intact everolimus was minimal following either route of administration and occurred predominantly through metabolic biliary/fecal pathways. Compared with Oral-EVE, IV-EVE produced substantially higher and more consistent systemic exposure while maintaining comparable elimination half-lives. Intravenous administration resulted in broad tissue distribution without the marked gastrointestinal accumulation observed following oral dosing. Repeat-dose toxicology studies in rats demonstrated no treatment-related gastric pathology following intravenous administration. Conclusions: These findings suggest that intravenous administration may overcome limitations associated with oral delivery and support the clinical evaluation of IV-EVE in patients with advanced malignancies.
 DOI: 10.3390/biomedicines14071573
 ISSN: 2227-9059
-Tag der Erhebung (OOIR): 2026-07-28</description>
-			<guid isPermaLink="false">ooir-trend-10.3390/biomedicines14071573-2026-07-28-4</guid>
+Tag der Erhebung (OOIR): 2026-07-29</description>
+			<guid isPermaLink="false">ooir-trend-10.3390/biomedicines14071573-2026-07-29-5</guid>
 			<pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Consensus Guidance for Beta‐Lactam Antibiotic Dose Individualization in Acutely Ill Patients: Endorsed by the American College of Clinical Pharmacy, European Society of Clinical Microbiology and Infectious Diseases, European Society of Clinical Microbiology and Infectious Diseases PK/PD of Anti‐Infectives Study Group, Infectious Diseases Society of America, International Association of Therapeutic Drug Monitoring and Clinical Toxicology, Society of Critical Care Medicine, and the Society of Infectious Diseases Pharmacists</title>
-			<link>https://doi.org/10.1002/phar.70181</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Pharmacology &amp; Pharmacy
-Score: 41
-Autoren: Erin F. Barreto, Erin K. McCreary, Rekha Pai Mangalore, Sonya Tang Girdwood, Rebecca Arriola, Cynthia Bens, Robert A. Bonomo, Andrea N. Edginton, Lisa T. Hong, Angela Huttner, Birgit C. P. Koch, Nicole Maranchick, Michael N. Neely, Charles R. Peloquin, Gauri G. Rao, Jason A. Roberts, Anka C. Röhr, Marc H. Scheetz, Audrey N. Schuetz, Paul R. Yarnold, Andres Zuluaga, Nathaniel J. Rhodes
-Journal: Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy
-Veröffentlicht: 2026-07-22
-Abstract: ABSTRACT
-                  Beta‐lactam antibiotics (beta‐lactams) are first‐line treatments for most major infectious syndromes in acutely ill patients, with in vitro activity against common pathogens, demonstrated efficacy in trials, and a perceived low risk of adverse effects. The current dosing approach, informed by population‐level data, tends to be simplistically reduced to a “one size fits all” dosing method which only accounts for body weight (i.e., in pediatrics) and end organ function to estimate drug clearance (e.g., estimated glomerular filtration rate); this approach results in substantial variability in observed serum concentrations in acutely ill patients, which can compromise real‐world effectiveness and safety. Beta‐lactam dose individualization, therefore, defined as a dosing regimen for one patient informed by measured concentrations from that patient, has been recommended in international clinical guidelines. Comprehensive guidance on best practices for beta‐lactam dose individualization is lacking. To address this knowledge gap and develop guidance, a multidisciplinary panel of international experts was assembled from the disciplines of infectious diseases, critical care, pharmacometrics, and laboratory medicine, representing both adults and pediatrics. The panel systematically evaluated the literature, using the GRADE approach where feasible, to address broad thematic questions pertaining to whether beta‐lactam dose individualization should be pursued, for what indications beta‐lactam dose individualization is warranted, and the most critical considerations and best practices for implementation of beta‐lactam individualization. The resultant consensus recommendations will equip healthcare professionals caring for acutely ill patients treated with beta‐lactam therapy with the evidence and tools necessary to guide optimal use of beta‐lactam dose individualization.
-DOI: 10.1002/phar.70181
-ISSN: 0277-0008
-Tag der Erhebung (OOIR): 2026-07-28</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/phar.70181-2026-07-28-5</guid>
-			<pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
