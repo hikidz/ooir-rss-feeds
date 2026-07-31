@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 30 Jul 2026 01:48:30 GMT</pubDate>
-		<lastBuildDate>Thu, 30 Jul 2026 01:48:30 GMT</lastBuildDate>
+		<pubDate>Fri, 31 Jul 2026 02:06:04 GMT</pubDate>
+		<lastBuildDate>Fri, 31 Jul 2026 02:06:04 GMT</lastBuildDate>
 		<item>
 			<title>Predicting the risk of serious muscle disorders in individuals eligible for statin treatment in England: derivation and validation of a clinical prediction model</title>
 			<link>https://doi.org/10.1016/j.landig.2026.101024</link>
@@ -18,8 +18,8 @@ Journal: The Lancet Digital Health
 Veröffentlicht: 2026-06-01
 DOI: 10.1016/j.landig.2026.101024
 ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2026-07-30</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.101024-2026-07-30-1</guid>
+Tag der Erhebung (OOIR): 2026-07-31</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.101024-2026-07-31-1</guid>
 			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -50,8 +50,8 @@ Abstract: Abstract
                   
 DOI: 10.1007/s43441-026-01001-2
 ISSN: 2168-4790
-Tag der Erhebung (OOIR): 2026-07-30</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s43441-026-01001-2-2026-07-30-2</guid>
+Tag der Erhebung (OOIR): 2026-07-31</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s43441-026-01001-2-2026-07-31-2</guid>
 			<pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -71,8 +71,8 @@ Abstract: Abstract
                   
 DOI: 10.2196/106128
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2026-07-30</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/106128-2026-07-30-3</guid>
+Tag der Erhebung (OOIR): 2026-07-31</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/106128-2026-07-31-3</guid>
 			<pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -88,41 +88,24 @@ Abstract: Abstract
                   The next leap in surgical innovation may not come from refining precision but from embodied AI transforming the operating room (OR) itself. We contend that intelligent humanoid agents, owing to their anthropomorphic design, may enter the OR through a staged deployment framework from pre-clinical validation to low-risk tasks before progressively advancing toward elevated-risk assistive roles, providing a pathway for integration of embodied AI autonomy in critical environments. This perspective examines how generalist embodied AI may realistically be integrated into the OR, and explores the pathways, challenges, and implications this holds for the future of surgical care.
 DOI: 10.1038/s41746-026-02853-6
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-07-30</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02853-6-2026-07-30-4</guid>
+Tag der Erhebung (OOIR): 2026-07-31</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02853-6-2026-07-31-4</guid>
 			<pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>Quantifying the Financial Return on Investment of Risk-Based Quality Management Implementation in Clinical Development</title>
-			<link>https://doi.org/10.1007/s43441-026-01002-1</link>
+			<title>Generative AI mental health chatbots: a scoping review of intervention design and user experience</title>
+			<link>https://doi.org/10.1038/s41746-026-02972-0</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Medical Informatics
-Score: 25
-Autoren: Abigail Dirks, Sylviane de Viron, Kenneth McFarlane, Kenneth A. Getz
-Journal: Therapeutic Innovation &amp;amp; Regulatory Science
-Veröffentlicht: 2026-06-25
-Abstract: Abstract
-                  
-                    Background
-                    Despite widespread receptivity to risk-based quality management (RBQM) principles, adoption has been limited as drug development stakeholders have lacked quantitative evidence demonstrating return on investment (ROI).
-                  
-                  
-                    Methods
-                    Two assessments were conducted to estimate the ROI of RBQM. (1) Clinical trial level ROI was derived by analyzing monitoring cost efficiencies and clinical phase duration reductions under a 10% source data verification (SDV) scenario. (2) Program-level ROI was derived using an expected net present value (eNPV) modeling approach. Both analyses included data based on actual RBQM use in 18 recently completed oncology trials, as well as published and proprietary industry benchmarks.
-                  
-                  
-                    Results
-                    RBQM use was associated with reductions of 8–19% in clinical phase durations and monitoring cost reductions of up to 18% under a 10% SDV scenario. Total clinical trial ROIs ranged from $3.2 million (phase 1) to $18.9 million (phase 3), corresponding to ROI multiples of 6× to 23×. Program-level eNPV gains ranged from $3.8 million in phase 1 to $13.8 million in phase 3 corresponding to ROI multiples of 4× to 14×.
-                  
-                  
-                    Conclusions
-                    The ROI demonstrated at the individual clinical trial level and at the development program level provides a compelling business case for adopting RBQM particularly given alignment with ICH E6 R3 guidelines encouraging risk-based approaches supporting clinical trial planning and execution. Study findings indicate that RBQM-supported oversight not only improves data quality and risk detection but also represents a strategic investment that can help optimize resource allocation, increase development efficiency and speed, and enhance portfolio productivity.
-                  
-DOI: 10.1007/s43441-026-01002-1
-ISSN: 2168-4790
-Tag der Erhebung (OOIR): 2026-07-30</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s43441-026-01002-1-2026-07-30-5</guid>
-			<pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+Score: 30
+Autoren: Lotenna Olisaeloka, Chris G. Richardson, Angel Y. Wang, Richard J. Munthali, Daniel V. Vigo
+Journal: npj Digital Medicine
+Veröffentlicht: 2026-07-23
+DOI: 10.1038/s41746-026-02972-0
+ISSN: 2398-6352
+Tag der Erhebung (OOIR): 2026-07-31</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02972-0-2026-07-31-5</guid>
+			<pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

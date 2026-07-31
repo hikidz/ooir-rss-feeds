@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Nutrition &amp; Dietetics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 30 Jul 2026 01:48:54 GMT</pubDate>
-		<lastBuildDate>Thu, 30 Jul 2026 01:48:54 GMT</lastBuildDate>
+		<pubDate>Fri, 31 Jul 2026 02:06:39 GMT</pubDate>
+		<lastBuildDate>Fri, 31 Jul 2026 02:06:39 GMT</lastBuildDate>
 		<item>
 			<title>Chronotype and associations with dietary intake, meal timing, body composition, and metabolic biomarkers</title>
 			<link>https://doi.org/10.3389/fnut.2026.1862060</link>
@@ -42,8 +42,8 @@ Abstract:
                   
 DOI: 10.3389/fnut.2026.1862060
 ISSN: 2296-861X
-Tag der Erhebung (OOIR): 2026-07-30</description>
-			<guid isPermaLink="false">ooir-trend-10.3389/fnut.2026.1862060-2026-07-30-1</guid>
+Tag der Erhebung (OOIR): 2026-07-31</description>
+			<guid isPermaLink="false">ooir-trend-10.3389/fnut.2026.1862060-2026-07-31-1</guid>
 			<pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -57,8 +57,8 @@ Journal: Food Chemistry
 Veröffentlicht: 2026-09-01
 DOI: 10.1016/j.foodchem.2026.150234
 ISSN: 0308-8146
-Tag der Erhebung (OOIR): 2026-07-30</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.foodchem.2026.150234-2026-07-30-2</guid>
+Tag der Erhebung (OOIR): 2026-07-31</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.foodchem.2026.150234-2026-07-31-2</guid>
 			<pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -72,8 +72,8 @@ Journal: Nutrition &amp;amp; Diabetes
 Veröffentlicht: 2026-07-06
 DOI: 10.1038/s41387-026-00432-y
 ISSN: 2044-4052
-Tag der Erhebung (OOIR): 2026-07-30</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41387-026-00432-y-2026-07-30-3</guid>
+Tag der Erhebung (OOIR): 2026-07-31</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41387-026-00432-y-2026-07-31-3</guid>
 			<pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -130,48 +130,42 @@ Abstract:
                   
 DOI: 10.3389/fnut.2026.1844096
 ISSN: 2296-861X
-Tag der Erhebung (OOIR): 2026-07-30</description>
-			<guid isPermaLink="false">ooir-trend-10.3389/fnut.2026.1844096-2026-07-30-4</guid>
+Tag der Erhebung (OOIR): 2026-07-31</description>
+			<guid isPermaLink="false">ooir-trend-10.3389/fnut.2026.1844096-2026-07-31-4</guid>
 			<pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>DXA
-                    ‐Measured Visceral Adipose Tissue and Accelerated Biological Aging in Middle‐Aged Adults</title>
-			<link>https://doi.org/10.1002/oby.70239</link>
+			<title>Effects of probiotic supplementation on gut barrier function in combat athletes during pre-competition weight loss</title>
+			<link>https://doi.org/10.3389/fnut.2026.1857878</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Nutrition &amp; Dietetics
-Score: 102
-Autoren: Riorden O'Shea, Jennie Hui, Chrianna Bharat, Kevin Murray, Gillian Arscott, Michael Hunter, John Walsh, Kun Zhu
-Journal: Obesity
-Veröffentlicht: 2026-06-28
-Abstract: ABSTRACT
+Score: 97
+Autoren: Jing Wang, Mei-yi Lai, Shi-jiao Yang, Zhen-qin Cheng, Wan-ting Shen, Qun Zuo
+Journal: Frontiers in Nutrition
+Veröffentlicht: 2026-07-15
+Abstract: 
+                    Combat sports athletes frequently experience gastrointestinal disturbances during pre-competition weight management. This study aimed to investigate the effects of probiotic supplementation on gut barrier function in combat athletes undergoing rapid weight loss prior to competition. Twenty-four elite male athletes were randomized to receive either a complex sports probiotic (1.5 × 10
+                    10
+                    CFU, twice daily) or placebo for 4 weeks. Results showed that probiotic supplementation significantly reduced gastrointestinal symptoms and gut permeability markers (Zonulin, intestinal fatty acid-binding protein, D-lactate), increased secretory immunoglobulin A (SIgA) levels, and attenuated systemic inflammation compared to placebo. The intervention enriched beneficial butyrate-producing bacteria (
+                    Blautia
+                    ,
+                    Latilactobacillus
+                    ) while suppressing pathogenic
+                    Streptococcus
+                    . These findings demonstrate that probiotic supplementation serves as a safe, effective nutritional strategy to maintain gut homeostasis during rapid weight loss in combat athletes.
                   
-                    Objective
-                    Obesity, particularly excess visceral adipose tissue (VAT), may accelerate biological aging; however, few studies have examined this in middle‐aged adults. We investigated associations between dual‐energy X‐ray absorptiometry (DXA)‐derived VAT and two biomarkers of biological aging—phenotypic age acceleration (PhenoAgeAccel) and leukocyte telomere length (LTL)—in 4799 participants (2614 females, aged 45–69 years) from the Busselton Healthy Ageing Study.
                   
-                  
-                    Methods
+                    Clinical trial registration
                     
-                      Whole‐body DXA (GE Lunar) quantified VAT mass. Phenotypic age was estimated from chronological age and nine biomarkers. In a subsample of 1221 participants, LTL was measured as the telomeric DNA to single‐copy gene (
-                      T
-                      /
-                      S
-                      ) ratio. Sex‐stratified linear regressions assessed associations, adjusting for chronological age and lifestyle factors.
+                      http://www.chictr.org.cn
+                      , identifier ChiCTR2400079908.
                     
                   
-                  
-                    Results
-                    Mean ± SD VAT mass was 1677 ± 873 g in males and 882 ± 598 g in females. Higher VAT was associated with greater PhenoAgeAccel in both sexes; each 1‐SD increase in VAT corresponds to 1.397 (95% CI 1.197, 1.596) and 1.919 (1.738, 2.099) years higher PhenoAgeAccel in males and females, respectively. In females only, higher VAT was associated with shorter LTL (−0.041 [−0.069, −0.013] per 1 SD). Associations mostly remained significant after adjustment for anthropometric and other DXA‐derived adiposity measures.
-                  
-                  
-                    Conclusions
-                    VAT may represent a specific marker of accelerated biological aging, independent of lifestyle and adiposity measures.
-                  
-DOI: 10.1002/oby.70239
-ISSN: 1930-7381
-Tag der Erhebung (OOIR): 2026-07-30</description>
-			<guid isPermaLink="false">ooir-trend-10.1002/oby.70239-2026-07-30-5</guid>
-			<pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
+DOI: 10.3389/fnut.2026.1857878
+ISSN: 2296-861X
+Tag der Erhebung (OOIR): 2026-07-31</description>
+			<guid isPermaLink="false">ooir-trend-10.3389/fnut.2026.1857878-2026-07-31-5</guid>
+			<pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
