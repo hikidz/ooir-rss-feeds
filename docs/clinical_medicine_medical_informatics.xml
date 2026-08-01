@@ -5,23 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Fri, 31 Jul 2026 02:06:04 GMT</pubDate>
-		<lastBuildDate>Fri, 31 Jul 2026 02:06:04 GMT</lastBuildDate>
-		<item>
-			<title>Predicting the risk of serious muscle disorders in individuals eligible for statin treatment in England: derivation and validation of a clinical prediction model</title>
-			<link>https://doi.org/10.1016/j.landig.2026.101024</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 255
-Autoren: Ting Cai, Jennifer A Hirst, Brian D Nicholson, Richard J McManus, F D Richard Hobbs, James P Sheppard, Constantinos Koshiaris
-Journal: The Lancet Digital Health
-Veröffentlicht: 2026-06-01
-DOI: 10.1016/j.landig.2026.101024
-ISSN: 2589-7500
-Tag der Erhebung (OOIR): 2026-07-31</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.landig.2026.101024-2026-07-31-1</guid>
-			<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-		</item>
+		<pubDate>Sat, 01 Aug 2026 02:07:36 GMT</pubDate>
+		<lastBuildDate>Sat, 01 Aug 2026 02:07:36 GMT</lastBuildDate>
 		<item>
 			<title>Schizophrenia Impacts and Treatment Priorities: Results of An Externally-Led Patient-Focused Drug Development Meeting Survey</title>
 			<link>https://doi.org/10.1007/s43441-026-01001-2</link>
@@ -50,8 +35,8 @@ Abstract: Abstract
                   
 DOI: 10.1007/s43441-026-01001-2
 ISSN: 2168-4790
-Tag der Erhebung (OOIR): 2026-07-31</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s43441-026-01001-2-2026-07-31-2</guid>
+Tag der Erhebung (OOIR): 2026-08-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s43441-026-01001-2-2026-08-01-1</guid>
 			<pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -71,8 +56,8 @@ Abstract: Abstract
                   
 DOI: 10.2196/106128
 ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2026-07-31</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/106128-2026-07-31-3</guid>
+Tag der Erhebung (OOIR): 2026-08-01</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/106128-2026-08-01-2</guid>
 			<pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -88,8 +73,8 @@ Abstract: Abstract
                   The next leap in surgical innovation may not come from refining precision but from embodied AI transforming the operating room (OR) itself. We contend that intelligent humanoid agents, owing to their anthropomorphic design, may enter the OR through a staged deployment framework from pre-clinical validation to low-risk tasks before progressively advancing toward elevated-risk assistive roles, providing a pathway for integration of embodied AI autonomy in critical environments. This perspective examines how generalist embodied AI may realistically be integrated into the OR, and explores the pathways, challenges, and implications this holds for the future of surgical care.
 DOI: 10.1038/s41746-026-02853-6
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-07-31</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02853-6-2026-07-31-4</guid>
+Tag der Erhebung (OOIR): 2026-08-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02853-6-2026-08-01-3</guid>
 			<pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -103,9 +88,30 @@ Journal: npj Digital Medicine
 Veröffentlicht: 2026-07-23
 DOI: 10.1038/s41746-026-02972-0
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-07-31</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02972-0-2026-07-31-5</guid>
+Tag der Erhebung (OOIR): 2026-08-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02972-0-2026-08-01-4</guid>
 			<pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>AI-Designed Radiopharmaceuticals: How Machine Learning Is Redefining Precision Cancer Therapy</title>
+			<link>https://doi.org/10.2196/106201</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 23
+Autoren: Benedette Cuffari
+Journal: Journal of Medical Internet Research
+Veröffentlicht: 2026-07-09
+Abstract: Abstract
+                  
+                    Computing advances are helping improve the precision and effectiveness of cancer treatment. In this
+                    News and Perspectives
+                    article, JMIR Correspondent Benedette Cuffari reports on recent AI applications for radiopharmaceutical therapy, as well as the current state of the field and its future potential.
+                  
+DOI: 10.2196/106201
+ISSN: 1438-8871
+Tag der Erhebung (OOIR): 2026-08-01</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/106201-2026-08-01-5</guid>
+			<pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

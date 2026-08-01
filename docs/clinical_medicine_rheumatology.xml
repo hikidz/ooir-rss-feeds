@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rheumatology) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Fri, 31 Jul 2026 02:07:01 GMT</pubDate>
-		<lastBuildDate>Fri, 31 Jul 2026 02:07:01 GMT</lastBuildDate>
+		<pubDate>Sat, 01 Aug 2026 02:08:20 GMT</pubDate>
+		<lastBuildDate>Sat, 01 Aug 2026 02:08:20 GMT</lastBuildDate>
 		<item>
 			<title>Interferon-α as a precision medicine tool in Sjögren's disease: a cohort and experimental medicine study</title>
 			<link>https://doi.org/10.1016/s2665-9913(26)00038-x</link>
@@ -18,8 +18,8 @@ Journal: The Lancet Rheumatology
 Veröffentlicht: 2026-08-01
 DOI: 10.1016/s2665-9913(26)00038-x
 ISSN: 2665-9913
-Tag der Erhebung (OOIR): 2026-07-31</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(26)00038-x-2026-07-31-1</guid>
+Tag der Erhebung (OOIR): 2026-08-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(26)00038-x-2026-08-01-1</guid>
 			<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -62,8 +62,8 @@ Abstract:
                   
 DOI: 10.1136/rmdopen-2026-006962
 ISSN: 2056-5933
-Tag der Erhebung (OOIR): 2026-07-31</description>
-			<guid isPermaLink="false">ooir-trend-10.1136/rmdopen-2026-006962-2026-07-31-2</guid>
+Tag der Erhebung (OOIR): 2026-08-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/rmdopen-2026-006962-2026-08-01-2</guid>
 			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -77,8 +77,8 @@ Journal: The Lancet Rheumatology
 Veröffentlicht: 2026-08-01
 DOI: 10.1016/s2665-9913(26)00081-0
 ISSN: 2665-9913
-Tag der Erhebung (OOIR): 2026-07-31</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(26)00081-0-2026-07-31-3</guid>
+Tag der Erhebung (OOIR): 2026-08-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(26)00081-0-2026-08-01-3</guid>
 			<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -108,23 +108,24 @@ Abstract:
                   
 DOI: 10.1136/lupus-2026-002148
 ISSN: 2053-8790
-Tag der Erhebung (OOIR): 2026-07-31</description>
-			<guid isPermaLink="false">ooir-trend-10.1136/lupus-2026-002148-2026-07-31-4</guid>
+Tag der Erhebung (OOIR): 2026-08-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/lupus-2026-002148-2026-08-01-4</guid>
 			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>The end for avacopan</title>
-			<link>https://doi.org/10.1016/s2665-9913(26)00225-0</link>
+			<title>2025 EULAR recommendations for the management of polymyalgia rheumatica and primary large vessel vasculitis</title>
+			<link>https://doi.org/10.1016/j.ard.2026.06.009</link>
 			<description>Feld: Clinical Medicine
 Kategorie: Rheumatology
-Score: 26
-Journal: The Lancet Rheumatology
-Veröffentlicht: 2026-08-01
-DOI: 10.1016/s2665-9913(26)00225-0
-ISSN: 2665-9913
-Tag der Erhebung (OOIR): 2026-07-31</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(26)00225-0-2026-07-31-5</guid>
-			<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+Score: 27
+Autoren: Chetan B. Mukhtyar, Elena Nikiphorou, Alice Bartoletti, Mrinalini Dey, Georgina Ducker, Durga P. Misra, Sara Monti, Paul Studenic, Alvise Berti, Daniel Blockmans, Elisabeth Brouwer, Frank Buttgereit, Kathleen Cannings, Maria C. Cid, Richard Conway, Lisa Christ, Christian Dejaco, Kresten K. Keller, Lisa Kingham, Peter A. Merkel, Aladdin J. Mohammad, Susan P. Mollan, Berit D. Nielsen, Cristina Ponte, David Saadoun, Wolfgang A. Schmidt, Kenneth J. Warrington, Bernhard Hellmich
+Journal: Annals of the Rheumatic Diseases
+Veröffentlicht: 2026-07-01
+DOI: 10.1016/j.ard.2026.06.009
+ISSN: 0003-4967
+Tag der Erhebung (OOIR): 2026-08-01</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2026.06.009-2026-08-01-5</guid>
+			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
