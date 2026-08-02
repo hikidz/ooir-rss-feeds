@@ -5,113 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 01 Aug 2026 02:07:36 GMT</pubDate>
-		<lastBuildDate>Sat, 01 Aug 2026 02:07:36 GMT</lastBuildDate>
+		<pubDate>Sun, 02 Aug 2026 02:03:27 GMT</pubDate>
+		<lastBuildDate>Sun, 02 Aug 2026 02:03:27 GMT</lastBuildDate>
 		<item>
-			<title>Schizophrenia Impacts and Treatment Priorities: Results of An Externally-Led Patient-Focused Drug Development Meeting Survey</title>
-			<link>https://doi.org/10.1007/s43441-026-01001-2</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 82
-Autoren: Ilse S. Peterson, Ramaa Chitale, Theresa Frangiosa, Holly B. Krasa, Paulie VonEdWærd-Benjamin, Anita Fisher, Jessica T. Markowitz, Arun Nagendra
-Journal: Therapeutic Innovation &amp;amp; Regulatory Science
-Veröffentlicht: 2026-07-23
-Abstract: Abstract
-                  
-                    Objective
-                    Using survey data gathered for an Externally-Led Patient-Focused Drug Development (EL-PFDD) meeting led by the schizophrenia community to inform the US Food and Drug Administration, this publication examines schizophrenia’s impacts on daily life, reasons for discontinuation of medication, and desired outcomes of future medications.
-                  
-                  
-                    Methods
-                    An online, cross-sectional survey about schizophrenia’s impacts on daily life, treatment experiences, and desired outcomes of future medications was developed for adults with schizophrenia and caregivers of adults with schizophrenia who could not complete the survey. Patient advocacy organizations participating in the EL-PFDD meeting recruited respondents via email and social media between August 9, 2022 and September 26, 2022.
-                  
-                  
-                    Results
-                    282 survey responses from 96 people with schizophrenia and 186 caregiver proxies are reflected in this publication. Both respondent groups reported significant impacts of schizophrenia on aspects of daily living spanning work and education, relationships, responsibilities at home, and finances. For people with schizophrenia, the most frequently reported reason for discontinuing medications was weight gain (66% of 83 question respondents); for caregiver proxies, it was “feeling flat” (57% of 165 question respondents). Preventing delusions, preventing hallucinations, and enjoying daily activities received the highest average ratings as desired outcomes of future treatments from people with schizophrenia, whereas preventing delusions and making it easier to maintain relationships had the highest average ratings from caregiver proxies.
-                  
-                  
-                    Conclusions
-                    As exploratory work on community treatment priorities, this research can inform patient-focused drug development endeavors by patients, advocates, industry, and regulators to address unmet needs in schizophrenia moving forward.
-                  
-DOI: 10.1007/s43441-026-01001-2
-ISSN: 2168-4790
-Tag der Erhebung (OOIR): 2026-08-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s43441-026-01001-2-2026-08-01-1</guid>
-			<pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Should AI Be Your Personal Trainer?</title>
-			<link>https://doi.org/10.2196/106128</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 37
-Autoren: Anna Zucker
-Journal: Journal of Medical Internet Research
-Veröffentlicht: 2026-07-08
-Abstract: Abstract
-                  
-                    From providing fitness information to correcting form in real time, AI applications for physical fitness are rapidly evolving. In this
-                    News and Perspectives
-                    article, JMIR Correspondent Anna Zucker reports on the promise and limits of AI personal training.
-                  
-DOI: 10.2196/106128
-ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2026-08-01</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/106128-2026-08-01-2</guid>
-			<pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Humanoid robots in the operating room: a framework for staged integration of embodied AI in surgery</title>
-			<link>https://doi.org/10.1038/s41746-026-02853-6</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 30
-Autoren: Julius M. Kernbach, Gabriel Brat, Eric J. Topol, Pranav Rajpurkar
-Journal: npj Digital Medicine
-Veröffentlicht: 2026-07-13
-Abstract: Abstract
-                  The next leap in surgical innovation may not come from refining precision but from embodied AI transforming the operating room (OR) itself. We contend that intelligent humanoid agents, owing to their anthropomorphic design, may enter the OR through a staged deployment framework from pre-clinical validation to low-risk tasks before progressively advancing toward elevated-risk assistive roles, providing a pathway for integration of embodied AI autonomy in critical environments. This perspective examines how generalist embodied AI may realistically be integrated into the OR, and explores the pathways, challenges, and implications this holds for the future of surgical care.
-DOI: 10.1038/s41746-026-02853-6
-ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-08-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02853-6-2026-08-01-3</guid>
-			<pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Generative AI mental health chatbots: a scoping review of intervention design and user experience</title>
-			<link>https://doi.org/10.1038/s41746-026-02972-0</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 30
-Autoren: Lotenna Olisaeloka, Chris G. Richardson, Angel Y. Wang, Richard J. Munthali, Daniel V. Vigo
-Journal: npj Digital Medicine
-Veröffentlicht: 2026-07-23
-DOI: 10.1038/s41746-026-02972-0
-ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-08-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02972-0-2026-08-01-4</guid>
-			<pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>AI-Designed Radiopharmaceuticals: How Machine Learning Is Redefining Precision Cancer Therapy</title>
-			<link>https://doi.org/10.2196/106201</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 23
-Autoren: Benedette Cuffari
-Journal: Journal of Medical Internet Research
-Veröffentlicht: 2026-07-09
-Abstract: Abstract
-                  
-                    Computing advances are helping improve the precision and effectiveness of cancer treatment. In this
-                    News and Perspectives
-                    article, JMIR Correspondent Benedette Cuffari reports on recent AI applications for radiopharmaceutical therapy, as well as the current state of the field and its future potential.
-                  
-DOI: 10.2196/106201
-ISSN: 1438-8871
-Tag der Erhebung (OOIR): 2026-08-01</description>
-			<guid isPermaLink="false">ooir-trend-10.2196/106201-2026-08-01-5</guid>
-			<pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+			<title>⚠️ Keine Trends für Clinical Medicine (Medical Informatics) verfügbar</title>
+			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
+			<link>https://ooir.org</link>
+			<guid>ooir-no-trends-clinicalmedicine-medicalinformatics-20260802020327</guid>
+			<pubDate>Sun, 02 Aug 2026 02:03:27 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

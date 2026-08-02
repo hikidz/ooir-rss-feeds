@@ -5,127 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rheumatology) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 01 Aug 2026 02:08:20 GMT</pubDate>
-		<lastBuildDate>Sat, 01 Aug 2026 02:08:20 GMT</lastBuildDate>
+		<pubDate>Sun, 02 Aug 2026 02:03:33 GMT</pubDate>
+		<lastBuildDate>Sun, 02 Aug 2026 02:03:33 GMT</lastBuildDate>
 		<item>
-			<title>Interferon-α as a precision medicine tool in Sjögren's disease: a cohort and experimental medicine study</title>
-			<link>https://doi.org/10.1016/s2665-9913(26)00038-x</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rheumatology
-Score: 1151
-Autoren: Deborah Forbes, Ivana Jorgacevic, Jessica Tarn, Katy R Reid, Bastien Rioux, Kyle Thompson, Kilian L Kleemann, Sarah McGlasson, John Casement, Joe Berry, Patrick Müller, Hannah Eberle-Reece, Christa Haase, Brendan Conn, Louis Boon, Karina McDade, William Whiteley, Axel Roers, Wan-Fai Ng, Rayk Behrendt, David Hunt
-Journal: The Lancet Rheumatology
-Veröffentlicht: 2026-08-01
-DOI: 10.1016/s2665-9913(26)00038-x
-ISSN: 2665-9913
-Tag der Erhebung (OOIR): 2026-08-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(26)00038-x-2026-08-01-1</guid>
-			<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Oral microbiome dysbiosis and oral-gut microbial network disruption in hand osteoarthritis: data from the Xiangya Osteoarthritis Study</title>
-			<link>https://doi.org/10.1136/rmdopen-2026-006962</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rheumatology
-Score: 43
-Autoren: Jiatian Li, Yadan Xiao, Tuo Yang, David J Hunter, Weiya Zhang, Michael Doherty, Yuqing Zhang, Zidan Yang, Yilun Wang, Dongxing Xie, Changjun Li, Kai Zhao, Wei Li, Zeqin Wen, Chao Zeng, Guanghua Lei, Jie Wei
-Journal: RMD Open
-Veröffentlicht: 2026-07-01
-Abstract: 
-                    Objectives
-                    The oral microbiome plays a critical role in modulating systemic inflammation, partly through its interactions with the gut microbiome. Although gut microbiome dysbiosis has been implicated in symptomatic hand osteoarthritis (SHOA), the role of oral microbiome dysbiosis in SHOA and its relationship with gut microbiome dysbiosis remain unclear. Elucidating these associations could provide novel insights into SHOA pathogenesis.
-                  
-                  
-                    Methods
-                    Participants were recruited from the Xiangya Osteoarthritis (XO) Study, an ongoing community-based observational study. Saliva samples were analysed using 16S ribosomal RNA gene sequencing. Oral microbial richness, composition and relative abundance of specific taxa were compared between SHOA participants and controls without SHOA. Correlations within the oral-gut microbiome network were also assessed and compared between groups.
-                  
-                  
-                    Results
-                    
-                      Compared with controls (n=712), participants with SHOA (n=52) exhibited significantly lower oral microbial richness (p=0.007) and altered composition (p=0.007). The relative abundance of the genus
-                      Trichococcus
-                      was significantly higher in SHOA participants (β=0.437 (95% CI 0.174 to 0.699), p=0.001, Q=0.073) and positively associated with SHOA severity. Furthermore, the number of significant correlations within the oral-gut microbiome network was markedly reduced in SHOA participants compared with controls. Notably,
-                      Trichococcus
-                      abundance in the oral microbiome correlated positively with the gut microbial KEGG pathway of tyrosine metabolism (r=0.137, p=0.001, Q=0.047), both linked to SHOA.
-                    
-                  
-                  
-                    Conclusion
-                    Oral microbiome dysbiosis and disruption of the oral-gut microbiome network are associated with prevalent SHOA. These findings suggest a potential role of the oral-gut microbiome axis in SHOA pathogenesis. Larger studies are needed to confirm these associations.
-                  
-                  
-                    Trial registration number
-                    
-                      NCT04033757
-                      .
-                    
-                  
-DOI: 10.1136/rmdopen-2026-006962
-ISSN: 2056-5933
-Tag der Erhebung (OOIR): 2026-08-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1136/rmdopen-2026-006962-2026-08-01-2</guid>
-			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>The role of health literacy in clinical, treatment, and work-related outcomes in people with inflammatory arthritis in England: a cross-sectional study</title>
-			<link>https://doi.org/10.1016/s2665-9913(26)00081-0</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rheumatology
-Score: 37
-Autoren: Mrinalini Dey, Sam Norton, Andrew P Cope, Maya H Buch, Ailsa Bosworth, Richard Osborne, James B Galloway, Elena Nikiphorou
-Journal: The Lancet Rheumatology
-Veröffentlicht: 2026-08-01
-DOI: 10.1016/s2665-9913(26)00081-0
-ISSN: 2665-9913
-Tag der Erhebung (OOIR): 2026-08-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(26)00081-0-2026-08-01-3</guid>
-			<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>International development of a lupus-specific instrument to assess cognitive symptoms in patients with SLE: Lupus Brain Fog Severity Scale (LBFSS) study</title>
-			<link>https://doi.org/10.1136/lupus-2026-002148</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rheumatology
-Score: 27
-Autoren: Laurent Arnaud, Matteo Piga, Guillermo J Pons-Estel, Yurilis J Fuentes-Silva, Hervé Devilliers, Raquel Faria, Ali Duarte-Garcia, Daniel Guimarães de Oliveira, Marina Scolnik, Sander van Leuven, Eve Smith, Simone Appenzeller, Ivan Padjen, Michelle A Petri, Alessandra Bortoluzzi, Ioannis Parodis, Meggan Mackay, Faisal Parlindungan, Odirlei A Monticielo, Antonis Fanouriakis, Catherine Kleitz, Andrea M Knight, Nathalie Philippi, Alberta Hoi, Zoe Karakikla-Mitsakou, Sofia Silva Ribeiro, Annemarie Sluijmers, Aldevina Sturiene, Zahi Touma
-Journal: Lupus Science &amp;amp; Medicine
-Veröffentlicht: 2026-07-01
-Abstract: 
-                    Introduction
-                    Cognitive symptoms such as ‘brain fog’ are frequent and disabling in patients with SLE. We aimed to develop and validate the Lupus Brain Fog Severity Scale (LBFSS), the first patient-reported outcome measure (PROM) for cognitive symptoms in SLE.
-                  
-                  
-                    Methods
-                    The LBFSS was developed using a multi-step international approach involving healthcare professionals and patients with SLE. Patients provided free-text descriptions of brain fog, generating candidate domains through thematic analysis (step 1). Domains were rated for relevance (step 2) and those retained converted into self-assessable items (step 3). The pilot LBFSS was iteratively refined (step 4). The finalised LBFSS was validated (step 5) in a large international SLE cohort. Psychometric evaluation included internal consistency, exploratory factor analysis and assessment of construct, convergent, known-groups and criterion-related validity.
-                  
-                  
-                    Results
-                    In step 1, 147 SLE participants across 39 countries generated 21 domains for cognitive symptoms, of which 13 were retained in consensus (step 2), converted into self-assessable items (step 3) and iteratively refined using patient and physician feedback. In step 5, validation of the LBFSS instrument in 378 patients from 36 countries demonstrated high internal consistency (Cronbach’s α=0.95) and a unidimensional structure explaining 62.2% of variance. LBFSS scores were significantly higher in participants reporting brain fog (p&amp;lt;0.0001), confirming known-group validity. Construct validity was supported by significant correlations with functional impact and symptom severity (ρ=0.46–0.65, p&amp;lt;0.0001), strong convergent validity with the Perceived Deficits Questionnaire-20 (ρ=0.84, p&amp;lt;0.0001) while the discriminative performance for presence versus absence of self-reported brain fog was high (area under the curve=0.85).
-                  
-                  
-                    Conclusion
-                    The LBFSS is a new, valid and feasible PROM to assess brain fog and cognitive symptoms in SLE.
-                  
-DOI: 10.1136/lupus-2026-002148
-ISSN: 2053-8790
-Tag der Erhebung (OOIR): 2026-08-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1136/lupus-2026-002148-2026-08-01-4</guid>
-			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>2025 EULAR recommendations for the management of polymyalgia rheumatica and primary large vessel vasculitis</title>
-			<link>https://doi.org/10.1016/j.ard.2026.06.009</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rheumatology
-Score: 27
-Autoren: Chetan B. Mukhtyar, Elena Nikiphorou, Alice Bartoletti, Mrinalini Dey, Georgina Ducker, Durga P. Misra, Sara Monti, Paul Studenic, Alvise Berti, Daniel Blockmans, Elisabeth Brouwer, Frank Buttgereit, Kathleen Cannings, Maria C. Cid, Richard Conway, Lisa Christ, Christian Dejaco, Kresten K. Keller, Lisa Kingham, Peter A. Merkel, Aladdin J. Mohammad, Susan P. Mollan, Berit D. Nielsen, Cristina Ponte, David Saadoun, Wolfgang A. Schmidt, Kenneth J. Warrington, Bernhard Hellmich
-Journal: Annals of the Rheumatic Diseases
-Veröffentlicht: 2026-07-01
-DOI: 10.1016/j.ard.2026.06.009
-ISSN: 0003-4967
-Tag der Erhebung (OOIR): 2026-08-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2026.06.009-2026-08-01-5</guid>
-			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+			<title>⚠️ Keine Trends für Clinical Medicine (Rheumatology) verfügbar</title>
+			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
+			<link>https://ooir.org</link>
+			<guid>ooir-no-trends-clinicalmedicine-rheumatology-20260802020333</guid>
+			<pubDate>Sun, 02 Aug 2026 02:03:33 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

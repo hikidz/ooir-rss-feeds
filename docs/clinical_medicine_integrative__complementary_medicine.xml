@@ -5,82 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Integrative &amp; Complementary Medicine) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sat, 01 Aug 2026 02:07:26 GMT</pubDate>
-		<lastBuildDate>Sat, 01 Aug 2026 02:07:26 GMT</lastBuildDate>
+		<pubDate>Sun, 02 Aug 2026 02:03:26 GMT</pubDate>
+		<lastBuildDate>Sun, 02 Aug 2026 02:03:26 GMT</lastBuildDate>
 		<item>
-			<title>Berberine as a modulator in autism: Insights into mechanisms of action and therapeutic potential</title>
-			<link>https://doi.org/10.1016/j.joim.2026.07.006</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Integrative &amp; Complementary Medicine
-Score: 9
-Autoren: Diana Rodríguez-Vera, Marvin A. Soriano-Ursúa, Rodolfo Pinto-Almazán, Ivonne Maciel Arciniega-Martínez, Aldo Arturo Reséndiz-Albor, Arely Vergara-Castañeda, Carmen Valadez-Vega, Ángel Morales-González, Eduardo Osiris Madrigal-Santillán, Jazmin García-Machorro, Gabriela Ibañez-Cervantes, José A. Morales-González
-Journal: Journal of Integrative Medicine
-Veröffentlicht: 2026-07-01
-DOI: 10.1016/j.joim.2026.07.006
-ISSN: 2095-4964
-Tag der Erhebung (OOIR): 2026-08-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.joim.2026.07.006-2026-08-01-1</guid>
-			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Bioactive compounds from traditional Chinese medicine for mitochondrial dysfunction-oriented nanodelivery in neurodegenerative diseases</title>
-			<link>https://doi.org/10.1016/j.phymed.2026.158590</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Integrative &amp; Complementary Medicine
-Score: 8
-Autoren: Ting Cheng, Wenjie Hao, Mingwei Li, Yulong Yang, Zhihong Rao, Wenming Yang
-Journal: Phytomedicine
-Veröffentlicht: 2026-09-01
-DOI: 10.1016/j.phymed.2026.158590
-ISSN: 0944-7113
-Tag der Erhebung (OOIR): 2026-08-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.phymed.2026.158590-2026-08-01-2</guid>
-			<pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Natural polysaccharides as multi-target therapeutic candidates for Alzheimer's disease: Mechanisms, structure-activity relationships, and translational perspectives</title>
-			<link>https://doi.org/10.1016/j.phymed.2026.158585</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Integrative &amp; Complementary Medicine
-Score: 7
-Autoren: Shiyan Luo, Jiafu Guo, Jiayi Xu, Juxian Song, Yuan Dai, Shijun Xu
-Journal: Phytomedicine
-Veröffentlicht: 2026-09-01
-DOI: 10.1016/j.phymed.2026.158585
-ISSN: 0944-7113
-Tag der Erhebung (OOIR): 2026-08-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.phymed.2026.158585-2026-08-01-3</guid>
-			<pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Polyphenols extracted from Lycium barbarum seeds regulate gut microbiota to improve type 2 diabetes mellitus in db/db mice</title>
-			<link>https://doi.org/10.1016/j.phymed.2026.158507</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Integrative &amp; Complementary Medicine
-Score: 7
-Autoren: Juntao Zhang, Rongyi Gong, Yichen Liu, Jianjun Deng, Jinfeng Wang, Haixia Yang
-Journal: Phytomedicine
-Veröffentlicht: 2026-09-01
-DOI: 10.1016/j.phymed.2026.158507
-ISSN: 0944-7113
-Tag der Erhebung (OOIR): 2026-08-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.phymed.2026.158507-2026-08-01-4</guid>
-			<pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Mapping the knowledge landscape: A bibliometric analysis of Tai Chi for osteoarthritis (2006–2025)</title>
-			<link>https://doi.org/10.1016/j.eujim.2026.102719</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Integrative &amp; Complementary Medicine
-Score: 3
-Autoren: Hui Xu, Fangli Yang, Xuanqiang Fan, Zhen Wang, Mengmeng Li, Yunfeng Zhou
-Journal: European Journal of Integrative Medicine
-Veröffentlicht: 2026-10-01
-DOI: 10.1016/j.eujim.2026.102719
-ISSN: 1876-3820
-Tag der Erhebung (OOIR): 2026-08-01</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.eujim.2026.102719-2026-08-01-5</guid>
-			<pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+			<title>⚠️ Keine Trends für Clinical Medicine (Integrative &amp; Complementary Medicine) verfügbar</title>
+			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
+			<link>https://ooir.org</link>
+			<guid>ooir-no-trends-clinicalmedicine-integrativecomplementarymedicine-20260802020326</guid>
+			<pubDate>Sun, 02 Aug 2026 02:03:26 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
