@@ -5,14 +5,104 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Endocrinology &amp; Metabolism) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 12 Aug 2026 01:16:21 GMT</pubDate>
-		<lastBuildDate>Wed, 12 Aug 2026 01:16:21 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Aug 2026 01:19:01 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Aug 2026 01:19:01 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Endocrinology &amp; Metabolism) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-endocrinologymetabolism-20260812011621</guid>
-			<pubDate>Wed, 12 Aug 2026 01:16:21 GMT</pubDate>
+			<title>Weight-loss-independent actions of GLP-1 medicines</title>
+			<link>https://doi.org/10.1016/j.cmet.2026.07.006</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 176
+Autoren: Maria J. Gonzalez-Rellan, Daniel J. Drucker
+Journal: Cell Metabolism
+Veröffentlicht: 2026-08-01
+DOI: 10.1016/j.cmet.2026.07.006
+ISSN: 1550-4131
+Tag der Erhebung (OOIR): 2026-08-13</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2026.07.006-2026-08-13-1</guid>
+			<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Beyond weight loss: multisystem benefits of obesity medications</title>
+			<link>https://doi.org/10.1016/s2213-8587(26)00100-2</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 166
+Autoren: Mesut Savas, Susanne Kuckuck, Mariëtte R Boon, Elisabeth F C van Rossum
+Journal: The Lancet Diabetes &amp;amp; Endocrinology
+Veröffentlicht: 2026-08-01
+DOI: 10.1016/s2213-8587(26)00100-2
+ISSN: 2213-8587
+Tag der Erhebung (OOIR): 2026-08-13</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/s2213-8587(26)00100-2-2026-08-13-2</guid>
+			<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Effects of different micro- and nanoplastic polymers on steroidogenesis in a feto-placental in vitro model</title>
+			<link>https://doi.org/10.1016/j.mce.2026.112871</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 126
+Autoren: Jeske van Boxel, Sandra M. Nijmeijer, Peter Cenijn, Manuel T. Heinzelmann, Hanna M. Dusza, Laurens D.B. Mandemaker, Florian Meirer, Marja H. Lamoree, Majorie B.M. van Duursen
+Journal: Molecular and Cellular Endocrinology
+Veröffentlicht: 2026-11-01
+DOI: 10.1016/j.mce.2026.112871
+ISSN: 0303-7207
+Tag der Erhebung (OOIR): 2026-08-13</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.mce.2026.112871-2026-08-13-3</guid>
+			<pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Sex- and age-specific comorbidity networks associated with osteoporosis and fragility fractures in nationwide data</title>
+			<link>https://doi.org/10.1016/j.bone.2026.118014</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 87
+Autoren: Martina Behanova, Roland Kocijan, Elma Dervić
+Journal: Bone
+Veröffentlicht: 2026-11-01
+DOI: 10.1016/j.bone.2026.118014
+ISSN: 8756-3282
+Tag der Erhebung (OOIR): 2026-08-13</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.bone.2026.118014-2026-08-13-4</guid>
+			<pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Distinct brain regions mediate regulation of food intake in response to GIPR agonism or antagonism</title>
+			<link>https://doi.org/10.1038/s42255-026-01575-z</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 79
+Autoren: Jo Edward Lewis, Mireia Montaner, Danae Nuzzaci, Paula-Peace James-Okoro, Norio Harada, Nobuya Inagaki, W. Scott Dodson, Patrick J. Knerr, Jonathan D. Douros, Fiona Mary Gribble, Frank Reimann
+Journal: Nature Metabolism
+Veröffentlicht: 2026-07-24
+Abstract: Abstract
+                  
+                    The development of dual agonists for the glucagon-like peptide-1 receptor (GLP-1R) and glucose-dependent insulinotropic polypeptide receptor (GIPR) has been a landmark moment in the treatment of type 2 diabetes and obesity. However, for reasons that are incompletely understood, in preclinical and clinical studies, adding either a GIPR agonist or GIPR antagonist to GLP-1R agonism causes additional weight loss
+                    1
+                    . Here we show that distinct brain regions mediate the appetite-suppressing effects of GIPR agonists and the synergistic weight loss effects conferred by GIPR antagonists. We knock out
+                    Gipr
+                    in either the area postrema (AP) or hypothalamus of mice (Gipr
+                    AP-KO
+                    and Gipr
+                    hypo-KO
+                    , respectively) and compare body weight and food intake responses to GIPR agonists and antagonists, alone and in combination with the GLP-1R agonist liraglutide. Gipr
+                    AP-KO
+                    mice exhibit partial protection against diet-induced obesity, reduced responsiveness to the appetite-suppressing effects of acyl-GIP and a reduced ability of acyl-GIP to prevent avoidance triggered by peptide YY. Weight loss effects of liraglutide are comparable in Gipr
+                    AP-KO
+                    and control mice, and the co-administration of a GIPR antagonist peptide causes similar additional weight loss in both groups. Gipr
+                    hypo-KO
+                    mice, by contrast, exhibit normal appetite suppression by acyl-GIP but enhanced weight loss on liraglutide compared with control mice. Gipr
+                    hypo-KO
+                    also abolishes the synergistic effect of a GIPR antagonist when combined with liraglutide—an effect that is not mediated by nucleus tractus solitarius preproglucagon neurons. GIPR antagonism and Gipr
+                    hypo-KO
+                    also sensitise to cagrilintide-induced weight loss. Overall, our results suggest that the AP is responsible for the appetite-suppressing effects of GIPR agonism but that GIP receptors in the hypothalamus underlie the ability of GIPR antagonism to enhance the weight loss effects of GLP-1R and amylin receptor agonists.
+                  
+DOI: 10.1038/s42255-026-01575-z
+ISSN: 2522-5812
+Tag der Erhebung (OOIR): 2026-08-13</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s42255-026-01575-z-2026-08-13-5</guid>
+			<pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

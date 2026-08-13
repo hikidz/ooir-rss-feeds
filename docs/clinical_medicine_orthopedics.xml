@@ -5,14 +5,167 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Orthopedics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 12 Aug 2026 01:16:12 GMT</pubDate>
-		<lastBuildDate>Wed, 12 Aug 2026 01:16:12 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Aug 2026 01:18:07 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Aug 2026 01:18:07 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Orthopedics) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-orthopedics-20260812011612</guid>
-			<pubDate>Wed, 12 Aug 2026 01:16:12 GMT</pubDate>
+			<title>Short-Term Workload Patterns Before Achilles Tendon Rupture in National Basketball Association Players: A Descriptive Epidemiology Study</title>
+			<link>https://doi.org/10.1177/23259671261463385</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 69
+Autoren: Vineet Kumar, Luke Sang, Wyatt David, Nirav Pandya
+Journal: Orthopaedic Journal of Sports Medicine
+Veröffentlicht: 2026-07-01
+Abstract: 
+                    Background:
+                    Achilles tendon rupture (ATR) is one of the most serious injuries in professional basketball, requiring nearly a year of recovery and resulting in declines in player performance and career longevity. In the 2024-2025 NBA season, a record-high 7 ATRs highlighted the need to evaluate workload-related risk factors.
+                  
+                  
+                    Hypothesis:
+                    NBA players experiencing ATR may have a higher-than-average workload in games preceding injury, which could be associated with increased risk.
+                  
+                  
+                    Study Design:
+                    Descriptive epidemiology study.
+                  
+                  
+                    Methods:
+                    
+                      This retrospective exploratory review analyzed publicly available NBA data from the 2014-2015 to 2024-2025 seasons. Inclusion required players to have sustained a basketball-related ATR during a regular season or playoff game after participating in at least 1 full game that season. Variables included age, position, specialization, meters run, minutes played (5-, 10-, 15-game spans before ATR), games played, and scheduling metrics (back-to-backs, rest days). Data sources included official NBA statistics, StatMuse, and ESPN. Statistical analyses included paired and unpaired
+                      t
+                      tests, 1-way analysis of variance, and Spearman correlations.
+                    
+                  
+                  
+                    Results:
+                    
+                      Nineteen players (19 ATRs; mean age, 27.8 ± 3.2 years; mean league experience: 7.4 ± 3.2 years) sustained basketball-related ATRs. Playing time was significantly higher in the 10 games (29.0 ± 2.1 vs 27.4 ± 2.0 min/game;
+                      P
+                      = .01) and 15 games (28.6 ± 2.1 vs 27.4 ± 2.0 min/game;
+                      P
+                      = .03) preceding injury compared with each player’s season average. Years of league experience were positively correlated with workload measures, including total season minutes (
+                      P
+                      = .02) and minutes in the 5 games preceding rupture (
+                      P
+                      = .0498), such that veteran players generally accumulated higher workload, whereas ATRs among less-experienced players occurred in the setting of comparatively lower observed workload.
+                    
+                  
+                  
+                    Conclusion:
+                    Significant workload spikes were found in the 10 to 15 games preceding Achilles ruptures for NBA players. Veteran players carried heavier cumulative workloads, whereas younger players ruptured tendons under lighter use. Proactive workload management, athlete education, and targeted prevention strategies may help preserve player health and career longevity in the NBA.
+                  
+DOI: 10.1177/23259671261463385
+ISSN: 2325-9671
+Tag der Erhebung (OOIR): 2026-08-13</description>
+			<guid isPermaLink="false">ooir-trend-10.1177/23259671261463385-2026-08-13-1</guid>
+			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Predictors of traumatic brain injury amongst secondary school students in England: A retrospective cohort study using electronic health records</title>
+			<link>https://doi.org/10.1016/j.injury.2026.113168</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 68
+Autoren: M.T. Benavente, R. Wilson, J. Jackson, K. Birnie, J. Mytton, S. Ijaz, M. Booker, A. Burrell, A. Hall, G. Haythornthwaite, J. Hong, M.D. Lyttle, L. Pocock, L.J. Scott, C. Williams, I. Wright, J. Savović, M.T. Redaniel
+Journal: Injury
+Veröffentlicht: 2026-09-01
+DOI: 10.1016/j.injury.2026.113168
+ISSN: 0020-1383
+Tag der Erhebung (OOIR): 2026-08-13</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.injury.2026.113168-2026-08-13-2</guid>
+			<pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Early EMG-based Low Supraspinatus Activity Exercises After Arthroscopic Repair of Medium-Sized Rotator Cuff Tears: A Randomized Controlled Trial</title>
+			<link>https://doi.org/10.1016/j.jse.2026.06.028</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 22
+Autoren: Gamze Kuş, Derya Çelik, Ata Can Atalar
+Journal: Journal of Shoulder and Elbow Surgery
+Veröffentlicht: 2026-07-01
+DOI: 10.1016/j.jse.2026.06.028
+ISSN: 1058-2746
+Tag der Erhebung (OOIR): 2026-08-13</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.jse.2026.06.028-2026-08-13-3</guid>
+			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Nine Months of Fluoxetine Aids in the Reduction of Posttraumatic Stress Symptoms following a Traumatic Musculoskeletal Injury: A Randomized Controlled Trial</title>
+			<link>https://doi.org/10.1097/bot.0000000000003243</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 18
+Autoren: M Pazik, T Vasilopoulos, L de Faria, Dv Rijo, Mb Horodyski, Ca Mathews, Je Hagen
+Journal: Journal of Orthopaedic Trauma
+Veröffentlicht: 2026-07-13
+Abstract: 
+                    OBJECTIVES:
+                    To determine whether Fluoxetine, prescribed by orthopaedic providers during the immediate post-traumatic period, can lessen post-traumatic stress symptoms in survivors of traumatic musculoskeletal injuries.
+                  
+                  
+                    METHODS:
+                    
+                      Design
+                      : Non-Blinded Prospective Randomized Clinical Trial.
+                    
+                  
+                  
+                    Setting:
+                    Single Academic Level 1 Trauma Center.
+                  
+                  
+                    Patient Selection Criteria:
+                    
+                      From July 2021 to December 2023, orthopaedic surgical patients admitted for a high-energy musculoskeletal trauma (injuries not resulting from a ground level fall or less) were randomized to receive 9 months of Fluoxetine (Prozac
+                      ®
+                      ) or Placebo (Calcium).
+                    
+                  
+                  
+                    Outcome measures and comparisons:
+                    Outcomes were collected five times over the course of one year (2 weeks, 6 weeks, 3 months, 6 months, and 12 months). Patient-reported outcome measures evaluated depression (Beck Depression Inventory, BDI-II), anxiety (Beck Anxiety Inventory, BAI), Post-Traumatic Stress Disorder (PTSD) (PTSD Scale-Self report for DSM-5, PSS-SR), sleep (Pittsburgh Sleep Quality Index, PSQI), pain ( Pain, Enjoyment, General Activity Scale, PEG), and social enjoyment (PROMIS – Ability to participate Social, and PROMIS – Social Isolation ).
+                  
+                  
+                    RESULTS:
+                    
+                      The two groups (Fluoxetine = 33, Calcium = 35) were similar in terms of age (Fluoxetine = 43.5 years (SD 15.8, range = 18-73), Calcium = 40.3 years (SD 17.7, range18-70 )) and sex (Fluoxetine =14 females, Calcium = 15 females). Subjects randomized to fluoxetine showed an improvement in PTSD symptoms over time (estimate = -0.2, 95%: -0.4, -0.0; with negative numbers indicating lessening symptoms), while those randomized to calcium exhibited little to no change (estimate = 0.1, 95%: -0.1, 0.3). Additionally, subjects in the fluoxetine group (estimate = -0.1, 95% CI: -0.1, -0.0, negative numbers indicating a decrease in pain) showed a significant improvement in pain over time, whereas the calcium group showed no significant change (estimate = -0.0, 95% CI: -0.0, 0.0). There were no significant changes over time in BDI scores (F
+                      1,159
+                      = 0.0, p = 0.9), BAI scores (F
+                      1,169.4
+                      = 0.0, p = 0.9), or PROMIS measure Social Isolation (F
+                      1,142.9
+                      = 0.5, p = 0.5).
+                    
+                  
+                  
+                    CONCLUSIONS:
+                    Nine months of fluoxetine following a traumatic musculoskeletal injury decreased the severity of post-traumatic stress symptoms and pain throughout the recovery period.
+                  
+                  
+                    Level of Evidence:
+                    Level II
+                  
+DOI: 10.1097/bot.0000000000003243
+ISSN: 0890-5339
+Tag der Erhebung (OOIR): 2026-08-13</description>
+			<guid isPermaLink="false">ooir-trend-10.1097/bot.0000000000003243-2026-08-13-4</guid>
+			<pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>The effect of hip abductor or external rotator strength on dynamic knee valgus in healthy subjects-a systematic review with partial meta-analysis</title>
+			<link>https://doi.org/10.1016/j.knee.2026.104565</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Orthopedics
+Score: 16
+Autoren: Glenn Cashman, Chris White, Rylee Stephens, Sheilah Hoggs-Johnson, Jaclyn Kissel
+Journal: The Knee
+Veröffentlicht: 2026-10-01
+DOI: 10.1016/j.knee.2026.104565
+ISSN: 0968-0160
+Tag der Erhebung (OOIR): 2026-08-13</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.knee.2026.104565-2026-08-13-5</guid>
+			<pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
