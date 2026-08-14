@@ -5,136 +5,14 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rehabilitation) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Aug 2026 01:18:01 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Aug 2026 01:18:01 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Aug 2026 01:16:55 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Aug 2026 01:16:55 GMT</lastBuildDate>
 		<item>
-			<title>Spine-related leg pain: Definitions, etiology, clinical presentation, and management</title>
-			<link>https://doi.org/10.1016/j.msksp.2026.103623</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rehabilitation
-Score: 25
-Autoren: Cody Ballay, Cody J. Mansfield, Chad E. Cook, Melissa Erickson, Zachary L. McCormick, Andréas Remis
-Journal: Musculoskeletal Science and Practice
-Veröffentlicht: 2026-10-01
-DOI: 10.1016/j.msksp.2026.103623
-ISSN: 2468-7812
-Tag der Erhebung (OOIR): 2026-08-13</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.msksp.2026.103623-2026-08-13-1</guid>
-			<pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Intramedullary injection of polymerized laminin in acute traumatic spinal cord injury: a first-in-human pilot study</title>
-			<link>https://doi.org/10.1038/s41393-026-01238-6</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rehabilitation
-Score: 21
-Autoren: Marco Aurelio B. Lima, Karla Menezes, Denise R. Xerez, Bruno A. Côrtes, João R. L. Menezes, Gustavo S. Holanda, Adriana D. Silva, Eliel S. Leite, Olavo B. Franco, Marco Aurélio A. M. de Faria, Arthur de Freitas Forte, Livia V. Abreu, Renata C. L. Lichtenberger, Cíntia F. Santana, Maurilio Rosa, Aurélio V. Graça-Souza, Álvaro U. C. Jorge, Ana Cristina Franzoi, Arthur S. Ferreira, Rose M. Frajtag, Tatiana Coelho‐Sampaio
-Journal: Spinal Cord
-Veröffentlicht: 2026-08-04
-Abstract: Abstract
-                  
-                    Study design
-                    Investigator-initiated, single-arm, first-in-human pilot study.
-                  
-                  
-                    Objectives
-                    To evaluate the safety and feasibility of intramedullary administration of polymerized laminin in individuals with acute complete spinal cord injury (SCI).
-                  
-                  
-                    Setting
-                    Public and private hospitals in Brazil.
-                  
-                  
-                    Methods
-                    Eight patients with acute traumatic SCI classified as AIS A (C4–T12) were enrolled within days after injury (mean 2.3 days). Polymerized laminin was administered as a single intramedullary dose (1 µg/kg; total 55–80 µg). Patients were followed for 12 months using standardized neurological, laboratory, and neurophysiological assessments.
-                  
-                  
-                    Results
-                    Intramedullary administration was uneventful in all cases. No neurological deterioration or serious adverse events attributable to the intervention were observed. Mild laboratory abnormalities were transient and not associated with hepatic or renal toxicity. Three participants died during follow-up. Deaths were reviewed by the Brazilian National Research Ethics Commission (CONEP) and an external clinical consultant, and were not considered related to the intervention. Neurological improvement of at least two AIS grades was observed in six participants, including one who died after progressing to AIS C. Improvements in motor and/or somatosensory evoked potentials were observed in three patients.
-                  
-                  
-                    Conclusions
-                    Intramedullary administration of polymerized laminin was uneventful and appeared to be safe in this small and heterogeneous cohort. Although the study design does not allow conclusions regarding efficacy, it provides proof-of-concept for this therapeutic approach and justifies further evaluation in controlled clinical studies. The study was initiated in December 2016, prior to current requirements for prospective trial registration.
-                  
-DOI: 10.1038/s41393-026-01238-6
-ISSN: 1362-4393
-Tag der Erhebung (OOIR): 2026-08-13</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41393-026-01238-6-2026-08-13-2</guid>
-			<pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>External validation of the minimal important change in the Berg Balance Scale scores of patients hospitalized for subacute stroke</title>
-			<link>https://doi.org/10.1016/j.apmr.2026.08.002</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rehabilitation
-Score: 18
-Autoren: Hiroki Kubo, Kazuhiro Miyata, Shuntaro Tamura, Sota Kobayashi, Masafumi Nozoe, Asami Inamoto, Kazuki Kajimoto, Sota Nishihara, Nozomi Yamamoto, Shinichi Shimada
-Journal: Archives of Physical Medicine and Rehabilitation
-Veröffentlicht: 2026-08-01
-DOI: 10.1016/j.apmr.2026.08.002
-ISSN: 0003-9993
-Tag der Erhebung (OOIR): 2026-08-13</description>
-			<guid isPermaLink="false">ooir-trend-10.1016/j.apmr.2026.08.002-2026-08-13-3</guid>
-			<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>A Pilot Table Tennis-Based Neurorehabilitation Program to Improve Parkinson's Disease Symptoms</title>
-			<link>https://doi.org/10.1177/10538135261468787</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rehabilitation
-Score: 16
-Autoren: Antonio Barbera, Matthew Woodward, Isabelle Buard, Stefan Sillau, Ramon Ortega Montes, Jeanne Feuerstein
-Journal: NeuroRehabilitation
-Veröffentlicht: 2026-07-15
-Abstract: 
-                    Background
-                    Exercise is the only established disease-modifying intervention in Parkinson's disease (PD), and continued exploration of innovative and engaging exercise modalities may further enhance outcomes for individuals living with PD. Table tennis (TT) is a cognitively engaging, task-specific activity integrating visuospatial processing, anticipatory motor planning, and dynamic postural control.
-                  
-                  
-                    Objective
-                    
-                      To examine the feasibility, including attendance, retention, and safety, and effects of a 12 week TT-based program, NeuroPong
-                      TM
-                      , on motor and non-motor symptoms in individuals with PD.
-                    
-                  
-                  
-                    Methods
-                    In this single-arm pilot study, 30 participants were enrolled and 26 completed 12 weeks of twice-weekly, 2-h TT sessions. The primary outcome was the Movement Disorders Society-Unified Parkinson's Disease Rating Scale Part III (MDS-UPDRS III). Secondary outcomes included the Berg Balance Scale (BBS), Timed Up and Go (TUG), Six-Minute Walk Test (6MWT), Montreal Cognitive Assessment (MoCA) and several patient-reported outcomes. Pre-post comparisons were conducted using paired T-tests.
-                  
-                  
-                    Results
-                    
-                      Improvements were observed in the MDS-UPDRS Part III (mean change −5.73, 95% CI −9.02 to −2.44, p = 0.0014), BBS (mean change +3.08, 95% CI 1.987 to 4.17, p &amp;lt; 0.0001), TUG (mean change −1.04, 95% CI
-                      −
-                      1.69 to −0.38, p = 0.0032), and 6MWT (mean change 66.77, 95% CI 49.82 to 83.71, p &amp;lt; 0.0001). Self-reported depression decreased (Hospital Anxiety and Depression Scale, HADS-D mean change −1.12, 95% CI −1.97 to −0.26, p = 0.0129). Attendance averaged approximately 90%, and no adverse events were reported. No significant changes were observed in other outcomes.
-                    
-                  
-                  
-                    Conclusions
-                    A 12-week TT-based program, NeuroPong™, was feasible and associated with improvement in motor function, balance, walking endurance and self-reported depression in PD. The multidimensional motor and cognitive demands of table tennis may contribute to these observed benefits. Larger randomized controlled trials are warranted.
-                  
-DOI: 10.1177/10538135261468787
-ISSN: 1053-8135
-Tag der Erhebung (OOIR): 2026-08-13</description>
-			<guid isPermaLink="false">ooir-trend-10.1177/10538135261468787-2026-08-13-4</guid>
-			<pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Managing Patients With Hypermobility Disorders: They’ve Seen You, but Have You Seen Them?</title>
-			<link>https://doi.org/10.2519/jospt.2026.13979</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Rehabilitation
-Score: 15
-Autoren: Paul E. Mintken, Jan Dommerholt, Clair A. Francomano
-Journal: Journal of Orthopaedic &amp;amp; Sports Physical Therapy
-Veröffentlicht: 2026-08-01
-Abstract: SYNOPSIS:Patients with hypermobility spectrum disorders (HSD) and hypermobile Ehlers-Danlos syndrome (hEDS) frequently present to outpatient musculoskeletal practice. Yet many physical therapists feel uncertain about how best to manage these complex conditions. Individuals often report years of recurrent sprains, joint subluxations, widespread pain, and fatigue, accompanied by normal imaging and inconsistent clinical explanations. As a result, care may become fragmented, overly passive, or prematurely discontinued when pain persists. Although high-quality randomized trials remain limited, international classification updates and emerging consensus provide sufficient direction to guide practice. This editorial argues that a preparation gap exists in musculoskeletal physical therapy and outlines five principles for best-practice care: recognizing hypermobility as a multisystem condition, prioritizing education and validation, emphasizing active stabilization over passive strategies, accounting for altered pain processing and fatigue, and collaborating within a broader interdisciplinary framework. Applying these principles shifts the focus from eliminating pain to restoring function, participation, and self-efficacy. Patients with HSD or hEDS do not require rare-disease specialty clinics to improve; they require clinicians who are prepared to recognize their presentation and deliver thoughtful, evidence-informed care. The responsibility now lies with individual practitioners, educators, and professional organizations to translate existing knowledge into everyday musculoskeletal practice. J Orthop Sports Phys Ther 2026;56(8):478-481. Epub 25 March 2026. doi:10.2519/jospt.2026.13979
-DOI: 10.2519/jospt.2026.13979
-ISSN: 0190-6011
-Tag der Erhebung (OOIR): 2026-08-13</description>
-			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2026.13979-2026-08-13-5</guid>
-			<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+			<title>⚠️ Keine Trends für Clinical Medicine (Rehabilitation) verfügbar</title>
+			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
+			<link>https://ooir.org</link>
+			<guid>ooir-no-trends-clinicalmedicine-rehabilitation-20260814011655</guid>
+			<pubDate>Fri, 14 Aug 2026 01:16:55 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
