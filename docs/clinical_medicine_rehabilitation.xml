@@ -5,14 +5,110 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rehabilitation) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Aug 2026 00:47:57 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Aug 2026 00:47:57 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Aug 2026 00:49:14 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Aug 2026 00:49:14 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Rehabilitation) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-rehabilitation-20260818004757</guid>
-			<pubDate>Tue, 18 Aug 2026 00:47:57 GMT</pubDate>
+			<title>Clinical practice guideline for physical therapist management of total knee arthroplasty: revision 2026</title>
+			<link>https://doi.org/10.1093/ptj/pzag058</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 44
+Autoren: Allyn M Bove, Lindsay A Carroll, Sean Cone, Pamela Dibblee, Craig P Hensley, Kimberly Lenington, Paul A Manner, David A Scalzitti, James Tompkins, Michael J Bade
+Journal: Physical Therapy
+Veröffentlicht: 2026-07-01
+Abstract: Abstract
+                  An updated clinical practice guideline on total knee arthroplasty, initially published in 2020, was developed by an American Physical Therapy Association volunteer guideline development group consisting of physical therapists, an orthopedic surgeon, and an occupational therapist. The guideline was based on a systematic review of current scientific literature. Twenty recommendations were formulated. Benefits, harms, feasibility, and role of patient preferences in implementing these recommendations were identified. Recommendations identified current gaps in knowledge and future areas of needed research.
+DOI: 10.1093/ptj/pzag058
+ISSN: 0031-9023
+Tag der Erhebung (OOIR): 2026-08-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1093/ptj/pzag058-2026-08-19-1</guid>
+			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Managing Patients With Hypermobility Disorders: They’ve Seen You, but Have You Seen Them?</title>
+			<link>https://doi.org/10.2519/jospt.2026.13979</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 26
+Autoren: Paul E. Mintken, Jan Dommerholt, Clair A. Francomano
+Journal: Journal of Orthopaedic &amp;amp; Sports Physical Therapy
+Veröffentlicht: 2026-08-01
+Abstract: SYNOPSIS:Patients with hypermobility spectrum disorders (HSD) and hypermobile Ehlers-Danlos syndrome (hEDS) frequently present to outpatient musculoskeletal practice. Yet many physical therapists feel uncertain about how best to manage these complex conditions. Individuals often report years of recurrent sprains, joint subluxations, widespread pain, and fatigue, accompanied by normal imaging and inconsistent clinical explanations. As a result, care may become fragmented, overly passive, or prematurely discontinued when pain persists. Although high-quality randomized trials remain limited, international classification updates and emerging consensus provide sufficient direction to guide practice. This editorial argues that a preparation gap exists in musculoskeletal physical therapy and outlines five principles for best-practice care: recognizing hypermobility as a multisystem condition, prioritizing education and validation, emphasizing active stabilization over passive strategies, accounting for altered pain processing and fatigue, and collaborating within a broader interdisciplinary framework. Applying these principles shifts the focus from eliminating pain to restoring function, participation, and self-efficacy. Patients with HSD or hEDS do not require rare-disease specialty clinics to improve; they require clinicians who are prepared to recognize their presentation and deliver thoughtful, evidence-informed care. The responsibility now lies with individual practitioners, educators, and professional organizations to translate existing knowledge into everyday musculoskeletal practice. J Orthop Sports Phys Ther 2026;56(8):478-481. Epub 25 March 2026. doi:10.2519/jospt.2026.13979
+DOI: 10.2519/jospt.2026.13979
+ISSN: 0190-6011
+Tag der Erhebung (OOIR): 2026-08-19</description>
+			<guid isPermaLink="false">ooir-trend-10.2519/jospt.2026.13979-2026-08-19-2</guid>
+			<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Spine-related leg pain: Definitions, etiology, clinical presentation, and management</title>
+			<link>https://doi.org/10.1016/j.msksp.2026.103623</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 25
+Autoren: Cody Ballay, Cody J. Mansfield, Chad E. Cook, Melissa Erickson, Zachary L. McCormick, Andréas Remis
+Journal: Musculoskeletal Science and Practice
+Veröffentlicht: 2026-10-01
+DOI: 10.1016/j.msksp.2026.103623
+ISSN: 2468-7812
+Tag der Erhebung (OOIR): 2026-08-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.msksp.2026.103623-2026-08-19-3</guid>
+			<pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Intramedullary injection of polymerized laminin in acute traumatic spinal cord injury: a first-in-human pilot study</title>
+			<link>https://doi.org/10.1038/s41393-026-01238-6</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 24
+Autoren: Marco Aurelio B. Lima, Karla Menezes, Denise R. Xerez, Bruno A. Côrtes, João R. L. Menezes, Gustavo S. Holanda, Adriana D. Silva, Eliel S. Leite, Olavo B. Franco, Marco Aurélio A. M. de Faria, Arthur de Freitas Forte, Livia V. Abreu, Renata C. L. Lichtenberger, Cíntia F. Santana, Maurilio Rosa, Aurélio V. Graça-Souza, Álvaro U. C. Jorge, Ana Cristina Franzoi, Arthur S. Ferreira, Rose M. Frajtag, Tatiana Coelho‐Sampaio
+Journal: Spinal Cord
+Veröffentlicht: 2026-08-04
+Abstract: Abstract
+                  
+                    Study design
+                    Investigator-initiated, single-arm, first-in-human pilot study.
+                  
+                  
+                    Objectives
+                    To evaluate the safety and feasibility of intramedullary administration of polymerized laminin in individuals with acute complete spinal cord injury (SCI).
+                  
+                  
+                    Setting
+                    Public and private hospitals in Brazil.
+                  
+                  
+                    Methods
+                    Eight patients with acute traumatic SCI classified as AIS A (C4–T12) were enrolled within days after injury (mean 2.3 days). Polymerized laminin was administered as a single intramedullary dose (1 µg/kg; total 55–80 µg). Patients were followed for 12 months using standardized neurological, laboratory, and neurophysiological assessments.
+                  
+                  
+                    Results
+                    Intramedullary administration was uneventful in all cases. No neurological deterioration or serious adverse events attributable to the intervention were observed. Mild laboratory abnormalities were transient and not associated with hepatic or renal toxicity. Three participants died during follow-up. Deaths were reviewed by the Brazilian National Research Ethics Commission (CONEP) and an external clinical consultant, and were not considered related to the intervention. Neurological improvement of at least two AIS grades was observed in six participants, including one who died after progressing to AIS C. Improvements in motor and/or somatosensory evoked potentials were observed in three patients.
+                  
+                  
+                    Conclusions
+                    Intramedullary administration of polymerized laminin was uneventful and appeared to be safe in this small and heterogeneous cohort. Although the study design does not allow conclusions regarding efficacy, it provides proof-of-concept for this therapeutic approach and justifies further evaluation in controlled clinical studies. The study was initiated in December 2016, prior to current requirements for prospective trial registration.
+                  
+DOI: 10.1038/s41393-026-01238-6
+ISSN: 1362-4393
+Tag der Erhebung (OOIR): 2026-08-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41393-026-01238-6-2026-08-19-4</guid>
+			<pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>External validation of the minimal important change in the Berg Balance Scale scores of patients hospitalized for subacute stroke</title>
+			<link>https://doi.org/10.1016/j.apmr.2026.08.002</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rehabilitation
+Score: 18
+Autoren: Hiroki Kubo, Kazuhiro Miyata, Shuntaro Tamura, Sota Kobayashi, Masafumi Nozoe, Asami Inamoto, Kazuki Kajimoto, Sota Nishihara, Nozomi Yamamoto, Shinichi Shimada
+Journal: Archives of Physical Medicine and Rehabilitation
+Veröffentlicht: 2026-08-01
+DOI: 10.1016/j.apmr.2026.08.002
+ISSN: 0003-9993
+Tag der Erhebung (OOIR): 2026-08-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.apmr.2026.08.002-2026-08-19-5</guid>
+			<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

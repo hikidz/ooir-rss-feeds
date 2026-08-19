@@ -5,14 +5,203 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Sport Sciences) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Aug 2026 00:47:59 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Aug 2026 00:47:59 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Aug 2026 00:49:43 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Aug 2026 00:49:43 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Sport Sciences) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-sportsciences-20260818004759</guid>
-			<pubDate>Tue, 18 Aug 2026 00:47:59 GMT</pubDate>
+			<title>Effectiveness of an individualised swimming and education programme for chronic low back pain (EduSwim): a randomised controlled trial</title>
+			<link>https://doi.org/10.1136/bjsports-2026-111730</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 524
+Autoren: Deborah M Wareham, Joel T Fuller, Petra L Graham, Natasha C Pocovi, Hazel J Jenkins, Chris G Maher, Kerry Mace, Karen Tambree, Mark J Hancock
+Journal: British Journal of Sports Medicine
+Veröffentlicht: 2026-07-21
+Abstract: 
+                    Objective
+                    To assess the effectiveness of a swimming and education programme compared with education alone for patients with chronic low back pain.
+                  
+                  
+                    Method
+                    Adults with chronic, non-specific low back pain were randomised to a swimming and education (intervention) group or an education alone (control) group (1:1). The intervention group received an individualised swimming and education programme facilitated by four physiotherapy telehealth sessions delivered over 8 weeks. The control group received up to two telehealth sessions with a physiotherapist covering the same educational content as the intervention group. The primary outcome was disability (Roland Morris Disability Questionnaire, (RMDQ)) at 8 weeks. Secondary outcomes included pain intensity, patient-specific functional limitation, pain self-efficacy, fear of movement, patient-perceived global improvement and adverse events. Linear mixed models were used to assess intervention effects.
+                  
+                  
+                    Results
+                    76 participants were randomised (39 to intervention and 37 to control). Swimming and education together was more effective than education alone for disability at 8 weeks (RMDQ mean difference (MD) −2.5, 95% CI −4.5 to −0.5), but this between-group difference was not sustained at 52 weeks. For pain intensity, the intervention showed a small benefit at 8 weeks that may not be clinically significant (MD −0.7, 95% CI −1.5 to 0.0). All other secondary outcomes showed a pattern of better outcomes in the intervention group early, which typically reduced over time. The intervention group had more adverse events, although almost all were non-serious.
+                  
+                  
+                    Conclusion
+                    A swimming and education programme was more effective than education alone for short-term improvement of chronic low back pain.
+                  
+                  
+                    Trial registration number
+                    ACTRN12624000263594.
+                  
+DOI: 10.1136/bjsports-2026-111730
+ISSN: 0306-3674
+Tag der Erhebung (OOIR): 2026-08-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bjsports-2026-111730-2026-08-19-1</guid>
+			<pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Associations of Physical Activity and Sedentary Time From Childhood to Adolescence With Cognition in Adolescence: The PANIC Study</title>
+			<link>https://doi.org/10.1123/pes.2025-0083</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 126
+Autoren: Petri Jalanko, Marja H. Leppänen, Bert Bond, Jari A. Laukkanen, Timo A. Lakka, Eero A. Haapala
+Journal: Pediatric Exercise Science
+Veröffentlicht: 2026-08-01
+Abstract: 
+                    
+                      Purpose
+                      :
+                    
+                    Investigate the associations of cumulative exposure to physical activity (PA), sedentary time (ST), and screen time from childhood to adolescence over an 8-year follow-up with cognition in adolescence.
+                    
+                      Methods
+                      :
+                    
+                     All together, 260 adolescents (136 boys) who were 15–17 y at 8-y follow-up were analyzed. PA and ST were assessed using an Actiheart device, and different types of PA, nonscreen-based ST, and screen time were assessed by a questionnaire at baseline, 2-y and 8-y examinations. Cognition was assessed using CogState tests at 8-year examinations.
+                    
+                      Results
+                      :
+                    
+                    Self-reported cumulative unsupervised PA from childhood to adolescence was inversely associated with accuracy in working memory task (standardized regression coefficient,
+                    β
+                     = −0.127; 95% confidence interval [CI], −0.247 to −0.008) in adolescence. Self-reported nonscreen-based ST was inversely associated with reaction time (
+                    β
+                     = −0.176; 95% CI, −0.299 to −0.053) and accuracy (
+                    β
+                     = −0.149; 95% CI, −0.274 to −0.024) in working memory tasks. Self-reported screen time was inversely associated with reaction time (
+                    β
+                     = −0.194; 95% CI, −0.316 to −0.071) and accuracy (
+                    β
+                     = −0.233; 95% CI, −0.355 to −0.112) in both working memory tasks and directly associated with overall cognition (
+                    β
+                     = 0.187; 95% CI, 0.070 to 0.305).
+                    
+                      Conclusion
+                      :
+                    
+                    Accumulating less unsupervised PA and more screen time from childhood to adolescence was associated with better cognition in adolescence.
+                  
+DOI: 10.1123/pes.2025-0083
+ISSN: 0899-8493
+Tag der Erhebung (OOIR): 2026-08-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1123/pes.2025-0083-2026-08-19-2</guid>
+			<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Wearable Heart Rate Variability Monitoring, Autonomic Dysfunction and Post-exertional Malaise in Long COVID: An Observational Study</title>
+			<link>https://doi.org/10.1007/s40279-026-02487-4</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 96
+Autoren: Twan M. Ruijgt, Anouk Slaghekke, Anneke Ellens, Kasper W. Janssen, Rob C. I. Wüst
+Journal: Sports Medicine
+Veröffentlicht: 2026-07-25
+Abstract: Abstract
+                  
+                    Objectives
+                    Patients with long coronavirus disease (COVID) experience disabling fatigue, autonomic dysfunction, reduced exercise capacity and post-exertional malaise (PEM). Heart rate variability (HRV) can evaluate autonomic function and monitor overexertion, potentially helping to mitigate PEM. This study aimed to use continuous multi-day HRV recordings to monitor overexertion and study autonomic function in long COVID.
+                  
+                  
+                    Method
+                    Heart rate and HRV were continuously measured in 121 patients with long COVID (43 ± 11 years, 32% male) and 21 healthy controls (42 ± 13 years, 48% male), with daily life activities tracked in a logbook. Participants underwent a (sub)maximal cardiopulmonary exercise test to determine heart rate at the first ventilatory threshold (VT1) to study HRV responses to exercise at different intensities.
+                  
+                  
+                    Results and Discussion
+                    
+                      HRV was lower in patients with long COVID compared with healthy controls during various daily activities and sleep (
+                      p
+                       = 0.027). Across all exercise intensities surrounding the VT1, HRV remained lower for 24 h in patients compared with controls (
+                      p
+                       = 0.010). Nighttime HRV decreased with intense exercise and longer durations in patients with long COVID (
+                      p
+                       = 0.018), indicative of exercise-induced diurnal disturbances of the autonomic nervous system in long COVID.
+                    
+                  
+                  
+                    Conclusion
+                    Heart rate variability, assessed by wearables, suggests autonomic dysfunction in patients with long COVID. The delayed recovery of the sympathovagal balance after exercise close to and above VT1, suggests that the risk of PEM rises above VT1.
+                  
+                  
+                    Application
+                    These results confirm the applicability of wearables to assess autonomic function and manage overexertion in patients with long COVID.
+                  
+DOI: 10.1007/s40279-026-02487-4
+ISSN: 0112-1642
+Tag der Erhebung (OOIR): 2026-08-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s40279-026-02487-4-2026-08-19-3</guid>
+			<pubDate>Sat, 25 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Short-Term Workload Patterns Before Achilles Tendon Rupture in National Basketball Association Players: A Descriptive Epidemiology Study</title>
+			<link>https://doi.org/10.1177/23259671261463385</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 72
+Autoren: Vineet Kumar, Luke Sang, Wyatt David, Nirav Pandya
+Journal: Orthopaedic Journal of Sports Medicine
+Veröffentlicht: 2026-07-01
+Abstract: 
+                    Background:
+                    Achilles tendon rupture (ATR) is one of the most serious injuries in professional basketball, requiring nearly a year of recovery and resulting in declines in player performance and career longevity. In the 2024-2025 NBA season, a record-high 7 ATRs highlighted the need to evaluate workload-related risk factors.
+                  
+                  
+                    Hypothesis:
+                    NBA players experiencing ATR may have a higher-than-average workload in games preceding injury, which could be associated with increased risk.
+                  
+                  
+                    Study Design:
+                    Descriptive epidemiology study.
+                  
+                  
+                    Methods:
+                    
+                      This retrospective exploratory review analyzed publicly available NBA data from the 2014-2015 to 2024-2025 seasons. Inclusion required players to have sustained a basketball-related ATR during a regular season or playoff game after participating in at least 1 full game that season. Variables included age, position, specialization, meters run, minutes played (5-, 10-, 15-game spans before ATR), games played, and scheduling metrics (back-to-backs, rest days). Data sources included official NBA statistics, StatMuse, and ESPN. Statistical analyses included paired and unpaired
+                      t
+                      tests, 1-way analysis of variance, and Spearman correlations.
+                    
+                  
+                  
+                    Results:
+                    
+                      Nineteen players (19 ATRs; mean age, 27.8 ± 3.2 years; mean league experience: 7.4 ± 3.2 years) sustained basketball-related ATRs. Playing time was significantly higher in the 10 games (29.0 ± 2.1 vs 27.4 ± 2.0 min/game;
+                      P
+                      = .01) and 15 games (28.6 ± 2.1 vs 27.4 ± 2.0 min/game;
+                      P
+                      = .03) preceding injury compared with each player’s season average. Years of league experience were positively correlated with workload measures, including total season minutes (
+                      P
+                      = .02) and minutes in the 5 games preceding rupture (
+                      P
+                      = .0498), such that veteran players generally accumulated higher workload, whereas ATRs among less-experienced players occurred in the setting of comparatively lower observed workload.
+                    
+                  
+                  
+                    Conclusion:
+                    Significant workload spikes were found in the 10 to 15 games preceding Achilles ruptures for NBA players. Veteran players carried heavier cumulative workloads, whereas younger players ruptured tendons under lighter use. Proactive workload management, athlete education, and targeted prevention strategies may help preserve player health and career longevity in the NBA.
+                  
+DOI: 10.1177/23259671261463385
+ISSN: 2325-9671
+Tag der Erhebung (OOIR): 2026-08-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1177/23259671261463385-2026-08-19-4</guid>
+			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Real-world creatine supplementation: a large-scale cross-sectional study of use, knowledge, and experiences</title>
+			<link>https://doi.org/10.1080/15502783.2026.2702952</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Sport Sciences
+Score: 72
+Autoren: Jocelyn Burridge, Ali Boolani, Ziyang Zhang, Jordan M. Glenn
+Journal: Journal of the International Society of Sports Nutrition
+Veröffentlicht: 2026-07-21
+DOI: 10.1080/15502783.2026.2702952
+ISSN: 1550-2783
+Tag der Erhebung (OOIR): 2026-08-19</description>
+			<guid isPermaLink="false">ooir-trend-10.1080/15502783.2026.2702952-2026-08-19-5</guid>
+			<pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
