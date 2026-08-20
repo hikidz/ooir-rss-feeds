@@ -5,14 +5,133 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rheumatology) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 19 Aug 2026 00:50:50 GMT</pubDate>
-		<lastBuildDate>Wed, 19 Aug 2026 00:50:50 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Aug 2026 00:49:40 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Aug 2026 00:49:40 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Rheumatology) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-rheumatology-20260819005050</guid>
-			<pubDate>Wed, 19 Aug 2026 00:50:50 GMT</pubDate>
+			<title>Effects of air pollution on disease activity in patients with rheumatoid arthritis</title>
+			<link>https://doi.org/10.1016/j.ard.2026.06.018</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 86
+Autoren: Sung Cheol Jung, Jeffrey R Curtis, Seojin Yang, Yunhee Choi, Min Hyuk Lim, Saram Lee, Sung Ik Cho, Jin Kyun Park, Jun Won Park, Eun Bong Lee
+Journal: Annals of the Rheumatic Diseases
+Veröffentlicht: 2026-08-01
+DOI: 10.1016/j.ard.2026.06.018
+ISSN: 0003-4967
+Tag der Erhebung (OOIR): 2026-08-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2026.06.018-2026-08-20-1</guid>
+			<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Oral microbiome dysbiosis and oral-gut microbial network disruption in hand osteoarthritis: data from the Xiangya Osteoarthritis Study</title>
+			<link>https://doi.org/10.1136/rmdopen-2026-006962</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 49
+Autoren: Jiatian Li, Yadan Xiao, Tuo Yang, David J Hunter, Weiya Zhang, Michael Doherty, Yuqing Zhang, Zidan Yang, Yilun Wang, Dongxing Xie, Changjun Li, Kai Zhao, Wei Li, Zeqin Wen, Chao Zeng, Guanghua Lei, Jie Wei
+Journal: RMD Open
+Veröffentlicht: 2026-07-01
+Abstract: 
+                    Objectives
+                    The oral microbiome plays a critical role in modulating systemic inflammation, partly through its interactions with the gut microbiome. Although gut microbiome dysbiosis has been implicated in symptomatic hand osteoarthritis (SHOA), the role of oral microbiome dysbiosis in SHOA and its relationship with gut microbiome dysbiosis remain unclear. Elucidating these associations could provide novel insights into SHOA pathogenesis.
+                  
+                  
+                    Methods
+                    Participants were recruited from the Xiangya Osteoarthritis (XO) Study, an ongoing community-based observational study. Saliva samples were analysed using 16S ribosomal RNA gene sequencing. Oral microbial richness, composition and relative abundance of specific taxa were compared between SHOA participants and controls without SHOA. Correlations within the oral-gut microbiome network were also assessed and compared between groups.
+                  
+                  
+                    Results
+                    
+                      Compared with controls (n=712), participants with SHOA (n=52) exhibited significantly lower oral microbial richness (p=0.007) and altered composition (p=0.007). The relative abundance of the genus
+                      Trichococcus
+                      was significantly higher in SHOA participants (β=0.437 (95% CI 0.174 to 0.699), p=0.001, Q=0.073) and positively associated with SHOA severity. Furthermore, the number of significant correlations within the oral-gut microbiome network was markedly reduced in SHOA participants compared with controls. Notably,
+                      Trichococcus
+                      abundance in the oral microbiome correlated positively with the gut microbial KEGG pathway of tyrosine metabolism (r=0.137, p=0.001, Q=0.047), both linked to SHOA.
+                    
+                  
+                  
+                    Conclusion
+                    Oral microbiome dysbiosis and disruption of the oral-gut microbiome network are associated with prevalent SHOA. These findings suggest a potential role of the oral-gut microbiome axis in SHOA pathogenesis. Larger studies are needed to confirm these associations.
+                  
+                  
+                    Trial registration number
+                    
+                      NCT04033757
+                      .
+                    
+                  
+DOI: 10.1136/rmdopen-2026-006962
+ISSN: 2056-5933
+Tag der Erhebung (OOIR): 2026-08-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/rmdopen-2026-006962-2026-08-20-2</guid>
+			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Navigating evidence-based recommendations for the management of systemic sclerosis</title>
+			<link>https://doi.org/10.1038/s41584-026-01416-z</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 43
+Autoren: Francesco Del Galdo, Yannick Allanore, Oliver Distler, Anna Maria Hoffmann-Vold, Sindhu Johnson, Dinesh Khanna, Voon H. Ong, Elisabetta A. Renzoni, Elizabeth R. Volkmann, Christopher P. Denton
+Journal: Nature Reviews Rheumatology
+Veröffentlicht: 2026-08-04
+DOI: 10.1038/s41584-026-01416-z
+ISSN: 1759-4790
+Tag der Erhebung (OOIR): 2026-08-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41584-026-01416-z-2026-08-20-3</guid>
+			<pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>The role of health literacy in clinical, treatment, and work-related outcomes in people with inflammatory arthritis in England: a cross-sectional study</title>
+			<link>https://doi.org/10.1016/s2665-9913(26)00081-0</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 41
+Autoren: Mrinalini Dey, Sam Norton, Andrew P Cope, Maya H Buch, Ailsa Bosworth, Richard Osborne, James B Galloway, Elena Nikiphorou
+Journal: The Lancet Rheumatology
+Veröffentlicht: 2026-08-01
+DOI: 10.1016/s2665-9913(26)00081-0
+ISSN: 2665-9913
+Tag der Erhebung (OOIR): 2026-08-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(26)00081-0-2026-08-20-4</guid>
+			<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Long‐Term Lignan Intake, Whole Grain Foods, and the Risk of Gout: Results From Two Prospective Cohort Studies</title>
+			<link>https://doi.org/10.1002/acr.25596</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 38
+Autoren: Sharan K. Rai, Yang Hu, Ming Ding, Frank B. Hu, Molin Wang, Jorge E. Chavarro, Natalie McCormick, Hyon K. Choi, Qi Sun
+Journal: Arthritis Care &amp;amp; Research
+Veröffentlicht: 2026-08-10
+Abstract: 
+                    Objective
+                    Multiple plant‐based dietary patterns are inversely associated with gout, although the individual constituents driving this association remain unclear. Dietary lignans, a major group of phytoestrogens abundant in plant foods, are metabolized by the gut microflora and may modulate gout risk. We examined the associations between dietary lignan intake, certain whole grain foods rich in lignans, and incident gout.
+                  
+                  
+                    Methods
+                    We analyzed data from 122,680 individuals in the Health Professionals Follow‐up Study and Nurses’ Health Study. We administered a food frequency questionnaire every two to four years. We used Cox models to evaluate associations between dietary lignans, whole grain foods, and confirmed gout.
+                  
+                  
+                    Results
+                    
+                      Higher intakes of matairesinol (hazard ratio [HR] comparing extreme quintiles, 0.78; 95% confidence interval [CI], 0.69–0.90;
+                      P
+                      trend = 0.002) and secoisolariciresinol (HR, 0.78; 95% CI, 0.68–0.89;
+                      P
+                      trend = 0.002) were both associated with lower gout risk, whereas pinoresinol and lariciresinol were not associated with gout. We found inverse associations of whole grain cold breakfast cereals (HR for those consuming ≥1 serving per day, 0.62; 95% CI, 0.53–0.73), cooked oatmeal/oat bran (HR for those consuming ≥2 servings per week, 0.78; 95% CI, 0.70–0.86), and bran added to food (HR for those consuming ≥2 servings per week, 0.84; 95% CI, 0.74–0.95), but not dark breads or other cooked breakfast cereals, with gout.
+                    
+                  
+                  
+                    Conclusion
+                    Higher intakes of matairesinol and secoisolariciresinol, as well as whole grain cold breakfast cereals, oatmeal, and added bran, were each significantly associated with lower gout risk. These findings support adherence to healthful plant‐based diets for gout and support a potential role of the gut microbiome in gout pathogenesis.
+                  
+DOI: 10.1002/acr.25596
+ISSN: 2151-464X
+Tag der Erhebung (OOIR): 2026-08-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/acr.25596-2026-08-20-5</guid>
+			<pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

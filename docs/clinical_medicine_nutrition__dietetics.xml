@@ -5,14 +5,102 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Nutrition &amp; Dietetics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 19 Aug 2026 00:50:26 GMT</pubDate>
-		<lastBuildDate>Wed, 19 Aug 2026 00:50:26 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Aug 2026 00:49:25 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Aug 2026 00:49:25 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Nutrition &amp; Dietetics) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-nutritiondietetics-20260819005026</guid>
-			<pubDate>Wed, 19 Aug 2026 00:50:26 GMT</pubDate>
+			<title>Associations of habitual coffee intake with testosterone and cardiometabolic markers: the Northern Finland birth cohort 1966 study</title>
+			<link>https://doi.org/10.1007/s00394-026-04038-z</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Nutrition &amp; Dietetics
+Score: 199
+Autoren: Luca Verroest, Jari Jokelainen, Shalini Choudhary, Jaroslaw Walkowiak, Toni Karhu, Saranya Palaniswamy, Juha Auvinen, Marjo-Riitta Jarvelin, Karl-Heinz Herzig, Ghulam Shere Raza
+Journal: European Journal of Nutrition
+Veröffentlicht: 2026-07-16
+Abstract: Abstract
+                  
+                    Purpose
+                    Coffee is a widely consumed source of bioactive compounds globally, yet its associations with circulating metabolites, sex hormones, and cardiometabolic markers remain incompletely characterised. We investigated these associations in a large population-based cohort, with particular attention to sex-specific hormonal profiles and metabolomic signatures.
+                  
+                  
+                    Methods
+                    Cross-sectional data from 2,264 participants (47% men) of the Northern Finland Birth Cohort 1966 (NFBC1966) at age 46 were analysed using sex-stratified Spearman correlations and multivariable linear regression models adjusted for BMI, educational attainment, smoking, physical activity, and alcohol intake.
+                  
+                  
+                    Results
+                    Higher coffee intake groups showed lower total and visceral fat and higher skeletal muscle mass, while BMI was comparable across groups. Inverse correlations were observed between coffee intake and circulating branched-chain amino acids (BCAAs) in both sexes. In men, higher coffee intake correlated with a more favourable glucose–insulin profile. Multivariable-adjusted models revealed a distinct hormonal pattern: positive associations with total testosterone (β = +0.29 nmol/L per cup/day), bioavailable testosterone, and sex hormone–binding globulin (SHBG), alongside inverse associations with free testosterone and the free androgen index (FAI). In women, hormonal associations were more limited, with positive associations for SHBG and inverse associations for free testosterone and FAI.
+                  
+                  
+                    Conclusions
+                    Higher habitual coffee intake groups showed a leaner body composition, correlated inversely with circulating BCAAs in both sexes, and were independently associated with a sex-specific hormonal profile that may be metabolically relevant, particularly in men. Future longitudinal and intervention studies are needed to establish causality and identify the coffee-derived bioactive compounds involved.
+                  
+DOI: 10.1007/s00394-026-04038-z
+ISSN: 1436-6207
+Tag der Erhebung (OOIR): 2026-08-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s00394-026-04038-z-2026-08-20-1</guid>
+			<pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Effect of Tomato Consumption on Liver Steatosis in MASLD: A Randomized Controlled Trial (POMOSANO Study)</title>
+			<link>https://doi.org/10.3390/nu18152476</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Nutrition &amp; Dietetics
+Score: 85
+Autoren: Rossella Tatoli, Rossella Donghia, Nicola Carella, Nicole Cerabino, Martina Di Chito, Marianna Zappimbulso, Pasqua Letizia Pesole, Dolores Stabile, Annalisa Ferro, Giovanni Pascale, Endrit Shahini, Francesca Pavone, Luigi Fontana, Gianluigi Giannelli
+Journal: Nutrients
+Veröffentlicht: 2026-07-30
+Abstract: Background: Metabolic dysfunction-associated steatotic liver disease (MASLD) is a common chronic liver disease for which lifestyle modification remains the main treatment. However, the role of specific dietary components is not fully understood. We investigated whether daily tomato consumption, a source of Mediterranean diet bioactive compounds, improves hepatic steatosis in adults with MASLD. Methods: In the randomized controlled POMOSANO trial, 79 adults with MASLD (BMI ≤ 30 kg/m2) were assigned to a tomato intervention group (n = 42), consuming 200 g/day of raw tomatoes and 50 g/day of tomato sauce, or to a control group (n = 37) following a tomato-free diet. The intervention lasted 6 weeks. Hepatic steatosis was assessed by the FibroScan® controlled attenuation parameter (CAP). Secondary outcomes included anthropometric measures, body composition, liver stiffness, and metabolic and biochemical markers. Linear mixed-effects models were used to evaluate changes over time. Results: CAP decreased in both groups, with a greater reduction in the intervention group (median change: −35.00 vs. −18.00 dB/m). The adjusted linear mixed-effects model confirmed that the change in CAP in the control group was β = −12.81 (95% CI −25.55 to −0.08; p = 0.0490). Crucially, the treatment-by-time interaction was significant (β = −26.63, 95% CI −44.00 to −9.25; p = 0.0030), demonstrating a significantly greater reduction in hepatic steatosis in the tomato intervention group compared to the control group. CAP values were also significantly lower in the intervention group at follow-up (p = 0.0433). The adjusted linear mixed-effects model confirmed a significant reduction in CAP over time (β = −12.81, 95% CI −25.55 to −0.08; p = 0.0490) and a significant treatment-by-time interaction (β = −26.63, 95% CI −44.00 to −9.25; p = 0.0030), indicating a greater reduction in hepatic steatosis in the intervention group. No significant between-group differences were observed for liver stiffness, FIB-4 index, body weight, body composition, or most metabolic and biochemical markers. Conclusions: Daily consumption of raw tomatoes and tomato sauce reduced hepatic steatosis in adults with MASLD, supporting tomato-rich dietary strategies as a potential nutritional approach for MASLD management.
+DOI: 10.3390/nu18152476
+ISSN: 2072-6643
+Tag der Erhebung (OOIR): 2026-08-20</description>
+			<guid isPermaLink="false">ooir-trend-10.3390/nu18152476-2026-08-20-2</guid>
+			<pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Real-world creatine supplementation: a large-scale cross-sectional study of use, knowledge, and experiences</title>
+			<link>https://doi.org/10.1080/15502783.2026.2702952</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Nutrition &amp; Dietetics
+Score: 72
+Autoren: Jocelyn Burridge, Ali Boolani, Ziyang Zhang, Jordan M. Glenn
+Journal: Journal of the International Society of Sports Nutrition
+Veröffentlicht: 2026-07-21
+DOI: 10.1080/15502783.2026.2702952
+ISSN: 1550-2783
+Tag der Erhebung (OOIR): 2026-08-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1080/15502783.2026.2702952-2026-08-20-3</guid>
+			<pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Understanding Postpartum Mothers’ Perspectives of Chrononutrition Approaches: A Qualitative Study</title>
+			<link>https://doi.org/10.1016/j.jand.2026.156393</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Nutrition &amp; Dietetics
+Score: 54
+Autoren: Elizabeth N. Davis, Zena A. Patel, Christie Kirchoff, Courtney M. Peterson, Gareth R. Dutton, Erin Contratto, Camille R. Schneider-Worthington
+Journal: Journal of the Academy of Nutrition and Dietetics
+Veröffentlicht: 2026-07-01
+DOI: 10.1016/j.jand.2026.156393
+ISSN: 2212-2672
+Tag der Erhebung (OOIR): 2026-08-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.jand.2026.156393-2026-08-20-4</guid>
+			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Unanticipated Effects of
+                    GLP
+                    ‐1 Receptor Agonists: A Net Positive</title>
+			<link>https://doi.org/10.1002/oby.70288</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Nutrition &amp; Dietetics
+Score: 51
+Autoren: Adam H. Gilden, Steven B. Heymsfield
+Journal: Obesity
+Veröffentlicht: 2026-07-30
+DOI: 10.1002/oby.70288
+ISSN: 1930-7381
+Tag der Erhebung (OOIR): 2026-08-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/oby.70288-2026-08-20-5</guid>
+			<pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,14 +5,145 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medicine, General &amp; Internal) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 19 Aug 2026 00:50:06 GMT</pubDate>
-		<lastBuildDate>Wed, 19 Aug 2026 00:50:06 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Aug 2026 00:49:07 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Aug 2026 00:49:07 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Medicine, General &amp; Internal) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-medicinegeneralinternal-20260819005006</guid>
-			<pubDate>Wed, 19 Aug 2026 00:50:06 GMT</pubDate>
+			<title>Daraxonrasib or Chemotherapy in Previously Treated Metastatic Pancreatic Cancer</title>
+			<link>https://doi.org/10.1056/nejmoa2605555</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, General &amp; Internal
+Score: 3461
+Autoren: Eileen M. O’Reilly, Zev A. Wainberg, Andrew E. Hendifar, Mitesh J. Borad, Filippo Pietrantonio, Shubham Pant, Pascal Hammel, Chiara Cremolini, Gulam A. Manji, Paul E. Oberstein, Ignacio Garrido-Laguna, Christoph Springfeld, Nilofer S. Azad, Makoto Ueno, Stephen Y. Chui, Ying Zhang, Hina Patel, Yeonju Lee, Zeena Salman, Brian M. Wolpin
+Journal: New England Journal of Medicine
+Veröffentlicht: 2026-07-23
+DOI: 10.1056/nejmoa2605555
+ISSN: 0028-4793
+Tag der Erhebung (OOIR): 2026-08-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1056/nejmoa2605555-2026-08-20-1</guid>
+			<pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Risk of hair loss associated with glucagon-like peptide-1 receptor agonists in adults with type 2 diabetes: target trial emulation</title>
+			<link>https://doi.org/10.1136/bmj-2026-100077</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, General &amp; Internal
+Score: 916
+Autoren: Huilin Tang, Bingyu Zhang, Yiwen Lu, Dazheng Zhang, Ruishan Liu, Yuan Lu, George Cotsarelis, David A Asch, Yong Chen
+Journal: BMJ
+Veröffentlicht: 2026-07-22
+Abstract: Abstract
+                  
+                    Objective
+                    To examine the association between glucagon-like peptide-1 (GLP-1) receptor agonists and the risk of incident alopecia (hair loss) in adults with type 2 diabetes, compared with sodium-glucose cotransporter-2 (SGLT-2) inhibitors and dipeptidyl peptidase-4 (DPP-4) inhibitors.
+                  
+                  
+                    Design
+                    Target trial emulation.
+                  
+                  
+                    Setting
+                    Electronic health records from Penn Medicine.
+                  
+                  
+                    Participants
+                    Adults (&amp;gt;18 years) with type 2 diabetes.
+                  
+                  
+                    Exposures
+                    New initiation of GLP-1 receptor agonists, SGLT-2 inhibitors, or DPP-4 inhibitors between January 2019 and September 2024.
+                  
+                  
+                    Main outcome measures
+                    Outcomes of interest included incident alopecia and its subtypes, identified by using diagnostic codes. Stabilised inverse probability of treatment weighting was applied to balance baseline covariates between treatment groups, and Cox proportional hazards models were used to estimate hazard ratios with 95% confidence intervals. Multiple sensitivity (including negative control outcome calibration) and subgroup analyses were done to assess robustness.
+                  
+                  
+                    Results
+                    This study included 12 004 GLP-1 receptor agonist initiators and 15 221 SGLT-2 inhibitor initiators in the GLP-1 receptor agonist versus SGLT-2 inhibitor comparison and 11 964 GLP-1 receptor agonist initiators and 11 238 DPP-4 inhibitor initiators in the GLP-1 receptor agonist versus DPP-4 inhibitor comparison. After stabilised inverse probability of treatment weighting adjustment, use of GLP-1 receptor agonists was associated with a higher risk of alopecia than use of SGLT-2 inhibitors (hazard ratio 1.37, 95% confidence interval 1.08 to 1.73) or DPP-4 inhibitors (1.68, 1.28 to 2.20). The associations were consistent across sensitivity and subgroup analyses, with attenuation after negative control outcome calibration. Subtype analyses indicated that the association was specific to non-scarring alopecia, with hazard ratios of 1.53 (1.18 to 1.97) and 1.72 (1.28 to 2.31) compared with SGLT-2 inhibitors and DPP-4 inhibitors, respectively.
+                  
+                  
+                    Conclusions
+                    Use of GLP-1 receptor agonists was associated with an increased risk of non-scarring alopecia in adults with type 2 diabetes. Although the absolute risk is low, awareness of this potential effect may help to inform treatment decisions.
+                  
+DOI: 10.1136/bmj-2026-100077
+ISSN: 1756-1833
+Tag der Erhebung (OOIR): 2026-08-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1136/bmj-2026-100077-2026-08-20-2</guid>
+			<pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>In Vivo Base Editing of
+                    PCSK9
+                    with VERVE-102 for Hypercholesterolemia</title>
+			<link>https://doi.org/10.1056/nejmoa2601283</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, General &amp; Internal
+Score: 914
+Autoren: Scott B. Vafai, Jörg Täubel, Thomas Ashdown, Riyaz S. Patel, Sadaf Diamondali, Jaimini Cegla, Handrean Soran, Bilal Bashir, Alexander Abitbol, Daniel Gaudet, Alex Lauzière, Liam R. Brunham, David E. Newby, Stephen J. Nicholls, Russell S. Scott, Jane Kerr, Jean-Claude Tardif, Catherine Lunken, Steve E. Humphries, Verena Karsten, Patrick D. Tyler, Xinyan Zhang, Nidal Huniti, Patrick A. Flight, Chelsey L. Jensen, Rick Falzone, Joseph C. Biedenkapp, Troy Lister, Leslie E. Stolz, Amit V. Khera, Sekar Kathiresan
+Journal: New England Journal of Medicine
+Veröffentlicht: 2026-08-13
+DOI: 10.1056/nejmoa2601283
+ISSN: 0028-4793
+Tag der Erhebung (OOIR): 2026-08-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1056/nejmoa2601283-2026-08-20-3</guid>
+			<pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>2024-2025 COVID-19 Vaccine and Major Adverse Cardiovascular Events Among US Veterans</title>
+			<link>https://doi.org/10.1001/jamainternmed.2026.1929</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, General &amp; Internal
+Score: 893
+Autoren: Miao Cai, Yan Xie, Ziyad Al-Aly
+Journal: JAMA Internal Medicine
+Veröffentlicht: 2026-08-01
+Abstract: 
+                    Importance
+                    COVID-19 vaccines were previously shown to reduce risk of major adverse cardiovascular events (MACEs). Whether the 2024-2025 COVID-19 vaccine continues to reduce COVID-19–associated MACEs in the context of evolving variants and widespread population immunity is unknown.
+                  
+                  
+                    Objective
+                    To determine whether the 2024-2025 COVID-19 vaccine is associated with reduced risk of COVID-19–associated MACE.
+                  
+                  
+                    Design, Setting, and Participants
+                    This cohort study was a target-trial emulation using US Department of Veterans Affairs (VA) electronic health records. Participants were veterans with vaccination encounters between September 3, 2024, and December 31, 2024.
+                  
+                  
+                    Exposures
+                    Same-day coadministration of the 2024-2025 COVID-19 and influenza vaccines vs influenza vaccine alone.
+                  
+                  
+                    Main Outcomes and Measures
+                    Composite end point of COVID-19–associated MACE, defined as COVID-19–associated cardiovascular death, myocardial infarction, stroke, or hospitalization for heart failure. Secondary outcomes included all-cause MACE, hospitalization, and death. Vaccine effectiveness (VE), calculated as 1 minus the risk ratio, and risk difference were estimated at 8 months using inverse probability weighting.
+                  
+                  
+                    Results
+                    Among 1 039 659 participants who received influenza vaccine (mean [SD] age, 70.1 [12.4] years; 954 341 [91.8%] men), 349 085 received COVID-19 vaccine and 690 574 did not. At 8 months, the COVID-19 vaccine was associated with lower risk of COVID-19–associated MACE (VE, 37.7% [95% CI, 18.2%-54.9%]; risk difference per 10 000 persons, 2.0 [95% CI, 0.9-3.7]). VE for COVID-19−associated MACE was statistically significant only in individuals older than 75 years (VE, 50.7% [95% CI, 31.8%-65.6%]), a group that also experienced the largest absolute risk reduction (5.5 fewer events per 10 000 individuals). No statistically significant vaccine effectiveness was observed among those younger than 65 years or aged 65 to 75 years. While VE for COVID-19−associated MACE on the relative scale was statistically significant across subgroups of participants with and without comorbid health conditions, the absolute benefit was consistently and substantially greater for individuals with the comorbid health condition. Secondary analyses of all-cause MACE, all-cause hospitalization, and all-cause death suggested substantially larger absolute risk reductions (risk difference for all-cause MACE, 23.7 [95% CI, 14.1 to 34.7]).
+                  
+                  
+                    Conclusions and Relevance
+                    In this cohort study, receipt of the 2024-2025 COVID-19 vaccine was associated with reduced risk of COVID-19–associated MACE, with reductions most prominent in those 75 years or older and those with comorbidities. While the reduction in COVID-19–associated MACE was modest, the substantially larger reduction in all-cause MACE suggests that the vaccine’s protective association extends to the hidden burden of undetected SARS-CoV-2 and its sequelae.
+                  
+DOI: 10.1001/jamainternmed.2026.1929
+ISSN: 2168-6106
+Tag der Erhebung (OOIR): 2026-08-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1001/jamainternmed.2026.1929-2026-08-20-4</guid>
+			<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Dementia Risk After Recombinant Herpes Zoster Vaccination in Older Adults With a Recent Skilled-Nursing Facility Stay</title>
+			<link>https://doi.org/10.7326/annals-25-04689</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medicine, General &amp; Internal
+Score: 696
+Autoren: Kaleen N. Hayes, Daniel A. Harris, Kevin W. McConeghy, Lexie R. Grove, Richa Joshi, Lisa Han, H. Edward Davidson, Preeti Chachlani, Thomas A. Bayer, Mriganka Singh, Yasin Abul, Frank DeVone, Stefan Gravenstein
+Journal: Annals of Internal Medicine
+Veröffentlicht: 2026-07-01
+DOI: 10.7326/annals-25-04689
+ISSN: 0003-4819
+Tag der Erhebung (OOIR): 2026-08-20</description>
+			<guid isPermaLink="false">ooir-trend-10.7326/annals-25-04689-2026-08-20-5</guid>
+			<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

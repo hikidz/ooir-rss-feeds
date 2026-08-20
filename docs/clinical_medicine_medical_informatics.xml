@@ -5,14 +5,107 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 19 Aug 2026 00:50:05 GMT</pubDate>
-		<lastBuildDate>Wed, 19 Aug 2026 00:50:05 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Aug 2026 00:49:00 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Aug 2026 00:49:00 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Medical Informatics) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-medicalinformatics-20260819005005</guid>
-			<pubDate>Wed, 19 Aug 2026 00:50:05 GMT</pubDate>
+			<title>Schizophrenia Impacts and Treatment Priorities: Results of An Externally-Led Patient-Focused Drug Development Meeting Survey</title>
+			<link>https://doi.org/10.1007/s43441-026-01001-2</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 82
+Autoren: Ilse S. Peterson, Ramaa Chitale, Theresa Frangiosa, Holly B. Krasa, Paulie VonEdWærd-Benjamin, Anita Fisher, Jessica T. Markowitz, Arun Nagendra
+Journal: Therapeutic Innovation &amp;amp; Regulatory Science
+Veröffentlicht: 2026-07-23
+Abstract: Abstract
+                  
+                    Objective
+                    Using survey data gathered for an Externally-Led Patient-Focused Drug Development (EL-PFDD) meeting led by the schizophrenia community to inform the US Food and Drug Administration, this publication examines schizophrenia’s impacts on daily life, reasons for discontinuation of medication, and desired outcomes of future medications.
+                  
+                  
+                    Methods
+                    An online, cross-sectional survey about schizophrenia’s impacts on daily life, treatment experiences, and desired outcomes of future medications was developed for adults with schizophrenia and caregivers of adults with schizophrenia who could not complete the survey. Patient advocacy organizations participating in the EL-PFDD meeting recruited respondents via email and social media between August 9, 2022 and September 26, 2022.
+                  
+                  
+                    Results
+                    282 survey responses from 96 people with schizophrenia and 186 caregiver proxies are reflected in this publication. Both respondent groups reported significant impacts of schizophrenia on aspects of daily living spanning work and education, relationships, responsibilities at home, and finances. For people with schizophrenia, the most frequently reported reason for discontinuing medications was weight gain (66% of 83 question respondents); for caregiver proxies, it was “feeling flat” (57% of 165 question respondents). Preventing delusions, preventing hallucinations, and enjoying daily activities received the highest average ratings as desired outcomes of future treatments from people with schizophrenia, whereas preventing delusions and making it easier to maintain relationships had the highest average ratings from caregiver proxies.
+                  
+                  
+                    Conclusions
+                    As exploratory work on community treatment priorities, this research can inform patient-focused drug development endeavors by patients, advocates, industry, and regulators to address unmet needs in schizophrenia moving forward.
+                  
+DOI: 10.1007/s43441-026-01001-2
+ISSN: 2168-4790
+Tag der Erhebung (OOIR): 2026-08-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s43441-026-01001-2-2026-08-20-1</guid>
+			<pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>The credibility paradox: clickbait, engagement, and information quality in YouTube’s medical ecosystem</title>
+			<link>https://doi.org/10.1038/s41746-026-03046-x</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 67
+Autoren: EunKyo Kang, HyeWon Lee, Juyoung Choi, HyoRim Ju
+Journal: npj Digital Medicine
+Veröffentlicht: 2026-07-23
+DOI: 10.1038/s41746-026-03046-x
+ISSN: 2398-6352
+Tag der Erhebung (OOIR): 2026-08-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-03046-x-2026-08-20-2</guid>
+			<pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Generative AI mental health chatbots: a scoping review of intervention design and user experience</title>
+			<link>https://doi.org/10.1038/s41746-026-02972-0</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 32
+Autoren: Lotenna Olisaeloka, Chris G. Richardson, Angel Y. Wang, Richard J. Munthali, Daniel V. Vigo
+Journal: npj Digital Medicine
+Veröffentlicht: 2026-07-23
+DOI: 10.1038/s41746-026-02972-0
+ISSN: 2398-6352
+Tag der Erhebung (OOIR): 2026-08-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02972-0-2026-08-20-3</guid>
+			<pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Universal digital mental health interventions for children and youth a systematic review and meta-analysis</title>
+			<link>https://doi.org/10.1038/s41746-026-03044-z</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 30
+Autoren: Kaitlin Di Pierdomenico, Oana Bucsea, Haleh Hashemi, Arianna Leguia, Anne Lovegrove, Robert Cribbie, Rebecca Pillai Riddell
+Journal: npj Digital Medicine
+Veröffentlicht: 2026-07-27
+DOI: 10.1038/s41746-026-03044-z
+ISSN: 2398-6352
+Tag der Erhebung (OOIR): 2026-08-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-03044-z-2026-08-20-4</guid>
+			<pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Evaluating large language models for assessment of psychosis risk</title>
+			<link>https://doi.org/10.1038/s41746-026-02928-4</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 19
+Autoren: Taiyu Zhu, Alexander Tashevski, Maxime Taquet, Matilda Azis, Tia Jani, Matthew R. Broome, Thomas Kabir, Amedeo Minichino, Graham K. Murray, Matthew M. Nour, Ilina Singh, Paolo Fusar-Poli, Alejo Nevado-Holgado, Philip McGuire, Dominic Oliver
+Journal: npj Digital Medicine
+Veröffentlicht: 2026-07-23
+Abstract: Abstract
+                  
+                    Psychosis prevention relies on early detection of individuals at clinical high risk for psychosis (CHR-P). The effectiveness of the CHR-P state is constrained, in part, due to clinical assessments requiring specialist interpretation of narrative interviews, limiting scalability. Here, we evaluate whether large language models (LLMs; deep learning models trained on large text corpora to process and generate language) can extract clinically meaningful information from such interviews to support psychosis risk assessment. We assessed 11 open-weight LLMs on 678 partial PSYCHS interview transcripts from 373 participants (77.7% CHR-P). Models inferred CHR-P status and estimated severity and frequency across 15 symptom domains, benchmarked against researcher-rated scores. Larger models achieved the strongest classification performance (Llama-3.3-70B: accuracy = 0.80, sensitivity = 0.93, specificity = 0.58). LLM-generated symptom scores showed good correlations with researcher-rated scores (ICC
+                    sev
+                    = 0.74, ICC
+                    freq
+                    = 0.75). Performance disparities were minimal across most demographic groups but varied across sites. Generated summaries were largely faithful to source transcripts, with low rates of clinically relevant confabulation (3%). Errors primarily reflected over-pathologisation of non-clinical experiences. While accuracy scaled with model size, smaller models achieved competitive performance with substantially lower computational cost. These findings demonstrate that open-weight LLMs have the potential to assess psychosis risk from psychometric interview transcripts, supporting scalable, human-in-the-loop approaches to early detection.
+                  
+DOI: 10.1038/s41746-026-02928-4
+ISSN: 2398-6352
+Tag der Erhebung (OOIR): 2026-08-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02928-4-2026-08-20-5</guid>
+			<pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>

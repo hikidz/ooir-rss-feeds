@@ -5,14 +5,125 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Endocrinology &amp; Metabolism) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Wed, 19 Aug 2026 00:50:51 GMT</pubDate>
-		<lastBuildDate>Wed, 19 Aug 2026 00:50:51 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Aug 2026 00:49:49 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Aug 2026 00:49:49 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Endocrinology &amp; Metabolism) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-endocrinologymetabolism-20260819005051</guid>
-			<pubDate>Wed, 19 Aug 2026 00:50:51 GMT</pubDate>
+			<title>Weight-loss-independent actions of GLP-1 medicines</title>
+			<link>https://doi.org/10.1016/j.cmet.2026.07.006</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 189
+Autoren: Maria J. Gonzalez-Rellan, Daniel J. Drucker
+Journal: Cell Metabolism
+Veröffentlicht: 2026-08-01
+DOI: 10.1016/j.cmet.2026.07.006
+ISSN: 1550-4131
+Tag der Erhebung (OOIR): 2026-08-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2026.07.006-2026-08-20-1</guid>
+			<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Distinct brain regions mediate regulation of food intake in response to GIPR agonism or antagonism</title>
+			<link>https://doi.org/10.1038/s42255-026-01575-z</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 138
+Autoren: Jo Edward Lewis, Mireia Montaner, Danae Nuzzaci, Paula-Peace James-Okoro, Norio Harada, Nobuya Inagaki, W. Scott Dodson, Patrick J. Knerr, Jonathan D. Douros, Fiona Mary Gribble, Frank Reimann
+Journal: Nature Metabolism
+Veröffentlicht: 2026-07-24
+Abstract: Abstract
+                  
+                    The development of dual agonists for the glucagon-like peptide-1 receptor (GLP-1R) and glucose-dependent insulinotropic polypeptide receptor (GIPR) has been a landmark moment in the treatment of type 2 diabetes and obesity. However, for reasons that are incompletely understood, in preclinical and clinical studies, adding either a GIPR agonist or GIPR antagonist to GLP-1R agonism causes additional weight loss
+                    1
+                    . Here we show that distinct brain regions mediate the appetite-suppressing effects of GIPR agonists and the synergistic weight loss effects conferred by GIPR antagonists. We knock out
+                    Gipr
+                    in either the area postrema (AP) or hypothalamus of mice (Gipr
+                    AP-KO
+                    and Gipr
+                    hypo-KO
+                    , respectively) and compare body weight and food intake responses to GIPR agonists and antagonists, alone and in combination with the GLP-1R agonist liraglutide. Gipr
+                    AP-KO
+                    mice exhibit partial protection against diet-induced obesity, reduced responsiveness to the appetite-suppressing effects of acyl-GIP and a reduced ability of acyl-GIP to prevent avoidance triggered by peptide YY. Weight loss effects of liraglutide are comparable in Gipr
+                    AP-KO
+                    and control mice, and the co-administration of a GIPR antagonist peptide causes similar additional weight loss in both groups. Gipr
+                    hypo-KO
+                    mice, by contrast, exhibit normal appetite suppression by acyl-GIP but enhanced weight loss on liraglutide compared with control mice. Gipr
+                    hypo-KO
+                    also abolishes the synergistic effect of a GIPR antagonist when combined with liraglutide—an effect that is not mediated by nucleus tractus solitarius preproglucagon neurons. GIPR antagonism and Gipr
+                    hypo-KO
+                    also sensitise to cagrilintide-induced weight loss. Overall, our results suggest that the AP is responsible for the appetite-suppressing effects of GIPR agonism but that GIP receptors in the hypothalamus underlie the ability of GIPR antagonism to enhance the weight loss effects of GLP-1R and amylin receptor agonists.
+                  
+DOI: 10.1038/s42255-026-01575-z
+ISSN: 2522-5812
+Tag der Erhebung (OOIR): 2026-08-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s42255-026-01575-z-2026-08-20-2</guid>
+			<pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Effects of different micro- and nanoplastic polymers on steroidogenesis in a feto-placental in vitro model</title>
+			<link>https://doi.org/10.1016/j.mce.2026.112871</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 135
+Autoren: Jeske van Boxel, Sandra M. Nijmeijer, Peter Cenijn, Manuel T. Heinzelmann, Hanna M. Dusza, Laurens D.B. Mandemaker, Florian Meirer, Marja H. Lamoree, Majorie B.M. van Duursen
+Journal: Molecular and Cellular Endocrinology
+Veröffentlicht: 2026-11-01
+DOI: 10.1016/j.mce.2026.112871
+ISSN: 0303-7207
+Tag der Erhebung (OOIR): 2026-08-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.mce.2026.112871-2026-08-20-3</guid>
+			<pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Endometriosis subtypes and risk of type 2 diabetes: the Advancing Research on Cardiovascular Health and Endometriosis Study (ARCHES) retrospective cohort study</title>
+			<link>https://doi.org/10.1007/s00125-026-06828-w</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 124
+Autoren: Maggie Fuzak Nunziato, Bin Yan, Karen C. Schliep, Leslie V. Farland, Michael W. Varner, Jenna R. Krall, Kathryn Rexrode, Hediyeh Baradaran, Benjamin Brown, Jennifer J. Majersik, Jessica Page, Anna Z. Pollack
+Journal: Diabetologia
+Veröffentlicht: 2026-08-06
+Abstract: Abstract
+                  
+                    Aims/hypothesis
+                    Endometriosis is a heterogeneous inflammatory condition that may influence long-term metabolic health. Prior studies have reported largely null associations with type 2 diabetes, potentially missing subtype-specific and subgroup heterogeneity. We investigated the association between endometriosis, including clinically relevant subtypes, and incident type 2 diabetes, and assessed effect modification by menopausal status, BMI and history of gestational diabetes mellitus.
+                  
+                  
+                    Methods
+                    We assembled a dynamic population-based cohort of 2,939,364 individuals assigned as female at birth from the Utah Population Database (1996–2021). Endometriosis and subtypes were identified using validated ICD-9/10 codes and modelled as time-varying exposures. Incident type 2 diabetes was ascertained using ICD codes. Cox proportional hazards models with calendar time as the time scale were used to estimate HRs and 95% CIs, adjusting for birth year, birth state, race/ethnicity, age and BMI at cohort entry. Stratified analyses evaluated effect modification by menopausal status, BMI and history of gestational diabetes mellitus.
+                  
+                  
+                    Results
+                    
+                      During a mean follow-up duration of 10.8 years, 99,978 women were diagnosed with endometriosis. Endometriosis was associated with a 46% higher risk of type 2 diabetes compared with no endometriosis (aHR 1.46; 95% CI 1.43, 1.50). Risk varied by subtype, with the strongest associations observed for ‘other site’ endometriosis (specified site: aHR 2.67; 95% CI 2.51, 2.84; unspecified site: aHR 2.47; 95% CI 2.35, 2.60). Associations were stronger among premenopausal women than postmenopausal women (aHR 1.55; 95% CI 1.50, 1.60) and those with BMI &amp;lt;30 kg/m
+                      2
+                      than those in higher BMI categories (aHR 2.39; 95% CI 2.34, 2.44), and were present regardless of history of gestational diabetes mellitus.
+                    
+                  
+                  
+                    Conclusions/interpretation
+                    Endometriosis was associated with increased type 2 diabetes risk, with substantial heterogeneity by subtype and metabolic context. Associations were strongest among individuals who are traditionally considered at lower baseline risk, although these findings should be interpreted cautiously given the potential for residual confounding and detection bias.
+                  
+DOI: 10.1007/s00125-026-06828-w
+ISSN: 0012-186X
+Tag der Erhebung (OOIR): 2026-08-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s00125-026-06828-w-2026-08-20-4</guid>
+			<pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>GDF15 suppresses liver inflammation independently of weight loss through neuroendocrine glucocorticoid signaling</title>
+			<link>https://doi.org/10.1016/j.cmet.2026.07.008</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Endocrinology &amp; Metabolism
+Score: 64
+Autoren: Dongdong Wang, Maria Joy Therese Jabile, Fiorella Di Pastena, Logan K. Townsend, Elham Ahmadi, Annabelle Hoegl, Alice Payne, Declan C.T. Lavoie, Battsetseg Batchuluun, Jaya Gautam, Marisa R. Morrow, James S.V. Lally, Rune E. Kuhre, Sebastian B. Jørgensen, Gregory R. Steinberg
+Journal: Cell Metabolism
+Veröffentlicht: 2026-08-01
+DOI: 10.1016/j.cmet.2026.07.008
+ISSN: 1550-4131
+Tag der Erhebung (OOIR): 2026-08-20</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.cmet.2026.07.008-2026-08-20-5</guid>
+			<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
