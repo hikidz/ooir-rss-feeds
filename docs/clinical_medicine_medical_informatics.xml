@@ -5,8 +5,8 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Medical Informatics) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Fri, 21 Aug 2026 00:53:34 GMT</pubDate>
-		<lastBuildDate>Fri, 21 Aug 2026 00:53:34 GMT</lastBuildDate>
+		<pubDate>Sat, 22 Aug 2026 00:49:06 GMT</pubDate>
+		<lastBuildDate>Sat, 22 Aug 2026 00:49:06 GMT</lastBuildDate>
 		<item>
 			<title>Schizophrenia Impacts and Treatment Priorities: Results of An Externally-Led Patient-Focused Drug Development Meeting Survey</title>
 			<link>https://doi.org/10.1007/s43441-026-01001-2</link>
@@ -35,8 +35,8 @@ Abstract: Abstract
                   
 DOI: 10.1007/s43441-026-01001-2
 ISSN: 2168-4790
-Tag der Erhebung (OOIR): 2026-08-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1007/s43441-026-01001-2-2026-08-21-1</guid>
+Tag der Erhebung (OOIR): 2026-08-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1007/s43441-026-01001-2-2026-08-22-1</guid>
 			<pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -50,9 +50,93 @@ Journal: npj Digital Medicine
 Veröffentlicht: 2026-07-23
 DOI: 10.1038/s41746-026-03046-x
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-08-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-03046-x-2026-08-21-2</guid>
+Tag der Erhebung (OOIR): 2026-08-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-03046-x-2026-08-22-2</guid>
 			<pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>An mHealth Intervention Promoting Physical Activity to Reduce Psychological Distress Among Workers: Randomized Controlled Trial</title>
+			<link>https://doi.org/10.2196/96072</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 41
+Autoren: Kazuhiro Watanabe, Akiomi Inoue, Asuka Sakuraya, Kotaro Imamura, Toru Yoshikawa, Akizumi Tsutsumi
+Journal: Journal of Medical Internet Research
+Veröffentlicht: 2026-08-14
+Abstract: Abstract
+                  
+                    Background
+                    Although mobile health (mHealth) interventions serve as potential solutions for addressing mental health problems, evidence on whether mHealth interventions targeting physical activity can reduce psychological distress among generally healthy workers is limited.
+                  
+                  
+                    Objective
+                    This study aimed to investigate the effectiveness of a stand-alone smartphone app, which passively monitors physical activity and psychological distress, in reducing psychological distress among workers.
+                  
+                  
+                    Methods
+                    This open-label, 2-arm, parallel-group randomized clinical trial was conducted in Japan over 6 months, with assessments at baseline, 3 months, and 6 months. Eligible participants were workers aged 18 years or older who were able to complete the Japanese questionnaires and owned compatible smartphones. Individuals currently absent from work or with a history of absence due to sickness within the past 12 months were excluded. Participants were randomized (1:1) to the intervention or control group. Participants in the intervention group used a smartphone app that passively monitored physical activity and mental health for 3 months. The control group received a booklet on job stress. The primary outcome was psychological distress measured using the 6-item Kessler Psychological Distress Scale. Secondary outcomes included self-reported physical activity and digitally recorded activity duration in the intervention group. Analyses followed the intention-to-treat principle. For the main analysis, linear mixed modeling for repeated measures was used to estimate between-group differences in changes in psychological distress across the 3 time points.
+                  
+                  
+                    Results
+                    
+                      A total of 793 workers were randomized (intervention: n=397; control: n=396). Psychological distress decreased significantly in the intervention group at 3 months (mean difference −0.56, 95% CI −1.11 to −0.02;
+                      P
+                      =.04; Cohen
+                      d
+                      −0.17), although this effect was not sustained at 6 months. Self-reported physical activity levels declined in both groups without significant between-group differences. In contrast, in the intervention group, digitally recorded activity increased during the intervention period (7.92 min increase, 95% CI 1.36-14.49;
+                      P
+                      =.02); however, these data were not comparable with those in the control group. Subgroup analysis showed a larger effect among participants with no or minimal baseline distress (mean difference −0.63, 95% CI −1.16 to −0.11;
+                      P
+                      =.02; Cohen
+                      d
+                      −0.19).
+                    
+                  
+                  
+                    Conclusions
+                    The stand-alone smartphone-based app that enables workers to monitor physical activity and psychological distress modestly reduced psychological distress among workers. However, it remains unclear whether the app reduces psychological distress through biological and psychosocial mechanisms, including increased physical activity. Furthermore, the benefit may be short-lived rather than durable and may have limited clinical and practical significance. Although mHealth interventions may contribute to preventing mental health problems in workplace settings, booster engagement strategies are necessary to sustain benefits over time. Subgroup analyses suggested that the app may be more effective among generally healthy populations.
+                  
+DOI: 10.2196/96072
+ISSN: 1438-8871
+Tag der Erhebung (OOIR): 2026-08-22</description>
+			<guid isPermaLink="false">ooir-trend-10.2196/96072-2026-08-22-3</guid>
+			<pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Explainable temporal machine learning of multimorbidity trajectories after acute myocardial infarction: complementing clinical risk scores with mechanistic phenotypes</title>
+			<link>https://doi.org/10.1093/jamia/ocag135</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Medical Informatics
+Score: 35
+Autoren: Anthony Onoja, Kris Elomaa, Anthony D Whetton, Nophar Geifman
+Journal: Journal of the American Medical Informatics Association
+Veröffentlicht: 2026-08-06
+Abstract: Abstract
+                  
+                    Objective
+                    This study aimed to identify trajectories of multimorbidity following acute myocardial infarction (AMI), using explainable temporal machine-learning methods, and assess their clinical, prognostic, and biological significance.
+                  
+                  
+                    Materials and Methods
+                    Dynamic Time Warping k-means clustering was applied to post-AMI diagnostic sequences from 12 701 UK-Biobank participants. Latent Dirichlet Allocation characterised cluster themes. Multiclass classifiers (CatBoost, XGBoost, random forest, logistic regression) trained on pre-AMI diagnoses and demographics predicted trajectory membership, with SHAP interpretability. SMART scores and Cox models evaluated 5-year mortality; Phenotype-Wide Association (PheWAS) and Reactome pathway enrichment were used to identify associated biological mechanisms.
+                  
+                  
+                    Results
+                    Three trajectories of multimorbidity were identified: acute cardiorenal-respiratory with metabolic disease (ACUTE-CARD; 63.4%), cardiometabolic disease with arrhythmic-ischemic burden (CARDIOMIX; 13.5%), and smoking-related multisystem multimorbidity (SMO-CARD; 23.1%). XGBoost achieved the highest discrimination (AUC-ROC 0.906; 95% CI, 0.895-0.916), with CatBoost showing comparable performance (AUC-ROC 0.900; 95% CI, 0.889-0.910). SMO-CARD had the highest 5-year mortality (43.9%). The established SMART cardiovascular risk score remained the dominant predictor of mortality while the identified trajectories provided complementary prognostic signals; these associations were weaker after full adjustment for potential confounders with each profile displaying distinct genetic and pathway signatures.
+                  
+                  
+                    Discussion
+                    The SMART score outperformed in capturing mortality risk, whereas the trajectories complement it by revealing nuanced clustering of risk factors across organ systems and in identifying trajectory-specific intervention priorities.
+                  
+                  
+                    Conclusion
+                    Explainable temporal modeling of EHR data reveals clinically interpretable, biologically grounded multimorbidity trajectories after AMI that complement established risk scores and provide a reproducible approach to mechanistic phenotyping and precision care.
+                  
+DOI: 10.1093/jamia/ocag135
+ISSN: 1067-5027
+Tag der Erhebung (OOIR): 2026-08-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1093/jamia/ocag135-2026-08-22-4</guid>
+			<pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>Generative AI mental health chatbots: a scoping review of intervention design and user experience</title>
@@ -65,39 +149,9 @@ Journal: npj Digital Medicine
 Veröffentlicht: 2026-07-23
 DOI: 10.1038/s41746-026-02972-0
 ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-08-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02972-0-2026-08-21-3</guid>
+Tag der Erhebung (OOIR): 2026-08-22</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-02972-0-2026-08-22-5</guid>
 			<pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Universal digital mental health interventions for children and youth a systematic review and meta-analysis</title>
-			<link>https://doi.org/10.1038/s41746-026-03044-z</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 30
-Autoren: Kaitlin Di Pierdomenico, Oana Bucsea, Haleh Hashemi, Arianna Leguia, Anne Lovegrove, Robert Cribbie, Rebecca Pillai Riddell
-Journal: npj Digital Medicine
-Veröffentlicht: 2026-07-27
-DOI: 10.1038/s41746-026-03044-z
-ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-08-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-03044-z-2026-08-21-4</guid>
-			<pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>A flexible wearable system for integrated sweat stimulation and chloride analysis in cystic fibrosis diagnosis</title>
-			<link>https://doi.org/10.1038/s41746-026-03056-9</link>
-			<description>Feld: Clinical Medicine
-Kategorie: Medical Informatics
-Score: 23
-Autoren: Mingyu Zhou, Da Som Yang, Joohee Kim, Jae-Hwan Kim, Evangelos E. Kanatzidis, Jong Uk Kim, Seyong Oh, Larissa Rugg, Shupeng Li, Seungyeob Kim, Jiheon Kang, Hanbang Hua, Jihun Park, Tonglu Zhou, Chanho Park, Seung Gi Seo, Young Jin Jo, Jihun Cha, Jiwon Kim, Alexander J. Aranyosi, Yonggang Huang, Manu Jain, Roozbeh Ghaffari, Susanna A. McColley, John A. Rogers
-Journal: npj Digital Medicine
-Veröffentlicht: 2026-07-28
-DOI: 10.1038/s41746-026-03056-9
-ISSN: 2398-6352
-Tag der Erhebung (OOIR): 2026-08-21</description>
-			<guid isPermaLink="false">ooir-trend-10.1038/s41746-026-03056-9-2026-08-21-5</guid>
-			<pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
