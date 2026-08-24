@@ -5,14 +5,104 @@
 		<description>Aktuelle Paper-Trends im Bereich Clinical Medicine (Rheumatology) von OOIR (mit Titel und Metadaten von Crossref)</description>
 		<link>https://ooir.org</link>
 		<language>en-us</language>
-		<pubDate>Sun, 23 Aug 2026 00:56:31 GMT</pubDate>
-		<lastBuildDate>Sun, 23 Aug 2026 00:56:31 GMT</lastBuildDate>
+		<pubDate>Mon, 24 Aug 2026 00:53:17 GMT</pubDate>
+		<lastBuildDate>Mon, 24 Aug 2026 00:53:17 GMT</lastBuildDate>
 		<item>
-			<title>⚠️ Keine Trends für Clinical Medicine (Rheumatology) verfügbar</title>
-			<description>Die OOIR-API lieferte keine Trend-Daten für diese Kategorie an diesem Tag.</description>
-			<link>https://ooir.org</link>
-			<guid>ooir-no-trends-clinicalmedicine-rheumatology-20260823005631</guid>
-			<pubDate>Sun, 23 Aug 2026 00:56:31 GMT</pubDate>
+			<title>Effects of air pollution on disease activity in patients with rheumatoid arthritis</title>
+			<link>https://doi.org/10.1016/j.ard.2026.06.018</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 86
+Autoren: Sung Cheol Jung, Jeffrey R Curtis, Seojin Yang, Yunhee Choi, Min Hyuk Lim, Saram Lee, Sung Ik Cho, Jin Kyun Park, Jun Won Park, Eun Bong Lee
+Journal: Annals of the Rheumatic Diseases
+Veröffentlicht: 2026-08-01
+DOI: 10.1016/j.ard.2026.06.018
+ISSN: 0003-4967
+Tag der Erhebung (OOIR): 2026-08-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2026.06.018-2026-08-24-1</guid>
+			<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Navigating evidence-based recommendations for the management of systemic sclerosis</title>
+			<link>https://doi.org/10.1038/s41584-026-01416-z</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 43
+Autoren: Francesco Del Galdo, Yannick Allanore, Oliver Distler, Anna Maria Hoffmann-Vold, Sindhu Johnson, Dinesh Khanna, Voon H. Ong, Elisabetta A. Renzoni, Elizabeth R. Volkmann, Christopher P. Denton
+Journal: Nature Reviews Rheumatology
+Veröffentlicht: 2026-08-04
+DOI: 10.1038/s41584-026-01416-z
+ISSN: 1759-4790
+Tag der Erhebung (OOIR): 2026-08-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1038/s41584-026-01416-z-2026-08-24-2</guid>
+			<pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Long‐Term Lignan Intake, Whole Grain Foods, and the Risk of Gout: Results From Two Prospective Cohort Studies</title>
+			<link>https://doi.org/10.1002/acr.25596</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 38
+Autoren: Sharan K. Rai, Yang Hu, Ming Ding, Frank B. Hu, Molin Wang, Jorge E. Chavarro, Natalie McCormick, Hyon K. Choi, Qi Sun
+Journal: Arthritis Care &amp;amp; Research
+Veröffentlicht: 2026-08-10
+Abstract: 
+                    Objective
+                    Multiple plant‐based dietary patterns are inversely associated with gout, although the individual constituents driving this association remain unclear. Dietary lignans, a major group of phytoestrogens abundant in plant foods, are metabolized by the gut microflora and may modulate gout risk. We examined the associations between dietary lignan intake, certain whole grain foods rich in lignans, and incident gout.
+                  
+                  
+                    Methods
+                    We analyzed data from 122,680 individuals in the Health Professionals Follow‐up Study and Nurses’ Health Study. We administered a food frequency questionnaire every two to four years. We used Cox models to evaluate associations between dietary lignans, whole grain foods, and confirmed gout.
+                  
+                  
+                    Results
+                    
+                      Higher intakes of matairesinol (hazard ratio [HR] comparing extreme quintiles, 0.78; 95% confidence interval [CI], 0.69–0.90;
+                      P
+                      trend = 0.002) and secoisolariciresinol (HR, 0.78; 95% CI, 0.68–0.89;
+                      P
+                      trend = 0.002) were both associated with lower gout risk, whereas pinoresinol and lariciresinol were not associated with gout. We found inverse associations of whole grain cold breakfast cereals (HR for those consuming ≥1 serving per day, 0.62; 95% CI, 0.53–0.73), cooked oatmeal/oat bran (HR for those consuming ≥2 servings per week, 0.78; 95% CI, 0.70–0.86), and bran added to food (HR for those consuming ≥2 servings per week, 0.84; 95% CI, 0.74–0.95), but not dark breads or other cooked breakfast cereals, with gout.
+                    
+                  
+                  
+                    Conclusion
+                    Higher intakes of matairesinol and secoisolariciresinol, as well as whole grain cold breakfast cereals, oatmeal, and added bran, were each significantly associated with lower gout risk. These findings support adherence to healthful plant‐based diets for gout and support a potential role of the gut microbiome in gout pathogenesis.
+                  
+DOI: 10.1002/acr.25596
+ISSN: 2151-464X
+Tag der Erhebung (OOIR): 2026-08-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1002/acr.25596-2026-08-24-3</guid>
+			<pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Impact of BMI on response to Janus kinase inhibitors in rheumatoid arthritis: an individual patient data meta-analysis of randomised controlled trials</title>
+			<link>https://doi.org/10.1016/s2665-9913(26)00151-7</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 36
+Autoren: Katie Bechman, Mark D Russell, Kathryn Biddle, Mark Gibson, Jeremy Brown, Andrew I Rutherford, Elena Nikiphorou, Esperanza Perucha, Andrew P Cope, Sam Norton, James Galloway
+Journal: The Lancet Rheumatology
+Veröffentlicht: 2026-09-01
+DOI: 10.1016/s2665-9913(26)00151-7
+ISSN: 2665-9913
+Tag der Erhebung (OOIR): 2026-08-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/s2665-9913(26)00151-7-2026-08-24-4</guid>
+			<pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Shared genetic architecture and therapeutic targets across paediatric immune-mediated diseases</title>
+			<link>https://doi.org/10.1016/j.ard.2026.07.007</link>
+			<description>Feld: Clinical Medicine
+Kategorie: Rheumatology
+Score: 34
+Autoren: Jin Li, Hui-Qi Qu, Michael E. March, Joseph T. Glessner, Yuqiao Fu, Jiayue Chen, Yang Xu, Hao Chen, Yun R. Li, Qianghua Xia, Frank D. Mentch, Leila Youssefian, Hassan Vahidnezhad, Amir H. Saeidian, Xiao Chang, Wei Liu, Wei Wei, Hakon Hakonarson
+Journal: Annals of the Rheumatic Diseases
+Veröffentlicht: 2026-08-01
+DOI: 10.1016/j.ard.2026.07.007
+ISSN: 0003-4967
+Tag der Erhebung (OOIR): 2026-08-24</description>
+			<guid isPermaLink="false">ooir-trend-10.1016/j.ard.2026.07.007-2026-08-24-5</guid>
+			<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
